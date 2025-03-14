@@ -1,6 +1,6 @@
 # Hugo configuration file
 title: AIT Wiki
-baseURL: https://pavatus.github.io/ait-wiki/
+baseURL: https://amblelabs.github.io/ait-wiki/
 
 # import hextra as module
 module:
@@ -34,7 +34,7 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/Loqor/ait"
+      url: "https://github.com/amblelabs/ait"
       params:
         icon: github
 
@@ -55,14 +55,14 @@ params:
 
   editURL:
     enable: true
-    base: "https://pavatus.github.io/ait-wiki/edit/main/content"
+    base: "https://amblelabs.github.io/ait-wiki/edit/main/content"
 
   comments:
     enable: true
     type: giscus
 
     giscus:
-      repo: pavatus/ait-wiki
+      repo: amblelabs/ait-wiki
       repoId: R_kgDOML5FAA
       category: General
       categoryId: DIC_kwDOML5FAM4CgOE1

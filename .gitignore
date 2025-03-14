@@ -6,3 +6,5 @@ resources/
 # Editor
 #.vscode/
 .direnv
+
+.idea/
