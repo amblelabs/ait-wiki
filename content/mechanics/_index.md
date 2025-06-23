@@ -1,0 +1,4 @@
+
+Here are some essential blocks for the TARDIS that you'll need: {{< cards >}} {{< card link="console" title="Console" image="images/console.png" subtitle="The TARDIS Console is the central control unit of the TARDIS." >}} {{< card link="engine" title="Engine" image="images/engine_stuff_blocks/engine.png" subtitle="The Engine is what powers the TARDIS, connect up different components to make it function." >}} {{< card link="door" title="Interior Door" image="images/interior_door/policebox_interior_door.png" subtitle="How else would you be able to get out your TARDIS?" >}} {{< /cards >}}
+
+These are some essential mechanics you will see and use across the Overworld, The Nether and The End using Adventures in Time!: {{< cards >}} {{< card link="artron" title="Artron" image="images/rift_entity.png" subtitle="The Rift is your key to getting started with Adventures in time!" >}} {{< /cards >}}
