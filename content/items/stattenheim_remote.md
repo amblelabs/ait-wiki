@@ -20,6 +20,7 @@ The Stattenheim Remote is similar to `TARDIS` mode on the Sonic Screwdriver, but
 
 - As of 1.2.5.2812 the Stattenheim remote now has durability, remember to keep an eye on it when using the remote in your world.
 
+
 ## Crafting Recipe
 
 ![statt remote Recipe](images/statt_recipe.png)
