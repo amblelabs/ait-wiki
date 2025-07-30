@@ -11,4 +11,4 @@ Step 3. Leave your TARDIS or continue expanding your interior until the green ba
 Step 4. Take off and explore the universe!<br>
 
 
-<br>**NOTE: REFUELING WILL WORK IF THE TARDIS POWER IS OFF**
+<br>**NOTE: REFUELING WILL WORK EVEN IF THE TARDIS POWER IS OFF**
