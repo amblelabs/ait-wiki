@@ -89,3 +89,8 @@ type: docs
 ## Turns out I actually suck at flying the TARDIS even WITH the warnings, what do I do?
 
 * Auto pilot is something you can use to turn off flight events, however it caps your speed low and you won't be able to gain loyalty.
+
+
+## My controls are smoking and dont work
+
+Look at [control durability](https://amblelabs.github.io/ait-wiki/mechanics/tardis/control_durability/) This will tell you how to fix the damaged controls and what each stage does!
