@@ -10,7 +10,7 @@ Step 3. Leave your TARDIS or continue expanding your interior until the green ba
 Step 4. Take off and explore the universe!<br>
 
 <br>**Particles emanating from the console indicate it is refueling. If the particles are white smoke, this indicates you are not in a rift chunk.**
-<br>If instead white sparks are emenating from it, this indicates the TARDIS is in a Rift Chunk, which makes refueling take less time.
+<br>If instead white sparks are emanating from it, this indicates the TARDIS is in a Rift Chunk, which makes refueling take less time.
 <br>The TARDIS will alert you when it is inside a ***rift chunk***
 
 <br>**NOTE: REFUELING WILL WORK EVEN IF THE TARDIS POWER IS OFF**
