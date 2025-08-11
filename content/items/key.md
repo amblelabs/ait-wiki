@@ -8,10 +8,10 @@ params:
 
 ## What keys are there?
 
-* Classic
-* Netherrite
-* Gold
 * Iron
+* Gold
+* Netherrite
+* Classic
 
 ![The keys](images/keys/key/keys.png)
 
@@ -21,17 +21,17 @@ Evrything after iron unlocks snapping if you have enough loyalty for it,each ran
 
 ## How do i get the keys?
 
-* Classic key
-![Recpie1](images/keys/recpie/classic%20key.png)
+* Iron key
+![Recpie6](images/keys/recpie/iron%20key.png)
 
 * Gold key 
 ![Recpie5](images/keys/recpie/gold%20key.png)
 
-* Iron key
-![Recpie6](images/keys/recpie/iron%20key.png)
-
 * Netherrite key
 ![Recpie7](images/keys/recpie/netherrite%20key.png)
+
+* Classic key
+![Recpie1](images/keys/recpie/classic%20key.png)
 
 ## How do I get those awesome key trims?
 
