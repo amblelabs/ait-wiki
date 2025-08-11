@@ -6,9 +6,9 @@ params:
       - blocks/images/flag.png
 ---
 
-![Flag](images/flag.png)
+![Image of the Flag](./images/flag.png)
 
-Make your mark on any planet you make come across with this decoration flag block! (AMERICA RAHHHHHHHHHH)
+Make your mark on any planet you may come across, with this decorative flag block! ('MERICA RAHHHHHHHHHH)
 
 ## Recipe
-![flag](images/flag_recipe.png)
+![Image of the recipe](./images/flag_recipe.png)

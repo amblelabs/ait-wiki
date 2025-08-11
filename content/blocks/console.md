@@ -6,78 +6,79 @@ params:
       - blocks/images/console.png
 ---
 
-![Image of Console Generator](images/console.png)
+![Image of the Console](./images/console.png)
 
 The TARDIS console is the main control unit of the TARDIS, which can be interacted with by a player or another entity. The TARDIS should always be piloted by 6 fully trained TARDIS pilots as to allow for a smooth journey. You might notice that it emits a nice ambience, don’t let that distract you though.
 
-Out-of-universe, the console is a collection of **Control Entities** which are located around the console block that do different functions.
+Out-of-universe, the console is a collection of **Control Entities** which are located around the console block that run different functions.
 
-## How do I create / get a console?
-![Image of Console Generator](images/console/generator.png)
+## How Do I Create / Get a Console?
+![Image of the Console Generator](./images/console/generator.png)
 
-To create a console, once you have a fully grown TARDIS there will be a Soul Sand block where the console should be. Place a Coral Growth on that Soul Sand Block and make sure to light up the area, after a while a console will grow. 
+You could build a Console Generator directly via its recipe, but there is an alternative method:
+<br>Once you have a fully grown TARDIS there will be a Soul Sand block where the console should be. Place a Coral Growth on that Soul Sand Block and make sure to light up the area. After a while a console will grow.
 
-A Console Generator is not needed when first getting the console but you can still craft it. You are provided with one Console Generator when you configure the console. Although it can be used if you want multiple consoles. 
+You are provided with one Console Generator when you cache the console. But you can build more Console Generators to place multiple consoles in your TARDIS. 
 
 Here is the crafting recipe for a Console Generator:
 
-![Capaldi Sonic Screwdriver](images/console/generator-recipe.png)
+![Image of the recipe](./images/console/generator-recipe.png)
 
-Place the Console Generator in the TARDIS interior to select any of the unlocked consoles that exist. (alternatively, you can use the "Cache Console" button in the tardis monitor)
+Place the Console Generator into the TARDIS interior, and you will be able to select any of the unlocked consoles. (Or use the "Cache Console" option in the monitor of an existing console.)
 
 To use the Console Generator, follow this easy guide:
-1. Right-click on the Console Generator to change the **type** of console.
-2. Right-click *while crouching* on the Console Generator to change the **variant**.
-3. Confirm the console by using [**Sonic Screwdriver**](../../items/sonic) or blaze powder.
+1. Right-click or Left-click on the Console Generator to browse through the **types** of consoles.
+2. Right-click or Left-click on the Console Generator *while crouching* to browse through the **variants** of the current type.
+3. Confirm the console by using a [**Sonic Screwdriver**](../../items/sonic) or blaze powder on it.
 
 
-![Default Console](images/hologram.png)
+![Image of the Default Console](./images/hologram.png)
 
-## How do I use a TARDIS Console?
-If you're having a hard time finding the controls, you can use the [**Scanning Mode**](../../items/sonic#scanning-mode) of a [**Sonic Screwdriver**](../../items/sonic). Alternatively, you're able to turn on debugging mode for viewing entity **hitboxes**, using F3+B which will toggle the debug **hitbox** mode.
+## How Do I Use a TARDIS Console?
+If you're having a hard time finding the controls, you can use the [**Scanning Mode**](../items/sonic#scanning-mode) of a [**Sonic Screwdriver**](../items/sonic). Alternatively, you can turn on debugging mode for viewing entity **hitboxes** by using F3+B (pressing again will turn them off).
 
-Right or left click on any of the controls to activate them. Certain controls - like the **throttle** - need you to crouch to increment them fully up or fully down but will do normal increments while freestanding.
+Right or left click on any of the controls to activate them. Certain controls - like the **throttle** - need you to crouch to increment (or decrement) them fully up or down but will do normal increments when freestanding.
 
-The **Increment Control** is a special control, however; it goes from 1-10-100-1000, and you can also left-click to decrease down instead of increasing up the scale.
+The **Increment Control** is a special control, however; it cycles through 1-10-100-1000-10000; left-click cycles counter-clockwise and right-click cycles clockwise.
 
-The **Coordinate System** (X, Y and Z) require you to right-click to decrease the increment from the current position and require you to left-click to increase the increment from the current position. 
+The **Coordinate System** (X, Y and Z) requires you to right-click to decrease the respective axis coordinate by the chosen increment and left-click to increase by the increment. 
 
-The **Dimension Control** will change the destination dimension. Right-click the control to change the dimension.
+The **Dimension Control** will change the destination dimension. Left-click or right-click to cycle through the dimensions in either direction.
 
-The **Exterior Facing Control** will change which direction your exterior faces next time you land. This ranges from North, East, South and West. Right-click the control to change the facing clockwise. Four intercardinal directions are also available (North East, South East, South West and North West)
+The **Direction Control** will change which direction your exterior faces the next time you land. Available directions are North, East, South, West, as well as NE, SE, SW and NW. Right-click the control to change the facing clockwise, left-click for counter-clockwise.
 
-The **Fast Return Control** will set the destination coordinates to the last location the TARDIS landed. Right-click the Fast Return control to activate fast return, click it again to set the destination to your current location.
+The **Fast Return Control** will set the destination coordinates to the last location the TARDIS landed at. Right-click the Fast Return control to activate fast return, click it again to set the destination back to your current location.
 
-The [**Protocol Controls**](../../mechanics/tardis/protocols ) are explained in this webpage.
+The [**Protocol Controls**](../mechanics/tardis/protocols) are explained in this webpage.
 
-The **Anti-Gravity Control** will make the TARDIS exterior immune to falling, but uses [**Artron Energy**](../../mechanics/artron) while activated.
+The **Antigravs Control** will make the TARDIS' exterior hover in place by preventing it from falling, but uses [**Artron Energy**](../mechanics/artron) while active.
 
-The [**Waypoint Controls**](../../items/cartridge) are better explained in this webpage.
+The [**Waypoint Controls**](../items/cartridge) are better explained in this webpage.
 
-The **Power Control** switches the TARDIS engines off and turns the power off, rendering most of the console non-functional. If activated while other controls are activated it will disable those controls.
+The **Power Control** toggles the TARDIS' power and engines. While off, it renders most of the console non-functional. Any controls that were active will be disabled when the power is off (except for the Handbrake and Refueler control).
 
-The **Alarm Control** switches the TARDIS alarms to active / inactive.
+The **Alarm Control** toggles the TARDIS alarms between active and inactive.
 
-The **Door Control** opens the TARDIS exterior doors when right-clicked.
+The **Door Control** cycles the TARDIS' exterior doors open/close state when right- or left-clicked. (Some doors have multiple open states.)
 
-The **Door Lock** locks the TARDIS exterior doors, rendering them inoperable until unlocked either using a TARDIS key,  using the door lock control once again or (if the power is off) using an axe on the exterior doors.
+The **Door Lock** locks the TARDIS' exterior doors, rendering them inoperable until they are unlocked again via a linked TARDIS Key or by using the Door Lock control once again. If the power is off, then by using an axe on the exterior doors they can be broken open.
 
-The [**Monitor Control**](../monitor) is explained more in this webpage.
+The [**Monitor Control**](./monitor) is explained more in this webpage.
 
-The **Refuel Control** requires the handbrake to be engaged. The refuel control will take in [**Artron Energy**](../../mechanics/artron) slowly when not in a [**Rift Chunk**](../../mechanics/rift-chunks), if it is in a rift chunk then it increases refuel speed.
+The **Refuel Control** requires the Handbrake to be engaged. It will then slowly take in [**Artron Energy**](../mechanics/artron) over time. Being inside a [**Rift Chunk**](../mechanics/rift-chunks) will significantly increase refueling speed.
 
-The **Land Type Control** sets the TARDIS to try and land on the **surface** while enabled or land at the specific **destination coordinates** while disabled.
+The **Land Type Control** forces the TARDIS to look for a **surface** to land on. Left-clicking controls whether it searches in the horizontal direction, while right-clicking cycles through various vertical land types. If both are disabled, then the TARDIS will land at the exact **destination coordinates** as entered.
 
-The **Randomiser Control** does exactly what is says on the tin. This control randomises the destination coordinates depending on how high the **increment control** is set.
+The **Randomiser Control** does exactly what is says on the tin. It randomises the destination coordinates depending on how high the **Increment Control** is set.
 
-The **Shield Control** has 2 functional modes, being visible shields and invisible shields, find more information in the [mechanics section](../../mechanics/tardis/shields).
+The **Shields Control** has 2 functional modes, the first being invisible shields and the second visible shields. Find more information in the [Mechanics](../mechanics/tardis/shields) section.
 
-The **Telepathic circuits** have 3 functions:
+The **Telepathic Circuit** has 3 functions:
 1) Locating the closest structure
-2) If you have a nether star and right-click the telepathic circuits it will initiate the self-destruct of your TARDIS. 
-3) (If in siege mode) using the brick item, observer block, and quartz block it will change how the siege exterior looks
+2) If you have a nether star and right-click the telepathic circuits with it in hand, it will initiate the self-destruct of your TARDIS.
+3) Using the brick item, observer block or quartz block on it will change how the Siege exterior will look. Using stone block will restore the default look.
 
 
 {{< callout type="info" >}}
-  Controls can be hit by mobs, explosions and projectiles, The console can also emit redstone.
+  Controls can be hit by mobs, explosions and projectiles. The console also emits a redstone signal if powered is on.
 {{< /callout >}}

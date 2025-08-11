@@ -1,32 +1,34 @@
 ---
-title: TARDIS Interior Detector
+title: Interior Detector
 type: docs
 params:
     images:
         - blocks/images/detector_block.png
 ---
 
-![The Interior Detector](images/detector_block.png)
+![Image of the Interior Detector Block](./images/detector_block.png)
 
 An Interior Detector is used for emitting redstone signals based on different states of the TARDIS.
 
 ## How Do I Craft the Interior Detector?
 
-![The Detector Block Recipe](images/detector/recipe.png)
+![Image of the recipe](./images/detector/recipe.png)
 
 ## How Do I use the Interior Detector?
 
 The Interior Detector has 7 modes:
-- **Orange** (TARDIS Power is on or not)
+- **Orange** (TARDIS is powered on or not)
 - **Green** (TARDIS is crashed or not)
 - **Gray** (TARDIS is locked or not)
-- **White** (If The TARDIS Doors are open)
-- **Blue** (If theres a sonic screwdriver inserted in the Sonic Port)
-- **Red** (If The TARDIS alarm is activated)
-- **Purple** (If The TARDIS is in flight)
+- **White** (The TARDIS doors are open or not)
+- **Blue** (A Sonic Screwdriver is inserted in the Sonic Port of the Console or not)
+- **Red** (The Alarms are active or not)
+- **Purple** (The TARDIS is in flight or not)
 
-**The Interior Detector** has 2 lights. One on the top and one on the bottom, the light on the top indicates the mode its been set to while the light on the bottom indicates if this condtion has been met.
+Right-clicking on the block will cycle through the modes.
 
-Right clicking on the block will make it change modes, and when the conditions of the mode has been met then it can emit a redstone signal.
+The **Interior Detector Block** has 2 lights. One on the top and one on the bottom.
+<br>The one on the top indicates the mode it's been set to, while the one on the bottom indicates if the mode's condition has been met.
+<br>In the latter case it will also emit a redstone signal.
 
-You can place the detector on every face of a block, so use it to your hearts content.
+You can place the detector on every face of a block, so use it to your heart's content.

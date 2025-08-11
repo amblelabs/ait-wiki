@@ -7,10 +7,10 @@ params:
 ---
 
 
-![Painting](images/gallifrey_falls.png)
+![Image of the Gallifrey Falls painting](./images/gallifrey_falls.png)
 It's Gallifrey Falls!
-Inspired by the artwork seen in ***Day of The Doctor***
+Inspired by the artwork seen in ***Day of The Doctor***.
 
 ## Crafting Recipe?
 
-![Painting](images/falls_recipe.png)
+![Image of the recipe](./images/falls_recipe.png)
