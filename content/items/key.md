@@ -22,24 +22,24 @@ Evrything after iron unlocks snapping if you have enough loyalty for it,each ran
 ## How do i get the keys?
 
 * Classic key
-![Recpie1](images/keys/recpie/1.png)
+![Recpie1](images/keys/recpie/classic%20key.png)
 
 * Gold key 
-![Recpie5](images/keys/recpie/5.png)
+![Recpie5](images/keys/recpie/gold%20key.png)
 
 * Iron key
-![Recpie6](images/keys/recpie/6.png)
+![Recpie6](images/keys/recpie/iron%20key.png)
 
 * Netherrite key
-![Recpie7](images/keys/recpie/7.png)
+![Recpie7](images/keys/recpie/netherrite%20key.png)
 
 ## How do I get those awesome key trims?
 
 * Iron trim
-![Recpie2](images/keys/recpie/2.png)
-
-* Netherrite trim
-![Recpie3](images/keys/recpie/3.png)
+![Recpie2](images/keys/recpie/iron%20trim.png)
 
 * Gold trim
-![Recpie4](images/keys/recpie/4.png)
+![Recpie4](images/keys/recpie/gold%20trim.png)
+
+* Netherrite trim
+![Recpie3](images/keys/recpie/netherrite%20trim.png)
