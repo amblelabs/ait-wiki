@@ -56,11 +56,6 @@
         {{- $height = $processed.Height -}}
         {{- $image = $processed.RelPermalink -}}
         {{- end -}}
-    {{ else }}
-        {{/* Otherwise, use relative link of the image */}}
-        {{- if hasPrefix $image "/" -}}
-        {{- $image = strings.TrimPrefix "/" $image -}}
-        {{- end -}}
     {{- end -}}
     {{- end -}}
 
