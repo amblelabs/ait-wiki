@@ -16,33 +16,27 @@ content:
     fields:
       - { name: title, label: Title, type: string, required: true }
       - { name: description, label: Description, type: string }
-      - name: related_products
-        label: Related wiki
-        type: reference
-        options:
-          collection: wiki
-          multiple: true
-          search: "title"
-          value: "{id}"
-          label: "{value} {id} {title}"
-          image: "{featured_image}"
       - name: next
         type: string
       - name: prev
         type: string
-      - name: sidebar
-        type: object
-        fields:
-          - name: open
-            type: boolean
-          - name: exclude
-            type: boolean
       - name: blocks
         component: any-block
       - name: body
         label: Plain Body
         description: Do NOT use. This exists only for the sole purpose of editing old (pre-CMS) wiki content.
         type: rich-text
+      - name: sidebar
+        label: Sidebar Options
+        type: object
+        fields:
+          - name: open
+            label: Is open by default?
+            description: Only available for index pages!
+            type: boolean
+          - name: exclude
+            label: Should be excluded from the sidebar?
+            type: boolean
 components:
   any-block:
     label: Body
