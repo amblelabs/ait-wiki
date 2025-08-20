@@ -49,7 +49,7 @@ blocks:
       You can learn about the AIT mod in these tabs below:
   - _type: text
     alt: "HACK: Open card group"
-    value: "{{< cards >}}"
+    value: "{{< cards >}"
   - _type: card
     title: Blocks
     subtitle: Information on about blocks that you can find in Adventures In Time!
@@ -60,7 +60,7 @@ blocks:
       alt: AIT Blocks Promo Image
   - _type: text
     alt: "HACK: Close card group"
-    value: "{{< /cards >}}"
+    value: "{{< /cards >}"
 ---
 {{< cards >}}
 
