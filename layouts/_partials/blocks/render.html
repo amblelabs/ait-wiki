@@ -26,58 +26,11 @@
 
     <div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: {{ $cols }};">
         {{ range .block.value }}
-            {{ partial "blocks/render.html" (dict "block" . "context" $) }}
+            {{ partial "blocks/card.html" (dict "block" . "context" $) }}
         {{ end }}
     </div>
-{{ else if eq .block._type "begin-cards" }}
-    {{- $cols := .block.cols | default 3 -}}
-    <div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: {{ $cols }};">
-{{ else if eq .block._type "end-cards" }}
-    </div>
 {{ else if eq .block._type "card" }}
-    {{- $link := .block.link -}}
-    {{- $title := .block.title -}}
-    {{- $icon := .block.icon -}}
-    {{- $subtitle := .block.subtitle -}}
-    {{- $image := .block.image.src -}}
-    {{- $width := 0 -}}
-    {{- $height := 0 -}}
-    {{- $imageStyle := .block.imageStyle -}}
-    {{- $tag := .block.tag -}}
-    {{- $tagType := .block.tagType -}}
-
-    {{/* Image processing options */}}
-    {{- $method := .block.method | default "Resize" | humanize -}}
-    {{- $options := .block.options | default "800x webp q80" -}}
-    {{- $process := .block.process | default (printf "%s %s" $method $options) -}}
-
-    {{- if and $image (not (urls.Parse $image).Scheme) -}}
-    {{- with or (.Page.Resources.Get $image) (resources.Get $image) -}}
-        {{/* .Process does not work on svgs */}}
-        {{- if (not (eq .MediaType.SubType "svg")) -}}
-        {{/* Retrieve the $image resource from local or global resources */}}
-        {{- $processed := .Process $process -}}
-        {{- $width = $processed.Width -}}
-        {{- $height = $processed.Height -}}
-        {{- $image = $processed.RelPermalink -}}
-        {{- end -}}
-    {{- end -}}
-    {{- end -}}
-
-    {{- partial "shortcodes/card" (dict
-        "page"        .Page
-        "link"        $link
-        "title"       $title
-        "icon"        $icon
-        "subtitle"    $subtitle
-        "image"       $image
-        "width"       $width
-        "height"      $height
-        "imageStyle"  $imageStyle
-        "tag"         $tag
-        "tagType"     $tagType
-        )
-    -}}
+    {{ partial "blocks/card.html" (dict "block" . "context" $) }}
 {{ else if eq .block._type "steps" }}
     <div class="hextra-steps hx:ml-4 hx:mb-12 hx:ltr:border-l hx:rtl:border-r hx:border-gray-200 hx:ltr:pl-6 hx:rtl:pr-6 hx:dark:border-neutral-800 [counter-reset:step]">
         {{ .block.value | markdownify }} 

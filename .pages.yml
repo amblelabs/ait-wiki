@@ -40,15 +40,12 @@ components:
       - name: callout
         label: Add Callout
         component: callout
-      - name: begin-cards
-        label: Begin Card Group
-        component: begin-cards
       - name: card
         label: Add Card
         component: card
-      - name: end-cards
-        label: End Card Group
-        component: end-cards
+      - name: cards
+        label: Add Card Group
+        component: cards
       - name: steps
         label: Add Steps
         component: steps
@@ -114,15 +111,11 @@ components:
         type: rich-text
   cards:
     label: Cards
-    component: card
-    list: true
-  begin-cards:
-    label: Begin Card Group
     type: object
     fields:
       - name: alt
         type: string
-        default: Begin Card Group
+        default: Card Group
         hidden: true
       - name: cols
         type: number
@@ -131,15 +124,8 @@ components:
         options:
           min: 1
       - name: value
-        component: cards
-  end-cards:
-    label: End Card Group
-    type: object
-    fields:
-      - name: alt
-        type: string
-        default: End Card Group
-        hidden: true
+        component: card
+        list: true
   card:
     label: Card
     type: object
