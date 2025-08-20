@@ -1,0 +1,62 @@
+{{- $page := .context -}}
+{{- $type := .type | default "content" -}}
+
+{{- $s := newScratch -}}
+{{- $s.Set "keys" slice -}}
+{{- $s.Set "titles" slice -}}
+
+{{- partial "utils/extract-headings.html" (dict "target" $page.Fragments "scratch" $s) -}}
+
+{{- $headingKeys := $s.Get "keys" -}}
+{{- $headingTitles := $s.Get "titles" -}}
+
+{{- $content := "" -}}
+
+{{- if $page.Params.blocks -}}
+  {{- /* CMS content: render blocks to plain text */ -}}
+  {{- range $page.Params.blocks -}}
+    {{- if eq .type "text" -}}
+      {{- $content = printf "%s %s" $content (.value | markdownify | plainify) -}}
+    {{- end -}}
+  {{- end -}}
+{{- else -}}
+  {{- /* Regular Hugo content */ -}}
+  {{- $content = $page.Content | htmlUnescape -}}
+{{- end -}}
+
+{{- $len := len $headingKeys -}}
+{{- $data := dict -}}
+
+{{ if eq $type "content" }}
+  {{ if eq $len 0 }}
+    {{ $data = $data | merge (dict "" ($content | plainify | htmlUnescape | strings.TrimSpace)) }}
+  {{ else }}
+    {{ range seq $len }}
+      {{ $i := sub $len . }}
+      {{ $headingKey := index $headingKeys $i }}
+      {{ $headingTitle := index $headingTitles $i }}
+
+      {{ if eq $i 0 }}
+        {{ $data = $data | merge (dict $headingKey ($content | plainify | htmlUnescape | strings.TrimSpace)) }}
+      {{ else }}
+        {{ $parts := split $content (printf "%s" $headingTitle) }}
+        {{ $lastPart := index $parts (sub (len $parts) 1) }}
+
+        {{ $data = $data | merge (dict $headingKey ($lastPart | plainify | htmlUnescape | strings.TrimSpace)) }}
+        {{ $content = strings.TrimSuffix $lastPart $content }}
+        {{ $content = strings.TrimSuffix (printf "%s" $headingTitle) $content }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ else if eq $type "heading" }}
+  {{ $data = dict "" "" }}
+  {{ range $headingKeys }}
+    {{ $data = $data | merge (dict . "") }}
+  {{ end }}
+{{ else if eq $type "title" }}
+  {{ $data = $data | merge (dict "" "") }}
+{{ else if eq $type "summary" }}
+  {{ $data = $data | merge (dict "" ($page.Summary | plainify | htmlUnescape | strings.TrimSpace)) }}
+{{ end }}
+
+{{ return $data }}
