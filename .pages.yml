@@ -22,7 +22,7 @@ content:
         options:
           collection: wiki
           multiple: true
-          search: "title,description"
+          search: "title"
           value: "{id}"
           label: "{value} {id} {title} - ${price}"
           image: "{featured_image}"
