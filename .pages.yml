@@ -47,8 +47,9 @@ components:
     label: Body
     type: block
     list:
+      collapsed: true
       collapsible:
-        summary: "{index}: {fields.alt}{fields.title}"
+        summary: "{index}: {fields.alt}{fields.title}{fields.type}"
     blockKey: _type
     blocks:
       - name: local-image
