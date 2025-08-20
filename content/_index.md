@@ -57,6 +57,7 @@ blocks:
     image:
       _type: local-image
       src: /ait-wiki/images/blocks.png
+      alt: AIT Blocks Promo Image
   - _type: text
     alt: "HACK: Close card group"
     value: "{{< /cards >}}"
