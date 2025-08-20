@@ -130,7 +130,7 @@ components:
         default: 3
         options:
           min: 1
-      - name: cards
+      - name: value
         component: cards
   end-cards:
     label: End Card Group
