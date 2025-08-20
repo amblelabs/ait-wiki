@@ -48,47 +48,66 @@ blocks:
 
 
       You can learn about the AIT mod in these tabs below:
-  - _type: card
-    title: Blocks
-    subtitle: Information on about blocks that you can find in Adventures In Time!
-    link: blocks/
-    image:
-      _type: local-image
-      src: /ait-wiki/images/blocks.png
-  - _type: card
-    title: Changelogs
-    subtitle: Information on what each update adds from 1.1.0 to 1.2.0!
-    link: changelogs/
-    image:
-      _type: local-image
-      src: /ait-wiki/images/changelog.png
   - _type: cards
     alt: Card Group
     cols: 3
     value:
-      - title: Blocks
-        subtitle: Information on about blocks that you can find in Adventures In Time!
-        link: blocks/
-        image:
-          _type: local-image
-          src: /ait-wiki/images/blocks.png
       - title: Changelogs
         subtitle: Information on what each update adds from 1.1.0 to 1.2.0!
         link: changelogs/
         image:
           _type: local-image
           src: /ait-wiki/images/changelog.png
+      - title: Blocks
+        subtitle: Information on about blocks that you can find in Adventures In Time!
+        link: blocks/
+        image:
+          _type: local-image
+          src: /ait-wiki/images/blocks.png
+      - title: Items
+        subtitle: Information on about items that you can find in Adventures In Time!
+        link: items/
+        image:
+          _type: local-image
+          src: /ait-wiki/images/items.png
+      - title: Mechanics
+        subtitle: Information on how your TARDIS works and how you can pilot it!
+        link: mechanics/
+        image:
+          _type: local-image
+          src: /ait-wiki/images/mechanic.png
+      - title: Datapacks
+        subtitle: Information on how to make custom Datapacks for Adventures In Time!
+        link: datapacks/
+        image:
+          _type: local-image
+          src: /ait-wiki/images/datapack.png
+      - title: Contributing & addon development
+        subtitle: Information on about how you should code when contributing in
+          Adventures In Time or in your AIT Addon!
+        link: development/
+        image:
+          _type: local-image
+          src: /ait-wiki/images/development.png
+  - _type: text
+    alt: If you're new to the mod
+    value: "But if you are new to the mod you'll probably want to know how to start.
+      Here are some pages you might want to look at:"
+  - _type: cards
+    alt: Card Group
+    cols: 3
+    value:
+      - title: Completing your TARDIS
+        subtitle: Your TARDIS is your one way to travel in space and time, so you are
+          gonna need one.
+        link: mechanics/tardis/completing_tardis_growth/
+        image:
+          _type: local-image
+          src: /ait-wiki/mechanics/tardis/images/new_tardis_interiors.png
+      - title: Sonic Screwdriver
+        subtitle: The Sonic Screwdriver is a handheld device used for various tasks, and
+          is the most important tool for a TARDIS user.
+        link: items/sonic/
+        image:
+          _type: local-image
 ---
-{{< cards >}}
-
-{{< card link="datapacks/" title="Datapacks" image="images/datapack.png" subtitle="Information on how to make custom Datapacks for Adventures In Time!" >}}
-
-{{< card link="development/" title="Contributing & addon development" image="images/development.png" subtitle="Information on about how you should code when contributing in Adventures In Time or in your AIT Addon!" >}}
-
-{{< card link="items/" title="Items" image="images/items.png" subtitle="Information on about items that you can find in Adventures In Time!" >}}
-
-{{< card link="mechanics/" title="Mechanics" image="images/mechanic.png" subtitle="Information on how your TARDIS works and how you can pilot it!" >}}
-
-{{< /cards >}}
-
-But if you are new to the mod you'll probably want to know how to start. Here are some pages you might want to look at: {{< cards >}} {{< card link="mechanics/tardis/completing\_tardis\_growth" title="Completing your TARDIS" image="mechanics/tardis/images/new\_tardis\_interiors.png" subtitle="Your TARDIS is your one way to travel in space and time, so you are gonna need one." >}} {{< card link="items/sonic" title="Sonic Screwdriver" image="items/images/sonic/in\_port.png" subtitle="The Sonic Screwdriver is a handheld device used for various tasks, and is the most important tool for a TARDIS user." >}} {{< /cards >}}
