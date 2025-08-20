@@ -9,7 +9,7 @@ content:
     path: content
     filename: "{primary}.md"
     view:
-      fields: [ title ]
+      fields: [ title, primary, type ]
     fields:
       - { name: title, label: Title, type: string, required: true }
       - { name: type, label: Type, type: select, required: true, options: { values: [docs, cms] }, default: cms }
