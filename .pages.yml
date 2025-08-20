@@ -16,6 +16,16 @@ content:
     fields:
       - { name: title, label: Title, type: string, required: true }
       - { name: description, label: Description, type: string }
+      - name: related_products
+        label: Related wiki
+        type: reference
+        options:
+          collection: wiki
+          multiple: true
+          search: "title,description"
+          value: "{id}"
+          label: "{value} {id} {title} - ${price}"
+          image: "{featured_image}"
       - name: next
         type: string
       - name: prev
