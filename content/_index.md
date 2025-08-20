@@ -1,6 +1,6 @@
 ---
 title: AIT Wiki
-type: docs
+type: cms
 blocks:
   - _type: callout
     type: warning
