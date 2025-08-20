@@ -22,6 +22,9 @@ content:
         label: Plain Body
         description: Do NOT use. This exists only for the sole purpose of editing old (pre-CMS) wiki content.
         type: rich-text
+      - name: weight
+        label: Weight
+        type: number
       - name: next
         label: Next page (slug)
         type: string
