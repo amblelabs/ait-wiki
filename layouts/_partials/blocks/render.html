@@ -29,6 +29,11 @@
             {{ partial "blocks/render.html" (dict "block" . "context" $) }}
         {{ end }}
     </div>
+{{ else if eq .block._type "begin-cards" }}
+    {{- $cols := .block.cols | default 3 -}}
+    <div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: {{ $cols }};">
+{{ else if eq .block._type "end-cards" }}
+    </div>
 {{ else if eq .block._type "card" }}
     {{- $link := .block.link -}}
     {{- $title := .block.title -}}
