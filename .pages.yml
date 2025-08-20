@@ -124,6 +124,13 @@ components:
         type: string
         default: Begin Card Group
         hidden: true
+      - name: cols
+        type: number
+        label: Columns
+        default: 3
+        options:
+          min: 1
+          abc: 3
   end-cards:
     label: End Card Group
     type: object
