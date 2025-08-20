@@ -1,6 +1,5 @@
 ---
 title: Custom Vortexes
-type: docs
 ---
 
 {{< callout type="warning" >}}

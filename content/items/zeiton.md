@@ -1,6 +1,5 @@
 ---
 title: Zeiton
-type: Docs
 params:
     images:
         - items/images/zeiton/structure/Geode.png

@@ -1,6 +1,5 @@
 ---
 title: Items
-type: docs
 ---
 
 {{< cards >}}

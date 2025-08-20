@@ -1,6 +1,5 @@
 ---
 title: TARDIS
-type: docs
 ---
 
 {{< cards >}}

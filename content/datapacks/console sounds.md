@@ -1,6 +1,5 @@
 ---
 title: Custom Console Sounds
-type: docs
 ---
 
 {{< callout type="warning" >}}

@@ -1,6 +1,5 @@
 ---
 title: Frequently Asked Questions (FAQ)
-type: cms
 blocks:
   - _type: text
     alt: Is there a channel with all of the community addons?

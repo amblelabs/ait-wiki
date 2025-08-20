@@ -1,6 +1,5 @@
 ---
 title: Custom Interiors
-type: docs
 ---
 
 {{< callout type="warning" >}}

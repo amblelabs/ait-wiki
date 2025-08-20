@@ -1,6 +1,5 @@
 ---
 title: Hammer
-type: docs
 ---
 
 The Hammer can be used for speeding the TARDIS up when your in flight while also being a great item for bonking people (:<

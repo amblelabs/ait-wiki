@@ -1,7 +1,6 @@
 ---
 title: Tardis Components
 next: properties
-type: docs
 ---
 
 The TARDIS logic is split into components to avoid spaghetti. 

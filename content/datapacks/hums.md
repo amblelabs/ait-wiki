@@ -1,6 +1,5 @@
 ---
 title: Custom Hums
-type: docs
 ---
 
 {{< callout type="warning" >}}

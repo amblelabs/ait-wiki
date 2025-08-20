@@ -1,6 +1,5 @@
 ---
 title: Redstone Control Block
-type: docs
 ---
 ![Image of the Redstone Control Block](./images/redstone-control/redstone-control-2.png)
 

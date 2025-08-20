@@ -1,6 +1,5 @@
 ---
 title: Artron Cable
-type: cms
 blocks:
   - _type: local-image
     src: /ait-wiki/blocks/images/engine_stuff_blocks/ac.png

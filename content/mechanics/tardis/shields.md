@@ -1,6 +1,5 @@
 ---
 title: TARDIS Shields
-type: docs
 params:
     images:
         - mechanics/tardis/images/shields/shield.png

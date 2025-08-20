@@ -1,6 +1,5 @@
 ---
 title: Landing Pad
-type: docs
 params:
     images:
       - blocks/images/landing_pad/landing_pad.png

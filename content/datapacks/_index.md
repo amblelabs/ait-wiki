@@ -1,6 +1,5 @@
 ---
 title: Datapack Modifications
-type: docs
 ---
 AIT works with [Datapacks](https://minecraft.wiki/w/Data_pack)! This lets you customise your TARDIS (or sonic) to unlimited possibilitys!
 

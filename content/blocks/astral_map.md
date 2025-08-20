@@ -1,6 +1,5 @@
 ---
 title: Astral Map
-type: docs
 params:
     images:
         - blocks/images/astral_map.png

@@ -1,6 +1,5 @@
 ---
 title: Custom Planets
-type: docs
 ---
 
 {{< callout type="warning" >}}

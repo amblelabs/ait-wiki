@@ -1,6 +1,5 @@
 ---
 title: Chameleon Exterior | How it works
-type: docs
 ---
 
 Introduced in 1.0.6 [Chameleon Exterior](../../../mechanics/tardis/chameleon) is a special exterior possessing a property of turning into a structure inherited from the biome it landed in.

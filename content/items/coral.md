@@ -1,6 +1,5 @@
 ---
 title: Coral Growth
-type: docs
 ---
 
 ![coral](images/coral.png)

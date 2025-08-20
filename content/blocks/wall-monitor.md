@@ -1,6 +1,5 @@
 ---
 title: Wall Monitor
-type: docs
 params:
     images:
         - blocks/images/wall_monitor.png

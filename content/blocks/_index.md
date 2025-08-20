@@ -1,6 +1,5 @@
 ---
 title: Blocks
-type: docs
 prev: first-page
 next: blocks/monitor
 sidebar:

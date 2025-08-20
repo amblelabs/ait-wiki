@@ -1,6 +1,5 @@
 ---
 title: Sonic Screwdriver
-type: docs
 params:
     images:
         - items/images/sonic/mechanical.png

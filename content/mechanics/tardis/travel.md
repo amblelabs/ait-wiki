@@ -1,6 +1,5 @@
 ---
 title: Travel (stub)
-type: docs
 ---
 
 ## How do i start flying around?

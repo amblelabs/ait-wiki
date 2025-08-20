@@ -1,6 +1,5 @@
 ---
 title: Guidelines
-type: docs
 ---
 
 If you want to contribute to AIT it's recommended to read the [package structure](../layout) as well.

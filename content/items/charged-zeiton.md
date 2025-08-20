@@ -1,6 +1,5 @@
 ---
 title: Charged Zeiton
-type: docs
 ---
 
 ## What is this?

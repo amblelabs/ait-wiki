@@ -1,6 +1,5 @@
 ---
 title: Custom Exterior Animations
-type: docs
 ---
 
 {{< callout type="warning" >}}

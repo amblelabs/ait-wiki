@@ -1,6 +1,5 @@
 ---
 title: Compact Zeiton
-type: docs
 params:
     images:
         - blocks/images/czb.png

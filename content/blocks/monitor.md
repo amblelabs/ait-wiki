@@ -1,6 +1,5 @@
 ---
 title: Monitor
-type: docs
 params:
     images:
         - blocks/images/monitor.png

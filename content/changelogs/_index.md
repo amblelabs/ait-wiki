@@ -1,6 +1,5 @@
 ---
 title: Changelogs
-type: docs
 ---
 
 {{< cards >}}

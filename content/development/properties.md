@@ -1,6 +1,5 @@
 ---
 title: Properties
-type: docs
 ---
 
 Properties exist as a way to sync data from server to client without having to send the entire TARDIS/its component to the client.

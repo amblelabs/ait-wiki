@@ -1,6 +1,5 @@
 ---
 title: Plaque
-type: docs
 params:
     images:
         - blocks/images/plaque.png

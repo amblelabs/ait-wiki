@@ -1,6 +1,5 @@
 ---
 title: Custom Exteriors
-type: docs
 ---
 
 {{< callout type="warning" >}}

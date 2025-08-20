@@ -1,6 +1,5 @@
 ---
 title: Power Converter
-type: docs
 params:
     images:
         - blocks/images/engine_stuff_blocks/pc.png

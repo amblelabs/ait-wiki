@@ -1,6 +1,5 @@
 ---
 title: Flag
-type: docs
 params:
     images:
       - blocks/images/flag.png

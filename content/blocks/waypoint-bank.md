@@ -1,6 +1,5 @@
 ---
 title: Waypoint Bank
-type: docs
 params:
     images:
         - blocks/images/waypoint_bank/waypoint_bank_display.png

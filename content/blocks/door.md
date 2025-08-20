@@ -1,6 +1,5 @@
 ---
 title: Interior Door
-type: docs
 params:
     images:
       - blocks/images/tardis_interior_door.png

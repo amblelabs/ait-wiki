@@ -1,6 +1,5 @@
 ---
 title: Folder Layout
-type: docs
 ---
 
 This page should be a guideline to AIT's package structure.

@@ -1,6 +1,5 @@
 ---
 title: TARDIS Key
-type: docs
 params:
     images:
         - items/images/keys/key/keys.png

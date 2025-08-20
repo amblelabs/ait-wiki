@@ -1,6 +1,5 @@
 ---
 title: Waypoint Cartridge
-type: docs
 params:
     images:
         - items/images/waypoints/waypoints.png

@@ -1,6 +1,5 @@
 ---
 title: Stattenheim Remote
-type: docs
 params:
     images:
         - items/images/statt.png

@@ -1,6 +1,5 @@
 ---
 title: Stub
-type: cms
 blocks:
   - _type: text
     alt: Main Content

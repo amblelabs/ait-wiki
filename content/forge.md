@@ -1,6 +1,5 @@
 ---
 title: All things AIT Forge!
-type: cms
 blocks:
   - _type: local-image
     src: /ait-wiki/images/forge.png

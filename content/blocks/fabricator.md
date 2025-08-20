@@ -1,6 +1,5 @@
 ---
 title: Fabricator
-type: docs
 params:
     images:
         - blocks/images/engine_stuff_blocks/fabricator.png

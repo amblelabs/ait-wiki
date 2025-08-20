@@ -1,6 +1,5 @@
 ---
 title: Rift Chunks
-type: docs
 ---
 
 {{< callout type="warning" >}}

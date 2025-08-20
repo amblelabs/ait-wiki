@@ -1,6 +1,5 @@
 ---
 title: Durability
-type: docs
 ---
 
 ## WHY MUST YOU DO THIS TO US?

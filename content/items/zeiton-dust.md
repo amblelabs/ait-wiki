@@ -1,6 +1,5 @@
 ---
 title: Zeiton dust
-type: docs
 ---
 
 ## What is it?

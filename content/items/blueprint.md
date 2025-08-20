@@ -1,6 +1,5 @@
 ---
 title: Blueprint
-type: docs
 ---
 
 ![Blueprint](images/blueprint.png)

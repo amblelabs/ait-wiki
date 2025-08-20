@@ -1,6 +1,5 @@
 ---
 title: Environment Projector
-type: docs
 params:
   images:
     - blocks/images/environment_projector.png

@@ -1,6 +1,5 @@
 ---
 title: Insert Disc Into Console
-type: docs
 ---
 
 {{< callout type="warning" >}}

@@ -1,6 +1,5 @@
 ---
 title: Bug Fixing Your Datapack
-type: docs
 ---
 
 {{< callout type="warning" >}}

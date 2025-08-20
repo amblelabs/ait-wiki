@@ -1,6 +1,5 @@
 ---
 title: Customizing TARDIS
-type: docs
 ---
 
 ## Changing the Exterior

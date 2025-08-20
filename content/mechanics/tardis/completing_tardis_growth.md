@@ -1,6 +1,5 @@
 ---
 title: Completing Tardis Growth
-type: docs
 params:
     images:
         - blocks/images/sms/sms2.png

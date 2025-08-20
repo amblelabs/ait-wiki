@@ -1,6 +1,5 @@
 ---
 title: Hazandra
-type: docs
 ---
 
 ![Image of the hazandra](images/h.png)

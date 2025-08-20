@@ -1,6 +1,5 @@
 ---
 title: Engine Phasing
-type: docs
 ---
 ## What IS Engine Phasing? 
 Engine phasing is a negative consequence of your demat circuit having low durability, once the circuit reaches 300 durability (or less), engine phasing may randomly occur. If it does, the following things happen;

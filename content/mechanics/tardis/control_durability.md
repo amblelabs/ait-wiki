@@ -1,6 +1,5 @@
 ---
 title: Control Durability
-type: docs
 ---
 
 ## How Does it Work?

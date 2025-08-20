@@ -1,6 +1,5 @@
 ---
 title: Custom Consoles
-type: docs
 ---
 
 {{< callout type="warning" >}}

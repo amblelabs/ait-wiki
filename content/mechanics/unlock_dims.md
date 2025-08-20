@@ -1,6 +1,5 @@
 ---
 title: Unlockable Dimensions
-type: docs
 ---
    
 ![dim](images/nether.png)   

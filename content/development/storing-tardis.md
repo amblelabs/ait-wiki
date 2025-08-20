@@ -1,7 +1,6 @@
 ---
 title: Storing the TARDIS
 next: guidelines
-type: docs
 ---
 
 Querying the TARDIS from a `TardisManager` each time even though the id doesn't change is highly irresponsible.

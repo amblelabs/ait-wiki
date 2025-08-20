@@ -1,6 +1,5 @@
 ---
 title: Handles
-type: docs
 ---
 
 ![inconsole](images/handles/in_console.png)

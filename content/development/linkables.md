@@ -1,6 +1,5 @@
 ---
 title: Linkables
-type: docs
 ---
 
 Linkables are elements of the game which have the ability to be linked to a TARDIS.

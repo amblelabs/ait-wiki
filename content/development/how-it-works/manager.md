@@ -1,6 +1,5 @@
 ---
 title: TARDIS Manager | How it works
-type: docs
 ---
 
 TARDIS Manager (TM) is a very important part of the TARDIS code. It makes sure that the TARDIS data stays synched between the server and the client.

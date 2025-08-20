@@ -1,6 +1,5 @@
 ---
 title: Console
-type: docs
 params:
     images:
       - blocks/images/console.png

@@ -1,6 +1,5 @@
 ---
 title: Custom Sonics
-type: docs
 ---
 
 {{< callout type="warning" >}}

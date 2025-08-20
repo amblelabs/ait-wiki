@@ -1,6 +1,5 @@
 ---
 title: TARDIS Loyalty
-type: cms
 blocks:
   - _type: text
     value: >-

@@ -1,6 +1,5 @@
 ---
 title: Generalized Subsystem Core
-type: docs
 params:
     images:
         - blocks/images/engine_stuff_blocks/gsc.png

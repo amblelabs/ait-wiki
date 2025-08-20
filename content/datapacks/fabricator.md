@@ -1,6 +1,5 @@
 ---
 title: Custom Fabricator Recipes
-type: docs
 ---
 
 {{< callout type="warning" >}}

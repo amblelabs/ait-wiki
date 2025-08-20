@@ -1,7 +1,6 @@
 ---
 title: Addon Entrypoint
 next: components
-type: docs
 ---
 
 Some of AITs registries get frozen or create caches after initialization. If you try to register, for example, a custom component in a default fabric `ModInitializer`, it's not guaranteed to work.

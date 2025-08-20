@@ -1,6 +1,5 @@
 ---
 title: Gallifrey Falls
-type: docs
 params:
     images:
         - blocks/images/gallifrey_falls.png

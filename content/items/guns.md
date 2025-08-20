@@ -1,6 +1,5 @@
 ---
 title: Cult Stasers
-type: docs
 ---
 
 ![staser](images/guns/guns.png)

@@ -1,6 +1,5 @@
 ---
 title: Linking Items
-type: docs
 ---
 
 {{< callout type="warning" >}}

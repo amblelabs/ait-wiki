@@ -1,6 +1,5 @@
 ---
 title: Hypercube
-type: docs
 ---
 
 ![Image of the hypercube](images/hb.png)

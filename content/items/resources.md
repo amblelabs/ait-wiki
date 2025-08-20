@@ -1,6 +1,5 @@
 ---
 title: Components
-type: docs
 ---
 
  ![stuff](images/resourcesall.png)

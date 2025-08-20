@@ -1,6 +1,5 @@
 ---
 title: Artron Energy
-type: docs
 ---
 
 {{< callout type="warning" >}}

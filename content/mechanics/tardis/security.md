@@ -1,6 +1,5 @@
 ---
 title: Security Protocols
-type: docs
 ---
 
 {{< callout type="warning" >}}

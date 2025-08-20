@@ -1,6 +1,5 @@
 ---
 title: Custom Unlockable Dimensions
-type: docs
 ---
 
 {{< callout type="warning" >}}

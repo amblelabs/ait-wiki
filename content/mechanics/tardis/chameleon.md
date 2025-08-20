@@ -1,6 +1,5 @@
 ---
 title: Chameleon (Adaptive) Exterior 
-type: docs
 props:
     images:
         - todo: image

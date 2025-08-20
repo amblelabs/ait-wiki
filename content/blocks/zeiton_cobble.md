@@ -1,6 +1,5 @@
 ---
 title: Zeiton cobble
-type: docs
 params:
     images:
         - blocks/images/zcb.png

@@ -1,6 +1,5 @@
 ---
 title: Time Vortex
-type: docs
 ---
 {{< callout type="warning" >}}  WARNING,THIS IS ***DISABLED BY DEFAULT***, YOU'LL NEED TO ENABLE IT VIA THE CONFIG CLIENT TAB  {{< /callout >}}
 * Enable it either via /ait-config 

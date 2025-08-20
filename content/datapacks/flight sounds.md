@@ -1,6 +1,5 @@
 ---
 title: Custom Flight Sounds
-type: docs
 ---
 
 {{< callout type="warning" >}}

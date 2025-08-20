@@ -1,6 +1,5 @@
 ---
 title: Custom Mugs
-type: docs
 ---
 
 {{< callout type="warning" >}}

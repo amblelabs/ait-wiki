@@ -1,6 +1,5 @@
 ---
 title: Oxygenator
-type: docs
 params:
     images:
         - blocks/images/o2giver.png

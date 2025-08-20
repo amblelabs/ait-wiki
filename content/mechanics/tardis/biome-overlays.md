@@ -1,6 +1,5 @@
 ---
 title: Biome overlays
-type: docs
 params:
     images:
         - mechanics/tardis/images/snowy_overlay.png

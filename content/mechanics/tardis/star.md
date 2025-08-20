@@ -1,6 +1,5 @@
 ---
 title: Eye of Harmony
-type: docs
 params:
     images:
         - mechanics/tardis/images/tardis_star.png

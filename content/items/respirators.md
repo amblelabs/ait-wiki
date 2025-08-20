@@ -1,6 +1,5 @@
 ---
 title: Respirators
-type: docs
 ---
 
 ![respirators](images/respirator/respirators.png)

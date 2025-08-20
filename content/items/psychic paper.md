@@ -1,6 +1,5 @@
 ---
 title: Psychic Paper
-type: docs
 ---
 
 ![paper](images/fancy_paper.png)

@@ -1,6 +1,5 @@
 ---
 title: Interior Detector
-type: docs
 params:
     images:
         - blocks/images/detector_block.png
