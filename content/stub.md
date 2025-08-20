@@ -12,6 +12,8 @@ blocks:
     value:
       - title: title
         subtitle: subtitle
+      - title: title 2
+        subtitle: subtitle 2
   - _type: end-cards
     alt: End Card Group
 ---
