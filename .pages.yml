@@ -47,8 +47,8 @@ components:
     label: Body
     type: block
     list:
-      collapsed: true
       collapsible:
+        collapsed: true # Default collapsed state
         summary: "{index}: {fields.alt}{fields.title}{fields.type}"
     blockKey: _type
     blocks:
