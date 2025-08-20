@@ -56,13 +56,17 @@ blocks:
     image:
       _type: local-image
       src: /ait-wiki/images/blocks.png
-      alt: AIT Blocks Promo Image
+  - _type: card
+    title: Changelogs
+    subtitle: Information on what each update adds from 1.1.0 to 1.2.0!
+    link: changelogs/
+    image:
+      _type: local-image
+      src: /ait-wiki/images/changelog.png
   - _type: end-cards
     alt: End Card Group
 ---
 {{< cards >}}
-
-{{< card link="changelogs/" title="Changelogs" image="images/changelog.png" subtitle="Information on what each update adds from 1.1.0 to 1.2.0!" >}}
 
 {{< card link="datapacks/" title="Datapacks" image="images/datapack.png" subtitle="Information on how to make custom Datapacks for Adventures In Time!" >}}
 
