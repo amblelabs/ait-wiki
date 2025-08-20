@@ -1,6 +1,6 @@
 ---
 title: All things AIT Forge!
-type: docs
+type: cms
 blocks:
   - _type: local-image
     src: /ait-wiki/images/forge.png
@@ -55,4 +55,3 @@ blocks:
           
       *   Distant Horizons (if installed on the server)
 ---
-<!-- MIGRATED -->
