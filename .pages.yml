@@ -17,7 +17,7 @@ content:
         component: any-block
       - name: body
         label: Old Body
-        type: text
+        type: rich-text
         default: "<!-- DO NOT EDIT THIS -->"
         options:
           rows: 1
