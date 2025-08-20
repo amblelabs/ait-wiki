@@ -19,10 +19,6 @@ content:
         label: Plain Body
         description: Do NOT use. This exists only for the sole purpose of editing old (pre-CMS) wiki content.
         type: rich-text
-        default: "<!-- DO NOT EDIT THIS -->"
-        options:
-          rows: 1
-          autoresize: false
         
 components:
   any-block:
