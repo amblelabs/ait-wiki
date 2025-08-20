@@ -2,6 +2,9 @@ media:
   input: content
   output: /ait-wiki
   categories: [image]
+settings:
+  content:
+    merge: true
 content:
   - name: wiki
     label: Wiki
