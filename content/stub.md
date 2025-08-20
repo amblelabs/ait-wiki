@@ -6,5 +6,13 @@ blocks:
     alt: Main Content
     value: If you see this, then the page you're trying to read is not written. go
       away!
+  - _type: begin-cards
+    alt: Begin Card Group
+    cols: 3
+    cards:
+      - title: title
+        subtitle: subtitle
+  - _type: end-cards
+    alt: End Card Group
 ---
 MIGRATED
