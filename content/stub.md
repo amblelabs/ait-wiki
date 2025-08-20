@@ -14,9 +14,5 @@ blocks:
         subtitle: subtitle
       - title: title 2
         subtitle: subtitle 2
-      - title: title
-        subtitle: subtitle
-      - title: title 2
-        subtitle: subtitle 2
 ---
 MIGRATED
