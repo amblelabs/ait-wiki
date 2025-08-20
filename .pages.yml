@@ -12,10 +12,21 @@ content:
     path: content
     filename: "{primary}.md"
     view:
-      fields: [ title ]
+      fields: [ title, primary ]
     fields:
       - { name: title, label: Title, type: string, required: true }
       - { name: description, label: Description, type: string }
+      - name: next
+        type: string
+      - name: prev
+        type: string
+      - name: sidebar
+        type: object
+        fields:
+          - name: open
+            type: boolean
+          - name: exclude
+            type: boolean
       - name: blocks
         component: any-block
       - name: body
