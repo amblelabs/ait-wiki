@@ -5,7 +5,7 @@ baseURL: https://amblelabs.github.io/ait-wiki/
 # import hextra as module
 module:
   imports:
-  - path: github.com/imfing/hextra
+  - path: github.com/drtheodor/hextra
 
 markup:
   # allow raw html
