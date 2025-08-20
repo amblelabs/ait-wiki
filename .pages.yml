@@ -122,11 +122,19 @@ components:
   begin-cards:
     label: Begin Card Group
     type: object
-    fields: []
+    fields:
+      - name: alt
+        type: string
+        default: Begin Card Group
+        hidden: true
   end-cards:
     label: End Card Group
     type: object
-    fields: []
+    fields:
+      - name: alt
+        type: string
+        default: End Card Group
+        hidden: true
   card:
     label: Card
     type: object
