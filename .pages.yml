@@ -43,9 +43,15 @@ components:
       - name: callout
         label: Add Callout
         component: callout
+      - name: begin-cards
+        label: Begin Card Group
+        type: begin-cards
       - name: card
         label: Add Card
         component: card
+      - name: end-cards
+        label: End Card Group
+        component: end-cards
       - name: steps
         label: Add Steps
         component: steps
@@ -113,6 +119,14 @@ components:
     label: Cards
     component: card
     list: true
+  begin-cards:
+    label: Begin Card Group
+    type: object
+    fields: []
+  end-cards:
+    label: End Card Group
+    type: object
+    fields: []
   card:
     label: Card
     type: object
