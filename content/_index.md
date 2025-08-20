@@ -111,4 +111,7 @@ blocks:
         image:
           _type: local-image
           src: /ait-wiki/items/images/sonic/in_port.png
+sidebar:
+  open: false
+  exclude: false
 ---
