@@ -93,7 +93,7 @@ blocks:
       # How do I see my loyalty?
 
 
-      Sleep in a bed inside the tardis,a sound will play indicaitng your loyalty
-      rank and a message will appear aswell.
+      Sleep in a bed inside the tardis, a sound will play indicating your
+      loyalty rank and a message will appear as well.
 ---
 Echo did this
