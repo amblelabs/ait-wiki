@@ -54,7 +54,7 @@
         {{- $processed := .Process $process -}}
         {{- $width = $processed.Width -}}
         {{- $height = $processed.Height -}}
-        {{- $image = $processed.RelPermalink -}}
+        {{- $image = $processed.Permalink -}}
         {{- end -}}
     {{ else }}
         {{/* Otherwise, use relative link of the image */}}
