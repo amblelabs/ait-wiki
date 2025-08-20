@@ -12,7 +12,7 @@ content:
     path: content
     filename: "{primary}.md"
     view:
-      fields: [ title, primary ]
+      fields: [ title, filename ]
     fields:
       - { name: title, label: Title, type: string, required: true }
       - { name: description, label: Description, type: string }
