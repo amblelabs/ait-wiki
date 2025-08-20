@@ -45,7 +45,7 @@ components:
         component: callout
       - name: begin-cards
         label: Begin Card Group
-        type: begin-cards
+        component: begin-cards
       - name: card
         label: Add Card
         component: card
