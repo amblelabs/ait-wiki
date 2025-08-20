@@ -110,4 +110,5 @@ blocks:
         link: items/sonic/
         image:
           _type: local-image
+          src: /ait-wiki/items/images/sonic/in_port.png
 ---
