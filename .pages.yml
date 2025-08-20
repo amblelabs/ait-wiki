@@ -13,6 +13,10 @@ content:
     filename: "{primary}.md"
     view:
       fields: [ title, filename ]
+      layout: tree
+      node:
+        filename: _index.md
+        hideDirs: all
     fields:
       - { name: title, label: Title, type: string, required: true }
       - { name: description, label: Description, type: string }
