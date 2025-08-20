@@ -15,7 +15,7 @@
 {{- if $page.Params.blocks -}}
   {{- /* CMS content: render blocks to plain text */ -}}
   {{- range $page.Params.blocks -}}
-    {{- if eq .type "text" -}}
+    {{- if eq ._type "text" -}}
       {{- $content = printf "%s %s" $content (.value | markdownify | plainify) -}}
     {{- end -}}
   {{- end -}}
