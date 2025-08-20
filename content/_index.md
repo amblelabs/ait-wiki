@@ -113,5 +113,5 @@ blocks:
           src: /ait-wiki/items/images/sonic/in_port.png
 sidebar:
   open: false
-  exclude: false
+  exclude: true
 ---
