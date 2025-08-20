@@ -9,7 +9,7 @@ blocks:
   - _type: begin-cards
     alt: Begin Card Group
     cols: 3
-    cards:
+    value:
       - title: title
         subtitle: subtitle
   - _type: end-cards
