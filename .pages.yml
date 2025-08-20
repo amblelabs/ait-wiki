@@ -16,7 +16,8 @@ content:
       - name: blocks
         component: any-block
       - name: body
-        label: Old Body
+        label: Plain Body
+        description: Do NOT use. This exists only for the sole purpose of editing old (pre-CMS) wiki content.
         type: rich-text
         default: "<!-- DO NOT EDIT THIS -->"
         options:
