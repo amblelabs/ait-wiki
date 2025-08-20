@@ -24,7 +24,7 @@ content:
           multiple: true
           search: "title"
           value: "{id}"
-          label: "{value} {id} {title} - ${price}"
+          label: "{value} {id} {title}"
           image: "{featured_image}"
       - name: next
         type: string
