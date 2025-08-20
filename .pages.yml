@@ -75,6 +75,7 @@ components:
         label: Section Label
         description: Not actually included in the wiki. Exists only to make the collapsed sections more readable.
         type: string
+        default: Content
       - name: value
         label: Text Content
         type: rich-text
