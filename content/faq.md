@@ -77,20 +77,15 @@ blocks:
       listed here please feel free to inform us!
 
 
-      |     |     |
-
-      | --- | --- |
-
-      | Immersive Portals | Stops people from entering / exiting the TARDIS |
-
-      | No Nametag Render | Will stop the control names from showing (no ones
-      fault, its the mod doing its job) |
-
-      | Concurrent Chunk Management Engine (C2ME) | Seems to break rift chunks
-      and TARDIS growth. |
-
-      | Distant Horizons (when installed on the server) | Breaks TARDIS growth.
-      |
+      *   Immersive Portals: stops people from entering / exiting the TARDIS.
+          
+      *   No Nametag Render: will stop the control names from showing (no ones
+      fault, its the mod doing its job).
+          
+      *   Concurrent Chunk Management Engine (C2ME): seems to break rift chunks
+      and TARDIS growth.
+          
+      *   Distant Horizons (when installed on the server): breaks TARDIS growth.
   - _type: text
     alt: The rendering is buggy with shaders
     value: >-
@@ -101,37 +96,49 @@ blocks:
       list of tested shaders:
 
 
-      | Works | Buggy | Unsupported |
+      **Works**:
 
-      | --- | --- | --- |
 
-      | Rethinking Voxels | Noble |     |
+      *   Rethinking Voxels
+          
+      *   Complementary
+          
+      *   Lux v1
+          
+      *   MakeUp
+          
+      *   Solas
+          
+      *   Super Duper Vanilla
+          
+      *   Insanity
+          
+      *   AstraLex
+          
+      *   Kappa
+          
+      *   Nostalgia
+          
+      *   FastPBR
+          
+      *   Shrimple
+          
+      *   Bliss (latest)
+          
 
-      | Complementary | Soft Voxels Lite |     |
+      **Buggy**:
 
-      | Lux v1 | Miniature |     |
 
-      | MakeUp | BSL |     |
+      *   Noble
+          
+      *   Soft Voxels Lite
+          
+      *   Miniature
+          
+      *   BSL
+          
 
-      | Solas |     |     |
-
-      | Super Duper Vanilla |     |     |
-
-      | Insanity |     |     |
-
-      | AstraLex |     |     |
-
-      | Kappa |     |     |
-
-      | Nostalgia |     |     |
-
-      | FastPBR |     |     |
-
-      | Pastel |     |     |
-
-      | Shrimple |     |     |
-
-      | Bliss (latest) |     |     |
+      (tested on 1.2.0)
   - _type: text
     alt: How do I become a beta tester?
     value: |-
