@@ -1,0 +1,154 @@
+media:
+  input: content
+  output: /ait-wiki
+  categories: [image]
+content:
+  - name: wiki
+    label: Wiki
+    type: collection
+    path: content
+    filename: "{primary}.md"
+    view:
+      fields: [ title ]
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: type, label: Type, type: select, required: true, options: { values: [docs, cms] }, default: cms }
+      - name: blocks
+        component: any-block
+      - name: body
+        type: text
+        default: "<!-- DO NOT EDIT THIS -->"
+        options:
+          rows: 1
+          autoresize: false
+        
+components:
+  any-block:
+    label: Body
+    type: block
+    list:
+      collapsible:
+        summary: "{index}: {fields._name}"
+    blockKey: _type # Optional: customize the key used to store the block name, defaults to `_block`
+    blocks:
+      # Each item defines a possible block structure the user can select.
+      # These typically use 'component' or define 'fields' directly.
+      - name: local-image
+        label: Add Local Image
+        component: local-image
+      - name: remote-image
+        label: Add Remote Image
+        component: remote-image
+      - name: text
+        label: Add Text Block
+        component: markdown
+      - name: callout
+        label: Add Callout
+        component: callout
+      - name: card
+        label: Add Card
+        component: card
+      - name: steps
+        label: Add Steps
+        component: steps
+      - name: details
+        label: Add Details
+        component: details
+  any-image:
+    label: Any Image
+    type: block
+    list: false
+    blockKey: _type
+    blocks:
+      - name: local-image
+        label: Add Local Image
+        component: local-image
+      - name: remote-image
+        label: Add Remote Image
+        component: remote-image
+  markdown:
+    label: Markdown
+    type: object
+    fields:
+      - name: _name
+        label: Section Label
+        description: Not actually included in the wiki. Exists only to make the collapsed sections more readable.
+        type: string
+      - name: value
+        label: Text Content
+        type: rich-text
+  local-image:
+    label: Image
+    type: object
+    fields:
+      - name: src
+        label: Image
+        type: image
+      - name: alt
+        label: ALT text
+        type: string
+  remote-image:
+    label: Remote image
+    type: object
+    fields:
+      - name: src
+        label: Image
+        type: string
+      - name: alt
+        label: ALT text
+        type: string
+  callout:
+    label: Callout
+    type: object
+    fields:
+      - name: type
+        label: Type
+        default: default
+        type: select
+        options:
+          values: [default, info, warning, error]
+      - name: value
+        label: Text Content
+        type: rich-text
+  cards:
+    label: Cards
+    component: card
+    list: true
+  card:
+    label: Card
+    type: object
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: subtitle
+        label: Subtitle
+        type: rich-text
+      - name: link
+        label: Link
+        type: string
+      - name: image
+        component: any-image
+  steps:
+    label: Steps
+    type: object
+    fields:
+      - name: value
+        label: Text Content
+        type: rich-text
+        default: |
+          ### Step 1
+  details:
+    label: Details
+    type: object
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: closed
+        label: Closed
+        type: boolean
+        default: true
+      - name: value
+        label: Text Content
+        type: rich-text
