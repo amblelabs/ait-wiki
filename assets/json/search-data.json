@@ -14,7 +14,16 @@
 {{- $output := dict -}}
 
 {{- range $index, $page := $pages -}}
-  {{- $pageTitle := $page.LinkTitle | default $page.File.BaseFileName -}}
+  {{- $pageTitle := $page.LinkTitle -}}
+  
+  {{- /* Safe fallback for page title */ -}}
+  {{- if not $pageTitle -}}
+    {{- if $page.File -}}
+      {{- $pageTitle = $page.File.BaseFileName -}}
+    {{- else -}}
+      {{- $pageTitle = "Untitled" -}}
+    {{- end -}}
+  {{- end -}}
   {{- $pageLink := $page.RelPermalink -}}
   {{- $data := partial "utils/fragments" (dict "context" $page "type" $indexType) -}}
   {{- $output = $output | merge (dict $pageLink (dict "title" $pageTitle "data" $data)) -}}
