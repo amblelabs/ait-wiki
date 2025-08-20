@@ -23,10 +23,10 @@ content:
         description: Do NOT use. This exists only for the sole purpose of editing old (pre-CMS) wiki content.
         type: rich-text
       - name: next
-        label: Next page
+        label: Next page (slug)
         type: string
       - name: prev
-        label: Previous page
+        label: Previous page (slug)
         type: string
       - name: sidebar
         label: Sidebar Options
