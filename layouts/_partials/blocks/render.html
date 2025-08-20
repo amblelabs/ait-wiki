@@ -54,12 +54,12 @@
         {{- $processed := .Process $process -}}
         {{- $width = $processed.Width -}}
         {{- $height = $processed.Height -}}
-        {{- $image = $processed.Permalink -}}
+        {{- $image = $processed.RelPermalink -}}
         {{- end -}}
     {{ else }}
         {{/* Otherwise, use relative link of the image */}}
         {{- if hasPrefix $image "/" -}}
-        {{- $image = relURL (strings.TrimPrefix "/" $image) -}}
+        {{- $image = strings.TrimPrefix "/" $image -}}
         {{- end -}}
     {{- end -}}
     {{- end -}}
