@@ -15,9 +15,9 @@ Create a new **.json** file in the path
 
 > `data/(namespace)/fx/animation/keyframes/(animation_name).json`
 
-- This will contain the "code" for the animation, you can edit one in from AIT or follow (this video)[https://www.youtube.com/watch?v=s03eyntLbXw] to see how to make one using BlockBench. (this video also shows how to add it ingame but we will still show you how here.)
+- This will contain the "code" for the animation, you can edit one in from AIT or follow [this video](https://www.youtube.com/watch?v=s03eyntLbXw) to see how to make one using BlockBench. (this video also shows how to add it ingame but we will still show you how here.)
 
-- You can use any sound from any mod as a de/mat sfx, or even add your own by making a sound resourcepack, [check out this video on how to do so](https://youtu.be/igZQdEoxcQk?si=nlVLIUNUJxXHxu2u).
+- You can use any sound from any mod as a de/mat sfx, or even add your own by making a sound resourcepack, [check out this video on how to do so](https://youtu.be/igZQdEoxcQk?si=nlVLIUNUJxXHxu2u].
 
 Create a new **.json** file in the path
 
@@ -35,7 +35,7 @@ Inside this new .json file, paste:
 
 **(the sound id doesn't have to be `sound:id_demat` but that will make it easier when making a mat animation or other things that uses sounds).**
 
-- Replacing the **namespace** and the **vortex_name** with your own from earlier
+- Replacing **(id:animationname_demat)** with the name of the json file of the animation (either one you made or one from ait)
 
 - Be reminded that you will have to repeate these steps if you want to make a remat animation BUT replace where it says `demat` with `mat`! And either reverse the demat animation you made or make an entire new one, up to you.
 
