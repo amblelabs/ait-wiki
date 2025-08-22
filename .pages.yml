@@ -6,6 +6,20 @@ settings:
   content:
     merge: true
 content:
+  - name: old
+    label: Old
+    type: collection
+    path: content
+    filename: "{primary}.md"
+    view:
+      fields: [ title ]
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: description, label: Description, type: string }
+      - name: body
+        label: Plain Body
+        description: Do NOT use. This exists only for the sole purpose of editing old (pre-CMS) wiki content.
+        type: rich-text
   - name: wiki
     label: Wiki
     type: collection
@@ -19,10 +33,6 @@ content:
       - { name: description, label: Description, type: string }
       - name: blocks
         component: any-block
-      - name: body
-        label: Plain Body
-        description: Do NOT use. This exists only for the sole purpose of editing old (pre-CMS) wiki content.
-        type: rich-text
       - name: weight
         label: Weight
         type: number
