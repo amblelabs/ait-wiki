@@ -1,6 +1,6 @@
 media:
   input: content
-  output: /ait-wiki
+  output: /
   categories: [image]
 settings:
   content:
