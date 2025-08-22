@@ -8,7 +8,8 @@
     {{- $string := readFile $filePath -}}
     {{- $data := unmarshal $string -}}
 
-    {{- $renderedContent := partial "cms/render-file.html" $data -}}
+    {{- $lastUpdated := (os.Stat $filePath).ModTime -}}
+    {{- $renderedContent := partial "cms/render-file.html" (merge $data (dict "lastUpdated" $lastUpdated)) -}}
 
     {{- $dir := path.Dir $filePath -}}
     {{- $base := path.BaseName $filePath -}}
