@@ -5,11 +5,6 @@ cascade:
 blocks:
   - _type: callout
     type: warning
-    value: The AIT (Adventures In Time) Wiki is currently under a rework / renovation. 
-      Some information might not be up to date and/or innacurate, 
-      we are currently working on it. Thanks for your patience.
-  - _type: callout
-    type: warning
     value: If you find any bugs / crashes, please create a [GitHub
       Issue](https://github.com/Loqor/ait/issues/new) or ask for help in the
       support channel in the [Amble Labs](https://discord.gg/D5Et6Ux7BS)
