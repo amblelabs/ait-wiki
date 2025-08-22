@@ -67,7 +67,10 @@ params:
   editURL:
     enable: true
     base: "https://app.pagescms.org/amblelabs/ait-wiki/main/collection/wiki/edit/content"
-
+  
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+  
   comments:
     enable: true
     type: giscus
