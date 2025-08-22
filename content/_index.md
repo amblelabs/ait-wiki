@@ -5,9 +5,9 @@ cascade:
 blocks:
   - _type: callout
     type: warning
-    value: The AIT (Adventures In Time) Wiki is currently under a rework /
-      renovation. Some information might not be up to date and/or innacurate, we
-      are currently working on it. Thank for your patience.
+    value: The Adventures In Time Wiki is currently under a rework / renovation.
+      Some information might not be up-to-date and / or innacurate, we are
+      currently working on it. Thank you for your patience.
   - _type: callout
     type: info
     value: If you find any bugs / crashes, please create a [GitHub
