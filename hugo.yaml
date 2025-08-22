@@ -55,7 +55,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://app.pagescms.org/amblelabs/ait-wiki/main/collection/wiki/edit/"
+    base: "https://app.pagescms.org/amblelabs/ait-wiki/main/collection/wiki/edit/content"
 
   comments:
     enable: true
