@@ -6,9 +6,9 @@ blocks:
   - _type: callout
     type: warning
     value: >-
-      The Adventures In Time Wiki is currently under a rework / renovation. Some
-      information might be outdated and / or innacurate, we are currently
-      working on it.
+      The Adventures In Time Wiki is currently undergoing a rework / renovation
+      to bring it up to date with the most recent version. Some information
+      might be outdated and / or inaccurate, we are currently working on it.
 
 
       Thank you for your patience.
@@ -17,40 +17,42 @@ blocks:
     value: If you find any bugs / crashes, please create a [GitHub
       Issue](https://github.com/Loqor/ait/issues/new) or ask for help in the
       support channel in the [Amble Labs](https://discord.gg/D5Et6Ux7BS)
-      discord.
+      Discord.
   - _type: text
     alt: Content
     value: >-
-      Welcome to the **Adventures In Time: Wiki**, Here you can find out on the
-      most useless features to the best ones in the mod to even learning about
-      making datapacks for the mod!
+      Welcome to the **Adventures In Time Wiki**! This wiki is constantly
+      maintained to be up to date with the most recent version of AIT so you can
+      get the best information of the mod, from useless features to useful
+      blocks and even making datapacks or extra mods!
 
 
-      ## Where do I get the Official AIT public release?
+      ## Where do I get the most recent release?
 
 
       AIT can be found on [Modrinth](https://modrinth.com/mod/ait) and can also
       be found on
-      [Curseforge](https://www.curseforge.com/minecraft/mc-mods/adventures-in-time)
+      [Curseforge.](https://www.curseforge.com/minecraft/mc-mods/adventures-in-time)
 
 
       ## AIT is fantastic! Is there anywhere I can talk about the mod?
 
 
-      Yes, in [Amble Labs](https://discord.gg/D5Et6Ux7BS) where you can talk
-      about the mod, show of your interiors, post your AIT Datapacks, pay to get
-      beta previews and even play with other people in the **AIT Server**!
+      Yes, in [Amble Labs' discord server](https://discord.gg/D5Et6Ux7BS) where
+      you can talk about the mod, show off your interiors, post your AIT
+      datapacks, pay to get beta previews and even play with other people in the
+      **AIT Server**!
 
 
       ## I've made a super cool mod for AIT! But I don't know where to publish
       it?
 
 
-      Oooh! In [AIT Additons](https://discord.gg/aYEtPD24bF) Discord Server we
-      would love to make a channel dedicated to talking about your addon, you
-      can share your progress, get bug reports and suggestions and even catch up
-      people with your changes! People can also play with your addons with other
-      **AIT Addons** in the **AIT Additions Minecraft Server**
+      Oooh! In the [AIT Additons](https://discord.gg/aYEtPD24bF) Discord server,
+      we would love to make a channel dedicated to talking about your addon. You
+      can share your progress, get bug reports and suggestions and even update
+      people on the changes! People can also play with your addons with other
+      **AIT Addons** in the **AIT Additions Minecraft Server!**
 
 
       ## Where can I start?
@@ -86,7 +88,7 @@ blocks:
           _type: local-image
           src: /ait-wiki/images/mechanic.png
       - title: Datapacks
-        subtitle: Information on how to make custom Datapacks for Adventures In Time!
+        subtitle: Information on how to make custom datapacks for Adventures In Time!
         link: datapacks/
         image:
           _type: local-image
