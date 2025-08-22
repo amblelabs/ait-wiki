@@ -39,7 +39,7 @@ content:
           - name: images
             label: Images
             list: true
-            component: any-image
+            type: image
       - name: sidebar
         label: Sidebar Options
         type: object
