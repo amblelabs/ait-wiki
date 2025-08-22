@@ -192,7 +192,7 @@ blocks:
       server!
 
 
-      A: Talk with people who have the mod council role, e.g. \`@thatrhynoguy\`.
+      A: Talk with people who have the mod council role, e.g. @thatrhynoguy.
   - _type: text
     alt: Can you add support for Immersive Portals / add your own BOTI
     value: >-
