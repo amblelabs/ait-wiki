@@ -1,5 +1,5 @@
 ---
-title: All things AIT Forge!
+title: AIT Forge Information
 blocks:
   - _type: local-image
     src: /ait-wiki/images/forge.png
@@ -17,13 +17,11 @@ blocks:
           
       *   [YACL (Forge)](https://modrinth.com/mod/yacl/versions?l=forge)
           
-      *   [Fabric API](https://modrinth.com/mod/fabric-api/versions?g=1.20.1)
-          
 
       ## FAQ
 
 
-      #### Q: Why doesn't BOTI work, glitch my screen?
+      #### Q: Why doesn't BOTI work? It glitches my screen!
 
 
       A: Install the `Chloride` mod with the `embeddium` mod!
@@ -32,26 +30,32 @@ blocks:
       #### Q: Where can I report an issue for forge?
 
 
-      A: On the AIT github page, but make sure to select `Forge` under the `Mod
+      A: On the AIT Github page, but make sure to select `Forge` under the `Mod
       loader` tab!
 
 
-      #### Q: When will forge updates come out?
+      #### Q: When will Forge updates come out?
 
 
       A: Some time after the fabric update (could be weeks, could be months).
 
 
-      ## Incompatable mods!
+      ## Incompatible mods!
 
 
       ###### `this list will expand based on reported issues!`
 
 
-      *   OptiFine.
+      *   OptiFine. OptiFine is generally incompatible with a lot of mods, so we
+      recommend Embeddium instead.
           
       *   C2ME (Concurrent Chunk Management)
           
-      *   Distant Horizons (if installed on the server)
+      *   Distant Horizons (if installed on the server). Will cause server
+      crashes when entering a TARDIS. Client-side Distant Horizons play like
+      normal.
+sidebar:
+  open: false
+  exclude: false
 ---
 MIGRATED
