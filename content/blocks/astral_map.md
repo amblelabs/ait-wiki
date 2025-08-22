@@ -34,7 +34,11 @@ blocks:
       ## How Do I Craft It?
 
 
-      An Astral Map is made using the blueprint on the Fabricator.
+      An Astral Map is made using the blueprint on the Fabricator.  
+        
+
+        
+      Page Last Updated: 22/08/2025, LeeFerreira
 sidebar:
   open: false
   exclude: false
