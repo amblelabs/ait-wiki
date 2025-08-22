@@ -18,7 +18,7 @@ blocks:
         link: blocks/console/
         image:
           _type: remote-image
-          src: images/engine_stuff_blocks/engine.png
+          src: images/console.png
       - title: Engine
         subtitle: The engine is what gives the TARDIS life. Connect different components
           to the engine in order to power it.
@@ -75,9 +75,5 @@ blocks:
           src: images/plaque.png
   - _type: text
     alt: Last Updated
-    value: |2-
-        
-        
-        
-      Page Last Updated: 22/08/2025, LeeFerreira
+    value: "Page Last Updated: 22/08/2025, LeeFerreira"
 ---
