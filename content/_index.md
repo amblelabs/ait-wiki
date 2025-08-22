@@ -122,6 +122,9 @@ blocks:
         image:
           _type: local-image
           src: /ait-wiki/items/images/sonic/in_port.png
+  - _type: text
+    alt: Last Updated
+    value: "Page Last Updated: 22/08/2025, LeeFerreira"
 sidebar:
   open: false
   exclude: true
