@@ -1,0 +1,8 @@
+{{- $rendered := partial "cms/render-all.html" .blocks -}}
+
+{{- $ls := newScratch -}}
+{{- $ls.Set "meta" .  -}}
+{{- $ls.DeleteInMap "meta" "blocks" -}}
+
+{{- $meta := transform.Remarshal "yaml" $ls.Values.meta -}}
+{{- return (printf "---\n%s---\n%s" $meta $rendered) -}}

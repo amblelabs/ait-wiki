@@ -32,6 +32,14 @@ content:
       - name: prev
         label: Previous page (slug)
         type: string
+      - name: params
+        label: Parameters
+        type: object
+        fields:
+          - name: images
+            label: Images
+            list: true
+            component: any-image
       - name: sidebar
         label: Sidebar Options
         type: object

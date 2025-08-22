@@ -8,7 +8,7 @@
     {{- $string := readFile $filePath -}}
     {{- $data := unmarshal $string -}}
 
-    {{- $renderedContent := partial "cms/render-all.html" $data.blocks -}}
+    {{- $renderedContent := partial "cms/render-file.html" $data -}}
 
     {{- $dir := path.Dir $filePath -}}
     {{- $base := path.BaseName $filePath -}}
