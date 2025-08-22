@@ -1,0 +1,19 @@
+{{ $basePath := .basePath }}
+{{ $currentPath := .currentPath | default $basePath }}
+{{ $files := slice }}
+
+{{ range (readDir $currentPath) }}
+  {{ $itemName := .Name }}
+  {{ $itemPath := printf "%s/%s" $currentPath $itemName }}
+  
+  {{ if .IsDir }}
+    {{/* Recursively get files from subdirectory */}}
+    {{ $subFiles := partial "get-files-recursive.html" (dict "basePath" $basePath "currentPath" $itemPath) }}
+    {{ $files = $files | append $subFiles }}
+  {{ else }}
+    {{/* Add file to list */}}
+    {{ $files = $files | append $itemPath }}
+  {{ end }}
+{{ end }}
+
+{{ return $files }}

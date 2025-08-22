@@ -66,6 +66,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
+          hugo -s prebuild
           if [[ "${{ github.ref_name }}" == "main" ]]; then
             hugo \
               --gc --minify \

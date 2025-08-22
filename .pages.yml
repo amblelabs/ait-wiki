@@ -9,7 +9,8 @@ content:
   - name: wiki
     label: Wiki
     type: collection
-    path: content
+    path: prebuild/src
+    format: yaml
     filename: "{primary}.md"
     view:
       fields: [ title ]

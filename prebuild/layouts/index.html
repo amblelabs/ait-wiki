@@ -1,0 +1,20 @@
+{{- $allFilePaths := partial "get-files-recursive.html" (dict "basePath" "src") -}}
+
+{{- range $allFilePaths -}}
+  {{- $filePath := . -}}
+  {{- $fileExtension := path.Ext $filePath -}}
+
+  {{- if eq $fileExtension ".yaml" -}}
+    {{- $string := readFile $filePath -}}
+    {{- $data := unmarshal $string -}}
+
+    {{- $renderedContent := partial "cms/render-all.html" $data.blocks -}}
+
+    {{- $dir := path.Dir $filePath -}}
+    {{- $base := path.BaseName $filePath -}}
+    {{- $outputFile := printf "%s/%s.md" $dir $base -}}
+
+    {{- $resource := resources.FromString $outputFile $renderedContent -}} 
+    {{- $file := $resource.RelPermalink -}} 
+  {{- end -}}
+{{- end -}}
