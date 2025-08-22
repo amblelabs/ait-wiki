@@ -60,23 +60,5 @@ blocks:
       Growth**](https://amblelabs.github.io/ait-wiki/mechanics/tardis/completing_tardis_growth)
 
 
-      # RECIPES
-
-
-      *   Rift Scanner
-          
-
-      ![](/ait-wiki/mechanics/images/rift-chunks/scanner-recipe.png)
-
-
-      *   Fabricator
-          
-
-      ![](/ait-wiki/blocks/images/engine_stuff_blocks/fabricator_recipe.png)
-
-
-      *   Coral Growth
-          
-
-      ![](/ait-wiki/items/images/coral_recipe.png)
+      Recipes are on linked pages for respective item
 ---
