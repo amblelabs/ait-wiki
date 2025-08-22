@@ -2,10 +2,18 @@
 title: AIT Wiki
 baseURL: https://amblelabs.github.io/ait-wiki/
 
+enableRobotsTXT: true
+enableGitInfo: true
+
 # import hextra as module
 module:
   imports:
   - path: github.com/imfing/hextra
+  mounts:
+  - source: content
+    target: content
+  - source: prebuild/public/src
+    target: content
 
 markup:
   # allow raw html
@@ -52,6 +60,9 @@ params:
     enable: false
     displayCopyright: false
     displayPoweredBy: false
+  
+  toc:
+    displayTags: true
 
   editURL:
     enable: true
@@ -66,10 +77,3 @@ params:
       repoId: R_kgDOML5FAA
       category: General
       categoryId: DIC_kwDOML5FAM4CgOE1
-
-module:
-  mounts:
-  - source: content
-    target: content
-  - source: prebuild/public/src
-    target: content

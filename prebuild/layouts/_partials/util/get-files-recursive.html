@@ -8,7 +8,7 @@
   
   {{ if .IsDir }}
     {{/* Recursively get files from subdirectory */}}
-    {{ $subFiles := partial "get-files-recursive.html" (dict "basePath" $basePath "currentPath" $itemPath) }}
+    {{ $subFiles := partial "util/get-files-recursive.html" (dict "basePath" $basePath "currentPath" $itemPath) }}
     {{ $files = $files | append $subFiles }}
   {{ else }}
     {{/* Add file to list */}}

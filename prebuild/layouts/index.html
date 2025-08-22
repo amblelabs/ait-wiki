@@ -1,4 +1,4 @@
-{{- $allFilePaths := partial "get-files-recursive.html" (dict "basePath" "src") -}}
+{{- $allFilePaths := partial "util/get-files-recursive.html" (dict "basePath" "src") -}}
 
 {{- range $allFilePaths -}}
   {{- $filePath := . -}}

@@ -1,11 +1,11 @@
 {{- if eq ._type "text" -}}
     {{- .value | markdownify -}}
 {{- else if eq ._type "local-image" -}}
-    [{{ .src }}]({{ .alt }})
+    ![{{ .alt }}]({{ .src }})
 {{- else if eq ._type "callout" -}}
     {{- $content := .value | markdownify -}}
 
-    {{- $attrs := partial "build-attrs.html" (dict 
+    {{- $attrs := partial "cms/build-attrs.html" (dict 
         "emoji" .emoji
         "type" .type
         "icon" .icon
@@ -13,7 +13,7 @@
 
     {{- printf `{{< callout %s>}}%s{{< /callout >}}` $attrs $content | safeHTML -}}
 {{ else if eq .block._type "cards" }}
-    {{- $attrs := partial "build-attrs.html" (dict 
+    {{- $attrs := partial "cms/build-attrs.html" (dict 
         "cols" .cols
     ) -}}
 
@@ -21,7 +21,7 @@
 
     {{- printf `{{< cards %s>}}%s{{< /cards >}}` $attrs $renderedContent | safeHTML -}}
 {{ else if eq ._type "card" }}    
-    {{- $attrs := partial "build-attrs.html" (dict 
+    {{- $attrs := partial "cms/build-attrs.html" (dict 
         "link" .link
         "title" .title
         "tag" .tag
@@ -36,7 +36,7 @@
 {{ else if eq ._type "steps" }}
     {{- printf `{{< steps >}}%s{{< /steps >}}` .value | safeHTML -}}
 {{ else if eq ._type "details" }}
-    {{- $attrs := partial "build-attrs.html" (dict 
+    {{- $attrs := partial "cms/build-attrs.html" (dict 
         "title" .title
         "closed" .closed
     ) -}}
