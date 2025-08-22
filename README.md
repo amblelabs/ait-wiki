@@ -6,7 +6,6 @@ This wiki can be located [here](https://amblelabs.github.io/ait-wiki/).
 It is built using [Hugo Sites](https://gohugo.io/).
 The Archivus team uses [Pages CMS](https://pagescms.org/) for editing.
 
-
 ## Wiki Information
 The current version of AIT is 1.2.11 Fabric, 1.0.2+1.2.9 Forge.
 This wiki is not up to date with that. The Archivus team is working to rectify this.
