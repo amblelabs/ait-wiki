@@ -7,7 +7,7 @@ blocks:
       #### Q: Is there a channel with all of the community addons?
 
 
-      A: Yes, however some devs have there own servers, like:
+      A: Yes, however some developers have their own servers, like:
 
 
       *   [AIT Extras](https://discord.gg/5JDKuzarcS)
@@ -15,19 +15,19 @@ blocks:
       *   [AWT](https://discord.gg/pR4H948328)
           
 
-      You can find the other addons in the addons channel on our official
-      AmbleLabs discord server (make sure to get the AIT role first in `Channels
-      & Roles` first however).
+      You can find the other addons in the addons channel on teh AmbleLabs
+      discord server (make sure to get the AIT role first in `Channels &
+      Roles`).
   - _type: text
     alt: "What do I choose: datapack or mod for making an addon for AIT?"
     value: >-
       #### Q: What do I choose: datapack or mod for making an addon for AIT?
 
 
-      A: Depends. If you just want to add interiors, desktops, exterior and
-      console variants, custom tardis names and etc then you're free to choose
-      "datapack" as your option. Otherwise, making a mod is recommended. And
-      yes, you can use a datapack inside a mod.
+      A: If you just want to add interiors, desktops, exterior and console
+      variants, custom TARDIS names and etc., then feel free to create a
+      datapack. Otherwise, making a mod is recommended. You can also use a
+      datapack inside a mod.
   - _type: text
     alt: How do I make a mod addon?
     value: >-
@@ -49,50 +49,53 @@ blocks:
     value: |-
       #### Q: I changed my interior and now I can't turn the power on!
 
-      A: You need to set up the [engine](../blocks/engine).
+      A: You need to set up the [engine](../blocks/engine) again.
   - _type: text
     alt: Windows don't glow! (without Iris)
     value: >-
       #### Q: Windows don't glow! (without Iris)
 
 
-      A: Make sure you have power on. If you use Iris or any of its derivatives
-      then make sure you're using 1.0.5+ of AIT, or 1.0.6+ if you're on Forge.
+      A: Make sure you have the power on. If you use Iris or any of its
+      derivatives, make sure you're using 1.0.5+ of AIT, or 1.0.6+ if you're on
+      Forge.
   - _type: text
     alt: The toyota console is all black!
     value: >-
       #### Q: The toyota console is all black!
 
 
-      A: Make sure you have power on. If you use Iris or any of its derivatives
-      then make sure you're using 1.0.5+ of AIT, or 1.0.6+ if you're on Forge.
+      A: Make sure you have the power on. If you use Iris or any of its
+      derivatives, make sure you're using 1.0.5+ of AIT, or 1.0.6+ if you're on
+      Forge.
   - _type: text
     alt: What mods are incompatible with AIT?
     value: >-
       Q: What mods are incompatible with AIT?
 
 
-      A: Below are the ones we currently know about, if you know of any not
-      listed here please feel free to inform us!
+      A: Below are currently known incompatibilities, if you know of any not
+      listed here, please inform us!
 
 
       *   Immersive Portals: stops people from entering / exiting the TARDIS.
           
-      *   No Nametag Render: will stop the control names from showing (no ones
-      fault, its the mod doing its job).
+      *   No Nametag Render: will stop the control names from showing.
           
       *   Concurrent Chunk Management Engine (C2ME): seems to break rift chunks
       and TARDIS growth.
           
-      *   Distant Horizons (when installed on the server): breaks TARDIS growth.
+      *   Distant Horizons (when installed on the server): breaks TARDIS growth,
+      causes server crashes when entering a TARDIS. Clientside plays like
+      normal.
   - _type: text
     alt: The rendering is buggy with shaders
     value: >-
       #### Q: The rendering is buggy with shaders!
 
 
-      A: The recommended combination is Iris 1.6.17 and Sodium 0.5.8. Here's a
-      list of tested shaders:
+      A: The recommended combination is Iris 1.6.17 and Sodium 0.5.8, and above.
+      Here's a list of tested shaders:
 
 
       **Works**:
@@ -146,10 +149,12 @@ blocks:
       A: Beta testers? I don't know what you're talking about.
   - _type: text
     alt: Where can I download the mod?
-    value: |-
+    value: >-
       #### Q: Where can I download the mod?
 
-      A: [Here](https://modrinth.com/mod/ait).
+
+      A: [Modrinth](https://modrinth.com/mod/ait) or
+      [Curseforge](https://www.curseforge.com/minecraft/mc-mods/adventures-in-time).
   - _type: text
     alt: Can I get my [something] added?
     value: >-
@@ -157,8 +162,8 @@ blocks:
 
 
       A: No, end of discussion. If we feel like it fits, we will contact you
-      directly. For making suggestions for the mod please use the correct
-      channel in our [Discord Server](https://discord.gg/WjKhRjavCj)
+      directly. For making suggestions for the mod, please use the correct
+      channel in our [Discord Server.](https://discord.gg/WjKhRjavCj)
   - _type: text
     alt: How do I get beta builds?
     value: >-
@@ -166,7 +171,7 @@ blocks:
 
 
       A: Donators, beta testers, team members and some addon developers get
-      access to beta builds. To become a donator you can support
+      access to beta builds. To become a donator, you can support
       [Loqor](https://ko-fi.com/loqor) or [Theo](https://boosty.to/dr.theo).
   - _type: text
     alt: What perks do donators get?
@@ -194,11 +199,14 @@ blocks:
       #### Q: Can you add support for Immersive Portals / add your own BOTI
 
 
-      A: no we will not officially support immersive portals, we did once before
-      but it crashed a lot and had plenty of other issues. Yes we are adding our
-      own BOTI (slowly), we kinda have it right now in the form of seeing the
-      vortex from inside when you are in flight. Yes it will be similar to
-      immersive portals in the sense of seamless teleport. When will it be
-      out?... When its done!!
+      A: We will not officially support Immersive Portals due to it not playing
+      well with our mod. We briefly supported it but it proved to have plenty of
+      issues. We are adding our own BOTI system and have some of it implemented
+      now, however it will take time. Please be patient, it will be out when
+      it's done. You can join our Discord serer to get mod teasers and updates
+      to know when it's done!
+sidebar:
+  open: false
+  exclude: false
 ---
 MIGRATED
