@@ -1,9 +1,9 @@
 {{- if eq ._type "text" -}}
-    {{- .value | markdownify -}}
+    {{- .value | safeHTML -}}
 {{- else if eq ._type "local-image" -}}
     ![{{ .alt }}]({{ .src }})
 {{- else if eq ._type "callout" -}}
-    {{- $content := .value | markdownify -}}
+    {{- $content := .value | safeHTML -}}
 
     {{- $attrs := partial "cms/build-attrs.html" (dict 
         "emoji" .emoji
