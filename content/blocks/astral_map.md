@@ -1,23 +1,41 @@
 ---
 title: Astral Map
 params:
-    images:
-        - blocks/images/astral_map.png
+  images:
+    - blocks/images/astral_map.png
+blocks:
+  - _type: local-image
+    src: /ait-wiki/astral_map.webp
+    alt: Astral Map
+  - _type: text
+    alt: Content
+    value: >-
+      ## What Is It Used For?
+
+
+      An Astral Map lets you select and locate various structures located
+      throughout the game. These can include:
+
+
+      *   Cult Stuctures
+          
+      *   Ancient Cities
+          
+      *   Villages
+          
+
+      Clicking "SEARCH" applies the coordinates of the structure you selected to
+      your TARDIS. Afterwards, you can travel there like usual.  
+
+      If a structure is not available or in search radius of the Astral Map, you
+      will receive a 404 warning.
+
+
+      ## How Do I Craft It?
+
+
+      An Astral Map is made using the blueprint on the Fabricator.
+sidebar:
+  open: false
+  exclude: false
 ---
-
-
-![Image of the Astral Map](images/astral_map.png)
-## What Is It Used For?
-When placed inside of a TARDIS, it lets you select different structures located throughout the game. Examples being:
-
----
->- Cult Structures
->- Ancient Cities
->- Villages
----
-
-Clicking "SEARCH" will apply the coordinates of whatever structure you have searched for to your TARDIS, and you can then fly there.
-<br>***NOTE: IF A STRUCTURE IS NOT AVAILABLE YOU WILL RECEIVE A 404 WARNING***
-
-## How Do I Craft It?
-By using the Astral Map blueprint on the Fabricator.
