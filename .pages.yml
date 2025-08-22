@@ -11,7 +11,7 @@ content:
     type: collection
     path: prebuild/src
     format: yaml
-    filename: "{primary}.md"
+    filename: "{primary}.yaml"
     view:
       fields: [ title ]
     fields:
