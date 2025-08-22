@@ -24,14 +24,14 @@ blocks:
       #### Q: Why doesn't BOTI work? It glitches my screen!
 
 
-      A: Install the `Chloride` mod with the `embeddium` mod!
+      A: Install the `Chloride` mod with the `Embeddium` mod!
 
 
       #### Q: Where can I report an issue for forge?
 
 
-      A: On the AIT Github page, but make sure to select `Forge` under the `Mod
-      loader` tab!
+      A: On the AIT Github page, but make sure to select `Forge` under the
+      `Modloader` tab!
 
 
       #### Q: When will Forge updates come out?
@@ -43,13 +43,14 @@ blocks:
       ## Incompatible mods!
 
 
-      ###### `this list will expand based on reported issues!`
+      ###### `This list will expand based on reported issues!`
 
 
       *   OptiFine. OptiFine is generally incompatible with a lot of mods, so we
       recommend Embeddium instead.
           
-      *   C2ME (Concurrent Chunk Management)
+      *   C2ME (Concurrent Chunk Management). Breaks rift chunks and TARDIS
+      growth.
           
       *   Distant Horizons (if installed on the server). Will cause server
       crashes when entering a TARDIS. Client-side Distant Horizons play like
