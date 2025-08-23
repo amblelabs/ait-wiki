@@ -1,4 +1,4 @@
-title: Gallifrey Falls
+title: Gallifrey Falls Painting
 blocks:
   - _type: local-image
     src: /blocks/images/gallifrey_falls.png
@@ -6,8 +6,8 @@ blocks:
   - _type: text
     alt: Description
     value: >-
-      # "That's where you got it wrong, it's all in one title: Gallifrey Falls
-      No More." - The War Doctor.
+      **“That’s where you got it wrong, it’s all in one title: Gallifrey Falls
+      No More.” - The War Doctor.**
 
 
       A bigger on the inside painting, inspired by [the one
