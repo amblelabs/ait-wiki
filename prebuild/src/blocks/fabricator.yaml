@@ -38,7 +38,7 @@ blocks:
       fabricator tells you what items and the amount you need.
 
 
-      But JEI support MAY come in the future.
+      But support for these mods MAY come in the future.
   - _type: local-image
     src: /blocks/images/engine_stuff_blocks/fabricator_recipe.png
     alt: Fabricator Recipe
