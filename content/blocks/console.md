@@ -38,7 +38,7 @@ To use the Console Generator, follow this easy guide:
 
 ## How Do I Use a TARDIS Console?
 
-If you're having a hard time finding the controls, you can use the [**Scanning Mode**](../items/sonic#scanning-mode) of a [**Sonic Screwdriver**](https://amblelabs.github.io/ait-wiki/items/sonic/). Alternatively, you can turn on debugging mode for viewing entity **hitboxes** by using F3+B (pressing again will turn them off).
+If you're having a hard time finding the controls, you can use the [**Scanning Mode**](https://amblelabs.github.io/ait-wiki/items/sonic/#scanning-mode) of a [**Sonic Screwdriver**](https://amblelabs.github.io/ait-wiki/items/sonic/). Alternatively, you can turn on debugging mode for viewing entity **hitboxes** by using F3+B (pressing again will turn them off).
 
 Right or left click on any of the controls to activate them. Certain controls - like the **throttle** - need you to crouch to increment (or decrement) them fully up or down but will do normal increments when freestanding.
 
