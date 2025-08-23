@@ -11,6 +11,8 @@ on:
       - 'prebuild/**'
       - 'hugo.yaml'
 
+      - '.github/workflows/deploy.yml'
+
   # Allow manual workflow execution
   workflow_dispatch:
 
