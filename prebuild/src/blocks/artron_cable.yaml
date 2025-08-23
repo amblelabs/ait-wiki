@@ -20,3 +20,6 @@ blocks:
   - _type: local-image
     src: /blocks/images/engine_stuff_blocks/acr.png
     alt: Recipe of the Artron Cables
+sidebar:
+  open: false
+  exclude: false
