@@ -56,7 +56,7 @@ The [**Protocol Controls**](https://amblelabs.github.io/ait-wiki/mechanics/tardi
 
 The **Antigravs Control** will make the TARDIS' exterior hover in place by preventing it from falling, but uses [**Artron Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron/) while active.
 
-The [**Waypoint Controls**](../items/cartridge) are better explained in this webpage.
+The [**Waypoint Controls**](https://amblelabs.github.io/ait-wiki/items/cartridge/) are better explained in this webpage.
 
 The **Power Control** toggles the TARDIS' power and engines. While off, it renders most of the console non-functional. Any controls that were active will be disabled when the power is off (except for the Handbrake and Refueler control).
 
