@@ -1,0 +1,22 @@
+title: Gallifrey Falls
+blocks:
+  - _type: local-image
+    src: /blocks/images/gallifrey_falls.png
+    alt: Gallifrey Falls picture
+  - _type: text
+    alt: Description
+    value: >-
+      # "That's where you got it wrong, it's all in one title: Gallifrey Falls
+      No More." - The War Doctor.
+
+
+      A bigger on the inside painting, inspired by [the one
+      seen](https://tardis.fandom.com/wiki/Gallifrey_Falls_No_More) in the
+      special episode "[The Day of the
+      Doctor](https://en.wikipedia.org/wiki/The_Day_of_the_Doctor)".
+  - _type: local-image
+    src: /blocks/images/falls_recipe_upd.webp
+    alt: Crafting Recipe
+sidebar:
+  open: false
+  exclude: false
