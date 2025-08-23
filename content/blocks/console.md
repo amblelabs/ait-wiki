@@ -68,7 +68,7 @@ The **Door Lock** locks the TARDIS' exterior doors, rendering them inoperable un
 
 The [**Monitor Control**](./monitor) is explained more in this webpage.
 
-The **Refuel Control** requires the Handbrake to be engaged. It will then slowly take in [**Artron Energy**](../mechanics/artron) over time. Being inside a [**Rift Chunk**](../mechanics/rift-chunks) will significantly increase refueling speed.
+The **Refuel Control** requires the Handbrake to be engaged. It will then slowly take in [**Artron Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron/) over time. Being inside a [**Rift Chunk**](../mechanics/rift-chunks) will significantly increase refueling speed.
 
 The **Land Type Control** forces the TARDIS to look for a **surface** to land on. Left-clicking controls whether it searches in the horizontal direction, while right-clicking cycles through various vertical land types. If both are disabled, then the TARDIS will land at the exact **destination coordinates** as entered.
 
