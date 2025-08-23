@@ -1,10 +1,7 @@
 title: Astral Map
-params:
-  images:
-    - blocks/images/astral_map.png
 blocks:
   - _type: remote-image
-    src: blocks/images/astral_map.webp
+    src: https://github.com/amblelabs/ait-wiki/blob/main/content/blocks/images/astral_map.webp
   - _type: text
     alt: Content
     value: >-
@@ -33,9 +30,6 @@ blocks:
 
 
       An Astral Map is made using the blueprint on the Fabricator.
-
-
-      Page Last Updated: 22/08/2025, LeeFerreira
 sidebar:
   open: false
   exclude: false
