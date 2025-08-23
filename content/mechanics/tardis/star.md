@@ -8,10 +8,10 @@ params:
 
 ## What does it do?
 
-Floats far below the TARDIS interior and spins at a slow pace. When **The TARDIS** is refueling the Ortu Solis's Rays begin pulsing.
+Floats far below the TARDIS interior and spins at a slow pace. When **The TARDIS** is refueling the Eye of Harmony's Rays begin pulsing.
 
-If a player drops items into the Ortu Solis, they will be deposited back at the main door of the TARDIS
+If a player drops items into the Eye of Harmony, they will be deposited back at the main door of the TARDIS
 
-If a player falls into the Ortu Solis, they will be deposited back at the main door of the TARDIS
+If a player falls into the Eye of Harmony, they will be deposited back at the main door of the TARDIS
 
-**NOTE: ORTU SOLIS GOES SUPER-NOVA DURING SECURITY PROTOCOL 000 (Self-Destruct). ALL ITEMS LEFT INSIDE THE INTERIOR OF THE TARDIS WILL BE DESTROYED** plus it's really gigantic :3
+**NOTE: THE EYE OF HARMONY GOES SUPER-NOVA DURING SECURITY PROTOCOL 000 (Self-Destruct). ALL ITEMS LEFT INSIDE THE INTERIOR OF THE TARDIS WILL BE DESTROYED** plus it's really gigantic :3
