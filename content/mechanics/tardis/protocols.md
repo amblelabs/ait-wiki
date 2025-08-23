@@ -40,7 +40,7 @@ Hail Mary Mode also requires [Artron energy](../../mechanics/artron) to operate,
 
 On the console, find "Protocol 19" and use a key linked to the current TARDIS and click on the control. Once that's done, anyone that has a key linked to the current TARDIS can use the console, but anyone without a linked key cannot interact with the console at all, though via the security menu you're able to change what loyalty rank is required for players to interact with the console while P19 is active.
 
-# Protocol 000 (AKA **_Self-Destruct_**)
+# Protocol 000 (AKA **Self-Destruct**)
 
 This is a special kind of protocol that cannot be triggered via its own button, instead give the TARDIS a **Nether Star** via the telepathic circuits, this sends out the message "SELF DESTRUCT INITIATED ABORT SHIP" appear to anyone in the interior. Once everyone has vacated the interior the TARDIS deadlocks itself as the TARDIS star within goes supernova and blows up, resulting in a medium sized explosion where the TARDIS was.
 
@@ -48,11 +48,11 @@ This is a special kind of protocol that cannot be triggered via its own button, 
 
 {{< callout type="warning" >}} Once self destruct is enabled it cannot be stopped, so you better only let trustworthy people get inside your TARDIS, incase it is activated grab whatever you can from your interior. Once your TARDIS is destroyed it is not possible to retrieve destroyed items from it. {{< /callout >}}
 
-# Protocol 515 (AKA Emergency Land / Artron Dump)
+# Protocol 515 (AKA **Emergency Land / Artron Dump**)
 
 This protocol can be used for emergency escapes. How? It dumps all your artron and immediately travels to your destination, but (as a side effect) it does 1000 damage to each Circuit (aside from the Gravitational circuit).
 
-# Protocol 54 (AKA Electric Discharge)
+# Protocol 54 (AKA **Electric Discharge**)
 
 It produces an electric shock around the exterior, if someone is near the "electrocution zone", it gives them the following effects as a result;
 
