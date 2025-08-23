@@ -1,8 +1,0 @@
-{{ $output := "" }}
-
-{{ range . }}
-  {{ $blockHtml := partial "cms/render.html" . }}
-  {{ $output = printf "%s\n%s" $output $blockHtml }}
-{{ end }}
-
-{{ return $output }}
