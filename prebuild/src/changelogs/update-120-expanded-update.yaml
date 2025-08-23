@@ -8,10 +8,9 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      
       This update revamps and adds The Engine, SThis update revamps and adds The Engine, Sub-Systems, planets, and a
       plethora of new blocks / items and much more to enhance the minecraft
-      \"sci-fi\" experience!
+      "sci-fi" experience!
 
       ## Planets / Structures
       *   Mars
@@ -49,50 +48,20 @@ blocks:
       *   Plasmic Material
       *   Superheated Zeiton
       *   Martian Stone Tools
-
-      \   \ 
-
       *   Anorthosite Tools
-
-      \   \ 
-
       *   Handles
-
-      \   \ 
-
       *   Fabric
-
-      \   \ 
-
       *   Space Suit Armor
-
-      \   \ 
-
       *   Blueprints
-
-      \   \ 
-
       *   Fluid Links; Artron, Data, Vortex
-
-      \   \ 
-
       *   Mercurial Link; Artron, Data, Vortex
-
-      \   \ 
-
       *   Components; Orthogonal Engine Filter, Transwarp Resonator, Photon
       Accelerator, Hyperion Core Shaft
-
-      \   \ 
 
       *   Subsystem Circuits; Dematerialization, Shields, Backup, Gravitational,
       Chameleon, Desperation, Stabilisers, Life support
 
-      \   \ 
-
       *   Skeleton Key
-
-      \   \ 
 
 
       ### Interiors
@@ -118,11 +87,7 @@ blocks:
 
       *   Implemented self-destruct
 
-      \   \ 
-
       *   i was gonna do this but then i ran out of motivation :sob:
-
-      \   \ 
 
 
       ## Changes
@@ -163,15 +128,10 @@ blocks:
 
       *   Gravity
 
-      \   \ 
-
       *   Oxygen
-
-      \   \ 
 
 
       ## Version Changes 1.2.x
-
 
       **_1.2.10.2824-1.20.1-release(July 24th 2025)_** \ 
 
@@ -463,7 +423,7 @@ blocks:
 
       Mini Addititons (#1401) \ 
 
-      fix: remove barrier blocks on engine break (#1267)"
+      fix: remove barrier blocks on engine break (#1267)
 sidebar:
   open: false
   exclude: false
