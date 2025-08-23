@@ -10,7 +10,7 @@ The Interior Door is a vital part of the TARDIS, much like the [Console](https:/
 
 ## How Do I Create An Interior Door?
 
-Unlike the [Console](./console), it is breakable and movable by the player in survival. It's crafted with the recipe in a crafting table as shown below:
+Unlike the [Console](https://amblelabs.github.io/ait-wiki/blocks/console/), it is breakable and movable by the player in survival. It's crafted with the recipe in a crafting table as shown below:
 
 ![Image of the recipe](./images/interior_door/recipe.png)
 
