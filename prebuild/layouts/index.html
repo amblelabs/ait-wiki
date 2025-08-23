@@ -20,7 +20,7 @@
       {{- $editSuffix := replace $filePath "/" $sep -}}
 
       {{- $editURL := site.Params.editURL.base -}}
-      {{- $editURL := delimit (slice $editURL (replace $filePath "/" $sep )) $sep -}}
+      {{- $editURL = printf "%s%s%s" $editURL $sep (replace $filePath "/" $sep ) -}}
 
       {{- $generatedMeta = merge $generatedMeta (dict "editURL" $editURL) -}}
     {{- end -}}
