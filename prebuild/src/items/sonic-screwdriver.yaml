@@ -1,16 +1,111 @@
 title: Sonic Screwdriver
 blocks:
+  - _type: local-image
+    src: /items/images/sonic/prime.webp
+    alt: Sonic Image
   - _type: text
-    alt: Intro
+    alt: Content
     value: >-
       # Sonic Screwdriver
 
 
       The Sonic Screwdriver is a multi-purpose handheld device capable of a
       variety of tasks, ranging from TNT detonation to TARDIS summoning.
-  - _type: local-image
-    src: /items/images/sonic/prime.webp
-    alt: Sonic Image
+
+
+      ## Obtaining
+
+
+      The Sonic Screwdriver is created using the
+      [Fabricator](https://amblelabs.github.io/ait-wiki/blocks/fabricator),
+      requiring a matching Blueprint and the following materials:
+
+
+      *   1x Artron Collector Unit
+          
+      *   5-8x Zeiton Shards
+          
+      *   3-5x Iron Ingots
+          
+      *   1x Redstone Repeater
+          
+      *   5-6x Redstone Dust
+          
+
+      ## Charging and Linking
+
+
+      Once created, the Sonic Screwdriver will require power to operate, it can
+      be charged either from an Artron Collector or by inserting it into the
+      Sonic Port on the TARDIS Console.
+
+
+      Once inserted into the Console, the Sonic will be linked to the TARDIS,
+      and cannot be linked to another.
+
+
+      To remove it from the Sonic Port, left click it and it will drop as an
+      item.
+
+
+      ## Sonic Modes
+
+
+      The Sonic Screwdriver has 4 active modes, which can be cycled through by
+      crouching and right clicking with it in your hand. To activate the chosen
+      mode, simply hold right click.
+
+
+      ### Interaction Mode
+
+
+      In this mode, the Sonic Screwdriver can perform **2** functions:
+
+
+      *   Open and close Iron Doors/Trapdoors (and modded equivalents)
+          
+      *   Adjust Redstone Repeaters, Redstone Comparators and Daylight Detectors
+      from long distances.
+          
+
+      ### Overload Mode
+
+
+      In this mode, the Sonic Screwdriver can perform **5** functions:
+
+
+      *   Light Candles
+          
+      *   Activate Redstone Lamps
+          
+      *   Ignite TNT
+          
+      *   Break Glass
+          
+      *   Set fires on Obsidian
+          
+
+      ### Scanning Mode
+
+
+      In this mode, the Sonic Screwdriver can perform **6** functions:
+
+
+      *   Detect the energy level of [Rift
+      Chunks](https://amblelabs.github.io/ait-wiki/mechanics/rift-chunks)
+          
+      *   Show the name of the Console Control you are looking at
+          
+      *   Show the required sequence for Flight Events while in the Sonic Port
+          
+      *   Show the durability of the
+      [Engine](https://amblelabs.github.io/ait-wiki/blocks/tardis-engine) and
+      [Subsystems](https://amblelabs.github.io/ait-wiki/blocks/generalized_subsystem_core)
+          
+      *   Show the blast resistance and required tool level of the block you are
+      looking at
+          
+      *   Show the current health of the entity you are looking at
 sidebar:
   open: false
   exclude: false
