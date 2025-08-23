@@ -14,21 +14,21 @@ blocks:
     value:
       - title: Console
         subtitle: The console is the central control unit of the TARDIS.
-        link: blocks/console/
+        link: console/
         image:
           _type: remote-image
           src: images/console.png
       - title: Engine
         subtitle: The engine is what gives the TARDIS life. Connect different components
           to the engine in order to power it.
-        link: blocks/engine/
+        link: engine/
         image:
           _type: remote-image
           src: images/engine_stuff_blocks/engine.png
       - title: Interior Door
         subtitle: Your gateway between the exterior and interior dimensions of the
           TARDIS.
-        link: blocks/door/
+        link: door/
         image:
           _type: remote-image
           src: images/interior_door/policebox_interior_door.png
