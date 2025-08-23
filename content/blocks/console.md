@@ -52,7 +52,7 @@ The **Direction Control** will change which direction your exterior faces the ne
 
 The **Fast Return Control** will set the destination coordinates to the last location the TARDIS landed at. Right-click the Fast Return control to activate fast return, click it again to set the destination back to your current location.
 
-The [**Protocol Controls**](../mechanics/tardis/protocols) are explained in this webpage.
+The [**Protocol Controls**](https://amblelabs.github.io/ait-wiki/mechanics/tardis/protocols/) are explained in this webpage.
 
 The **Antigravs Control** will make the TARDIS' exterior hover in place by preventing it from falling, but uses [**Artron Energy**](../mechanics/artron) while active.
 
