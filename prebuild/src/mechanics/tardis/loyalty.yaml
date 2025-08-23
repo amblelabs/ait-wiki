@@ -1,4 +1,3 @@
----
 title: TARDIS Loyalty
 blocks:
   - _type: text
@@ -94,5 +93,3 @@ blocks:
 
       Sleep in a bed inside the tardis, a sound will play indicating your
       loyalty rank and a message will appear as well.
----
-Echo did this

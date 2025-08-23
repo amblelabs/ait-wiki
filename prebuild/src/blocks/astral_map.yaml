@@ -1,4 +1,3 @@
----
 title: Astral Map
 params:
   images:
@@ -42,4 +41,3 @@ blocks:
 sidebar:
   open: false
   exclude: false
----
