@@ -74,7 +74,7 @@ The **Land Type Control** forces the TARDIS to look for a **surface** to land on
 
 The **Randomiser Control** does exactly what is says on the tin. It randomises the destination coordinates depending on how high the **Increment Control** is set.
 
-The **Shields Control** has 2 functional modes, the first being invisible shields and the second visible shields. Find more information in the [Mechanics](../mechanics/tardis/shields) section.
+The **Shields Control** has 2 functional modes, the first being invisible shields and the second visible shields. Find more information in the [Mechanics](https://amblelabs.github.io/ait-wiki/mechanics/tardis/shields/) section.
 
 The **Telepathic Circuit** has 3 functions:
 
