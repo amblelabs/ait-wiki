@@ -1,0 +1,12 @@
+{{- $attrs := partial "cms/build-attrs.html" (dict 
+    "link" .link
+    "title" .title
+    "tag" .tag
+    "tagType" .tagType
+    "subtitle" .subtitle
+    "image" .image.src
+    "method" .method
+    "options" .options
+) -}}
+
+{{- printf `{{< card %s>}}` $attrs | safeHTML -}}

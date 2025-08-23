@@ -12,27 +12,21 @@
     ) -}}
 
     {{- printf `{{< callout %s>}}%s{{< /callout >}}` $attrs $content | safeHTML -}}
-{{ else if eq .block._type "cards" }}
+{{ else if eq ._type "cards" }}
     {{- $attrs := partial "cms/build-attrs.html" (dict 
         "cols" .cols
     ) -}}
 
-    {{- $renderedContent := partial "cms/render-all.html" .value -}}
+    {{- $renderedContent := "" -}}
+
+    {{- range .value -}}
+      {{- $blockHtml := partial "cms/render-card.html" . -}}
+      {{- $renderedContent = printf "%s\n%s" $renderedContent $blockHtml -}}
+    {{- end -}}
 
     {{- printf `{{< cards %s>}}%s{{< /cards >}}` $attrs $renderedContent | safeHTML -}}
 {{ else if eq ._type "card" }}    
-    {{- $attrs := partial "cms/build-attrs.html" (dict 
-        "link" .link
-        "title" .title
-        "tag" .tag
-        "tagType" .tagType
-        "subtitle" .subtitle
-        "image" .image
-        "method" .method
-        "options" .options
-    ) -}}
-
-    {{- printf `{{< card %s>}}` $attrs | safeHTML -}}
+    {{- partial "cms/render-card.html" . -}}
 {{ else if eq ._type "steps" }}
     {{- printf `{{< steps >}}%s{{< /steps >}}` .value | safeHTML -}}
 {{ else if eq ._type "details" }}

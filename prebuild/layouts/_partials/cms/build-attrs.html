@@ -1,11 +1,10 @@
 {{ $params := . | default dict }}
-{{ $paramStrings := slice }}
+{{ $paramStrings := "" }}
 
 {{ range $key, $value := $params }}
   {{ if $value }} {{/* Only include non-nil, non-empty values */}}
-    {{ $paramStrings = $paramStrings | append (printf "%s=\"%s\"" $key $value) }}
+    {{ $paramStrings = printf "%s%s=\"%v\" " $paramStrings $key $value }}
   {{ end }}
 {{ end }}
 
-{{ $result := delimit $paramStrings " " }}
-{{ return $result }}
+{{ return $paramStrings }}
