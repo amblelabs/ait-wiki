@@ -54,7 +54,7 @@ The **Fast Return Control** will set the destination coordinates to the last loc
 
 The [**Protocol Controls**](https://amblelabs.github.io/ait-wiki/mechanics/tardis/protocols/) are explained in this webpage.
 
-The **Antigravs Control** will make the TARDIS' exterior hover in place by preventing it from falling, but uses [**Artron Energy**](../mechanics/artron) while active.
+The **Antigravs Control** will make the TARDIS' exterior hover in place by preventing it from falling, but uses [**Artron Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron/) while active.
 
 The [**Waypoint Controls**](../items/cartridge) are better explained in this webpage.
 
