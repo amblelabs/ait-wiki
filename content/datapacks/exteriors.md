@@ -150,10 +150,6 @@ And once you make sure the textures are inside of the directory above, then you'
 }
 ```
 
-## Biome Overlays
-
-Biome overlays appear when you land in certain biomes. They are only visual and don't actually affect gameplay and there's a good amount of them, and you can add them to your custom exterior.
-
 ## Translating Your Exterior
 
 You are probably wondering why (in the monitor) your tardis is called something like `exterior.(namespace).(exterior_name)`. Well that is because it is NOT translated, here is how to. (FYI you can replace `en_us.json` with the name of any language you use, [see that list here](https://minecraft.wiki/w/Language))
