@@ -9,3 +9,10 @@ outputs:
 security:
   funcs:
     os: [ "os.Stat" ]
+
+params:
+  displayUpdatedDate: true
+  editURL:
+    enable: true
+    base: "https://app.pagescms.org/amblelabs/ait-wiki/main/collection/wiki/edit/prebuild"
+    sep: "%2F"

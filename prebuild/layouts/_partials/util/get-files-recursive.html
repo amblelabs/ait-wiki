@@ -4,7 +4,7 @@
 
 {{ range (readDir $currentPath) }}
   {{ $itemName := .Name }}
-  {{ $itemPath := printf "%s/%s" $currentPath $itemName }}
+  {{ $itemPath := urls.JoinPath $currentPath $itemName }}
   
   {{ if .IsDir }}
     {{/* Recursively get files from subdirectory */}}

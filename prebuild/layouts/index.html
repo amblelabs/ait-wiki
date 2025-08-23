@@ -8,12 +8,29 @@
     {{- $string := readFile $filePath -}}
     {{- $data := unmarshal $string -}}
 
-    {{- $lastUpdated := (os.Stat $filePath).ModTime -}}
-    {{- $renderedContent := partial "cms/render-file.html" (merge $data (dict "lastUpdated" $lastUpdated)) -}}
+    {{- $generatedMeta := dict -}}
+
+    {{- if site.Params.displayUpdatedDate -}}
+      {{- $lastUpdated := (os.Stat $filePath).ModTime -}}
+      {{- $generatedMeta = merge $generatedMeta (dict "lastUpdated" $lastUpdated) -}}
+    {{- end -}}
+
+    {{- if site.Params.editURL.enable -}}
+      {{- $sep := site.Params.editURL.sep -}}
+      {{- $editSuffix := replace $filePath "/" $sep -}}
+
+      {{- $editURL := site.Params.editURL.base -}}
+      {{- $editURL := delimit (slice $editURL (replace $filePath "/" $sep )) $sep -}}
+
+      {{- $generatedMeta = merge $generatedMeta (dict "editURL" $editURL) -}}
+    {{- end -}}
+
+    {{- $renderedContent := partial "cms/render-file.html" (merge $data $generatedMeta) -}}
 
     {{- $dir := path.Dir $filePath -}}
-    {{- $base := path.BaseName $filePath -}}
-    {{- $outputFile := printf "%s/%s.md" $dir $base -}}
+
+    {{- $fileName := printf "%s%s" (path.BaseName $filePath) ".md" -}}
+    {{- $outputFile := urls.JoinPath $dir $fileName -}}
 
     {{- $resource := resources.FromString $outputFile $renderedContent -}} 
     {{- $file := $resource.RelPermalink -}} 
