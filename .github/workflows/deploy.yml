@@ -78,11 +78,10 @@ jobs:
               --baseURL "${{ steps.pages.outputs.base_url }}/${{ github.ref_name }}/"
           fi
 
-      # Step 6: Upload the built site as an artifact
-      - name: Upload site artifact
+      - name: Upload prebuild artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./prebuild/public
 
   # Deploy job
   deploy:
