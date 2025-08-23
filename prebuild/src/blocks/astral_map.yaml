@@ -3,9 +3,8 @@ params:
   images:
     - blocks/images/astral_map.png
 blocks:
-  - _type: local-image
-    src: /ait-wiki/astral_map.webp
-    alt: Astral Map
+  - _type: remote-image
+    src: blocks/images/astral_map.webp
   - _type: text
     alt: Content
     value: >-
@@ -33,10 +32,9 @@ blocks:
       ## How Do I Craft It?
 
 
-      An Astral Map is made using the blueprint on the Fabricator.  
-        
+      An Astral Map is made using the blueprint on the Fabricator.
 
-        
+
       Page Last Updated: 22/08/2025, LeeFerreira
 sidebar:
   open: false
