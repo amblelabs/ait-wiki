@@ -62,7 +62,8 @@ blocks:
       coordinates, dimension and direction the TARDIS will be facing.
           
       *   A yellow fuel icon at the bottom, with a percentage next to it
-      indicating how much [**Artron Energy**](../mechanics/artron) is left.
+      indicating how much [**Artron
+      Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron/) is left.
           
       *   A green hourglass below that, with a percentage next to it indicating
       flight progress.
@@ -160,7 +161,7 @@ blocks:
 
       1.  The top shows various menu entries.
           
-          *   **Cache Console**: Will replace your [**Console**](./console) with a **Console Generator** in order for you to either move the console and/or choose a different console type _(and / or variant)_.
+          *   **Cache Console**: Will replace your [**Console**](https://amblelabs.github.io/ait-wiki/blocks/console/) with a **Console Generator** in order for you to either move the console and/or choose a different console type _(and / or variant)_.
               
           *   **Security Options**: As the name suggests, this allows you to set various options related to security, see the [**Security Protocols**](https://amblelabs.github.io/ait-wiki/mechanics/tardis/security/) page for more info.
               
