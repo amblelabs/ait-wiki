@@ -10,7 +10,8 @@ blocks:
 
 
       Artron cables used to connect [Generalized Subsystem
-      Cores](./generalized_subsystem_core.md) to the TARDIS' engine.  
+      Cores](https://amblelabs.github.io/ait-wiki/blocks/generalized_subsystem_core/)
+      to the TARDIS' engine.  
 
       You don't need to connect every core separately. If core blocks are
       touching, they can be connected to the engine as one group.
