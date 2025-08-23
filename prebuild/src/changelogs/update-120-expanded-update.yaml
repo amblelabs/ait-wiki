@@ -4,13 +4,10 @@ description: 'Update 1.2.0 - "Expanded" Update (notes: idk if this page or
 blocks:
   - _type: local-image
     src: /changelogs/images/ait-1.2.0.png
-    alt: content in ait 1.2.0
+    alt: Promo Image
   - _type: text
     alt: Content
-    value: "![Update 1.2.0](images/ait-1.2.0.png)
-
-
-      This update revamps and adds The Engine, Sub-Systems, planets, and a
+    value: "This update revamps and adds The Engine, Sub-Systems, planets, and a
       plethora of new blocks / items and much more to enhance the minecraft
       \"sci-fi\" experience!
 
