@@ -1,0 +1,3 @@
+[submodule "prebuild/layouts"]
+	path = prebuild/layouts
+	url = https://github.com/drtheodor/hugo-pagescms-template.git
