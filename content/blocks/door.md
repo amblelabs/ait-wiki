@@ -20,7 +20,7 @@ Interacting with the **Interior Door** will cycle through its states: closed -> 
 
 Using a **linked Key** (of any type) on the **Interior Door** will close and lock it. Using the key on it again will unlock (but not open) it.
 
-If you have a **Gold, Netherite or Classic Key**n then snapping your fingers (the default keybind is "**V**") will open the **door**. However, this requires a certain loyalty rank.
+If you have a **Gold, Netherite or Classic Key** then snapping your fingers (the default keybind is "**V**") will open the **door**. However, this requires a certain loyalty rank.
 
 Opening the **Interior Door** during flight will cause all living entities (including players) inside the **TARDIS** to be sucked towards the door, sending them into the Vortex, which eventually drop them out in a random dimension and location.
 
