@@ -59,7 +59,7 @@ content:
       - { name: description, label: Description, type: string }
       - name: body
         label: Plain Body
-        description: Do NOT use. This exists only for the sole purpose of editing old (pre-CMS) wiki content.
+        description: Do NOT use. This exists only for the sole purpose of migrating old (pre-CMS) wiki content.
         type: rich-text
 components:
   any-block:
