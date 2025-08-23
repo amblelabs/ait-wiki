@@ -8,7 +8,7 @@ on:
       - 'content/**'
       - 'layouts/**'
       - 'static/**'
-      - 'prebuild/src/**'
+      - 'prebuild/**'
       - 'hugo.yaml'
 
   # Allow manual workflow execution
