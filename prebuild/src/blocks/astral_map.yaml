@@ -1,7 +1,7 @@
 title: Astral Map
 blocks:
-  - _type: remote-image
-    src: https://github.com/amblelabs/ait-wiki/blob/main/content/blocks/images/astral_map.webp
+  - _type: local-image
+    src: /blocks/images/astral_map.webp
   - _type: text
     alt: Content
     value: >-
