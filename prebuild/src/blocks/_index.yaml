@@ -42,33 +42,33 @@ blocks:
       - title: Monitor
         subtitle: The Monitor is where you can view TARDIS info, settings, and
           customisation.
-        link: blocks/monitor/
+        link: monitor/
         image:
           _type: remote-image
           src: images/wall_monitor.png
       - title: Wall Monitor
         subtitle: The Wall Monitor is the Monitor. On the wall. It's a wall monitor.
-        link: blocks/wall-monitor/
+        link: wall-monitor/
         image:
           _type: remote-image
           src: images/wall_monitor.png
       - title: Environment Projector
         subtitle: The Environment Projector can change the skybox of your TARDIS.
-        link: blocks/environment-projector/
+        link: environment-projector/
         image:
           _type: remote-image
           src: images/environment_projector.png
       - title: Interior Detector Block
         subtitle: The Interior Detector Block can detect various states of the TARDIS,
           such as dematerialisation and refuelling state.
-        link: blocks/detector/
+        link: detector/
         image:
           _type: remote-image
           src: images/detector_block.png
       - title: TARDIS Plaque
         subtitle: The TARDIS Plaque can display information like the creation date and
           name of your TARDIS.
-        link: blocks/plaque/
+        link: plaque/
         image:
           _type: remote-image
           src: images/plaque.png
