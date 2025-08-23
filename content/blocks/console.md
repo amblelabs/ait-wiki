@@ -66,7 +66,7 @@ The **Door Control** cycles the TARDIS' exterior doors open/close state when rig
 
 The **Door Lock** locks the TARDIS' exterior doors, rendering them inoperable until they are unlocked again via a linked TARDIS Key or by using the Door Lock control once again. If the power is off, then by using an axe on the exterior doors they can be broken open.
 
-The [**Monitor Control**](./monitor) is explained more in this webpage.
+The [**Monitor Control**](https://amblelabs.github.io/ait-wiki/blocks/monitor-blocks/) is explained more in this webpage.
 
 The **Refuel Control** requires the Handbrake to be engaged. It will then slowly take in [**Artron Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron/) over time. Being inside a [**Rift Chunk**](../mechanics/rift-chunks) will significantly increase refueling speed.
 
