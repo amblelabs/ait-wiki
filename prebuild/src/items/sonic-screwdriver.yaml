@@ -1,0 +1,16 @@
+title: Sonic Screwdriver
+blocks:
+  - _type: text
+    alt: Intro
+    value: >-
+      # Sonic Screwdriver
+
+
+      The Sonic Screwdriver is a multi-purpose handheld device capable of a
+      variety of tasks, ranging from TNT detonation to TARDIS summoning.
+  - _type: local-image
+    src: /items/images/sonic/prime.webp
+    alt: Sonic Image
+sidebar:
+  open: false
+  exclude: false
