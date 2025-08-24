@@ -1,0 +1,11 @@
+title: Handyman!
+blocks:
+  - _type: text
+    alt: Content
+    value: |-
+      The advancement "**Handyman!**" is simple to get,
+
+      simply fix **any** subsystem you have connected with iron or copper.
+sidebar:
+  open: false
+  exclude: false
