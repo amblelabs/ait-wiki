@@ -1,8 +1,5 @@
 title: Waypoint Cartridge
 blocks:
-  - _type: text
-    alt: Waypoint Cartridge
-    value: "# Waypoint Cartridge"
   - _type: local-image
     src: /items/images/waypoints/waypoints.png
   - _type: text
