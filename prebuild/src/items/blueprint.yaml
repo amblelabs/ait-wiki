@@ -2,6 +2,25 @@ title: Blueprint
 blocks:
   - _type: text
     alt: Blueprint
+    value: >-
+      blueprint
+
+
+      **What do i do with one?**
+
+
+      With a blueprint you first need a fabricator, once you set up the
+      fabricator use the blueprint on it and follow the instructions.
+
+
+      **Where do i find them?**
+
+
+      You find blueprints in any structure that has a chest, these include but
+      are not limited too:
+
+
+      Shipwrecks and Nether Fortresses
 sidebar:
   open: false
   exclude: false
