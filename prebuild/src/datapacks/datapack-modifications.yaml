@@ -12,7 +12,19 @@ blocks:
     alt: Card Group
     cols: 2
     value:
-      - {}
+      - title: Custom Exterior Skins
+        subtitle: You can customize what you want your favorite TARDIS Exterior to looks
+          like.
+        link: datapacks/custom-exterior
+        image:
+          _type: local-image
+          src: /datapacks/images/custom_exterior.png
+      - title: Custom Interiors
+        subtitle: Don't like AIT interiors and feel like you can do better? well you can.
+        link: datapacks/custom-interiors
+        image:
+          _type: local-image
+          src: /datapacks/images/custom_interior.png
 sidebar:
   open: false
   exclude: false
