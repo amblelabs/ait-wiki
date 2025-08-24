@@ -3,6 +3,10 @@ blocks:
   - _type: text
     alt: Planet
     value: >-
+      {{< callout type="warning" >}} You need to learn how texture pack and
+      datapacks works! {{< /callout >}}
+
+
       ## Create a Datapack
 
 
@@ -91,20 +95,20 @@ blocks:
 
 
       *   Place your **.png** planet texture in this path
-          
+
 
       `assets/(namespace)/textures/environment/(plant_name).png`
 
 
       *   Place your .**png** ring texture emission in the same path
-          
+
 
       `assets/(namespace)/textures/environment/(plant_name)_ring.png`
 
 
       *   If you want people to be able to see your planet texture variant, they
       will need this **resource pack**.
-          
+
 
       ## Example Reference That’s Easy to Follow :)
 
