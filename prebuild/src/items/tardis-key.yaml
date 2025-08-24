@@ -1,0 +1,62 @@
+title: TARDIS Key
+blocks:
+  - _type: text
+    alt: TARDIS Key
+    value: |-
+      # TARDIS Key
+
+      ## What keys are there?
+
+      *   Iron
+          
+      *   Gold
+          
+      *   Netherite
+          
+      *   Classic
+  - _type: local-image
+    src: /items/images/keys/key/keys.png
+  - _type: text
+    alt: "What do they do? "
+    value: >-
+      ## What do they do?
+
+
+      Everything after iron unlocks snapping if you have enough loyalty for it.
+      Each rank of key increases the snapping range aside from iron, which
+      doesn’t give the ability to snap.
+  - _type: text
+    alt: How do I get the keys?
+    value: "## How do I get the keys?"
+  - _type: text
+    alt: "Iron key "
+    value: Iron key
+  - _type: local-image
+    src: /items/images/keys/recipe/iron key.png
+  - _type: text
+    alt: "Gold key "
+    value: Gold key
+  - _type: local-image
+    src: /items/images/keys/recipe/gold key.png
+  - _type: text
+    alt: "Netherite key "
+    value: Netherite key
+  - _type: local-image
+    src: /items/images/keys/recipe/netherite key.png
+  - _type: text
+    alt: "Classic key "
+    value: Classic key
+  - _type: local-image
+    src: /items/images/keys/recipe/classic key.png
+  - _type: text
+    alt: "How do I get those awesome key trims? "
+    value: "## How do I get those awesome key trims?"
+  - _type: local-image
+    src: /items/images/keys/recipe/iron trim.png
+  - _type: local-image
+    src: /items/images/keys/recipe/gold trim.png
+  - _type: local-image
+    src: /items/images/keys/recipe/netherite trim.png
+sidebar:
+  open: false
+  exclude: false
