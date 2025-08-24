@@ -1,8 +1,5 @@
 title: Hypercube
 blocks:
-  - _type: text
-    alt: Hypercube
-    value: "# Hypercube"
   - _type: local-image
     src: /items/images/hb.png
   - _type: text
