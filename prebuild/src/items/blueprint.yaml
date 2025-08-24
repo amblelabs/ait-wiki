@@ -21,6 +21,8 @@ blocks:
 
 
       Shipwrecks and Nether Fortresses
+  - _type: local-image
+    src: /blueprint..jpg
 sidebar:
   open: false
   exclude: false
