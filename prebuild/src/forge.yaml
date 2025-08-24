@@ -1,7 +1,7 @@
 title: AIT Forge Information
 blocks:
   - _type: local-image
-    src: /ait-wiki/images/forge.png
+    src: /images/forge.png
     alt: AIT Forge(r) logo
   - _type: text
     alt: Content
