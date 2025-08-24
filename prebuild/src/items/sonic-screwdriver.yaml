@@ -1,8 +1,5 @@
 title: Sonic Screwdriver
 blocks:
-  - _type: text
-    alt: Sonic Screwdriver
-    value: "# Sonic Screwdriver"
   - _type: local-image
     src: /items/images/sonic/mechanical.png
   - _type: text
