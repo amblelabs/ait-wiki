@@ -5,6 +5,7 @@ blocks:
     value: "# Cult Stasers"
   - _type: local-image
     src: /items/images/guns/guns.png
+    alt: guns png
   - _type: text
     alt: "What are These? "
     value: >-
@@ -25,8 +26,9 @@ blocks:
     value: "## How do i give them ammo?"
   - _type: local-image
     src: /items/images/guns/ammo.png
+    alt: ammo png
   - _type: text
-    alt: Content
+    alt: "How do i give them ammo? "
     value: By using the Staser Bolt Magazine (also found in Cult structure chests).
       To “insert” it, open your inventory and grab the Staser Bolt Magazine then
       hover over the weapon of your choice and `right click`. But if the
