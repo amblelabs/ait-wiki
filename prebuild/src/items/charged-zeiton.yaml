@@ -11,6 +11,9 @@ blocks:
       tardis with it, `crouch right-click` the console.
 
 
+      ![](/items/images/zeiton/items/charged_zeiton_recipe.png)
+
+
       ## Why cant i just use normal zeiton?
 
 
@@ -18,9 +21,10 @@ blocks:
       required amount of artron units.
 
 
+      ![](/items/images/zeiton/items/Charge.png)
+
+
       ## Well how do i get charged zeiton then?
-  - _type: local-image
-    src: /charged_zeiton_recipe..jpg
   - _type: text
     alt: Charged Zeiton
     value: >-
