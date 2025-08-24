@@ -1,8 +1,5 @@
 title: Hazandra
 blocks:
-  - _type: text
-    alt: Hazandra
-    value: "# Hazandra"
   - _type: local-image
     src: /items/images/hr.png
   - _type: text
