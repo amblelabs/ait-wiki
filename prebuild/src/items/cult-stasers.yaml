@@ -1,8 +1,6 @@
 title: Cult Stasers
 blocks:
   - _type: local-image
-    src: /items/images/guns/guns.png
-    alt: guns png
   - _type: text
     alt: "What are These? "
     value: >-
