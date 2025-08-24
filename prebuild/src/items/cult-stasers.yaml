@@ -1,8 +1,5 @@
 title: Cult Stasers
 blocks:
-  - _type: text
-    alt: Cult Stasers
-    value: "# Cult Stasers"
   - _type: local-image
     src: /items/images/guns/guns.png
     alt: guns png
