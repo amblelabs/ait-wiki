@@ -3,12 +3,13 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      The advancement "Time-space engineer" can be achived by:
+      The advancement "**Time-space engineer**" can be achived by:
 
 
       1.  having an engine placed down inside your TARDIS
           
-      2.  having generalized subsystem cores connected to your TARDIS Engine
+      2.  having generalized subsystem cores **connected** to your TARDIS
+      **Engine**
           
       3.  Placing any component/subsystem inside of the generalized subsystem
       cores.
