@@ -1,8 +1,5 @@
 title: Respirators
 blocks:
-  - _type: text
-    alt: Respirators
-    value: "# Respirators"
   - _type: local-image
     src: /items/images/respirator/respirators.png
   - _type: text
