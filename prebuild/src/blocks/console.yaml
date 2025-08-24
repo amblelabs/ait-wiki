@@ -31,7 +31,7 @@ blocks:
 
       Once you have a fully grown TARDIS there will be a Soul Sand block where
       the console should be. Place a Coral Growth on that Soul Sand Block and
-      make sure to light up the area. After a while a console will grow.
+      make sure to light up the area. After a while, a console will grow.
 
 
       You are provided with one Console Generator when you cache the console.
@@ -50,14 +50,15 @@ blocks:
       in the monitor of an existing console.)
 
 
-      To use the Console Generator, follow this easy guide:
+      To use the Console Generator:
 
 
       1.  Right-click or Left-click on the Console Generator to browse through
       the **types** of consoles.
           
-      2.  Right-click or Left-click on the Console Generator _while crouching_
-      to browse through the **variants** of the current type.
+      2.  Right-click or Left-click on the Console Generator _while crouching
+      with an empty hand_ to browse through the **variants** of the current
+      type.
           
       3.  Confirm the console by using a [**Sonic
       Screwdriver**](../../items/sonic) or blaze powder on it.
@@ -84,24 +85,23 @@ blocks:
       freestanding.
 
 
-      The **Increment Control** is a special control, however; it cycles through
-      1-10-100-1000-10000; left-click cycles counter-clockwise and right-click
-      cycles clockwise.
+      The **Increment Control** cycles through 1-10-100-1000-10000; left-click
+      decreases the increment, while right-click increases it.
 
 
       The **Coordinate System** (X, Y and Z) requires you to right-click to
-      decrease the respective axis coordinate by the chosen increment and
-      left-click to increase by the increment.
+      increase the respective axis coordinate by the chosen increment and
+      left-click to decrease by the increment.
 
 
       The **Dimension Control** will change the destination dimension.
       Left-click or right-click to cycle through the dimensions in either
-      direction.
+      direction. **Note that the Nether and the End are locked by default.**
 
 
       The **Direction Control** will change which direction your exterior faces
       the next time you land. Available directions are North, East, South, West,
-      as well as NE, SE, SW and NW. Right-click the control to change the facing
+      as well as NE, NW, SE, and SW. Right-click the control to rotate
       clockwise, left-click for counter-clockwise.
 
 
@@ -124,7 +124,7 @@ blocks:
 
       The [**Waypoint
       Controls**](https://amblelabs.github.io/ait-wiki/items/cartridge/) are
-      better explained in this webpage.
+      explained in this webpage.
 
 
       The **Power Control** toggles the TARDIS' power and engines. While off, it
@@ -138,7 +138,7 @@ blocks:
 
 
       The **Door Control** cycles the TARDIS' exterior doors open/close state
-      when right- or left-clicked. (Some doors have multiple open states.)
+      when right- or left-clicked. Some doors have multiple open states.
 
 
       The **Door Lock** locks the TARDIS' exterior doors, rendering them
@@ -153,11 +153,11 @@ blocks:
 
 
       The **Refuel Control** requires the Handbrake to be engaged. It will then
-      slowly take in [**Artron
+      slowly refuel [**Artron
       Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron/) over
       time. Being inside a [**Rift
       Chunk**](https://amblelabs.github.io/ait-wiki/mechanics/rift-chunks/) will
-      significantly increase refueling speed.
+      significantly increase refuelling speed.
 
 
       The **Land Type Control** forces the TARDIS to look for a **surface** to
