@@ -64,7 +64,13 @@ blocks:
       *   Inside this new .json file, paste
           
 
-      `"id": "namespace:desktop_name"`
+      ```
+
+      {
+          "id": "namespace:desktop_name"
+      }
+
+      ```
 
 
       *   replacing the namespace and the **desktop\_name** with your own from
