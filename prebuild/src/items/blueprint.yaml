@@ -1,0 +1,7 @@
+title: Blueprint
+blocks:
+  - _type: text
+    alt: Blueprint
+sidebar:
+  open: false
+  exclude: false
