@@ -1,0 +1,30 @@
+title: Hypercube
+blocks:
+  - _type: text
+    alt: Hypercube
+    value: "# Hypercube"
+  - _type: local-image
+    src: /items/images/hb.png
+  - _type: text
+    alt: "What is the hypercube? "
+    value: >-
+      ## What is the hypercube?
+
+
+      A way to transmit a SOS signal,when you craft the cube right click and all
+      tardis’s will recive a copy of the cube with 100 durability which
+      decreases overtime,to accept it right click the telepathic circuits and
+      the TARDIS will begin tracking the SOS signal redireceting the cords to
+      the originating point of the Hypercube.
+
+
+      Do note that in the SECURITY tab of the TARDIS your able to select if you
+      wish to recive SOS signals or not.
+  - _type: text
+    alt: How do i craft it?
+    value: "## How do i craft it?"
+  - _type: local-image
+    src: /items/images/hbr.png
+sidebar:
+  open: false
+  exclude: false
