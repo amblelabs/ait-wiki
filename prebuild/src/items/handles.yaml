@@ -1,0 +1,201 @@
+title: Handles
+blocks:
+  - _type: text
+    alt: Handles heading
+    value: "# Handles"
+  - _type: local-image
+    src: /items/images/handles/in_console.png
+  - _type: text
+    alt: This is Handles!
+    value: >-
+      ## This is Handles!
+
+
+      Similar to the show, (using the minecraft chat) Handles can fulfill
+      various TARDIS related commands. But firstly you need to find him. He can
+      be found in the Wrecked Cybership structure which spawns in Swamp biomes.
+      Once you"ve found him, you’ll need to link him to your Tardis by placing
+      him into the sonic port.
+  - _type: text
+    alt: "How Handles Works. "
+    value: >-
+      ## How Handles Works.
+
+
+      Once placed into the sonic port, he will be able to accept commands given
+      by you. To do so use the in game chat and type “Handles” followed by a
+      command you want him to fulfill, Handles will respond with a specific
+      message based on what you ask him to do or an error message if you give
+      him a wrong command. He will NOT do flight events for you when he’s in the
+      Sonic Port!
+  - _type: text
+    alt: "Misc stuff "
+    value: |-
+      ## Misc stuff
+
+      ```
+          "help"
+          "tell me a joke"
+          "tell me a fun fact"
+      ```
+  - _type: text
+    alt: "Demat "
+    value: |-
+      ## Demat
+
+      ```
+          "take off"
+          "takeoff"
+          "start flight"
+          "fly"
+          "allons-y"
+          "geronimo"
+          "demat"
+          "dematerialize"
+      ```
+  - _type: text
+    alt: Remat
+    value: |-
+      ## Remat
+
+      ```
+          "land"
+          "stop flight"
+          "stop flying"
+      ```
+  - _type: text
+    alt: "Shields "
+    value: |-
+      ## Shields
+
+      ```
+          "toggle shields"
+          "shields"
+      ```
+  - _type: text
+    alt: "Alarms "
+    value: |-
+      ## Alarms
+
+      ```
+          "toggle alarms"
+          "alarms"
+          "cloister"
+          "cloister bells"
+      ```
+  - _type: text
+    alt: Anti-Gravs
+    value: |-
+      ## Anti-Gravs
+
+      ```
+          "toggle antigravs"
+          "antigravs"
+          "antimavs"
+          "gravity"
+      ```
+  - _type: text
+    alt: "Cloak "
+    value: |-
+      ## Cloak
+
+      ```
+          "toggle cloak"
+          "cloak"
+          "p3"
+          "protocol 3"
+      ```
+  - _type: text
+    alt: "Open door "
+    value: |-
+      ## Open door
+
+      ```
+          "open doors"
+          "open the doors"
+          "open"
+          "door open"
+          "open door"
+          "open sesame"
+      ```
+  - _type: text
+    alt: ContentClose door
+    value: |-
+      ## Close door
+
+      ```
+          "close the doors"
+          "close doors"
+          "close"
+          "door close"
+          "close door"
+      ```
+  - _type: text
+    alt: Toggle lock
+    value: |-
+      ## Toggle lock
+
+      ```
+          "toggle lock"
+          "toggle door lock"
+          "lock"
+          "door lock"
+      ```
+  - _type: text
+    alt: "Activate handbrake "
+    value: |-
+      ## Activate handbrake
+
+      ```
+          "activate handbrake"
+          "handbrake on"
+      ```
+  - _type: text
+    alt: "Disable handbrake "
+    value: |-
+      ## Disable handbrake
+
+      ```
+          "disable handbrake"
+          "handbrake off"
+      ```
+  - _type: text
+    alt: "Activate refuel "
+    value: |-
+      ## Activate refuel
+
+      ```
+          "enable refuelling"
+          "activate refuelling"
+          "activate refuel"
+          "refuel"
+          "start refueling"
+          "refueling on"
+      ```
+  - _type: text
+    alt: Disable refuelling
+    value: |-
+      ## Disable refuelling
+
+      ```
+          "stop refueling"
+          "stop refuel"
+          "disable refueling"
+          "disable refuel"
+          "halt refueling process"
+          "refueling off"
+      ```
+  - _type: text
+    alt: Displace
+    value: |-
+      ## Displace
+
+      ```
+          "displace"
+          "waypoint"
+          "go to waypoint"
+          "fly to waypoint"
+      ```
+sidebar:
+  open: false
+  exclude: false
