@@ -101,8 +101,8 @@ blocks:
           
       *   Shield circuit; unlocks both shield types
   - _type: text
-    alt: "Recepies for non blueprint items! "
-    value: "## Recepies for non blueprint items!"
+    alt: "Recipes for non blueprint items! "
+    value: "## Recipes for non blueprint items!"
   - _type: local-image
     src: /items/images/ind.png
   - _type: local-image
