@@ -198,12 +198,8 @@ blocks:
       #### Q: Can you add support for Immersive Portals / add your own BOTI
 
 
-      A: We will not officially support Immersive Portals due to it not playing
-      well with our mod. We briefly supported it but it proved to have plenty of
-      issues. We are adding our own BOTI system and have some of it implemented
-      now, however it will take time. Please be patient, it will be out when
-      it's done. You can join our Discord serer to get mod teasers and updates
-      to know when it's done!
+      A: We are working on support for Immersive Portals currently. You can join
+      our Discord serer to get mod teasers and updates to know when it's done!
 sidebar:
   open: false
   exclude: false
