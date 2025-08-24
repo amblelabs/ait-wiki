@@ -23,7 +23,8 @@ blocks:
 
       *   1x Artron Collector Unit
           
-      *   5-8x Zeiton Shards
+      *   5-8x [Zeiton](https://amblelabs.github.io/ait-wiki/items/zeiton)
+      Shards
           
       *   3-5x Iron Ingots
           
@@ -37,7 +38,8 @@ blocks:
 
       Once created, the Sonic Screwdriver will require power to operate, it can
       be charged either from an Artron Collector or by inserting it into the
-      Sonic Port on the TARDIS Console.
+      Sonic Port on the [TARDIS
+      Console](https://amblelabs.github.io/ait-wiki/blocks/console).
 
 
       Once inserted into the Console, the Sonic will be linked to the TARDIS,
@@ -106,6 +108,50 @@ blocks:
       looking at
           
       *   Show the current health of the entity you are looking at
+          
+
+      ### TARDIS Mode
+
+
+      In this mode, the Sonic Screwdriver can perform **3** functions:
+
+
+      *   Summon the TARDIS within 256 blocks (Stabilisers required)
+          
+      *   When held in off-hand and used while looking directly up in a linked
+      TARDIS, will engage flight.
+          
+      *   When held in off-hand and used while looking directly down in a linked
+      TARDIS, will activate the Refueller.
+          
+
+      ### TARDIS Repair
+
+
+      In any mode, using the Sonic on the exterior of a crashed TARDIS will
+      start to repair it. Right clicking the exterior mid-repair will tell you
+      the amount of time needed to complete repairs. Shift-click the exterior at
+      any time to remove the Sonic, but this will halt the repair until it is
+      re-inserted. When the repairs are complete, the alarms will stop. Simply
+      remove the Sonic to complete repairs.
+
+
+      ## Sonic Customisation
+
+
+      The casing of the Sonic Screwdriver can be changed to suit your style
+      using the TARDIS Console. To access the customisation menu, put it in the
+      Sonic Port, enter the Monitor, go into the options and select Sonic
+      Settings. This menu will tell you the current casing, charge level, and
+      linked TARDIS ID. You can change the casing by using the arrow buttons to
+      look through the available designs, and the middle button to apply the
+      selected casing.
+
+
+      ![](/items/images/sonic/prime-Converted.webp)
+
+
+      New casings can be added via Addon Mods or Datapacks.
 sidebar:
   open: false
   exclude: false
