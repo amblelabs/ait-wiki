@@ -3,8 +3,6 @@ blocks:
   - _type: text
     alt: TARDIS Key
     value: |-
-      # TARDIS Key
-
       ## What keys are there?
 
       *   Iron
