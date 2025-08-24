@@ -1,4 +1,4 @@
-title: Custom Mugs
+title: man i love hotdogs
 blocks:
   - _type: text
     alt: Content
@@ -27,7 +27,7 @@ blocks:
 
 
       *   Inside this new .json file, paste
-          
+
 
       > ```json
 
