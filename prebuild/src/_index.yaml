@@ -122,7 +122,7 @@ blocks:
       - title: Sonic Screwdriver
         subtitle: The Sonic Screwdriver is a handheld device used for various tasks, and
           is the most important tool for a TARDIS user.
-        link: items/sonic/
+        link: items/sonic Screwdriver/
         image:
           _type: local-image
           src: items/images/sonic/in_port.png
