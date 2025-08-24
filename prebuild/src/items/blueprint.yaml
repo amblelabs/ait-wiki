@@ -3,7 +3,7 @@ blocks:
   - _type: text
     alt: Blueprint
     value: >-
-      blueprint
+      ![](/items/images/blueprint.png)
 
 
       **What do i do with one?**
@@ -21,8 +21,6 @@ blocks:
 
 
       Shipwrecks and Nether Fortresses
-  - _type: local-image
-    src: /blueprint..jpg
 sidebar:
   open: false
   exclude: false
