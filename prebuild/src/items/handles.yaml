@@ -1,8 +1,5 @@
 title: Handles
 blocks:
-  - _type: text
-    alt: Handles heading
-    value: "# Handles"
   - _type: local-image
     src: /items/images/handles/in_console.png
   - _type: text
