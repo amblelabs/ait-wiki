@@ -1,8 +1,5 @@
 title: Psychic Paper
 blocks:
-  - _type: text
-    alt: Psychic Paper
-    value: "# Psychic Paper"
   - _type: local-image
     src: /items/images/fancy_paper.png
   - _type: text
