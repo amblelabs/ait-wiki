@@ -96,6 +96,15 @@ blocks:
 
       `RangedIntProperty` allows you to automatically clamp the value between a
       start and end integers.
+
+
+      {{< callout type="info" >}} Only do this if the desired behaviour _breaks_
+      with values out of the range. Otherwise, make a public setter for the
+      value, that clamps it.
+
+
+      The clamp range will affect values set by packets and commands too. {{<
+      /callout >}}
 sidebar:
   open: false
   exclude: false
