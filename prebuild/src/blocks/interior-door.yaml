@@ -11,7 +11,7 @@ blocks:
       be interacted with by a player. You’ll need this to exit your TARDIS, as
       it’s the barrier between the exterior world and your TARDIS interior.
       Interior Doors can be mined and placed through-out the interior wherever
-      the player requires. It cannot be broken by hand but must be mined with a
+      the player requires. It cannot be broken by hand and must be mined with a
       pickaxe.
 
 
@@ -31,9 +31,10 @@ blocks:
 
 
       Interacting with the **Interior Door** will cycle through its states:
-      closed -> half open, half open -> both open, and both open -> closed,
-      depending on the door type. If you sneak and interact with the door, it
-      will open or close it fully (regardless of its state).
+      closed -> half open, half open -> both open, and both open -> closed.
+      Depending on the door type, it may not have a half open state. If you
+      sneak and interact with the door, it will open or close it fully
+      (regardless of its current state).
 
 
       Using a **linked Key** (of any type) on the **Interior Door** will close
@@ -63,9 +64,9 @@ blocks:
       the monitor by pressing the buttons next to “hum”.  
 
       To take a look at the Vortex without getting sucked out the door, it is
-      recommended you turn on the shields before opening the door. And if you
-      disable the **Stabiliser Control** (autopilot), your TARDIS will spin in
-      the Vortex (due to the flight not being stabilised).
+      recommended you turn on the shields before opening the door. If you
+      disable the **Stabiliser Control** (autopilot), your TARDIS will also spin
+      in the Vortex (due to the flight not being stabilised).
 
 
       ![Image of the Police Box Interior
