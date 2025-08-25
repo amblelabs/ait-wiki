@@ -72,9 +72,7 @@ blocks:
 
 
       If you're having a hard time finding the controls, you can use the
-      [**Scanning
-      Mode**](https://amblelabs.github.io/ait-wiki/items/sonic/#scanning-mode)
-      of a [**Sonic
+      **Scanning Mode** of a [**Sonic
       Screwdriver**](https://amblelabs.github.io/ait-wiki/items/sonic/).
       Alternatively, you can turn on debugging mode for viewing entity
       **hitboxes** by using F3+B (pressing again will turn them off).
