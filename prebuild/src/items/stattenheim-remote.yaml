@@ -1,7 +1,7 @@
 title: Stattenheim Remote
 blocks:
   - _type: local-image
-    src: /items/images/stat.png
+    src: /images/items/stat.png
   - _type: text
     alt: "What does it do? "
     value: >-
@@ -35,7 +35,7 @@ blocks:
     alt: Crafting Recipe
     value: "## Crafting Recipe"
   - _type: local-image
-    src: /items/images/statt_recipe.png
+    src: /images/items/statt_recipe.png
 sidebar:
   open: false
   exclude: false

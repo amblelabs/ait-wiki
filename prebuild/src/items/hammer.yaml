@@ -1,7 +1,7 @@
 title: Hammer
 blocks:
   - _type: local-image
-    src: /items/images/hammer/hammer.png
+    src: /images/items/hammer/hammer.png
     alt: hammer
   - _type: text
     alt: Hammer
@@ -65,7 +65,7 @@ blocks:
     alt: Crafting Recipe
     value: "## Crafting Recipe"
   - _type: local-image
-    src: /items/images/hammer/recipe.png
+    src: /images/items/hammer/recipe.png
     alt: recipe
 sidebar:
   open: false

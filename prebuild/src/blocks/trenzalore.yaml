@@ -1,7 +1,7 @@
 title: Trenzalore Painting
 blocks:
   - _type: local-image
-    src: /blocks/images/trenzalore.webp
+    src: /images/blocks/trenzalore.webp
     alt: Trenzalore picture
   - _type: text
     alt: Description
@@ -16,7 +16,7 @@ blocks:
       special "[The Name of the
       Doctor](https://en.wikipedia.org/wiki/The_Name_of_the_Doctor)".
   - _type: local-image
-    src: /blocks/images/trenz_recipe.webp
+    src: /images/blocks/trenz_recipe.webp
     alt: Crafting Recipe
 sidebar:
   open: false

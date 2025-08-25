@@ -1,7 +1,7 @@
 title: Fabricator
 blocks:
   - _type: local-image
-    src: /blocks/images/engine_stuff_blocks/fabricator.png
+    src: /images/blocks/engine_stuff_blocks/fabricator.png
     alt: Fabricator Picture
   - _type: text
     alt: Description
@@ -37,7 +37,7 @@ blocks:
       fabricator tells you what items and the amount you need. Support for these
       mods MAY come in the future.
   - _type: local-image
-    src: /blocks/images/engine_stuff_blocks/fabricator_recipe.png
+    src: /images/blocks/engine_stuff_blocks/fabricator_recipe.png
     alt: Fabricator Recipe
 sidebar:
   open: false

@@ -1,7 +1,7 @@
 title: Sonic Screwdriver
 blocks:
   - _type: local-image
-    src: /items/images/sonic/mechanical.png
+    src: /images/items/sonic/mechanical.png
   - _type: text
     alt: Sonic
     value: >-
@@ -17,7 +17,7 @@ blocks:
       Port**, and it will eject from the
       [**Console**](https://amblelabs.github.io/ait-wiki/blocks/console).
   - _type: local-image
-    src: /items/images/sonic/in_port.png
+    src: /images/items/sonic/in_port.png
   - _type: text
     alt: Charge
     value: >-
@@ -117,7 +117,7 @@ blocks:
       casing, check it’s power, see what TARDIS it’s linked to and what casing
       it has.
   - _type: local-image
-    src: /items/images/sonic/sonic-settings.png
+    src: /images/items/sonic/sonic-settings.png
   - _type: text
     alt: Casing
     value: >-
@@ -136,7 +136,7 @@ blocks:
       to that casing then punching the **Sonic Port** and it should give you
       back the Sonic Screwdriver.
   - _type: local-image
-    src: /items/images/sonic/casings.png
+    src: /images/items/sonic/casings.png
   - _type: text
     alt: "Sonic TARDIS Repair "
     value: >-
@@ -165,7 +165,7 @@ blocks:
       **TARDIS Exterior** (if not just shift+right-click and it will pop out)
       and the TARDIS is repaired for you to use again.
   - _type: local-image
-    src: /items/images/sonic/repairing.png
+    src: /images/items/sonic/repairing.png
   - _type: text
     alt: "Other Info "
     value: >-
@@ -182,7 +182,7 @@ blocks:
       **Overdrive** Mode. **_The sonic can be used to cancel out engine phasing
       aswell_**
   - _type: local-image
-    src: /items/images/sonic/crosshair.png
+    src: /images/items/sonic/crosshair.png
   - _type: text
     alt: Other Info 2
     value: >-

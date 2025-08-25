@@ -1,7 +1,7 @@
 title: Psychic Paper
 blocks:
   - _type: local-image
-    src: /items/images/fancy_paper.png
+    src: /images/items/fancy_paper.png
   - _type: text
     alt: What Does The Psychic Paper Do?
     value: >-
@@ -16,13 +16,13 @@ blocks:
       2.  Changes your ingame name. This happens if you rename the Psychic Paper
       in an anvil and you then hold the item.
   - _type: local-image
-    src: /items/images/john_smith.png
+    src: /images/items/john_smith.png
     alt: john Smith
   - _type: text
     alt: Recipe
     value: "## Recipe"
   - _type: local-image
-    src: /items/images/fancy_paper_recipe.png
+    src: /images/items/fancy_paper_recipe.png
 sidebar:
   open: false
   exclude: false

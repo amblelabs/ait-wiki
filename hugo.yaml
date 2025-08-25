@@ -86,6 +86,6 @@ params:
       category: General
       categoryId: DIC_kwDOML5FAM4CgOE1
 
-caches:
-  images:
-    dir: :cacheDir/images
+#caches:
+#  images:
+#    dir: :cacheDir/images

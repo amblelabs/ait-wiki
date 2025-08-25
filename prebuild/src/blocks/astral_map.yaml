@@ -1,7 +1,7 @@
 title: Astral Map
 blocks:
   - _type: local-image
-    src: /blocks/images/astral_map.webp
+    src: /images/blocks/astral_map.png
   - _type: text
     alt: Content
     value: >-

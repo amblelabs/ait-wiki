@@ -1,7 +1,7 @@
 title: Handles
 blocks:
   - _type: local-image
-    src: /items/images/handles/in_console.png
+    src: /images/items/handles/in_console.png
   - _type: text
     alt: This is Handles!
     value: >-

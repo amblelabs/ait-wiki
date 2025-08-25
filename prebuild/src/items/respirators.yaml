@@ -1,7 +1,7 @@
 title: Respirators
 blocks:
   - _type: local-image
-    src: /items/images/respirator/respirators.png
+    src: /images/items/respirator/respirators.png
   - _type: text
     alt: What Do These Do?
     value: >-
@@ -21,9 +21,9 @@ blocks:
     alt: Recipes
     value: "## Recipes"
   - _type: local-image
-    src: /items/images/respirator/respirator_full.png
+    src: /images/items/respirator/respirator_full.png
   - _type: local-image
-    src: /items/images/respirator/respirator_half.png
+    src: /images/items/respirator/respirator_half.png
 sidebar:
   open: false
   exclude: false

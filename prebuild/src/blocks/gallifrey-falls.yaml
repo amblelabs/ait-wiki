@@ -1,7 +1,7 @@
 title: Gallifrey Falls Painting
 blocks:
   - _type: local-image
-    src: /blocks/images/gallifrey_falls.png
+    src: /images/blocks/gallifrey_falls.png
     alt: Gallifrey Falls picture
   - _type: text
     alt: Description
@@ -15,7 +15,7 @@ blocks:
       special episode "[The Day of the
       Doctor](https://en.wikipedia.org/wiki/The_Day_of_the_Doctor)".
   - _type: local-image
-    src: /blocks/images/falls_recipe_upd.webp
+    src: /images/blocks/falls_recipe_upd.png
     alt: Crafting Recipe
 sidebar:
   open: false

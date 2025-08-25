@@ -1,7 +1,7 @@
 title: Artron Cable
 blocks:
   - _type: local-image
-    src: /blocks/images/engine_stuff_blocks/ac.png
+    src: /images/blocks/engine_stuff_blocks/ac.png
     alt: Image of Artron Cables
   - _type: text
     alt: Content
@@ -19,7 +19,7 @@ blocks:
 
       ## How Do I Craft Them?
   - _type: local-image
-    src: /blocks/images/engine_stuff_blocks/acr.png
+    src: /images/blocks/engine_stuff_blocks/acr.png
     alt: Recipe of the Artron Cables
 sidebar:
   open: false

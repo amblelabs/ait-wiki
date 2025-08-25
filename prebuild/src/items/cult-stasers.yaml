@@ -20,7 +20,7 @@ blocks:
     alt: "How do i give them ammo? "
     value: "## How do i give them ammo?"
   - _type: local-image
-    src: /items/images/guns/ammo.png
+    src: /images/items/guns/ammo.png
     alt: ammo png
   - _type: text
     alt: "How do i give them ammo? "

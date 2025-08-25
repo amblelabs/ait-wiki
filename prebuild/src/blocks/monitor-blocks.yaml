@@ -1,7 +1,7 @@
 title: Monitor Blocks
 blocks:
   - _type: local-image
-    src: /blocks/images/monitor.png
+    src: /images/blocks/monitor.png
     alt: Monitor Pic
   - _type: text
     alt: General Content

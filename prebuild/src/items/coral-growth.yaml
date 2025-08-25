@@ -1,7 +1,7 @@
 title: Coral Growth
 blocks:
   - _type: local-image
-    src: /items/images/coral.png
+    src: /images/items/coral.png
   - _type: text
     alt: Coral?
     value: >-
@@ -36,7 +36,7 @@ blocks:
     alt: "Recipe "
     value: "## Recipe"
   - _type: local-image
-    src: /items/images/coral_recipe.png
+    src: /images/items/coral_recipe.png
 sidebar:
   open: false
   exclude: false

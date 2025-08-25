@@ -1,7 +1,7 @@
 title: Hypercube
 blocks:
   - _type: local-image
-    src: /items/images/hb.png
+    src: /images/items/hb.png
   - _type: text
     alt: "What is the hypercube? "
     value: >-
@@ -21,7 +21,7 @@ blocks:
     alt: How do i craft it?
     value: "## How do i craft it?"
   - _type: local-image
-    src: /items/images/hbr.png
+    src: /images/items/images/hbr.png
 sidebar:
   open: false
   exclude: false
