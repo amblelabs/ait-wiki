@@ -201,21 +201,18 @@ blocks:
   - _type: text
     alt: "Q: Is RWF/ARS/BOTI/other being added?"
     value: >-
-      ### Q: Is RWF/ARS/BOTI/other being added?
-
-
+      **Q: Is RWF / ARS / BOTI / other being added?**  
+        
       A: a lot of stuff is planned but these are a few that people might ask
-      about
-
-
+      about  
+        
       RWF: (i wish) not yet. not being worked on right now but eventually as
       well as it isn't the priority at the moment  
-
+        
       ARS: yeah. it won the poll not sure if its being worked on  
-
-      BOTI: kinda? the devs seem like they want to do this
-
-
+        
+      BOTI: kinda? the devs seem like they want to do this  
+        
       for any other things check the AIT Github Issues page. don't annoy the
       devs <:
 sidebar:
