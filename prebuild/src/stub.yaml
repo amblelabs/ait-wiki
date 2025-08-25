@@ -12,3 +12,6 @@ blocks:
         subtitle: subtitle
       - title: title 2
         subtitle: subtitle 2
+sidebar:
+  open: false
+  exclude: true
