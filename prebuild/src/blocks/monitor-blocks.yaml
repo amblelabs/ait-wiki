@@ -59,7 +59,8 @@ blocks:
           
       *   A yellow fuel icon at the bottom, with a percentage next to it
       indicating how much [**Artron
-      Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron/) is left.
+      Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron-energy/)
+      is left.
           
       *   A green hourglass below that, with a percentage next to it indicating
       flight progress.
