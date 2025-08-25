@@ -1,7 +1,7 @@
 title: Components
 blocks:
   - _type: local-image
-    src: /items/images/resourcesall.png
+    src: /images/items/resourcesall.png
   - _type: text
     alt: Components (subsystems)
     value: |-
@@ -104,13 +104,13 @@ blocks:
     alt: "Recipes for non blueprint items! "
     value: "## Recipes for non blueprint items!"
   - _type: local-image
-    src: /items/images/ind.png
+    src: /images/items/ind.png
   - _type: local-image
-    src: /items/images/manip.png
+    src: /images/items/manip.png
   - _type: local-image
-    src: /items/images/bulb.png
+    src: /images/items/bulb.png
   - _type: local-image
-    src: /items/images/cond.png
+    src: /images/items/cond.png
 sidebar:
   open: false
   exclude: false

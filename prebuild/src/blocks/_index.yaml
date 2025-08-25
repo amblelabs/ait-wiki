@@ -16,22 +16,22 @@ blocks:
         subtitle: The console is the central control unit of the TARDIS.
         link: console/
         image:
-          _type: remote-image
-          src: images/console.png
+          _type: local-image
+          src: /images/blocks/console.png
       - title: Engine
         subtitle: The engine is what gives the TARDIS life. Connect different components
           to the engine in order to power it.
         link: https://amblelabs.github.io/ait-wiki/blocks/tardis-engine/
         image:
-          _type: remote-image
-          src: images/engine_stuff_blocks/engine.png
+          _type: local-image
+          src: /images/blocks/engine_stuff_blocks/engine.png
       - title: Interior Door
         subtitle: Your gateway between the exterior and interior dimensions of the
           TARDIS.
         link: door/
         image:
-          _type: remote-image
-          src: images/interior_door/policebox_interior_door.png
+          _type: local-image
+          src: /images/blocks/interior_door/policebox_interior_door.png
   - _type: text
     alt: TARDIS Blocks
     value: "These blocks are used inside the TARDIS:"
@@ -44,25 +44,25 @@ blocks:
           customisation.
         link: https://amblelabs.github.io/ait-wiki/blocks/monitor-blocks/
         image:
-          _type: remote-image
-          src: images/wall_monitor.png
+          _type: local-image
+          src: /images/blocks/wall_monitor.png
       - title: Environment Projector
         subtitle: The Environment Projector can change the skybox of your TARDIS.
         link: environment-projector/
         image:
-          _type: remote-image
-          src: images/environment_projector.png
+          _type: local-image
+          src: /images/blocks/environment_projector.png
       - title: Interior Detector Block
         subtitle: The Interior Detector Block can detect various states of the TARDIS,
           such as dematerialisation and refuelling state.
         link: detector/
         image:
-          _type: remote-image
-          src: images/detector_block.png
+          _type: local-image
+          src: /images/blocks/detector_block.png
       - title: TARDIS Plaque
         subtitle: The TARDIS Plaque can display information like the creation date and
           name of your TARDIS.
         link: plaque/
         image:
-          _type: remote-image
-          src: images/plaque.png
+          _type: local-image
+          src: /images/blocks/plaque.png

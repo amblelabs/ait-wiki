@@ -72,38 +72,38 @@ blocks:
         link: changelogs/
         image:
           _type: local-image
-          src: images/changelog.png
+          src: /images/changelog.png
       - title: Blocks
         subtitle: Information on about blocks that you can find in Adventures In Time!
         link: blocks/
         image:
           _type: local-image
-          src: images/blocks.png
+          src: /images/blocks.png
       - title: Items
         subtitle: Information on about items that you can find in Adventures In Time!
         link: items/
         image:
           _type: local-image
-          src: images/items.png
+          src: /images/items.png
       - title: Mechanics
         subtitle: Information on how your TARDIS works and how you can pilot it!
         link: mechanics/
         image:
           _type: local-image
-          src: images/mechanic.png
+          src: /images/mechanic.png
       - title: Datapacks
         subtitle: Information on how to make custom datapacks for Adventures In Time!
         link: datapacks/
         image:
           _type: local-image
-          src: images/datapack.png
+          src: /images/datapack.png
       - title: Contributing & addon development
         subtitle: Information on about how you should code when contributing in
           Adventures In Time or in your AIT Addon!
         link: development/
         image:
           _type: local-image
-          src: images/development.png
+          src: /images/development.png
   - _type: text
     alt: If you're new to the mod
     value: "But if you are new to the mod you'll probably want to know how to start.
@@ -115,23 +115,23 @@ blocks:
       - title: Beginning your TARDIS
         subtitle: Your TARDIS is your one way to travel in space and time, so you are
           gonna need one.
-        link: mechanics/tardis/beginning-tardis-growth
+        link: /images/mechanics/tardis/beginning-tardis-growth
         image:
           _type: local-image
-          src: mechanics/tardis/images/coral-growing.webp
+          src: /images/mechanics/tardis/coral-growing.webp
       - title: Completing your TARDIS
         subtitle: Nearly there, now you just need to add some more stuff.
         link: mechanics/tardis/completing-tardis-growth/
         image:
           _type: local-image
-          src: /mechanics/tardis/images/new_tardis_interiors_1280x720.webp
+          src: /images/mechanics/tardis/new_tardis_interiors.webp
       - title: Sonic Screwdriver
         subtitle: The Sonic Screwdriver is a handheld device used for various tasks, and
           is the most important tool for a TARDIS user.
         link: items/sonic-screwdriver/
         image:
           _type: local-image
-          src: /items/images/sonic/in_port_1280x720.webp
+          src: /images/items/sonic/in_port.webp
 sidebar:
   open: false
   exclude: true
