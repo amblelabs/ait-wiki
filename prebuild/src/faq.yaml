@@ -221,9 +221,9 @@ blocks:
   - _type: text
     alt: Content
     value: |-
-      # Q: Who is retep?
+      ## Q: Who is retep?
 
-      # A:
+      ## A:
 
       ![](/images/retep.png)
 
