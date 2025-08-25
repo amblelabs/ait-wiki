@@ -15,7 +15,7 @@ blocks:
       - title: Custom Exterior Skins
         subtitle: You can customize what you want your favorite TARDIS Exterior to looks
           like.
-        link: datapacks/custom-exterior
+        link: custom-exterior/
         image:
           _type: local-image
           src: /datapacks/images/custom_exterior.png
