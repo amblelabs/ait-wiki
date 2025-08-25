@@ -86,12 +86,12 @@ jobs:
           if [[ "${{ github.ref_name }}" == "main" ]]; then
             hugo \
               --gc --minify \
-              --baseURL "${{ steps.pages.outputs.base_url }}/"
+              --baseURL "${{ steps.pages.outputs.base_url }}/" \
               --cacheDir "${{ runner.temp }}/hugo_cache"
           else
             hugo \
               --gc --minify \
-              --baseURL "${{ steps.pages.outputs.base_url }}/${{ github.ref_name }}/"
+              --baseURL "${{ steps.pages.outputs.base_url }}/${{ github.ref_name }}/" \
               --cacheDir "${{ runner.temp }}/hugo_cache"
           fi
       
