@@ -26,25 +26,25 @@ blocks:
     value: |-
       ## How do I get the keys?
 
-      Iron key
+      # Iron key
 
       ![](/items/images/keys/recipe/iron%20key.png)
   - _type: text
     alt: "Gold key "
     value: |-
-      Gold key
+      # Gold key
 
       ![](/items/images/keys/recipe/gold%20key.png)
   - _type: text
     alt: "Netherite key "
     value: |-
-      Netherite key
+      # Netherite key
 
       ![](/items/images/keys/recipe/netherite%20key.png)
   - _type: text
     alt: "Classic key "
     value: |-
-      Classic key
+      # Classic key
 
       ![](/items/images/keys/recipe/classic%20key.png)
   - _type: text
