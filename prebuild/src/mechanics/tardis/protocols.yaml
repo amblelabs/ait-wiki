@@ -35,7 +35,8 @@ blocks:
       fail.
 
 
-      Siege Mode does not drain any [Artron energy](../../mechanics/artron)
+      Siege Mode does not drain any [Artron
+      energy](https://amblelabs.github.io/ait-wiki/mechanics/artron-energy/)
       while activated, this is because all systems are powered down. Including
       **life support**. While in Siege Mode, the TARDIS will become extremely
       cold, and you will begin to **freeze to death**, to combat this, leather
@@ -65,9 +66,10 @@ blocks:
       more the TARDIS will reveal itself.
 
 
-      Cloak Mode requires [Artron energy](../../mechanics/artron) to operate,
-      make sure you have a hefty supply before you activate this emergency
-      protocol!
+      Cloak Mode requires [Artron
+      energy](https://amblelabs.github.io/ait-wiki/mechanics/artron-energy/) to
+      operate, make sure you have a hefty supply before you activate this
+      emergency protocol!
 
 
       # Protocol 116 (AKA **Stabilisers**)
@@ -78,8 +80,8 @@ blocks:
       allows for automated navigation throughout the time vortex, but is
       programmed to take the safest route possible which is not always the
       shortest. This protocol takes extra [Artron
-      energy](../../mechanics/artron) to operate so make sure you have enough
-      fuel in your TARDIS before flight.
+      energy](https://amblelabs.github.io/ait-wiki/mechanics/artron-energy/) to
+      operate so make sure you have enough fuel in your TARDIS before flight.
 
 
       # Protocol 813 (AKA **Hail Mary**)
@@ -91,7 +93,8 @@ blocks:
       position to rescue them from certain death.
 
 
-      Hail Mary Mode also requires [Artron energy](../../mechanics/artron) to
+      Hail Mary Mode also requires [Artron
+      energy](https://amblelabs.github.io/ait-wiki/mechanics/artron-energy/) to
       operate, so make sure that the TARDIS has a healthy supply of fuel before
       activating this protocol.
 
