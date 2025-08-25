@@ -1,4 +1,4 @@
-title: Frequently Asked Questions (FAQ)
+title: Is RWF coming (back) to AIT?
 blocks:
   - _type: text
     alt: Is there a channel with all of the community addons?
@@ -203,3 +203,4 @@ blocks:
 sidebar:
   open: false
   exclude: false
+description: "Q: Is RWF coming to AIT?"
