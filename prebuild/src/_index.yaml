@@ -113,14 +113,14 @@ blocks:
     cols: 3
     value:
       - title: Beginning your TARDIS
-        subtitle: Block chain construction
+        subtitle: Your TARDIS is your one way to travel in space and time, so you are
+          gonna need one.
         link: mechanics/tardis/beginning-tardis-growth
         image:
           _type: local-image
           src: /mechanics/tardis/images/coral-growing.webp
       - title: Completing your TARDIS
-        subtitle: Your TARDIS is your one way to travel in space and time, so you are
-          gonna need one.
+        subtitle: Nearly there, now you just need to add some more stuff.
         link: mechanics/tardis/completing_tardis_growth/
         image:
           _type: local-image
@@ -128,10 +128,9 @@ blocks:
       - title: Sonic Screwdriver
         subtitle: The Sonic Screwdriver is a handheld device used for various tasks, and
           is the most important tool for a TARDIS user.
-        link: items/sonic Screwdriver/
+        link: items/sonic-screwdriver/
         image:
           _type: local-image
-          src: items/images/sonic/in_port.png
 sidebar:
   open: false
   exclude: true
