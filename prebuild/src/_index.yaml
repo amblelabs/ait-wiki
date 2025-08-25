@@ -124,7 +124,7 @@ blocks:
         link: mechanics/tardis/completing_tardis_growth/
         image:
           _type: local-image
-          src: mechanics/tardis/images/new_tardis_interiors.png
+          src: /mechanics/tardis/images/new_tardis_interiors_1280x720.webp
       - title: Sonic Screwdriver
         subtitle: The Sonic Screwdriver is a handheld device used for various tasks, and
           is the most important tool for a TARDIS user.
