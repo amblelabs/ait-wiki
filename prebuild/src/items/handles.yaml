@@ -9,12 +9,12 @@ blocks:
 
 
       Similar to the show, (using the minecraft chat) Handles can fulfill
-      various TARDIS related commands. But firstly you need to find him. He can
+      various TARDIS related commands. But firstly, you need to find him. He can
       be found in the Wrecked Cybership structure which spawns in Swamp biomes.
-      Once you"ve found him, you’ll need to link him to your Tardis by placing
+      Once you’ve found him, you’ll need to link him to your TARDIS by placing
       him into the sonic port.
   - _type: text
-    alt: "How Handles Works. "
+    alt: How Handles Works.
     value: >-
       ## How Handles Works.
 
@@ -26,7 +26,7 @@ blocks:
       him a wrong command. He will NOT do flight events for you when he’s in the
       Sonic Port!
   - _type: text
-    alt: "Misc stuff "
+    alt: Misc stuff
     value: |-
       ## Misc stuff
 
@@ -36,18 +36,12 @@ blocks:
           "tell me a fun fact"
       ```
   - _type: text
-    alt: "Demat "
+    alt: Demat
     value: |-
       ## Demat
 
       ```
           "take off"
-          "takeoff"
-          "start flight"
-          "fly"
-          "allons-y"
-          "geronimo"
-          "demat"
           "dematerialize"
       ```
   - _type: text
@@ -57,28 +51,16 @@ blocks:
 
       ```
           "land"
-          "stop flight"
-          "stop flying"
+          "rematerialize"
       ```
   - _type: text
-    alt: "Shields "
+    alt: Shields
     value: |-
       ## Shields
 
       ```
           "toggle shields"
           "shields"
-      ```
-  - _type: text
-    alt: "Alarms "
-    value: |-
-      ## Alarms
-
-      ```
-          "toggle alarms"
-          "alarms"
-          "cloister"
-          "cloister bells"
       ```
   - _type: text
     alt: Anti-Gravs
@@ -88,73 +70,50 @@ blocks:
       ```
           "toggle antigravs"
           "antigravs"
-          "antimavs"
-          "gravity"
       ```
   - _type: text
-    alt: "Cloak "
+    alt: Cloak
     value: |-
       ## Cloak
 
       ```
-          "toggle cloak"
-          "cloak"
           "p3"
-          "protocol 3"
       ```
   - _type: text
-    alt: "Open door "
+    alt: Open door
     value: |-
       ## Open door
 
       ```
-          "open doors"
-          "open the doors"
+          "open the door"
           "open"
-          "door open"
-          "open door"
-          "open sesame"
       ```
   - _type: text
-    alt: ContentClose door
+    alt: Close door
     value: |-
       ## Close door
 
       ```
-          "close the doors"
-          "close doors"
+          "close the door"
           "close"
-          "door close"
-          "close door"
       ```
   - _type: text
-    alt: Toggle lock
+    alt: Lock door
     value: |-
-      ## Toggle lock
+      ## Lock door
 
       ```
-          "toggle lock"
-          "toggle door lock"
+          "lock door"
           "lock"
-          "door lock"
       ```
   - _type: text
-    alt: "Activate handbrake "
+    alt: Unlock door
     value: |-
-      ## Activate handbrake
+      ## Unlock door
 
       ```
-          "activate handbrake"
-          "handbrake on"
-      ```
-  - _type: text
-    alt: "Disable handbrake "
-    value: |-
-      ## Disable handbrake
-
-      ```
-          "disable handbrake"
-          "handbrake off"
+          "unlock door"
+          "unlock"
       ```
   - _type: text
     alt: "Activate refuel "
@@ -162,36 +121,34 @@ blocks:
       ## Activate refuel
 
       ```
-          "enable refuelling"
-          "activate refuelling"
-          "activate refuel"
           "refuel"
-          "start refueling"
-          "refueling on"
       ```
   - _type: text
-    alt: Disable refuelling
+    alt: Deactivate refuel
     value: |-
-      ## Disable refuelling
+      ## Deactivate refuel
 
       ```
-          "stop refueling"
           "stop refuel"
-          "disable refueling"
-          "disable refuel"
-          "halt refueling process"
-          "refueling off"
       ```
   - _type: text
-    alt: Displace
+    alt: Travel to waypoint
     value: |-
-      ## Displace
+      ## Travel to waypoint
 
       ```
-          "displace"
-          "waypoint"
           "go to waypoint"
-          "fly to waypoint"
+          "travel to waypoint"
+      ```
+  - _type: text
+    alt: Flight progress
+    value: |-
+      ## Flight progress
+
+      ```
+          "flight status"
+          "flight progress"
+          "progress"
       ```
 sidebar:
   open: false
