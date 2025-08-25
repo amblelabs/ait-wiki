@@ -6,7 +6,7 @@ blocks:
   - _type: text
     alt: Bazinga
     value: >-
-      # FABRICATING A SONIC SCREWDRIVER
+      ## FABRICATING A SONIC SCREWDRIVER
 
 
       ![](/mechanics/tardis/images/fabrication.webp)
@@ -34,7 +34,7 @@ blocks:
       fragments!
 
 
-      # OBTAINING A CORAL GROWTH
+      ## OBTAINING A CORAL GROWTH
 
 
       ![](/mechanics/images/rift-chunks/rift_entity.png)
@@ -60,7 +60,7 @@ blocks:
       for the console.
 
 
-      # STARTING TARDIS GROWTH
+      ## STARTING TARDIS GROWTH
 
 
       ![](/mechanics/tardis/images/coral-growing.webp)
@@ -79,7 +79,7 @@ blocks:
       Growth.**](https://amblelabs.github.io/ait-wiki/mechanics/tardis/completing_tardis_growth)
 
 
-      # RECIPES
+      ## RECIPES
 
 
       *   Rift Scanner
