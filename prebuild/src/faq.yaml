@@ -218,6 +218,16 @@ blocks:
 
       BOTI: Yes. It also won the poll alongside ARS and has seen work done on it
       as well.
+  - _type: text
+    alt: Content
+    value: |-
+      Q: Who is retep?
+
+      A:
+
+      ![](/images/retep.png)
+
+      He is Retep and he is EVIL
 sidebar:
   open: false
   exclude: false
