@@ -82,9 +82,8 @@ blocks:
       *   Concurrent Chunk Management Engine (C2ME): seems to break rift chunks
       and TARDIS growth.
           
-      *   Distant Horizons (when installed on the server): breaks TARDIS growth,
-      causes server crashes when entering a TARDIS. Clientside plays like
-      normal.
+      *   Distant Horizons (serverside): breaks TARDIS growth, causes server
+      crashes when entering a TARDIS. Clientside plays like normal.
   - _type: text
     alt: The rendering is buggy with shaders
     value: >-
@@ -193,11 +192,11 @@ blocks:
   - _type: text
     alt: Can you add support for Immersive Portals / add your own BOTI
     value: >-
-      #### Q: Can you add support for Immersive Portals / add your own BOTI
+      #### Q: Can you add support for Immersive Portals / add your own BOTI?
 
 
       A: We are working on support for Immersive Portals currently. You can join
-      our Discord serer to get mod teasers and updates to know when it's done!
+      our Discord server to get mod teasers and updates to know when it's done!
   - _type: text
     alt: Is RWF/ARS/BOTI/other being added?
     value: >-
