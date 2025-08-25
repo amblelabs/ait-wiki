@@ -201,8 +201,9 @@ blocks:
   - _type: text
     alt: "Q: Is RWF/ARS/BOTI/other being added?"
     value: >-
-      **Q: Is RWF / ARS / BOTI / other being added?**  
-        
+      ### Q: Is RWF / ARS / BOTI / other being added?
+
+
       A: a lot of stuff is planned but these are a few that people might ask
       about  
         
