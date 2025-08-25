@@ -131,6 +131,7 @@ blocks:
         link: items/sonic-screwdriver/
         image:
           _type: local-image
+          src: /items/images/sonic/in_port.png
 sidebar:
   open: false
   exclude: true
