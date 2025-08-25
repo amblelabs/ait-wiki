@@ -11,9 +11,6 @@ blocks:
       tardis with it, `crouch right-click` the console.
 
 
-      ![](/items/images/zeiton/items/charged_zeiton_recipe.png)
-
-
       ## Why cant i just use normal zeiton?
 
 
@@ -25,6 +22,9 @@ blocks:
 
 
       ## Well how do i get charged zeiton then?
+
+
+      ![](/items/images/zeiton/items/charged_zeiton_recipe.png)
   - _type: text
     alt: Charged Zeiton
     value: >-
