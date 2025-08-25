@@ -51,7 +51,7 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: logo.png
+      path: logo.webp
       link: /ait-wiki/
       width: 40
       height: 20
