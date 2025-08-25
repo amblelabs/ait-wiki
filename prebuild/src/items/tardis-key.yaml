@@ -48,13 +48,14 @@ blocks:
     src: /items/images/keys/recipe/classic key.png
   - _type: text
     alt: "How do I get those awesome key trims? "
-    value: "## How do I get those awesome key trims?"
-  - _type: local-image
-    src: /items/images/keys/recipe/iron trim.png
-  - _type: local-image
-    src: /items/images/keys/recipe/gold trim.png
-  - _type: local-image
-    src: /items/images/keys/recipe/netherite trim.png
+    value: |-
+      ## How do I get those awesome key trims?
+
+      ![](/items/images/keys/recipe/iron%20trim.png)
+
+      ![](/items/images/keys/recipe/gold%20trim.png)
+
+      ![](/items/images/keys/recipe/netherite%20trim.png)
 sidebar:
   open: false
   exclude: false
