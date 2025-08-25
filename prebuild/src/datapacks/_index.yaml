@@ -2,12 +2,8 @@ title: Datapack Modifications
 blocks:
   - _type: text
     alt: Content
-    value: >-
-      AIT works with [Datapacks](https://minecraft.wiki/w/Data_pack)! This lets
+    value: AIT works with [Datapacks](https://minecraft.wiki/w/Data_pack)! This lets
       you customize your TARDIS (or sonic) to unlimited possibilities!
-
-
-      I WILL FINISH THIS LATER! I NEED TO DO OTHER STUFF RIGHT NOW!
   - _type: cards
     alt: Card Group
     cols: 2
