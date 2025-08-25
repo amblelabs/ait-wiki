@@ -1,0 +1,11 @@
+title: Temporal Gardener (doesn't work)
+blocks:
+  - _type: text
+    alt: Content
+    value: |-
+      The Advancement "**Temporal Gardener**" is achived by,
+
+      breaking some vegetation when your tardis is grown.
+sidebar:
+  open: false
+  exclude: false
