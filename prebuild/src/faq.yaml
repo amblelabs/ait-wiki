@@ -218,6 +218,22 @@ blocks:
       BOTI: Yes. It also won the poll alongside ARS and has seen work done on it
       as well.
   - _type: text
+    alt: What is RWF/ARS/BOTI?
+    value: >-
+      ### Q: What is RWF/ARS/BOTI?
+
+
+      A: RWF: Real world flight, picture that scene in series four where the
+      tardis flies next to a taxi.
+
+
+      ARS: Architectural Reconfiguration Systems, basically being able to add
+      more rooms other than the desktop to your tardis.
+
+
+      BOTI: Bigger On The Inside, kinda self explanatory the bigger on the
+      inside effect you see on the show.
+  - _type: text
     alt: Content
     value: |-
       ### Q: Who is Retep?????
