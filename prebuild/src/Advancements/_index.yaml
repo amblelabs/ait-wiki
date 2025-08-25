@@ -11,3 +11,4 @@ blocks:
 sidebar:
   open: false
   exclude: false
+weight: -3
