@@ -38,7 +38,7 @@ blocks:
       - title: Custom Vortexes
         subtitle: Two simple files to create an amazing BOTI effect for all your users
           to see!
-        link: datapacks/custom-vortexes
+        link: datapacks/custom-vortexes.yaml
         image:
           _type: local-image
           src: /datapacks/images/customvortex.webp
