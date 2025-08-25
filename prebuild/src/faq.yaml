@@ -200,6 +200,8 @@ blocks:
 
       A: We are working on support for Immersive Portals currently. You can join
       our Discord serer to get mod teasers and updates to know when it's done!
+  - _type: text
+    alt: Content
 sidebar:
   open: false
   exclude: false
