@@ -19,9 +19,9 @@ blocks:
       [Fabricator](https://amblelabs.github.io/ait-wiki/blocks/fabricator).
       Fabricators need to be on top of a Smithing Table to work.  
 
-      When you have your to right-click the Fabricator with the blueprint for
-      the Sonic Screwdriver, this will show all the items needed to fabricate
-      the blueprint recipe. Some items needed for the recipe can vary in amount,
+      Now that you have a Fabricator, right-click it with the blueprint for the
+      Sonic Screwdriver. This will show all the items needed to fabricate the
+      blueprint recipe. Some items needed for the recipe can vary in amount,
       which you can also see in the tooltip. We suggest getting the items about
       now if you haven't already.  
 
