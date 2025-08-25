@@ -43,9 +43,7 @@ blocks:
       In the monitor's GUI you can customise your TARDIS, like the Exterior,
       Desktop Theme, Hum, Vortex, etc.  
 
-      Check out the [**Customizing
-      TARDIS**](https://amblelabs.github.io/ait-wiki/mechanics/tardis/customizing/)
-      page for details.
+      Check out the **Customizing TARDIS** page for details.
   - _type: text
     alt: Displayed Info.
     value: >-
