@@ -11,7 +11,7 @@ blocks:
       for the TARDIS with the same id) it’s better to cache it in a field.
 
 
-      ⚠️**_Warning:_** _never_ cache the component. Component getters are
+      ⚠️**_Warning_**_:_ _never_ cache the component. Component getters are
       extremely fast and have practically no overhead.
 
 
