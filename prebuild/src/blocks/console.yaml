@@ -73,7 +73,7 @@ blocks:
 
       If you're having a hard time finding the controls, you can use the
       **Scanning Mode** of a [**Sonic
-      Screwdriver**](https://amblelabs.github.io/ait-wiki/items/sonic/).
+      Screwdriver**.](https://amblelabs.github.io/ait-wiki/items/sonic-screwdriver/)
       Alternatively, you can turn on debugging mode for viewing entity
       **hitboxes** by using F3+B (pressing again will turn them off).
 
@@ -117,13 +117,11 @@ blocks:
 
       The **Antigravs Control** will make the TARDIS' exterior hover in place by
       preventing it from falling, but uses [**Artron
-      Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron/) while
-      active.
+      Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron-energy/)
+      while active.
 
 
-      The [**Waypoint
-      Controls**](https://amblelabs.github.io/ait-wiki/items/cartridge/) are
-      explained in this webpage.
+      The **Waypoint Controls** are explained in this webpage.
 
 
       The **Power Control** toggles the TARDIS' power and engines. While off, it
@@ -146,15 +144,13 @@ blocks:
       an axe on the exterior doors they can be broken open.
 
 
-      The [**Monitor
-      Control**](https://amblelabs.github.io/ait-wiki/blocks/monitor-blocks/) is
-      explained more in this webpage.
+      The **Monitor Control** is explained more in this webpage.
 
 
       The **Refuel Control** requires the Handbrake to be engaged. It will then
       slowly refuel [**Artron
-      Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron/) over
-      time. Being inside a [**Rift
+      Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron-energy/)
+      over time. Being inside a [**Rift
       Chunk**](https://amblelabs.github.io/ait-wiki/mechanics/rift-chunks/) will
       significantly increase refuelling speed.
 
@@ -173,8 +169,7 @@ blocks:
 
       The **Shields Control** has 2 functional modes, the first being invisible
       shields and the second visible shields. Find more information in the
-      [Mechanics](https://amblelabs.github.io/ait-wiki/mechanics/tardis/shields/)
-      section.
+      [Mechanics](https://amblelabs.github.io/ait-wiki/mechanics/) section.
 
 
       The **Telepathic Circuit** has 3 functions:
