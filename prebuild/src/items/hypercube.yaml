@@ -21,7 +21,7 @@ blocks:
     alt: How do i craft it?
     value: "## How do i craft it?"
   - _type: local-image
-    src: /images/items/images/hbr.png
+    src: /images/items/hbr.png
 sidebar:
   open: false
   exclude: false

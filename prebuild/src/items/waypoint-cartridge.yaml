@@ -50,7 +50,7 @@ blocks:
     value: |-
       ## Crafting Recipe
 
-      ![](/items/images/waypoints/waypoints_recipe.png)
+      ![](/images/items/waypoints/waypoints_recipe.png)
 sidebar:
   open: false
   exclude: false

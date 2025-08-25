@@ -9,7 +9,7 @@ blocks:
       ## Fabricating a Sonic Screwdriver
 
 
-      ![](/mechanics/tardis/images/fabrication.webp)
+      ![](/images/mechanics/tardis/fabrication.webp)
 
 
       To fabricate a Sonic Screwdriver, you'll need to find a blueprint for it;
@@ -37,7 +37,7 @@ blocks:
       ## Obtaining a Coral Growth
 
 
-      ![](/mechanics/images/rift-chunks/rift_entity.png)
+      ![](/images/mechanics/rift-chunks/rift_entity.png)
 
 
       Now that you have a Sonic Screwdriver, we can start getting coral
@@ -63,7 +63,7 @@ blocks:
       ## Starting TARDIS Growth
 
 
-      ![](/mechanics/tardis/images/coral-growing.webp)
+      ![](/images/mechanics/tardis/coral-growing.webp)
 
 
       Now that you have a Coral Growth, you can start growing it. To start the
@@ -85,13 +85,13 @@ blocks:
       *   Rift Scanner
           
 
-      ![](/mechanics/images/rift-chunks/scanner-recipe.png)
+      ![](/images/mechanics/rift-chunks/scanner-recipe.png)
 
 
       *   Fabricator
           
 
-      ![](/blocks/images/engine_stuff_blocks/fabricator_recipe.png)
+      ![](/images/blocks/engine_stuff_blocks/fabricator_recipe.png)
 
 
       *   Coral Growth

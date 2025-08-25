@@ -27,14 +27,14 @@ blocks:
 
 
       ![Image of the
-      recipe](https://amblelabs.github.io/ait-wiki/blocks/images/monitor/recipe.png)
+      recipe](/images/blocks/monitor/recipe.png)
 
 
       Wall Monitor
 
 
       ![Image of the
-      recipe](https://amblelabs.github.io/ait-wiki/blocks/images/monitor/wall-monitor_recipe.png)
+      recipe](/images/blocks/monitor/wall-monitor_recipe.png)
 
 
       ## Customizing Your TARDIS
@@ -59,7 +59,7 @@ blocks:
           
       *   A yellow fuel icon at the bottom, with a percentage next to it
       indicating how much [**Artron
-      Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron-energy/)
+      Energy**](/mechanics/artron-energy/)
       is left.
           
       *   A green hourglass below that, with a percentage next to it indicating
@@ -92,13 +92,13 @@ blocks:
 
       *   A yellow fuel icon at the top, with a percentage below it indicating
       how much [**Artron
-      Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron-energy/)
+      Energy**](/mechanics/artron-energy/)
       is left.
           
       *   A green hourglass at the bottom, with a percentage below it indicating
       flight progress.
           
-          ![Image of the Monitor](https://amblelabs.github.io/ait-wiki/blocks/images/wall_monitor.png)
+          ![Image of the Monitor](/images/blocks/wall_monitor.png)
   - _type: text
     alt: Monitor GUI - Main GUI
     value: >-
@@ -110,7 +110,7 @@ blocks:
       two on the right.
 
 
-      ![](/blocks/images/monitor/screen.png)
+      ![](/images/blocks/monitor/screen.png)
 
 
       **Left sections:**
@@ -151,7 +151,7 @@ blocks:
       two on the right.
 
 
-      ![](/blocks/images/monitor/settings.png)
+      ![](/images/blocks/monitor/settings.png)
 
 
       **Left section:**

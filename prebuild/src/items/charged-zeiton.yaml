@@ -21,7 +21,7 @@ blocks:
       ## Well how do i get charged zeiton then?
 
 
-      ![](/items/images/zeiton/items/charged_zeiton_recipe.png)
+      ![](/images/items/zeiton/items/charged_zeiton_recipe.png)
   - _type: text
     alt: Charged Zeiton
     value: >-
@@ -34,7 +34,7 @@ blocks:
       units from it.
 
 
-      ![](/items/images/zeiton/items/Charge.png)
+      ![](/images/items/zeiton/items/Charge.png)
   - _type: local-image
     src: /Charge..jpg
 sidebar:

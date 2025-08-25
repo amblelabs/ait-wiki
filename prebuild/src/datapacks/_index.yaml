@@ -54,4 +54,4 @@ sidebar:
   exclude: false
 params:
   images:
-    - /datapacks/images/custom_exterior.png
+    - /images/datapacks/custom_exterior.png

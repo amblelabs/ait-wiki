@@ -26,9 +26,9 @@ blocks:
 
       Like how amethyst geodes are found,in caves!
 
-      ![](/items/images/zeiton/structure/ZeitonHint.png)
+      ![](/images/items/zeiton/structure/ZeitonHint.png)
 
-      ![](/items/images/zeiton/structure/Geode.png)
+      ![](/images/items/zeiton/structure/Geode.png)
   - _type: text
     alt: What do i use zeiton for?
     value: >-
@@ -52,7 +52,7 @@ blocks:
 
       You need silk touch for the big one
 
-      ![](/items/images/zeiton/blocks/FullGrowth.png)
+      ![](/images/items/zeiton/blocks/FullGrowth.png)
   - _type: text
     alt: Can i grow zeiton?
     value: |-
@@ -60,13 +60,13 @@ blocks:
 
       Yeah, zeiton budding has the capability of growing zeiton very slowly!
 
-      ![](/items/images/zeiton/blocks/Budding.png)
+      ![](/images/items/zeiton/blocks/Budding.png)
   - _type: text
     alt: Can i craft zeiton blocks?
     value: |-
       ## Can i craft zeiton blocks?
 
-      ![](/items/images/zeiton/blocks/ZeitonBlockRecepie.png)
+      ![](/images/items/zeiton/blocks/ZeitonBlockRecepie.png)
   - _type: text
     alt: "What about budding? "
     value: |-
