@@ -1,0 +1,13 @@
+title: Drop Down Page
+blocks:
+  - _type: text
+    alt: Content
+    value: >-
+      These pages are for the people who want to get the AIT advancements but do
+      not know how to get them.
+
+
+      please enjoy it :3 -Tree
+sidebar:
+  open: false
+  exclude: false
