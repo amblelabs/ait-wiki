@@ -204,19 +204,20 @@ blocks:
       ### Q: Is RWF / ARS / BOTI / other being added?
 
 
-      A: a lot of stuff is planned but these are a few that people might ask
-      about  
-        
-      RWF: (i wish) not yet. not being worked on right now but eventually as
-      well as it isn't the priority at the moment  
-        
-      ARS: yeah. it won the poll not sure if its being worked on  
-        
-      BOTI: definitely. ARS won the poll but BOTI is what the devs are working
-      on  
-        
-      for any other things check the AIT Github Issues page. don't annoy the
-      devs <:
+      A: A lot of stuff is planned for the mod, but these are a few of the most
+      common features that people might ask about:
+
+
+      RWF: Not being worked on right now, but will eventually be worked on. It
+      is not a priority at the moment.
+
+
+      ARS: Yes. It won the poll and has seen some work done on it by the
+      developers.
+
+
+      BOTI: Yes. It also won the poll alongside ARS and has seen work done on it
+      as well.
 sidebar:
   open: false
   exclude: false
