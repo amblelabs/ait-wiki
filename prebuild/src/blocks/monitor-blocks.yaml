@@ -93,7 +93,8 @@ blocks:
 
       *   A yellow fuel icon at the top, with a percentage below it indicating
       how much [**Artron
-      Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron/) is left.
+      Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron-energy/)
+      is left.
           
       *   A green hourglass at the bottom, with a percentage below it indicating
       flight progress.
@@ -124,8 +125,8 @@ blocks:
           
       *   The bottom section shows two bars and a button. The 5-segment display
       shows flight-progress, the bar below that displays how much [**Artron
-      Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron/) _(in
-      green)_ is left. The button next to these navigates to the **Settings
+      Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron-energy/)
+      _(in green)_ is left. The button next to these navigates to the **Settings
       Screen**.
           
           _The Artron Energy bar will turn red when the TARDIS is under ~30% of fuel._
@@ -161,9 +162,9 @@ blocks:
           
           *   **Cache Console**: Will replace your [**Console**](https://amblelabs.github.io/ait-wiki/blocks/console/) with a **Console Generator** in order for you to either move the console and/or choose a different console type _(and / or variant)_.
               
-          *   **Security Options**: As the name suggests, this allows you to set various options related to security, see the [**Security Protocols**](https://amblelabs.github.io/ait-wiki/mechanics/tardis/security/) page for more info.
+          *   **Security Options**: As the name suggests, this allows you to set various options related to security.
               
-          *   **Sonic Settings**: Shows you info about the Sonic Screwdriver that is currently plugged into the console and also allows you to change the **Sonic Shell**. See the [**Sonic Screwdriver**](https://amblelabs.github.io/ait-wiki/items/sonic/) page for more info.
+          *   **Sonic Settings**: Shows you info about the Sonic Screwdriver that is currently plugged into the console and also allows you to change the **Sonic Shell**. See the [**Sonic Screwdriver**](https://amblelabs.github.io/ait-wiki/items/sonic-screwdriver/) page for more info.
 
               
       2.  The bottom shows the 5-segment display for flight-progress and a bar
