@@ -1,6 +1,6 @@
 media:
-  input: content
-  output: /
+  input: assets/images
+  output: /images/
   categories: [image]
 settings:
   content:

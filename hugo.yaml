@@ -85,3 +85,7 @@ params:
       repoId: R_kgDOML5FAA
       category: General
       categoryId: DIC_kwDOML5FAM4CgOE1
+
+caches:
+  images:
+    dir: :cacheDir/images
