@@ -10,7 +10,7 @@ blocks:
 
 
       *   [AIT Extras](https://discord.gg/5JDKuzarcS)
-          
+
 
       You can find the other addons in the addons channel on teh AmbleLabs
       discord server (make sure to get the AIT role first in `Channels &
@@ -201,7 +201,7 @@ blocks:
   - _type: text
     alt: "Q: Is RWF/ARS/BOTI/other being added?"
     value: >-
-      Q: Is RWF/ARS/BOTI/other being added?
+      # Q: Is RWF/ARS/BOTI/other being added?
 
 
       A: a lot of stuff is planned but these are a few that people might ask
