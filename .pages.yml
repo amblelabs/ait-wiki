@@ -129,6 +129,9 @@ components:
       - name: alt
         label: ALT text
         type: string
+      - name: caption
+        label: Caption
+        type: string
   remote-image:
     label: Remote image
     type: object
@@ -139,6 +142,8 @@ components:
       - name: alt
         label: ALT text
         type: string
+      - name: caption
+        label: Caption
   callout:
     label: Callout
     type: object

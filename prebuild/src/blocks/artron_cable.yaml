@@ -21,6 +21,7 @@ blocks:
   - _type: local-image
     src: /images/blocks/engine_stuff_blocks/acr.png
     alt: Recipe of the Artron Cables
+    caption: Artron Cable Recipe
 sidebar:
   open: false
   exclude: false

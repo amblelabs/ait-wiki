@@ -2,7 +2,7 @@ title: Blocks
 prev: first-page
 next: blocks/monitor
 sidebar:
-  open: true
+  open: false
   exclude: false
 blocks:
   - _type: text
