@@ -18,9 +18,6 @@ blocks:
       required amount of artron units.
 
 
-      ![](/items/images/zeiton/items/Charge.png)
-
-
       ## Well how do i get charged zeiton then?
 
 
@@ -35,6 +32,9 @@ blocks:
       amount for a TARDIS coral to reform its interior for usage,to actually
       charge it use the artron collector in a rift chunk and harvest the artron
       units from it.
+
+
+      ![](/items/images/zeiton/items/Charge.png)
   - _type: local-image
     src: /Charge..jpg
 sidebar:
