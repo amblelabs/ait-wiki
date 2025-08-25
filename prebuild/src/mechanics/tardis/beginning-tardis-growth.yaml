@@ -1,7 +1,7 @@
 title: Beginning Tardis Growth
 description: page for helping players figure out how to start the process of
   growing a tardis and getting the items needed to start growth. Page made by
-  Echo
+  Echo, revised by Ferreira for general English correctness.
 blocks:
   - _type: text
     alt: Bazinga
@@ -12,19 +12,26 @@ blocks:
       ![](/mechanics/tardis/images/fabrication.webp)
 
 
-      to fabricate a sonic you're gonna need to find a blueprint for it; these
-      blueprints can be found it all structures, you can see what the blueprint
-      is for by pressing shift while hovering over it in your inventory. to use
-      the blueprint you need a
-      [fabricator](https://amblelabs.github.io/ait-wiki/blocks/fabricator),
-      fabricators need to be on top of a smithing table to work, next thing is
-      to right-click the fabricator with the sonic blueprint, this will show all
-      the items needed to fabricate the blueprint recipe I suggest going to get
-      the items about now if you haven't already. once you have all the items
-      needed you just right-click the fabricator while holding one of the items
-      and the fabricator will take it, once you have placed all the items in the
-      fabricator it will create the item, just right-click to obtain it, now
-      that you have a sonic we can go on to getting coral fragments!
+      To fabricate a Sonic Screwdriver, you'll need to find a blueprint for it;
+      these blueprints can be found in all structures. You can see what the
+      blueprint is for by holding shift while hovering your mouse over it in
+      your inventory. To use the blueprint, you also need a
+      [Fabricator](https://amblelabs.github.io/ait-wiki/blocks/fabricator).
+      Fabricators need to be on top of a Smithing Table to work.  
+
+      When you have your to right-click the Fabricator with the blueprint for
+      the Sonic Screwdriver, this will show all the items needed to fabricate
+      the blueprint recipe. Some items needed for the recipe can vary in amount,
+      which you can also see in the tooltip. We suggest getting the items about
+      now if you haven't already.  
+
+      Once you have all the items needed, right-click the Fabricator while
+      holding one of the items and the Fabricator will take it. Once you have
+      placed all the items in the Fabricator, it will create the item. You
+      simply need to right-click to obtain it.  
+
+      Now that you have a Sonic Screwdriver, we can move on to getting coral
+      fragments!
 
 
       # OBTAINING A CORAL GROWTH
@@ -33,20 +40,24 @@ blocks:
       ![](/mechanics/images/rift-chunks/rift_entity.png)
 
 
-      Now that you have a sonic screwdriver we can start getting coral
-      fragments! nine coral fragments can used to make a coral growth which is
-      key to growing a Tardis and a console for said Tardis, you can obtain
-      coral fragments by right-clicking a
-      [Rift](https://amblelabs.github.io/ait-wiki/mechanics/rift-chunks) with
-      your sonic, a Rift is something that spawns in rift chunks that can be
-      found using a [Rift
-      Scanner](https://amblelabs.github.io/ait-wiki/mechanics/rift-chunks),
-      right-clicking a rift will either give you a coral fragment, paper, or
-      place some coral blocks around the rift, it will also refill your Sonics
-      artron reserve. once you have nine coral fragments (its easier to get 18
-      while you're at it) you can craft a growth by placing all nine of them in
-      a crafting table. boom! now you have a coral growth, now time to grow a
-      Tardis with it!
+      Now that you have a Sonic Screwdriver, we can start getting coral
+      fragments! Nine coral fragments can used to make a Coral Growth which is
+      the key to growing a TARDIS, and is also used for growing a console for
+      said TARDIS. You can obtain coral fragments by right-clicking a
+      [Rift](https://amblelabs.github.io/ait-wiki/mechanics/rift-chunks). A Rift
+      is is a crack in time that spawns in rift chunks, which can be found using
+      a [Rift
+      Scanner](https://amblelabs.github.io/ait-wiki/mechanics/rift-chunks).  
+
+      Right-clicking a rift will either give you a coral fragment, paper, or
+      place some coral blocks around the rift. If you're holding a sonic
+      screwdriver, it will also refill your Sonic's Artron reserve. **Note that
+      you will take some damage when you right click a rift. Avoid walking into
+      them, too - you'll be flung across time and space!** Once you have nine
+      coral fragments, you can craft a Coral Growth by placing all nine of them
+      in a crafting table. We recommend getting eighteen fragments while you're
+      on the hunt, as you can then craft two Growths; one for the TARDIS, one
+      for the console.
 
 
       # STARTING TARDIS GROWTH
@@ -55,14 +66,17 @@ blocks:
       ![](/mechanics/tardis/images/coral-growing.webp)
 
 
-      Now that you have a Coral Growth you can start growing it, to start the
-      process we need to be in a rift chunk, to find one you can use a [Rift
-      Scanner](https://amblelabs.github.io/ait-wiki/mechanics/rift-chunks) it
-      will point in the direction of the nearest rift chunk. Once you're in a
-      rift chunk you need a piece of soul sand just place it down then place the
-      Coral Growth on top of it, and it should start growing! next up is the
-      plasmatic shell which will be covered in [**Completing Tardis
-      Growth**](https://amblelabs.github.io/ait-wiki/mechanics/tardis/completing_tardis_growth)
+      Now that you have a Coral Growth, you can start growing it. To start the
+      process, you will need to be in a rift chunk, which can be found using the
+      [Rift Scanner](https://amblelabs.github.io/ait-wiki/mechanics/rift-chunks)
+      you used to find the Rifts earlier. It will point in the direction of the
+      nearest Rift Chunk. Once you're in a rift chunk, you will need soul sand:
+      Growths only grow on soul sand, so place it down and then place the Coral
+      Growth on top of it. Overtime, it will start growing!
+
+
+      At this point, you can now move onto [**Completing Tardis
+      Growth.**](https://amblelabs.github.io/ait-wiki/mechanics/tardis/completing_tardis_growth)
 
 
       # RECIPES
