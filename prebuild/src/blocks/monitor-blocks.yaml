@@ -41,9 +41,7 @@ blocks:
 
 
       In the monitor's GUI you can customise your TARDIS, like the Exterior,
-      Desktop Theme, Hum, Vortex, etc.  
-
-      Check out the **Customizing TARDIS** page for details.
+      Desktop Theme, Hum, Vortex, etc.
   - _type: text
     alt: Displayed Info.
     value: >-
