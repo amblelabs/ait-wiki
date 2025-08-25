@@ -221,13 +221,13 @@ blocks:
   - _type: text
     alt: Content
     value: |-
-      Q: Who is retep?
+      # Q: Who is retep?
 
-      A:
+      # A:
 
       ![](/images/retep.png)
 
-      He is Retep and he is EVIL
+      He is Retep and he is **EVIL**
 sidebar:
   open: false
   exclude: false
