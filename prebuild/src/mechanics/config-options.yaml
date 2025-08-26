@@ -2,21 +2,62 @@ title: Config options
 blocks:
   - _type: text
     alt: Client
+    value: Client Configs
   - _type: text
     alt: Interior hum volume
-    value: Allows you to change how loud or quiet the interior hum is.
+    value: |-
+      **Interior hum volume**
+
+      Allows you to change how loud or quiet the interior hum is.
   - _type: text
     alt: Use custom main menu
-    value: Allows you to use different modded or vanilla main menus.
+    value: |-
+      **Use custom main menu**
+
+      Allows you to use different modded or vanilla main menus.
   - _type: text
     alt: Show experimental warnings
-    value: This config makes it so you can see the warnings if you are on a ait
-      beta. (if you wanna see this warning you should go donate to loqor)
+    value: >-
+      **Show experimental warnings**
+
+
+      This config makes it so you can see the warnings if you are on a ait beta.
+      (if you wanna see this warning you should go donate to loqor)
   - _type: text
     alt: Enable TARDIS boti
-    value: This config allows you to toggle bigger on the inside on your tardis so
+    value: >-
+      **Enable TARDIS boti**
+
+
+      This config allows you to toggle bigger on the inside on your tardis so
       you can see the vortex and other things.
   - _type: text
+    alt: Render tardis interior
+    value: >-
+      (VERY UNSTABLE WILL NOT WORK FOR NOW)
+
+
+      Render tardis interior
+
+
+      This config allows you to see the interior of your tardis from the outside
+      (its broken dont use it i beg of you)
+  - _type: text
+    alt: Green screen boti
+    value: |-
+      Green screen boti
+
+      turns your tardis green dont use this unless you do video editing or smth.
+  - _type: text
+    alt: Show control hitboxs
+    value: >-
+      Show control hitboxs
+
+
+      This config allows the sonic when in scanning mode to show control
+      hitboxs.
+  - _type: text
+    alt: Content
 sidebar:
   open: false
   exclude: false
