@@ -1,0 +1,22 @@
+title: Config options
+blocks:
+  - _type: text
+    alt: Client
+  - _type: text
+    alt: Interior hum volume
+    value: Allows you to change how loud or quiet the interior hum is.
+  - _type: text
+    alt: Use custom main menu
+    value: Allows you to use different modded or vanilla main menus.
+  - _type: text
+    alt: Show experimental warnings
+    value: This config makes it so you can see the warnings if you are on a ait
+      beta. (if you wanna see this warning you should go donate to loqor)
+  - _type: text
+    alt: Enable TARDIS boti
+    value: This config allows you to toggle bigger on the inside on your tardis so
+      you can see the vortex and other things.
+  - _type: text
+sidebar:
+  open: false
+  exclude: false
