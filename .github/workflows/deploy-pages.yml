@@ -20,11 +20,6 @@ permissions:
   contents: read
   deployments: write
 
-# Ensure only one deployment runs at a time
-concurrency:
-  group: "pages-deployment"
-  cancel-in-progress: true
-
 # Default shell for all steps
 defaults:
   run:
