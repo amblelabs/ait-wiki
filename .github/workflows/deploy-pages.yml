@@ -87,7 +87,7 @@ jobs:
 
       - name: Run stuff
         run: |
-          cp public deploy/${{ github.event.repository.name }}
+          cp -r public deploy/${{ github.event.repository.name }}
 
       - name: Upload Worker Version
         uses: cloudflare/wrangler-action@v3
