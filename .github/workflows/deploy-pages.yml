@@ -87,7 +87,7 @@ jobs:
 
       - name: Run stuff
         run: |
-          mkdir deploy/${{ github.event.repository.name }}
+          mkdir -p deploy/${{ github.event.repository.name }}
           cp -r public deploy/${{ github.event.repository.name }}
 
       - name: Upload Worker Version
