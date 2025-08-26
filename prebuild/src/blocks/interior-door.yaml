@@ -7,7 +7,7 @@ blocks:
 
 
       The Interior Door is a vital part of the TARDIS, much like the
-      [Console](https://amblelabs.github.io/ait-wiki/blocks/console/), which can
+      [Console](/blocks/console/), which can
       be interacted with by a player. You’ll need this to exit your TARDIS, as
       it’s the barrier between the exterior world and your TARDIS interior.
       Interior Doors can be mined and placed through-out the interior wherever
@@ -19,7 +19,7 @@ blocks:
 
 
       Unlike the
-      [Console](https://amblelabs.github.io/ait-wiki/blocks/console/), it is
+      [Console](/blocks/console/), it is
       breakable and movable by the player in survival. It's crafted with the
       recipe in a crafting table as shown below:
 

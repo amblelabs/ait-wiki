@@ -11,10 +11,10 @@ blocks:
 
 
       A monitor is integrated within most TARDIS
-      [**Consoles**](https://amblelabs.github.io/ait-wiki/blocks/console/), but
+      [**Consoles**](/blocks/console/), but
       you can craft it as a separate block and use it anywhere in your interior
       rather than just your
-      [**Console**](https://amblelabs.github.io/ait-wiki/blocks/console/).
+      [**Console**](/blocks/console/).
 
 
       There are two types of Monitor: **Regular Monitor** and **Wall Monitor**.
@@ -124,7 +124,7 @@ blocks:
           
       *   The bottom section shows two bars and a button. The 5-segment display
       shows flight-progress, the bar below that displays how much [**Artron
-      Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron-energy/)
+      Energy**](/mechanics/artron-energy/)
       _(in green)_ is left. The button next to these navigates to the **Settings
       Screen**.
           
@@ -159,11 +159,11 @@ blocks:
 
       1.  The top shows various menu entries.
           
-          *   **Cache Console**: Will replace your [**Console**](https://amblelabs.github.io/ait-wiki/blocks/console/) with a **Console Generator** in order for you to either move the console and/or choose a different console type _(and / or variant)_.
+          *   **Cache Console**: Will replace your [**Console**](/blocks/console/) with a **Console Generator** in order for you to either move the console and/or choose a different console type _(and / or variant)_.
               
           *   **Security Options**: As the name suggests, this allows you to set various options related to security.
               
-          *   **Sonic Settings**: Shows you info about the Sonic Screwdriver that is currently plugged into the console and also allows you to change the **Sonic Shell**. See the [**Sonic Screwdriver**](https://amblelabs.github.io/ait-wiki/items/sonic-screwdriver/) page for more info.
+          *   **Sonic Settings**: Shows you info about the Sonic Screwdriver that is currently plugged into the console and also allows you to change the **Sonic Shell**. See the [**Sonic Screwdriver**](/items/sonic-screwdriver/) page for more info.
 
               
       2.  The bottom shows the 5-segment display for flight-progress and a bar

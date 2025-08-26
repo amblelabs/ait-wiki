@@ -10,22 +10,22 @@ blocks:
 
 
       To **link** a Sonic Screwdriver to a [**TARDIS
-      Console**](https://amblelabs.github.io/ait-wiki/blocks/console)
+      Console**](/blocks/console)
       right-click on the **Sonic Port** whilst holding the Sonic Screwdriver. It
       should of now have gone into the **Sonic Port** and have linked to the
       **TARDIS**, to remove it punch the Sonic Screwdriver in the **Sonic
       Port**, and it will eject from the
-      [**Console**](https://amblelabs.github.io/ait-wiki/blocks/console).
+      [**Console**](/blocks/console).
   - _type: local-image
     src: /images/items/sonic/in_port.png
   - _type: text
     alt: Charge
     value: >-
       To **charge** a Sonic Screwdriver insert it into a [**TARDIS
-      Console**](https://amblelabs.github.io/ait-wiki/blocks/console). Like you
+      Console**](/blocks/console). Like you
       would for linking it then the Sonic Screwdriver should start charging
       (keep in mind the Sonic Screwdriver uses the [**Artron
-      Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron-energy/https://amblelabs.github.io/ait-wiki/mechanics/artron-energy/)
+      Energy**](/mechanics/artron-energy//mechanics/artron-energy/)
       to charge).
 
 
@@ -84,9 +84,9 @@ blocks:
           
           **Scanning** mode allows the Sonic Screwdriver to;
           
-          *   Tell you what console controls are by hovering over the [**Control Entities**](https://amblelabs.github.io/ait-wiki/blocks/console#how-do-i-use-a-tardis-console) and will show you the controls hitboxes.
+          *   Tell you what console controls are by hovering over the [**Control Entities**](/blocks/console#how-do-i-use-a-tardis-console) and will show you the controls hitboxes.
               
-          *   Confirm if you are located inside a [**Rift Chunk**](https://amblelabs.github.io/ait-wiki/mechanics/rift-chunks) and how much [**Artron Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron) is stored in that chunk.
+          *   Confirm if you are located inside a [**Rift Chunk**](/mechanics/rift-chunks) and how much [**Artron Energy**](/mechanics/artron) is stored in that chunk.
               
           *   In addition,hovering over a generalized subsystem core will tell you the durability of the subsystem that it holds if the circuit has durability,
               
@@ -123,7 +123,7 @@ blocks:
     value: >-
       To change the sonic casing, right-click on the **Sonic Port** whilst
       holding the Sonic Screwdriver, then when it’s in, go to the
-      [**Monitor**](https://amblelabs.github.io/ait-wiki/blocks/monitor) and
+      [**Monitor**](/blocks/monitor) and
       click on **Settings** and click onto **Sonic Settings** now you will be
       able to view the Sonic Screwdriver’s data but also the buttons for
       switching TARDIS Interiors & Exteriors.
@@ -131,7 +131,7 @@ blocks:
 
       Pressing though them should allow you to change your Sonic Screwdriver to
       handfull of different cases (more can be added with
-      [datapacks](https://amblelabs.github.io/ait-wiki/datapacks/sonics)),
+      [datapacks](/datapacks/sonics)),
       clicking the button underneath the Sonic Screwdriver display should set it
       to that casing then punching the **Sonic Port** and it should give you
       back the Sonic Screwdriver.

@@ -43,7 +43,7 @@ blocks:
           
 
       *   Alternatively, you can use the [Waypoint
-      bank](https://amblelabs.github.io/ait-wiki/blocks/waypoint-bank) if you
+      bank](/blocks/waypoint-bank) if you
       have multiple waypoint cartridges!
   - _type: text
     alt: "Crafting Recipe "

@@ -21,7 +21,7 @@ blocks:
       - title: Engine
         subtitle: The engine is what gives the TARDIS life. Connect different components
           to the engine in order to power it.
-        link: /ait-wiki/blocks/tardis-engine/
+        link: /blocks/tardis-engine/
         image:
           _type: local-image
           src: /images/blocks/engine_stuff_blocks/engine.png
@@ -42,7 +42,7 @@ blocks:
       - title: Monitor
         subtitle: The Monitor is where you can view TARDIS info, settings, and
           customisation.
-        link: https://amblelabs.github.io/ait-wiki/blocks/monitor-blocks/
+        link: /blocks/monitor-blocks/
         image:
           _type: local-image
           src: /images/blocks/wall_monitor.png

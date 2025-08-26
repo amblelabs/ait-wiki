@@ -86,7 +86,7 @@ blocks:
 
       It’s very important to register the component on time. Otherwise, the
       component registry will freeze and won’t add your component. Read [addon
-      entrypoint](https://amblelabs.github.io/ait-wiki/development/entrypoint/)
+      entrypoint](/development/entrypoint/)
       for details
 
 
@@ -136,7 +136,7 @@ blocks:
 
 
       It’s recommended to use [V2
-      properties](https://amblelabs.github.io/ait-wiki/development/properties)
+      properties](/development/properties)
       for this, but in case your data structure is too complex to be implemented
       using the properties API, you can use this method.
 

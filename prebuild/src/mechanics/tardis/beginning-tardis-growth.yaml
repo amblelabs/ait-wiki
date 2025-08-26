@@ -16,7 +16,7 @@ blocks:
       these blueprints can be found in all structures. You can see what the
       blueprint is for by holding shift while hovering your mouse over it in
       your inventory. To use the blueprint, you also need a
-      [Fabricator](https://amblelabs.github.io/ait-wiki/blocks/fabricator).
+      [Fabricator](/blocks/fabricator).
       Fabricators need to be on top of a Smithing Table to work.  
 
       Now that you have a Fabricator, right-click it with the blueprint for the
@@ -44,10 +44,10 @@ blocks:
       fragments! Nine coral fragments can used to make a Coral Growth which is
       the key to growing a TARDIS, and is also used for growing a console for
       said TARDIS. You can obtain coral fragments by right-clicking a
-      [Rift](https://amblelabs.github.io/ait-wiki/mechanics/rift-chunks). A Rift
+      [Rift](/mechanics/rift-chunks). A Rift
       is is a crack in time that spawns in rift chunks, which can be found using
       a [Rift
-      Scanner](https://amblelabs.github.io/ait-wiki/mechanics/rift-chunks).  
+      Scanner](/mechanics/rift-chunks).  
 
       Right-clicking a rift will either give you a coral fragment, paper, or
       place some coral blocks around the rift. If you're holding a sonic
@@ -68,7 +68,7 @@ blocks:
 
       Now that you have a Coral Growth, you can start growing it. To start the
       process, you will need to be in a rift chunk, which can be found using the
-      [Rift Scanner](https://amblelabs.github.io/ait-wiki/mechanics/rift-chunks)
+      [Rift Scanner](/mechanics/rift-chunks)
       you used to find the Rifts earlier. It will point in the direction of the
       nearest Rift Chunk. Once you're in a rift chunk, you will need soul sand:
       Growths only grow on soul sand, so place it down and then place the Coral
@@ -76,7 +76,7 @@ blocks:
 
 
       At this point, you can now move onto [**Completing Tardis
-      Growth.**](https://amblelabs.github.io/ait-wiki/mechanics/tardis/completing_tardis_growth)
+      Growth.**](/mechanics/tardis/completing_tardis_growth)
 
 
       ## Recipes

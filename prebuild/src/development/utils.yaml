@@ -114,7 +114,7 @@ blocks:
 
       An utility class that can be instantiated. Used to interpolate
       angle/rotation for the [Rift
-      Locator](https://amblelabs.github.io/ait-wiki/development/items/rift-locator).
+      Locator](/development/items/rift-locator).
 
 
       ### `ClientItemUtil`

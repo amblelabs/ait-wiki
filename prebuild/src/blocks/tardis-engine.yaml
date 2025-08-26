@@ -18,13 +18,13 @@ blocks:
 
       The Engine requires a free 3x3 space to be placed down. Place it anywhere
       inside the TARDIS and attach components to it using [Artron
-      Cables](https://amblelabs.github.io/ait-wiki/blocks/artron_cable/) and
+      Cables](/blocks/artron_cable/) and
       [Generalized Subsystem
-      Cores](https://amblelabs.github.io/ait-wiki/blocks/generalized-subsystem-core/).
+      Cores](/blocks/generalized-subsystem-core/).
 
 
       \* _The engine slowly loses durability when in use. Check out the_
-      [_Durability_](https://amblelabs.github.io/ait-wiki/mechanics/durability/)
+      [_Durability_](/mechanics/durability/)
       _page for how to repair it._
 
 

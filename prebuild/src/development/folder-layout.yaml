@@ -31,7 +31,7 @@ blocks:
       ### `util` (`loqor.ait.core.util`)
 
 
-      Common [utility](https://amblelabs.github.io/ait-wiki/development/utils)
+      Common [utility](/development/utils)
       classes.
 
 
@@ -45,7 +45,7 @@ blocks:
       #### `util` (`loqor.ait.core.tardis.util`)
 
 
-      TARDIS [utility](https://amblelabs.github.io/ait-wiki/development/utils)
+      TARDIS [utility](/development/utils)
       classes.
 
 
@@ -53,7 +53,7 @@ blocks:
 
 
       Package containing all of the
-      [component](https://amblelabs.github.io/ait-wiki/development/components)
+      [component](/development/components)
       classes.
 
 
@@ -70,7 +70,7 @@ blocks:
 
 
       The client-side
-      [utility](https://amblelabs.github.io/ait-wiki/development/utils) classes.
+      [utility](/development/utils) classes.
 
 
       ### `data` (`loqor.ait.client.data`)
@@ -100,7 +100,7 @@ blocks:
 
 
       Contains the standard
-      [linkable](https://amblelabs.github.io/ait-wiki/development/linkables)
+      [linkable](/development/linkables)
       classes.
 sidebar:
   open: false

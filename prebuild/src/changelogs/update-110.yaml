@@ -19,7 +19,7 @@ blocks:
 
 
       *   [Redstone
-      Controls](https://amblelabs.github.io/ait-wiki/blocks/redstone_controls/)
+      Controls](/blocks/redstone_controls/)
           
       *   Landing Pad
           
@@ -27,9 +27,9 @@ blocks:
       ### Items
 
 
-      *   [Hypercube](https://amblelabs.github.io/ait-wiki/items/hypercube/)
+      *   [Hypercube](/items/hypercube/)
           
-      *   [Hazandra](https://amblelabs.github.io/ait-wiki/items/hazandra/)
+      *   [Hazandra](/items/hazandra/)
           
 
       ### Interiors
@@ -42,7 +42,7 @@ blocks:
 
 
       *   [Adaptive
-      Exterior](https://amblelabs.github.io/ait-wiki/mechanics/tardis/chameleon/)
+      Exterior](/mechanics/tardis/chameleon/)
       (bit broken)
           
       *   Frooploof Exteriors
@@ -64,7 +64,7 @@ blocks:
       Change](https://github.com/pavatus/ait/issues/285)
           
       *   [Lockable
-      Dimensions](https://amblelabs.github.io/ait-wiki/mechanics/unlock_dims/)
+      Dimensions](/mechanics/unlock_dims/)
           
       *   Gave the player the option to recive Distress Cubes
           
@@ -89,7 +89,7 @@ blocks:
 
 
       *   [Landing
-      Markers](https://amblelabs.github.io/ait-wiki/blocks/landing_pad/)
+      Markers](/blocks/landing_pad/)
           
       *   Sonics can smelt ores to their ingot forms (Iron and Gold only)
           
