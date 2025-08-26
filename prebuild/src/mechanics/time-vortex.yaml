@@ -3,35 +3,25 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      {{< callout type="warning" >}} WARNING,THIS IS **_DISABLED BY DEFAULT_**,
-      YOU'LL NEED TO ENABLE IT VIA THE CONFIG CLIENT TAB {{< /callout >}}
+      **_What is the Time Vortex?_**
 
 
-      *   Enable it either via /ait-config
-          
-      *   Or via the config within the files!
-          
-
-      ## The time vortex!
+      The Time Vortex is the dimension the TARDIS uses for flight it comes in
+      all shapes colors and sizes which can be customized by the monitor.
 
 
-      In the 1.2.0 update we introduced the **_time vortex_** , which is very
-      customizable and has data pack support, its behind the door and can be
-      viewed by opening the door mid flight, and its bigger on the outside!
+      ![](/images/mechanics/vortex%20thing.png)
 
 
-      ![vortex](images/vortex.png)
+      **_Can you see the Time Vortex?_**
 
 
-      *   Some people have noted that they feel wierd after staring into the
-      vortex for prolonged periods of times, but thats probably nothin.
-          
-      *   It also spins, the higher your throttle speed the faster it spins and
-      when you are crashing.
-          
-      *   Here is a video made by tendo showing the vortex off,how to change it
-      and such.
-      [https://www.youtube.com/watch?v=RNoBqEpZ\_BM](https://www.youtube.com/watch?v=RNoBqEpZ_BM)
+      Yes you can! just open your doors while in flight or use the environment
+      projector set to the time vortex dimension.
+
+
+      ![](/images/mechanics/vortex.png)
+  - _type: local-image
 sidebar:
   open: false
   exclude: false
