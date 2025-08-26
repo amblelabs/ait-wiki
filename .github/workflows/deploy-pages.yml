@@ -75,7 +75,7 @@ jobs:
           hugo -s prebuild
           hugo \
             --gc --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/" \
+            --baseURL "https://amblelabs.pages.dev/${{ github.event.repository.name }}" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
       
       - name: Cache save
