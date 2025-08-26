@@ -6,7 +6,7 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      ![Image of the GSC](./images/engine_stuff_blocks/gsc.png)
+      ![Image of the GSC](/images/blocks/engine_stuff_blocks/gsc.png)
 
 
       ## How Does This Work?
@@ -22,4 +22,4 @@ blocks:
       ## How do I make It?
 
 
-      ![Image of the recipe](./images/engine_stuff_blocks/gsc_recipe.png)
+      ![Image of the recipe](/images/blocks/engine_stuff_blocks/gsc_recipe.png)

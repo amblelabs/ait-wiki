@@ -3,7 +3,7 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      ![Image of the Plaque](./images/plaque.png)
+      ![Image of the Plaque](/images/blocks/plaque.png)
 
 
       The Plaque is used for displaying manufacturing information of the TARDIS
@@ -15,7 +15,7 @@ blocks:
       ## How To Craft The Plaque
 
 
-      ![Image of the recipe](./images/plaque/recipe.png)
+      ![Image of the recipe](/images/blocks/plaque/recipe.png)
 sidebar:
   open: false
   exclude: false

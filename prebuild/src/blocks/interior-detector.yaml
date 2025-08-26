@@ -3,7 +3,7 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      ![Image of the Interior Detector Block](./images/detector_block.png)
+      ![Image of the Interior Detector Block](/images/blocks/detector_block.png)
 
 
       An Interior Detector is used for emitting redstone signals based on
@@ -13,7 +13,7 @@ blocks:
       ## How Do I Craft the Interior Detector?
 
 
-      ![Image of the recipe](./images/detector/recipe.png)
+      ![Image of the recipe](/images/blocks/detector/recipe.png)
 
 
       ## How Do I use the Interior Detector?

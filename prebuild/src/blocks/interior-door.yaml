@@ -24,7 +24,7 @@ blocks:
       recipe in a crafting table as shown below:
 
 
-      ![Image of the recipe](./images/interior_door/recipe.png)
+      ![Image of the recipe](/images/blocks/interior_door/recipe.png)
 
 
       ## How Do I Use the Interior Door?
@@ -70,7 +70,7 @@ blocks:
 
 
       ![Image of the Police Box Interior
-      Door](./images/interior_door/policebox_interior_door.png)
+      Door](/images/blocks/interior_door/policebox_interior_door.png)
 
 
       {{< callout type="info" >}} The **Interior Door** does not emit a redstone

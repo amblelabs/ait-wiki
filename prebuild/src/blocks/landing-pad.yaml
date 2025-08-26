@@ -3,7 +3,7 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      ![Image of the Landing Pad](./images/landing_pad/landing_pad.png)
+      ![Image of the Landing Pad](/images/blocks/landing_pad/landing_pad.png)
 
 
       ## The Landing Pad
@@ -26,7 +26,7 @@ blocks:
       ## Recipe
 
 
-      ![Image of the recipe](./images/landing_pad/recipe.png)
+      ![Image of the recipe](/images/blocks/landing_pad/recipe.png)
 sidebar:
   open: false
   exclude: false

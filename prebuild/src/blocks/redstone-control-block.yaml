@@ -4,7 +4,7 @@ blocks:
     alt: Content
     value: >-
       ![Image of the Redstone Control
-      Block](./images/redstone-control/redstone-control-2.png)
+      Block](/images/blocks/redstone-control/redstone-control-2.png)
 
 
       ## How Do I Use the Redstone Control Block?
@@ -30,7 +30,7 @@ blocks:
       ## Recipe
 
 
-      ![Image of the recipe](./images/redstone-control/rcr.png)
+      ![Image of the recipe](/images/blocks/redstone-control/rcr.png)
 sidebar:
   open: false
   exclude: false

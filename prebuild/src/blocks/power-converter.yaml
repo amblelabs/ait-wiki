@@ -3,7 +3,7 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      ![Image of the Power Convertor](./images/engine_stuff_blocks/pc.png)
+      ![Image of the Power Convertor](/images/blocks/engine_stuff_blocks/pc.png)
 
 
       ## How Is It Used?
@@ -23,7 +23,7 @@ blocks:
       ## Recipe
 
 
-      ![Image of the recipe](./images/engine_stuff_blocks/convertor_recipe.png)
+      ![Image of the recipe](/images/blocks/engine_stuff_blocks/convertor_recipe.png)
 sidebar:
   open: false
   exclude: false

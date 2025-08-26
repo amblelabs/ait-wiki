@@ -6,7 +6,7 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      ![Image of the Environment Projector](./images/environment_projector.png)
+      ![Image of the Environment Projector](/images/blocks/environment_projector.png)
 
 
       The Environment Projector is a fun way to change the TARDIS' interior
@@ -20,13 +20,13 @@ blocks:
 
 
       ![Image of the a skybox
-      example](./images/environment_projector/env_space.png)
+      example](/images/blocks/environment_projector/env_space.png)
 
 
       ## How Do I Craft An Environment Projector?
 
 
-      ![Image of the recipe](./images/environment_projector/recipe.png)
+      ![Image of the recipe](/images/blocks/environment_projector/recipe.png)
 
 
       ## How Do I Use the Environment Projector?
