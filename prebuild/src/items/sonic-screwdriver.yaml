@@ -133,9 +133,8 @@ blocks:
       [datapacks](/datapacks/sonics)), clicking the button underneath the Sonic
       Screwdriver display should set it to that casing then punching the **Sonic
       Port** and it should give you back the Sonic Screwdriver.
-
-
-      ![](/images/items/sonic/sonic%20casings.png)
+  - _type: local-image
+    src: /images/items/sonic/soniccasing.png
   - _type: text
     alt: "Sonic TARDIS Repair "
     value: >-
