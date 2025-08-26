@@ -6,7 +6,7 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      ![Image of the Console](./images/console.png)
+      ![Image of the Console](/images/blocks/console.png)
 
 
       The TARDIS console is the main control unit of the TARDIS, which can be
@@ -23,7 +23,7 @@ blocks:
       ## How Do I Create / Get a Console?
 
 
-      ![Image of the Console Generator](./images/console/generator.png)
+      ![Image of the Console Generator](/images/blocks/console/generator.png)
 
 
       You could build a Console Generator directly via its recipe, but there is
@@ -42,7 +42,7 @@ blocks:
       Here is the crafting recipe for a Console Generator:
 
 
-      ![Image of the recipe](./images/console/generator-recipe.png)
+      ![Image of the recipe](/images/blocks/console/generator-recipe.png)
 
 
       Place the Console Generator into the TARDIS interior, and you will be able
@@ -61,11 +61,11 @@ blocks:
       type.
           
       3.  Confirm the console by using a [**Sonic
-      Screwdriver**](https://amblelabs.github.io/ait-wiki/items/sonic-screwdriver/)
+      Screwdriver**](/ait-wiki/items/sonic-screwdriver/)
       or blaze powder on it.
           
 
-      ![Image of the Default Console](./images/hologram.png)
+      ![Image of the Default Console](/images/blocks/hologram.png)
 
 
       ## How Do I Use a TARDIS Console?
@@ -73,7 +73,7 @@ blocks:
 
       If you're having a hard time finding the controls, you can use the
       **Scanning Mode** of a [**Sonic
-      Screwdriver**.](https://amblelabs.github.io/ait-wiki/items/sonic-screwdriver/)
+      Screwdriver**.](/ait-wiki/items/sonic-screwdriver/)
       Alternatively, you can turn on debugging mode for viewing entity
       **hitboxes** by using F3+B (pressing again will turn them off).
 
@@ -115,7 +115,7 @@ blocks:
 
       The **Antigravs Control** will make the TARDIS' exterior hover in place by
       preventing it from falling, but uses [**Artron
-      Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron-energy/)
+      Energy**](/ait-wiki/mechanics/artron-energy/)
       while active.
 
 
@@ -147,9 +147,9 @@ blocks:
 
       The **Refuel Control** requires the Handbrake to be engaged. It will then
       slowly refuel [**Artron
-      Energy**](https://amblelabs.github.io/ait-wiki/mechanics/artron-energy/)
+      Energy**](/ait-wiki/mechanics/artron-energy/)
       over time. Being inside a [**Rift
-      Chunk**](https://amblelabs.github.io/ait-wiki/mechanics/rift-chunks/) will
+      Chunk**](/ait-wiki/mechanics/rift-chunks/) will
       significantly increase refuelling speed.
 
 
@@ -167,7 +167,7 @@ blocks:
 
       The **Shields Control** has 2 functional modes, the first being invisible
       shields and the second visible shields. Find more information in the
-      [Mechanics](https://amblelabs.github.io/ait-wiki/mechanics/) section.
+      [Mechanics](/ait-wiki/mechanics/) section.
 
 
       The **Telepathic Circuit** has 3 functions:
