@@ -1,2 +1,4 @@
 github.com/drtheodor/hextra v0.0.0-20250826135457-36e4955e8992 h1:B2xn9pJ3iPLwbJgQjSM4CAWzLNCp6YBLIsNHx37RhYE=
 github.com/drtheodor/hextra v0.0.0-20250826135457-36e4955e8992/go.mod h1:qjoOAflScFI1V2lsNIelrAFt7VXF7Ylw3IoYMd408bg=
+github.com/drtheodor/hextra v0.0.0-20250826135928-5c8a3ba0e3be h1:QVos0RQAmB2Do7LS7iBagzd0Mw+PwzaiVBVhoLBScds=
+github.com/drtheodor/hextra v0.0.0-20250826135928-5c8a3ba0e3be/go.mod h1:qjoOAflScFI1V2lsNIelrAFt7VXF7Ylw3IoYMd408bg=
