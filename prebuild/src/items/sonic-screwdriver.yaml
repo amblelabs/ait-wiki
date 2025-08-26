@@ -1,10 +1,11 @@
 title: Sonic Screwdriver
 blocks:
-  - _type: local-image
-    src: /images/items/sonic/mechanical.png
   - _type: text
     alt: Sonic
     value: >-
+      ![](/images/items/sonic/mechanical.png)
+
+
       The Sonic Screwdriver is a handheld device used for various tasks, these
       tasks range from seeing what the console do, to blowing up TNT.
 
@@ -14,11 +15,12 @@ blocks:
       should of now have gone into the **Sonic Port** and have linked to the
       **TARDIS**, to remove it punch the Sonic Screwdriver in the **Sonic
       Port**, and it will eject from the [**Console**](/blocks/console).
-  - _type: local-image
-    src: /images/items/sonic/in_port.png
   - _type: text
     alt: Charge
     value: >-
+      ![](/images/items/sonic/in_port.png)
+
+
       To **charge** a Sonic Screwdriver insert it into a [**TARDIS
       Console**](/blocks/console). Like you would for linking it then the Sonic
       Screwdriver should start charging (keep in mind the Sonic Screwdriver uses
@@ -113,8 +115,9 @@ blocks:
       the creative menu but there is a way to modify the Sonic Screwdriver
       casing, check it’s power, see what TARDIS it’s linked to and what casing
       it has.
-  - _type: local-image
-    src: /images/items/sonic/sonic-settings.png
+
+
+      ![](/images/items/sonic/sonic-settings.png)
   - _type: text
     alt: Casing
     value: >-
@@ -160,8 +163,9 @@ blocks:
       Once the repair has finished the Sonic Screwdriver should pop out of the
       **TARDIS Exterior** (if not just shift+right-click and it will pop out)
       and the TARDIS is repaired for you to use again.
-  - _type: local-image
-    src: /images/items/sonic/repairing.png
+
+
+      ![](/images/items/sonic/repairing.png)
   - _type: text
     alt: "Other Info "
     value: >-
@@ -177,11 +181,11 @@ blocks:
       Some blocks would need to be interacted in the **Interaction** Mode or the
       **Overdrive** Mode. **_The sonic can be used to cancel out engine phasing
       aswell_**
-  - _type: local-image
-    src: /images/items/sonic/crosshair.png
-  - _type: text
-    alt: Other Info 2
-    value: >-
+
+
+      ![](/images/items/sonic/crosshair.png)
+
+
       Once the Sonic Screwdriver runs out of charge it will be stuck on
       **Inactive** Mode till you have charged your Sonic Screwdriver in the
       **Sonic Port**!
