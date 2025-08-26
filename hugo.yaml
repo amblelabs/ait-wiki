@@ -46,6 +46,10 @@ menu:
       params:
         icon: github
 
+services:
+  googleAnalytics:
+    id: G-3B98G1FDF0
+
 params:
   navbar:
     displayTitle: true
@@ -83,8 +87,7 @@ params:
       lazy: true
 
   analytics:
-    minGoogleAnalytics:
-      ID: G-3B98G1FDF0
+    minGoogleAnalytics: true
 
 caches:
   images:
