@@ -9,24 +9,21 @@ blocks:
       tasks range from seeing what the console do, to blowing up TNT.
 
 
-      To **link** a Sonic Screwdriver to a [**TARDIS
-      Console**](/blocks/console)
+      To **link** a Sonic Screwdriver to a [**TARDIS Console**](/blocks/console)
       right-click on the **Sonic Port** whilst holding the Sonic Screwdriver. It
       should of now have gone into the **Sonic Port** and have linked to the
       **TARDIS**, to remove it punch the Sonic Screwdriver in the **Sonic
-      Port**, and it will eject from the
-      [**Console**](/blocks/console).
+      Port**, and it will eject from the [**Console**](/blocks/console).
   - _type: local-image
     src: /images/items/sonic/in_port.png
   - _type: text
     alt: Charge
     value: >-
       To **charge** a Sonic Screwdriver insert it into a [**TARDIS
-      Console**](/blocks/console). Like you
-      would for linking it then the Sonic Screwdriver should start charging
-      (keep in mind the Sonic Screwdriver uses the [**Artron
-      Energy**](/mechanics/artron-energy//mechanics/artron-energy/)
-      to charge).
+      Console**](/blocks/console). Like you would for linking it then the Sonic
+      Screwdriver should start charging (keep in mind the Sonic Screwdriver uses
+      the [**Artron
+      Energy**](/mechanics/artron-energy//mechanics/artron-energy/) to charge).
 
 
       After when you have done charging your Sonic Screwdriver punch the Sonic
@@ -123,20 +120,19 @@ blocks:
     value: >-
       To change the sonic casing, right-click on the **Sonic Port** whilst
       holding the Sonic Screwdriver, then when it’s in, go to the
-      [**Monitor**](/blocks/monitor) and
-      click on **Settings** and click onto **Sonic Settings** now you will be
-      able to view the Sonic Screwdriver’s data but also the buttons for
-      switching TARDIS Interiors & Exteriors.
+      [**Monitor**](/blocks/monitor) and click on **Settings** and click onto
+      **Sonic Settings** now you will be able to view the Sonic Screwdriver’s
+      data but also the buttons for switching TARDIS Interiors & Exteriors.
 
 
       Pressing though them should allow you to change your Sonic Screwdriver to
       handfull of different cases (more can be added with
-      [datapacks](/datapacks/sonics)),
-      clicking the button underneath the Sonic Screwdriver display should set it
-      to that casing then punching the **Sonic Port** and it should give you
-      back the Sonic Screwdriver.
-  - _type: local-image
-    src: /images/items/sonic/casings.png
+      [datapacks](/datapacks/sonics)), clicking the button underneath the Sonic
+      Screwdriver display should set it to that casing then punching the **Sonic
+      Port** and it should give you back the Sonic Screwdriver.
+
+
+      ![](/images/items/sonic/sonic%20casings.png)
   - _type: text
     alt: "Sonic TARDIS Repair "
     value: >-
