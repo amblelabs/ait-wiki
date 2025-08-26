@@ -18,6 +18,7 @@ on:
 
 permissions:
   contents: read
+  deployments: write
 
 # Ensure only one deployment runs at a time
 concurrency:
@@ -89,6 +90,6 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          branch: ${{ github.head_ref }}
           command: pages deploy ./public --project-name=amblelabs
+          workingDirectory: ${{ github.event.repository.name }}
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
