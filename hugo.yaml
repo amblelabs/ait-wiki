@@ -46,10 +46,6 @@ menu:
       params:
         icon: github
 
-services:
-  minGoogleAnalytics:
-    ID: 502227953
-
 params:
   navbar:
     displayTitle: true
@@ -86,6 +82,10 @@ params:
       categoryId: DIC_kwDOML5FAM4CgOE1
       lazy: true
 
-#caches:
-#  images:
-#    dir: :cacheDir/images
+  analytics:
+    minGoogleAnalytics:
+      ID: 502227953
+
+caches:
+  images:
+    dir: :cacheDir/images
