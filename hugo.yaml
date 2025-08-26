@@ -47,7 +47,7 @@ menu:
         icon: github
 
 services:
-  googleAnalytics:
+  minGoogleAnalytics:
     ID: G-3B98G1FDF0
 
 params:
@@ -58,7 +58,7 @@ params:
       path: logo.webp
       link: /ait-wiki/
       width: 40
-      height: 20
+      height: 40
 
   footer:
     enable: false
@@ -71,7 +71,6 @@ params:
   editURL:
     enable: true
     base: "https://github.com/amblelabs/ait-wiki/edit/main/content/"
-    sep: "%2F"
   
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
@@ -85,6 +84,7 @@ params:
       repoId: R_kgDOML5FAA
       category: General
       categoryId: DIC_kwDOML5FAM4CgOE1
+      lazy: true
 
 #caches:
 #  images:
