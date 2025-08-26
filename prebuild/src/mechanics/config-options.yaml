@@ -37,7 +37,7 @@ blocks:
       (VERY UNSTABLE WILL NOT WORK FOR NOW)
 
 
-      Render tardis interior
+      **Render tardis interior**
 
 
       This config allows you to see the interior of your tardis from the
@@ -45,13 +45,13 @@ blocks:
   - _type: text
     alt: Green screen boti
     value: |-
-      Green screen boti
+      **Green screen boti**
 
       turns your tardis green dont use this unless you do video editing or smth.
   - _type: text
     alt: Show control hitboxs
     value: >-
-      Show control hitboxs
+      **Show control hitboxs**
 
 
       This config allows the sonic when in scanning mode to show control
@@ -59,7 +59,7 @@ blocks:
   - _type: text
     alt: Show text on console monitors
     value: >-
-      Show text on console monitors
+      **Show text on console monitors**
 
 
       This config toggles the information on the console monitors. (toyota coral
@@ -67,7 +67,7 @@ blocks:
   - _type: text
     alt: Show text on crt monitors
     value: >-
-      Show text on crt monitors
+      **Show text on crt monitors**
 
 
       This config toggles the information on the crt monitors (the big chunky
@@ -75,19 +75,19 @@ blocks:
   - _type: text
     alt: "Render demat particles "
     value: |-
-      Render demat particles
+      **Render demat particles**
 
       This config toggles the smoke on the exterior when demating.
   - _type: text
     alt: Darkness effect when TARDIS powered off
     value: |-
-      Darkness effect when TARDIS powered off
+      **Darkness effect when TARDIS powered off**
 
       This config makes it so you can see in the tardis when its off.
   - _type: text
     alt: "Animate console "
     value: >-
-      Animate console
+      **Animate console**
 
 
       This config toggles the animations on the console. (power demat the little
@@ -95,7 +95,7 @@ blocks:
   - _type: text
     alt: Animate doors
     value: >-
-      Animate doors
+      **Animate doors**
 
 
       This config toggles the animations of doors so instead of it having really
@@ -106,9 +106,9 @@ blocks:
   - _type: text
     alt: Temperature type
     value: |-
-      Temperature type
+      **Temperature type**
 
-      This config changes the temperature type in the spacesuit.
+      This config changes the Temperature type
 sidebar:
   open: false
   exclude: false
