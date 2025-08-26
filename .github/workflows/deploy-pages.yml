@@ -85,11 +85,15 @@ jobs:
           path: ${{ runner.temp }}/hugo_cache
           key: ${{ steps.cache-restore.outputs.cache-primary-key }}
 
+      - name: Run stuff
+        run: |
+          cp public deploy/${{ github.event.repository.name }}
+
       - name: Upload Worker Version
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy ./public --project-name=amblelabs
-          workingDirectory: ${{ github.event.repository.name }}
+          command: pages deploy . --project-name=amblelabs
+          workingDirectory: deploy
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
