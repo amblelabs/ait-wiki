@@ -2,7 +2,7 @@ title: Update 1.2.0 - "Expanded" Update!
 blocks:
   - _type: text
     alt: Content
-    value: "![Update 1.2.0](images/ait-1.2.0.png)
+    value: "![Update 1.2.0](/images/changelogs/ait-1.2.0.png)
 
 
       This update revamps and adds The Engine, Sub-Systems, planets, and a

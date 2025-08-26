@@ -21,7 +21,7 @@ blocks:
       ## What flight events are there?
 
 
-      1 BUTTON EVENTS
+      ### 1) BUTTON EVENTS
 
 
       *   Artron drain detected!
@@ -54,7 +54,7 @@ blocks:
       1.  P116
           
 
-      2 BUTTON EVENTS
+      ### 2) BUTTON EVENTS
 
 
       *   Drifting off course X!

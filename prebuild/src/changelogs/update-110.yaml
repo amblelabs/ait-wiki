@@ -3,7 +3,7 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      ![Update 1.1.0](images/ait-1.1.0.png)
+      ![Update 1.1.0](/images/changelogs/ait-1.1.0.png)
 
 
       Thanks for waiting for the update to be released! ALL of the DISGUSTING
