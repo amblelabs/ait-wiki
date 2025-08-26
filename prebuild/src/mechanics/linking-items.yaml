@@ -11,11 +11,12 @@ blocks:
 
 
       On the console, find the **telepathic circuit** and right click it with
-      the linkable item. Linkable items include:  
-        
+      the linkable item. Linkable items include:
+
+
       TARDIS Key(../../items/sonic)
 
-        
+
       Stattenhiem Remote
 
 
@@ -33,7 +34,10 @@ blocks:
       sonic/keys/Stattenheim remote) its:
 
 
-      > /ait link And that should link your currently held item.
+      > /ait link
+
+
+      ...And that should link your currently held item.
 sidebar:
   open: false
   exclude: false
