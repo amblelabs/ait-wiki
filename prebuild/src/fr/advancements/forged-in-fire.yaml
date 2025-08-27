@@ -1,0 +1,13 @@
+title: Forged In Fire
+blocks:
+  - _type: text
+    alt: Content
+    value: >-
+      The advancement "**Forged In Fire**" is the same as any other key
+      advancement. simply:
+
+
+      Gain a Netherite Key
+sidebar:
+  open: false
+  exclude: false

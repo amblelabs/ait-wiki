@@ -1,0 +1,38 @@
+title: TARDIS Engine
+blocks:
+  - _type: local-image
+    src: /images/blocks/engine_stuff_blocks/engine.png
+    alt: Engine Picture
+  - _type: text
+    alt: Description
+    value: >-
+      ## Why Is It So Big?
+
+
+      The Engine is organically based, just like the TARDIS it powers. It will
+      grow depending on the amount of components you have connected to it.
+
+
+      ## How Do I Use It?
+
+
+      The Engine requires a free 3x3 space to be placed down. Place it anywhere
+      inside the TARDIS and attach components to it using [Artron
+      Cables](/blocks/artron_cable/) and
+      [Generalized Subsystem
+      Cores](/blocks/generalized-subsystem-core/).
+
+
+      \* _The engine slowly loses durability when in use. Check out the_
+      [_Durability_](/mechanics/durability/)
+      _page for how to repair it._
+
+
+      ## How Do I Get It?
+
+
+      It can be crafted by using an engine blueprint on the **Fabricator** and
+      then providing the required materials.
+sidebar:
+  open: false
+  exclude: false

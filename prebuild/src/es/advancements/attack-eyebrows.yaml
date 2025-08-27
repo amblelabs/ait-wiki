@@ -1,0 +1,19 @@
+title: Attack Eyebrows
+blocks:
+  - _type: text
+    alt: advancement
+    value: |-
+      To get the advancement **"Attack Eyebrows"** you need to do the following:
+
+      1.  Have more or equal to **1500 artron**
+          
+      2.  Have less or equal to **2017 artron**
+          
+      3.  _Locked_ doors
+          
+      4.  Refueling disabled
+          
+      5.  Turn on power
+sidebar:
+  open: false
+  exclude: false

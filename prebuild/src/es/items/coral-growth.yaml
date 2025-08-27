@@ -1,0 +1,42 @@
+title: Coral Growth
+blocks:
+  - _type: local-image
+    src: /images/items/coral.png
+  - _type: text
+    alt: Coral?
+    value: >-
+      This is the Tardis, it is crafted from Coral Fragments. It is placed on
+      Soul Sand inside of a Rift Chunk. Simular to crops in the game, the Coral
+      Growth is grown in stages over time (this can be sped up by changing the
+      games random tick speed).
+
+
+      * * *
+  - _type: text
+    alt: "How do i finish growing a tardis / console? "
+    value: >-
+      How do i finish growing a tardis / console?
+
+
+      Place a **Coral Cage** on the fuly grown Coral
+
+
+      Place **8 Plasmic material** on the cage
+
+
+      Throw a **personality matrix** into the water inside the TARDIS
+
+
+      ### OR
+
+
+      If you want to grow a console look
+      [HERE](/blocks/console/#how-do-i-create--get-a-console).
+  - _type: text
+    alt: "Recipe "
+    value: "## Recipe"
+  - _type: local-image
+    src: /images/items/coral_recipe.png
+sidebar:
+  open: false
+  exclude: false

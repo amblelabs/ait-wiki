@@ -1,0 +1,43 @@
+title: Environment Projector
+sidebar:
+  open: false
+  exclude: false
+blocks:
+  - _type: text
+    alt: Content
+    value: >-
+      ![Image of the Environment Projector](/images/blocks/environment_projector.png)
+
+
+      The Environment Projector is a fun way to change the TARDIS' interior
+      skybox, perfect for your glass-roofed interior or your flashy windows full
+      of dazzling curtains.
+
+
+      This block can display the skybox from any dimension **_as seen below_**
+      (It even works with other mod's dimensions too! As long as they set it up
+      correctly...):
+
+
+      ![Image of the a skybox
+      example](/images/blocks/environment_projector/env_space.png)
+
+
+      ## How Do I Craft An Environment Projector?
+
+
+      ![Image of the recipe](/images/blocks/environment_projector/recipe.png)
+
+
+      ## How Do I Use the Environment Projector?
+
+
+      Interacting with the block will toggle the Environment Projector on and
+      off. While sneaking and interacting with the Environment Projector, it
+      will let you cycle through the available skyboxes. This block can only
+      work in the TARDIS and will only control the skybox for that specific
+      **TARDIS interior**.
+
+
+      {{< callout type="info" >}} This block can be activated and deactivated
+      with a redstone signal. {{< /callout >}}

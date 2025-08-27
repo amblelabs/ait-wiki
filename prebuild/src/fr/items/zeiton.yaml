@@ -1,0 +1,78 @@
+title: Zeiton
+blocks:
+  - _type: text
+    alt: Zeiton
+    value: >-
+      ## What is zeiton?
+
+
+      Zeiton is the main new type of material this mod adds. Theres the
+      following variations
+
+
+      *   Zeiton dust
+          
+      *   Zeiton block
+          
+      *   Zeiton budding
+          
+      *   All the types of zeiton growth
+          
+      *   Charged zeiton crystal
+  - _type: text
+    alt: How do i find it?
+    value: |-
+      ## How do i find it?
+
+      Like how amethyst geodes are found,in caves!
+
+      ![](/images/items/zeiton/structure/ZeitonHint.png)
+
+      ![](/images/items/zeiton/structure/Geode.png)
+  - _type: text
+    alt: What do i use zeiton for?
+    value: >-
+      ## What do i use zeiton for?
+
+
+      1.  Zeiton is apart of the crafting recepie for the tardis coral
+          
+      2.  Used for the sonic screwdriver
+          
+      3.  Used to get charged zeiton a alternate to the nether star for
+      reconfiguring your coral
+          
+      4.  Zeiton dust
+          
+      5.  Probably more that im forgetting in here.
+  - _type: text
+    alt: "How do i get the big zeiton crystal? "
+    value: |-
+      ## How do i get the big zeiton crystal?
+
+      You need silk touch for the big one
+
+      ![](/images/items/zeiton/blocks/FullGrowth.png)
+  - _type: text
+    alt: Can i grow zeiton?
+    value: |-
+      ## Can i grow zeiton?
+
+      Yeah, zeiton budding has the capability of growing zeiton very slowly!
+
+      ![](/images/items/zeiton/blocks/Budding.png)
+  - _type: text
+    alt: Can i craft zeiton blocks?
+    value: |-
+      ## Can i craft zeiton blocks?
+
+      ![](/images/items/zeiton/blocks/ZeitonBlockRecepie.png)
+  - _type: text
+    alt: "What about budding? "
+    value: |-
+      ## What about budding?
+
+      Sadly no.
+sidebar:
+  open: false
+  exclude: false

@@ -1,0 +1,155 @@
+title: Handles
+blocks:
+  - _type: local-image
+    src: /images/items/handles/in_console.png
+  - _type: text
+    alt: This is Handles!
+    value: >-
+      ## This is Handles!
+
+
+      Similar to the show, (using the minecraft chat) Handles can fulfill
+      various TARDIS related commands. But firstly, you need to find him. He can
+      be found in the Wrecked Cybership structure which spawns in Swamp biomes.
+      Once you’ve found him, you’ll need to link him to your TARDIS by placing
+      him into the sonic port.
+  - _type: text
+    alt: How Handles Works.
+    value: >-
+      ## How Handles Works.
+
+
+      Once placed into the sonic port, he will be able to accept commands given
+      by you. To do so use the in game chat and type “Handles” followed by a
+      command you want him to fulfill, Handles will respond with a specific
+      message based on what you ask him to do or an error message if you give
+      him a wrong command. He will NOT do flight events for you when he’s in the
+      Sonic Port!
+  - _type: text
+    alt: Misc stuff
+    value: |-
+      ## Misc stuff
+
+      ```
+          "help"
+          "tell me a joke"
+          "tell me a fun fact"
+      ```
+  - _type: text
+    alt: Demat
+    value: |-
+      ## Demat
+
+      ```
+          "take off"
+          "dematerialize"
+      ```
+  - _type: text
+    alt: Remat
+    value: |-
+      ## Remat
+
+      ```
+          "land"
+          "rematerialize"
+      ```
+  - _type: text
+    alt: Shields
+    value: |-
+      ## Shields
+
+      ```
+          "toggle shields"
+          "shields"
+      ```
+  - _type: text
+    alt: Anti-Gravs
+    value: |-
+      ## Anti-Gravs
+
+      ```
+          "toggle antigravs"
+          "antigravs"
+      ```
+  - _type: text
+    alt: Cloak
+    value: |-
+      ## Cloak
+
+      ```
+          "p3"
+      ```
+  - _type: text
+    alt: Open door
+    value: |-
+      ## Open door
+
+      ```
+          "open the door"
+          "open"
+      ```
+  - _type: text
+    alt: Close door
+    value: |-
+      ## Close door
+
+      ```
+          "close the door"
+          "close"
+      ```
+  - _type: text
+    alt: Lock door
+    value: |-
+      ## Lock door
+
+      ```
+          "lock door"
+          "lock"
+      ```
+  - _type: text
+    alt: Unlock door
+    value: |-
+      ## Unlock door
+
+      ```
+          "unlock door"
+          "unlock"
+      ```
+  - _type: text
+    alt: "Activate refuel "
+    value: |-
+      ## Activate refuel
+
+      ```
+          "refuel"
+      ```
+  - _type: text
+    alt: Deactivate refuel
+    value: |-
+      ## Deactivate refuel
+
+      ```
+          "stop refuel"
+      ```
+  - _type: text
+    alt: Travel to waypoint
+    value: |-
+      ## Travel to waypoint
+
+      ```
+          "go to waypoint"
+          "travel to waypoint"
+      ```
+  - _type: text
+    alt: Flight progress
+    value: |-
+      ## Flight progress
+
+      ```
+          "flight status"
+          "flight progress"
+          "progress"
+      ```
+sidebar:
+  open: false
+  exclude: false

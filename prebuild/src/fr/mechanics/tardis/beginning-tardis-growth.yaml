@@ -1,0 +1,100 @@
+title: Beginning Tardis Growth
+description: page for helping players figure out how to start the process of
+  growing a tardis and getting the items needed to start growth. Page made by
+  Echo, revised by Ferreira for general English correctness.
+blocks:
+  - _type: text
+    alt: Bazinga
+    value: >-
+      ## Fabricating a Sonic Screwdriver
+
+
+      ![](/images/mechanics/tardis/fabrication.webp)
+
+
+      To fabricate a Sonic Screwdriver, you'll need to find a blueprint for it;
+      these blueprints can be found in all structures. You can see what the
+      blueprint is for by holding shift while hovering your mouse over it in
+      your inventory. To use the blueprint, you also need a
+      [Fabricator](/blocks/fabricator).
+      Fabricators need to be on top of a Smithing Table to work.  
+
+      Now that you have a Fabricator, right-click it with the blueprint for the
+      Sonic Screwdriver. This will show all the items needed to fabricate the
+      blueprint recipe. Some items needed for the recipe can vary in amount,
+      which you can also see in the tooltip. We suggest getting the items about
+      now if you haven't already.  
+
+      Once you have all the items needed, right-click the Fabricator while
+      holding one of the items and the Fabricator will take it. Once you have
+      placed all the items in the Fabricator, it will create the item. You
+      simply need to right-click to obtain it.  
+
+      Now that you have a Sonic Screwdriver, we can move on to getting coral
+      fragments!
+
+
+      ## Obtaining a Coral Growth
+
+
+      ![](/images/mechanics/rift-chunks/rift_entity.png)
+
+
+      Now that you have a Sonic Screwdriver, we can start getting coral
+      fragments! Nine coral fragments can used to make a Coral Growth which is
+      the key to growing a TARDIS, and is also used for growing a console for
+      said TARDIS. You can obtain coral fragments by right-clicking a
+      [Rift](/mechanics/rift-chunks). A Rift
+      is is a crack in time that spawns in rift chunks, which can be found using
+      a [Rift
+      Scanner](/mechanics/rift-chunks).  
+
+      Right-clicking a rift will either give you a coral fragment, paper, or
+      place some coral blocks around the rift. If you're holding a sonic
+      screwdriver, it will also refill your Sonic's Artron reserve. **Note that
+      you will take some damage when you right click a rift. Avoid walking into
+      them, too - you'll be flung across time and space!** Once you have nine
+      coral fragments, you can craft a Coral Growth by placing all nine of them
+      in a crafting table. We recommend getting eighteen fragments while you're
+      on the hunt, as you can then craft two Growths; one for the TARDIS, one
+      for the console.
+
+
+      ## Starting TARDIS Growth
+
+
+      ![](/images/mechanics/tardis/coral-growing.webp)
+
+
+      Now that you have a Coral Growth, you can start growing it. To start the
+      process, you will need to be in a rift chunk, which can be found using the
+      [Rift Scanner](/mechanics/rift-chunks)
+      you used to find the Rifts earlier. It will point in the direction of the
+      nearest Rift Chunk. Once you're in a rift chunk, you will need soul sand:
+      Growths only grow on soul sand, so place it down and then place the Coral
+      Growth on top of it. Overtime, it will start growing!
+
+
+      At this point, you can now move onto [**Completing Tardis
+      Growth.**](/mechanics/tardis/completing_tardis_growth)
+
+
+      ## Recipes
+
+
+      *   Rift Scanner
+          
+
+      ![](/images/mechanics/rift-chunks/scanner-recipe.png)
+
+
+      *   Fabricator
+          
+
+      ![](/images/blocks/engine_stuff_blocks/fabricator_recipe.png)
+
+
+      *   Coral Growth
+sidebar:
+  open: false
+  exclude: false

@@ -1,0 +1,57 @@
+title: "Interior Detector "
+blocks:
+  - _type: text
+    alt: Content
+    value: >-
+      ![Image of the Interior Detector Block](/images/blocks/detector_block.png)
+
+
+      An Interior Detector is used for emitting redstone signals based on
+      different states of the TARDIS.
+
+
+      ## How Do I Craft the Interior Detector?
+
+
+      ![Image of the recipe](/images/blocks/detector/recipe.png)
+
+
+      ## How Do I use the Interior Detector?
+
+
+      The Interior Detector has 7 modes:
+
+
+      *   **Orange** (TARDIS is powered on or not)
+          
+      *   **Green** (TARDIS is crashed or not)
+          
+      *   **Gray** (TARDIS is locked or not)
+          
+      *   **White** (The TARDIS doors are open or not)
+          
+      *   **Blue** (A Sonic Screwdriver is inserted in the Sonic Port of the
+      Console or not)
+          
+      *   **Red** (The Alarms are active or not)
+          
+      *   **Purple** (The TARDIS is in flight or not)
+          
+
+      Right-clicking on the block will cycle through the modes.
+
+
+      The **Interior Detector Block** has 2 lights. One on the top and one on
+      the bottom.  
+
+      The one on the top indicates the mode it's been set to, while the one on
+      the bottom indicates if the mode's condition has been met.  
+
+      In the latter case it will also emit a redstone signal.
+
+
+      You can place the detector on every face of a block, so use it to your
+      heart's content.
+sidebar:
+  open: false
+  exclude: false

@@ -1,0 +1,11 @@
+title: How Does it fit?
+blocks:
+  - _type: text
+    alt: Content
+    value: |-
+      The advancement "**How Does It Fit?**" is very simple.
+
+      Simply enter **any** TARDIS.
+sidebar:
+  open: false
+  exclude: false

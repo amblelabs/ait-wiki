@@ -1,0 +1,63 @@
+title: Food Machine
+blocks:
+  - _type: local-image
+    src: /images/food_machine.jpg
+    alt: Food machine inside the tardis
+  - _type: text
+    alt: Content
+    value: >-
+      # What Does It Do?
+
+
+      The **food replicator** or **food machine** was a device installed in
+      TARDISes which produced bars of food. They were engineered to replicate
+      meals in flavour and nutrition.
+
+
+      This version of the **food machine** can produce 2 variants of the **food
+      cube** and can dispense a range of different **drinks** at the cost of
+      artron.
+
+
+      The first **food cube** is the normal one which just replenishes hunger
+      and is called **"Food Cube"**, this one costs 139 artron to produce.
+      Secondly is the **"Overcharged Food Cube"** this version costs
+      significantly more at 437 artron but is more beneficial to the player as
+      it gives the effects: _regeneration, absorption, resistance, fire
+      resistance._
+
+
+      Moving onto **drinks**, the cost to dispense is at 193 artron, and the
+      list of **drinks** we have include _(chocolate milk, coffee, hot cocoa,
+      iced coffee, latte, milk, tea, vodka, water)_ but we also have a datapack
+      system so you could add your own **drinks**.
+
+
+      Because of the machine requiring artron, it is only usable inside the
+      TARDIS and requires the TARDIS to be powered on.
+
+
+      To use this machine shift right click to cycle through the modes, right
+      click to produce your selected item (if you are using the drinks mode, you
+      can shift left click to cycle through the different drinks).
+
+
+      # How Do I Craft?
+
+
+      The **food machine** is craftable by using the **food machine** blueprint
+      on the fabricator, the materials needed are:
+
+
+      *   2 redstone dust
+          
+      *   1 stone button
+          
+      *   1 chest
+          
+      *   2 plasmic material
+          
+      *   3 light gray concrete
+sidebar:
+  open: false
+  exclude: false

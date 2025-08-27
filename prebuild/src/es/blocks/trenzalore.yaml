@@ -1,0 +1,23 @@
+title: Trenzalore Painting
+blocks:
+  - _type: local-image
+    src: /images/blocks/trenzalore.webp
+    alt: Trenzalore picture
+  - _type: text
+    alt: Description
+    value: >-
+      **"When the TARDIS is dying, sometimes the dimension dams start breaking
+      down. They used to call it a size leak. All the bigger on the inside
+      starts leaking to the outside and it grows." - The Eleventh Doctor.**
+
+
+      A bigger on the inside painting, inspired by the sights of the planet
+      [Trenzalore](https://tardis.fandom.com/wiki/Trenzalore) seen in the
+      special "[The Name of the
+      Doctor](https://en.wikipedia.org/wiki/The_Name_of_the_Doctor)".
+  - _type: local-image
+    src: /images/blocks/trenz_recipe.webp
+    alt: Crafting Recipe
+sidebar:
+  open: false
+  exclude: false

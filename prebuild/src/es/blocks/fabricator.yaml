@@ -1,0 +1,44 @@
+title: Fabricator
+blocks:
+  - _type: local-image
+    src: /images/blocks/engine_stuff_blocks/fabricator.png
+    alt: Fabricator Picture
+  - _type: text
+    alt: Description
+    value: >-
+      ## What Is the Fabricator?
+
+
+      The Fabricator is a machine capable of turning blueprints into usable
+      items, and is how you acquire most TARDIS-centric items. Interacting with
+      it while holding a blueprint in your hand will give it a recipe, and it
+      will require you to input the items it displays in the center.
+
+
+      **_Do note that required item amounts will vary when specified, and the
+      blueprint will not be used up._**
+
+
+      \* _The Fabricator also acts as a villager workbench, giving the villager
+      the job of "Fabricator Engineer", who can provide components and
+      blueprints for a small price._
+
+
+      ## How Do I Get It To Work?
+
+
+      Look at the tooltip of the blueprint _(hover over it in your inventory)_,
+      this will show what item is the blueprint for. This applies to other items
+      / blocks in the mod as well, although sometimes you might need to hold the
+      Shift Key!
+  - _type: callout
+    type: info
+    value: You won't need JEI, REI, or any other recipe mod for this, as the
+      fabricator tells you what items and the amount you need. Support for these
+      mods MAY come in the future.
+  - _type: local-image
+    src: /images/blocks/engine_stuff_blocks/fabricator_recipe.png
+    alt: Fabricator Recipe
+sidebar:
+  open: false
+  exclude: false

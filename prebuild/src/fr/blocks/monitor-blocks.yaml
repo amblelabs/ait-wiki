@@ -1,0 +1,197 @@
+title: Monitor Blocks
+blocks:
+  - _type: local-image
+    src: /images/blocks/monitor.png
+    alt: Monitor Pic
+  - _type: text
+    alt: General Content
+    value: >-
+      The **Monitor** is your way to change settings, customise your TARDIS and
+      view TARDIS info.
+
+
+      A monitor is integrated within most TARDIS
+      [**Consoles**](/blocks/console/), but
+      you can craft it as a separate block and use it anywhere in your interior
+      rather than just your
+      [**Console**](/blocks/console/).
+
+
+      There are two types of Monitor: **Regular Monitor** and **Wall Monitor**.
+
+
+      ## Recipes:
+
+
+      Regular Monitor
+
+
+      ![Image of the
+      recipe](/images/blocks/monitor/recipe.png)
+
+
+      Wall Monitor
+
+
+      ![Image of the
+      recipe](/images/blocks/monitor/wall-monitor_recipe.png)
+
+
+      ## Customizing Your TARDIS
+
+
+      In the monitor's GUI you can customise your TARDIS, like the Exterior,
+      Desktop Theme, Hum, Vortex, etc.
+  - _type: text
+    alt: Displayed Info.
+    value: >-
+      ## Information on Regular Monitor block
+
+
+      The information displayed on the Monitor's front face consists of:
+
+
+      *   Current location at the top (marked with a ❌), divided into
+      coordinates, dimension and direction the TARDIS is facing.
+          
+      *   Destination location below that (marked with a blue ➕), divided into
+      coordinates, dimension and direction the TARDIS will be facing.
+          
+      *   A yellow fuel icon at the bottom, with a percentage next to it
+      indicating how much [**Artron
+      Energy**](/mechanics/artron-energy/)
+      is left.
+          
+      *   A green hourglass below that, with a percentage next to it indicating
+      flight progress.
+          
+      *   The name of the TARDIS in the lower right.
+          
+      *   A red alert icon in the top-right if alarms ar active.
+          
+
+      ## Information on Wall Monitor block
+
+
+      The information displayed on the Wall Monitor’s front face is split into
+      two sections:
+
+
+      Left section:
+
+
+      *   The top shows the current location, divided into coordinates,
+      dimension and direction (the little arrow) the TARDIS is facing.
+          
+      *   The bottom shows the destination location, divided into coordinates,
+      dimension and direction (the little arrow) the TARDIS will be facing.
+          
+
+      Right section:
+
+
+      *   A yellow fuel icon at the top, with a percentage below it indicating
+      how much [**Artron
+      Energy**](/mechanics/artron-energy/)
+      is left.
+          
+      *   A green hourglass at the bottom, with a percentage below it indicating
+      flight progress.
+          
+          ![Image of the Monitor](/images/blocks/wall_monitor.png)
+  - _type: text
+    alt: Monitor GUI - Main GUI
+    value: >-
+      ## Monitor GUI
+
+
+      Interacting (right-clicking) on any monitor will open the monitor GUI. The
+      first screen of the GUI is split into four sections: Two on the left and
+      two on the right.
+
+
+      ![](/images/blocks/monitor/screen.png)
+
+
+      **Left sections:**
+
+
+      *   The top shows the current location, divided into coordinates,
+      dimension and direction the TARDIS is facing.
+          
+      *   Right below that it shows the destination location, divided into
+      coordinates, dimension and direction the TARDIS will be facing.
+          
+      *   The bottom section shows two bars and a button. The 5-segment display
+      shows flight-progress, the bar below that displays how much [**Artron
+      Energy**](/mechanics/artron-energy/)
+      _(in green)_ is left. The button next to these navigates to the **Settings
+      Screen**.
+          
+          _The Artron Energy bar will turn red when the TARDIS is under ~30% of fuel._
+
+          
+
+      **Right sections:**
+
+
+      *   The top shows the currently selected exterior _type_, while the bottom
+      shows the _variant_ of that exterior. Clicking on the left and right arrow
+      buttons browses through the various types and variants. Pressing the
+      "Apply" button sets the currently selected type and variant as your
+      TARDIS' new exterior.
+  - _type: text
+    alt: Monitor GUI - Customisation
+    value: >-
+      ## TARDIS Settings Customisation
+
+
+      Clicking the button next to the Artron energy bar will open the settings
+      screen. This screen is also split into four sections: Two on the left and
+      two on the right.
+
+
+      ![](/images/blocks/monitor/settings.png)
+
+
+      **Left section:**
+
+
+      1.  The top shows various menu entries.
+          
+          *   **Cache Console**: Will replace your [**Console**](/blocks/console/) with a **Console Generator** in order for you to either move the console and/or choose a different console type _(and / or variant)_.
+              
+          *   **Security Options**: As the name suggests, this allows you to set various options related to security.
+              
+          *   **Sonic Settings**: Shows you info about the Sonic Screwdriver that is currently plugged into the console and also allows you to change the **Sonic Shell**. See the [**Sonic Screwdriver**](/items/sonic-screwdriver/) page for more info.
+
+              
+      2.  The bottom shows the 5-segment display for flight-progress and a bar
+      to indicate how much Artron energy is left, just like in the main
+      screen.  
+          The button next to it will lead back to the main screen.
+
+          
+
+      **Right section:**
+
+
+      1.  The top shows the currently selected **desktop theme** of the
+      interior.
+          
+      2.  The bottom shows the settings for **Hum**, **Vortex**, **Flight**,
+      **Demat** and **Mat**.  
+          The arrow-buttons in the top-right corner browse through the settings, the arrow-buttons at the bottom browse through the options for the current setting. And the wide button in-between these arrow-buttons will apply the currently selected option for the selected setting.
+          
+          *   **Hum**: Controls the hum ambient sound inside the interior of the TARDIS.
+              
+          *   **Vortex**: Controls which texture to use for the Vortex.
+              
+          *   **Flight**: Controls the travel-sound you can hear during flight.
+              
+          *   **Demat**: Controls both the animation and sound of the dematerialization.
+              
+          *   **Mat**: Controls both the animation and sound of the (Re)materialization.
+sidebar:
+  open: false
+  exclude: false

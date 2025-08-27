@@ -1,0 +1,114 @@
+title: Config options
+blocks:
+  - _type: text
+    alt: Client
+    value: Client
+  - _type: text
+    alt: Interior hum volume
+    value: |-
+      **Interior hum volume**
+
+      Allows you to change how loud or quiet the interior hum is.
+  - _type: text
+    alt: Use custom main menu
+    value: |-
+      **Use custom main menu**
+
+      Allows you to use different modded or vanilla main menus.
+  - _type: text
+    alt: Show experimental warnings
+    value: >-
+      **Show experimental warnings**
+
+
+      This config makes it so you can see the warnings if you are on a ait beta.
+      (if you wanna see this warning you should go donate to loqor)
+  - _type: text
+    alt: Enable TARDIS boti
+    value: >-
+      **Enable TARDIS boti**
+
+
+      This config allows you to toggle bigger on the inside on your tardis so
+      you can see the vortex and other things.
+  - _type: text
+    alt: Render tardis interior
+    value: >-
+      (VERY UNSTABLE WILL NOT WORK FOR NOW)
+
+
+      **Render tardis interior**
+
+
+      This config allows you to see the interior of your tardis from the
+      outside. (its broken dont use it i beg of you)
+  - _type: text
+    alt: Green screen boti
+    value: |-
+      **Green screen boti**
+
+      turns your tardis green dont use this unless you do video editing or smth.
+  - _type: text
+    alt: Show control hitboxs
+    value: >-
+      **Show control hitboxs**
+
+
+      This config allows the sonic when in scanning mode to show control
+      hitboxs.
+  - _type: text
+    alt: Show text on console monitors
+    value: >-
+      **Show text on console monitors**
+
+
+      This config toggles the information on the console monitors. (toyota coral
+      etc)
+  - _type: text
+    alt: Show text on crt monitors
+    value: >-
+      **Show text on crt monitors**
+
+
+      This config toggles the information on the crt monitors (the big chunky
+      one)
+  - _type: text
+    alt: "Render demat particles "
+    value: |-
+      **Render demat particles**
+
+      This config toggles the smoke on the exterior when demating.
+  - _type: text
+    alt: Darkness effect when TARDIS powered off
+    value: |-
+      **Darkness effect when TARDIS powered off**
+
+      This config makes it so you can see in the tardis when its off.
+  - _type: text
+    alt: "Animate console "
+    value: >-
+      **Animate console**
+
+
+      This config toggles the animations on the console. (power demat the little
+      tiny lights on the type 40 etc)
+  - _type: text
+    alt: Animate doors
+    value: >-
+      **Animate doors**
+
+
+      This config toggles the animations of doors so instead of it having really
+      nice yummy moving doors you got shitty doors
+
+
+      who the fuck is turning these off i swear.
+  - _type: text
+    alt: Temperature type
+    value: |-
+      **Temperature type**
+
+      This config changes the Temperature type
+sidebar:
+  open: false
+  exclude: false

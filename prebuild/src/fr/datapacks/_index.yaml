@@ -1,0 +1,57 @@
+title: Datapack Modifications
+blocks:
+  - _type: text
+    alt: Content
+    value: AIT works with [Datapacks](https://minecraft.wiki/w/Data_pack)! This lets
+      you customize your TARDIS (or sonic) to unlimited possibilities!
+  - _type: cards
+    alt: Card Group
+    cols: 2
+    value:
+      - title: Custom Exterior Skins
+        subtitle: You can customize what you want your favorite TARDIS Exterior to looks
+          like.
+        link: custom-exteriors
+        image:
+          _type: local-image
+          src: /images/datapacks/custom_exterior.png
+      - title: Custom Interiors
+        subtitle: Don't like AIT interiors and feel like you can do better? well you can.
+        link: custom-interiors
+        image:
+          _type: local-image
+          src: /images/datapacks/custom_interior.png
+      - title: Custom Console Skins
+        subtitle: You can customize what you want your favorite TARDIS Console to look
+          like.
+        link: custom-consoles
+        image:
+          _type: local-image
+          src: /images/datapacks/custom_console.png
+      - title: Custom Sonics
+        subtitle: Design your own new sonic screwdriver to look like anything! I mean,
+          anything...
+        link: custom-sonics
+        image:
+          _type: local-image
+          src: /images/datapacks/casings.png
+      - title: Custom Vortexes
+        subtitle: Two simple files to create an amazing BOTI effect for all your users
+          to see!
+        link: custom-vortexes
+        image:
+          _type: local-image
+          src: /images/datapacks/customvortex.webp
+      - title: Bug Fixing Your Datapack
+        subtitle: Not sure why your custom TARDIS isn't showing? Here's a few problems
+          you may have...
+        link: bug-fixing-your-datapack
+        image:
+          _type: local-image
+          src: /images/datapacks/broken_exterior.png
+sidebar:
+  open: false
+  exclude: false
+params:
+  images:
+    - /images/datapacks/custom_exterior.png

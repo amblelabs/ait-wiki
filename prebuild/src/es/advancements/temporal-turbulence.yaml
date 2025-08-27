@@ -1,0 +1,11 @@
+title: Temporal Turbulence
+blocks:
+  - _type: text
+    alt: Content
+    value: |-
+      The advacncement "**Temporal Turbulence**" is very simple.
+
+      Simply **crash** your TARDIS for the first time
+sidebar:
+  open: false
+  exclude: false

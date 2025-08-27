@@ -1,0 +1,27 @@
+title: Artron Cable
+blocks:
+  - _type: local-image
+    src: /images/blocks/engine_stuff_blocks/ac.png
+    alt: Image of Artron Cables
+  - _type: text
+    alt: Content
+    value: >-
+      ## How Do I Use Them?
+
+
+      Artron cables used to connect [Generalized Subsystem
+      Cores](/blocks/generalized-subsystem-core/)
+      to the TARDIS' engine.  
+
+      You don't need to connect every core separately. If core blocks are
+      touching, they can be connected to the engine as one group.
+
+
+      ## How Do I Craft Them?
+  - _type: local-image
+    src: /images/blocks/engine_stuff_blocks/acr.png
+    alt: Recipe of the Artron Cables
+    caption: Artron Cable Recipe
+sidebar:
+  open: false
+  exclude: false

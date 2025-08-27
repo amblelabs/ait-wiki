@@ -10,3 +10,7 @@ This wiki can be located [here](https://amblelabs.github.io/ait-wiki/).
 The current version of AIT is 1.2.11 Fabric, 1.0.2+1.2.9 Forge.
 <br>This wiki is not up to date with that. The Archivus team is working to rectify this.
 <br>If there is any incorrect information, please create an issue, pull request or comment on the respective page.
+
+TODO:
+- set up _proper_ wiki content repo that can have shit merged and submodule it here. (for better language support)
+- 
