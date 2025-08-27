@@ -7,11 +7,53 @@ settings:
     merge: true
 content:
   - name: wiki
-    label: Wiki
+    label: Wiki (EN)
     type: collection
     path: prebuild/src
     format: yaml
     filename: "{primary}.yaml"
+    view:
+      fields: [ title, filename ]
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: filename, label: Filename Override, type: string }
+      - { name: description, label: Description, type: string }
+      - name: blocks
+        component: any-block
+      - name: weight
+        label: Weight
+        type: number
+      - name: next
+        label: Next page (slug)
+        type: string
+      - name: prev
+        label: Previous page (slug)
+        type: string
+      - name: params
+        label: Parameters
+        type: object
+        fields:
+          - name: images
+            label: Images
+            list: true
+            type: image
+      - name: sidebar
+        label: Sidebar Options
+        type: object
+        fields:
+          - name: open
+            label: Is open by default?
+            description: Only available for index pages!
+            type: boolean
+          - name: exclude
+            label: Should be excluded from the sidebar?
+            type: boolean
+  - name: wiki_fr
+    label: Wiki (FR)
+    type: collection
+    path: prebuild/src
+    format: yaml
+    filename: "{primary}.fr.yaml"
     view:
       fields: [ title, filename ]
     fields:

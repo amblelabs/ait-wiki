@@ -4,6 +4,7 @@ baseURL: https://amblelabs.github.io/ait-wiki/
 
 enableRobotsTXT: true
 enableGitInfo: true
+defaultContentLanguage: en
 
 # import hextra as module
 module:
@@ -45,6 +46,14 @@ menu:
       url: "https://github.com/amblelabs/ait"
       params:
         icon: github
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+  fr:
+    languageName: Français
+    weight: 2
 
 services:
   googleAnalytics:
