@@ -1,5 +1,5 @@
 # Workflow for building and deploying Hugo sites from multiple branches
-name: Deploy Hugo Sites to Pages
+name: Deploy to GH
 
 on:
   push:
@@ -24,7 +24,7 @@ permissions:
 
 # Ensure only one deployment runs at a time
 concurrency:
-  group: "pages-deployment"
+  group: gh-pages-deployment-${{ github.ref }}
   cancel-in-progress: true
 
 # Default shell for all steps
