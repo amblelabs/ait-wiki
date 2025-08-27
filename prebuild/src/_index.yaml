@@ -3,20 +3,6 @@ cascade:
   type: docs
 blocks:
   - _type: callout
-    type: warning
-    value: >-
-      The Adventures In Time Wiki is currently undergoing a rework / renovation
-      to bring it up to date with the most recent version. Some information
-      might be outdated and / or inaccurate.
-
-
-      There may also be duplicated pages, hyperlinks that send to 404 pages and
-      similar abnormalities. This is also due to the rework, and will be fixed
-      as soon as possible.
-
-
-      Thank you for your patience.
-  - _type: callout
     type: info
     value: If you find any bugs / crashes, please create a [GitHub
       Issue](https://github.com/Loqor/ait/issues/new) or ask for help in the
