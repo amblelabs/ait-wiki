@@ -5,9 +5,11 @@ blocks:
     value: "# Unlockable Dimensions (Vanilla)"
   - _type: local-image
     src: /images/2025-08-27_17.05.34.png
+    alt: Nether
     caption: The Nether
   - _type: local-image
     src: /images/2025-08-27_17.11.38.png
+    alt: End
     caption: The End
   - _type: text
     alt: What Does This Do?
