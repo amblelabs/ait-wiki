@@ -2,6 +2,7 @@ title: Config options
 blocks:
   - _type: text
     alt: Client
+    value: Client
   - _type: text
     alt: Interior hum volume
     value: |-
