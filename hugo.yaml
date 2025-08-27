@@ -43,6 +43,10 @@ menu:
       weight: 4
       params:
         type: search
+    - name: Language
+      weight: 4
+      params:
+        type: language-switch
     - name: GitHub
       weight: 5
       url: "https://github.com/amblelabs/ait"
@@ -56,6 +60,9 @@ languages:
   fr:
     languageName: Français
     weight: 2
+  es:
+    languageName: fix this later
+    weight: 3
 
 services:
   googleAnalytics:
