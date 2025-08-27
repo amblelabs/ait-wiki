@@ -48,20 +48,6 @@ content:
           - name: exclude
             label: Should be excluded from the sidebar?
             type: boolean
-  - name: old
-    label: Pre-CMS Wiki
-    type: collection
-    path: content
-    filename: "{primary}.md"
-    view:
-      fields: [ title ]
-    fields:
-      - { name: title, label: Title, type: string, required: true }
-      - { name: description, label: Description, type: string }
-      - name: body
-        label: Plain Body
-        description: Do NOT use. This exists only for the sole purpose of migrating old (pre-CMS) wiki content.
-        type: rich-text
 components:
   any-block:
     label: Body
