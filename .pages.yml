@@ -9,7 +9,7 @@ content:
   - name: wiki
     label: Wiki (EN)
     type: collection
-    path: prebuild/src
+    path: prebuild/src/en
     format: yaml
     filename: "{primary}.yaml"
     view:
@@ -51,9 +51,9 @@ content:
   - name: wiki_fr
     label: Wiki (FR)
     type: collection
-    path: prebuild/src
+    path: prebuild/src/fr
     format: yaml
-    filename: "{primary}.fryaml"
+    filename: "{primary}.yaml"
     view:
       fields: [ title, filename ]
     fields:

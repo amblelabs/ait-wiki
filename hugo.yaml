@@ -13,6 +13,8 @@ module:
   mounts:
   - source: content
     target: content
+  - source: prebuild/public/src/en
+    target: content
   - source: prebuild/public/src
     target: content
 
