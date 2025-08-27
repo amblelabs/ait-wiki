@@ -1,5 +1,5 @@
 # Workflow for building and deploying Hugo sites from multiple branches
-name: Deploy Hugo Sites to Pages
+name: Deploy to CF
 
 on:
   push:

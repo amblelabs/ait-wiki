@@ -92,7 +92,7 @@ jobs:
             hugo \
               --gc --minify \
               --baseURL "${{ steps.pages.outputs.base_url }}/${{ github.ref_name }}/" \
-              --publishDir "public/${{ github.ref_name }}/"
+              --destination "public/${{ github.ref_name }}/"
               --cacheDir "${{ runner.temp }}/hugo_cache"
           fi
       
