@@ -11,20 +11,17 @@ on:
       - 'prebuild/**'
       - 'hugo.yaml'
 
-      - '.github/workflows/deploy.yml'
+      - '.github/workflows/deploy-pages.yml'
 
   # Allow manual workflow execution
   workflow_dispatch:
 
-# Set permissions for GITHUB_TOKEN to enable Pages deployment
 permissions:
   contents: read
-  pages: write
-  id-token: write
+  deployments: write
 
-# Ensure only one deployment runs at a time
 concurrency:
-  group: "pages-deployment"
+  group: cf-pages-deployment-${{ github.ref }}
   cancel-in-progress: true
 
 # Default shell for all steps
@@ -36,8 +33,6 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: 0.147.3
     steps:
       # Step 1: Check out the repository
       - name: Checkout repository
@@ -52,16 +47,11 @@ jobs:
         with:
           go-version: '1.22'
 
-      # Step 3: Configure GitHub Pages environment
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v4
-
-      # Step 4: Install Hugo extended version
-      - name: Install Hugo
-        run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
       
       - name: Configure Git
         run: |
@@ -76,22 +66,22 @@ jobs:
           restore-keys:
             hugo-
       
-      # Step 5: Build the Hugo site (conditional based on branch)
       - name: Build Hugo site
         env:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
           hugo -s prebuild
+          
           if [[ "${{ github.ref_name }}" == "main" ]]; then
             hugo \
               --gc --minify \
-              --baseURL "${{ steps.pages.outputs.base_url }}/" \
+              --baseURL "https://amblelabs.pages.dev/${{ github.event.repository.name }}/" \
               --cacheDir "${{ runner.temp }}/hugo_cache"
           else
             hugo \
               --gc --minify \
-              --baseURL "${{ steps.pages.outputs.base_url }}/${{ github.ref_name }}/" \
+              --baseURL "https://amblelabs.pages.dev/${{ github.event.repository.name }}/${{ github.ref }}/" \
               --cacheDir "${{ runner.temp }}/hugo_cache"
           fi
       
@@ -102,21 +92,21 @@ jobs:
           path: ${{ runner.temp }}/hugo_cache
           key: ${{ steps.cache-restore.outputs.cache-primary-key }}
 
-      - name: Upload prebuild artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./public
+      - name: Prepare deployment
+        run: |
+          if [[ "${{ github.ref_name }}" == "main" ]]; then
+            mkdir -p deploy/${{ github.event.repository.name }}
+            cp -r public/. deploy/${{ github.event.repository.name }}/
+          else
+            mkdir -p deploy/${{ github.event.repository.name }}/${{ github.ref }}
+            cp -r public/. deploy/${{ github.event.repository.name }}/${{ github.ref }}/
+          fi
 
-  # Deploy job
-  deploy:
-    timeout-minutes: 5
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      # Deploy the site to GitHub Pages
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Upload Worker Version
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy . --project-name=amblelabs
+          workingDirectory: deploy
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
