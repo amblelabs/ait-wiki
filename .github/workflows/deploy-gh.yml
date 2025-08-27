@@ -118,5 +118,10 @@ jobs:
     steps:
       # Deploy the site to GitHub Pages
       - name: Deploy to GitHub Pages
+        if: github.ref_name == 'main'
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Deploy to GitHub Pages
+        if: github.ref_name != 'main'
         id: deployment
         uses: actions/deploy-pages@v4
