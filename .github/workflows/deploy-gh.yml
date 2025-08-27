@@ -3,6 +3,8 @@ name: Deploy to GH
 
 on:
   push:
+    branches:
+      - 'main'
     paths:
       - 'assets/**'
       - 'content/**'
@@ -24,7 +26,7 @@ permissions:
 
 # Ensure only one deployment runs at a time
 concurrency:
-  group: gh-pages-deployment-${{ github.ref }}
+  group: gh-pages-deployment
   cancel-in-progress: true
 
 # Default shell for all steps
@@ -83,18 +85,10 @@ jobs:
           HUGO_ENV: production
         run: |
           hugo -s prebuild
-          if [[ "${{ github.ref_name }}" == "main" ]]; then
-            hugo \
-              --gc --minify \
-              --baseURL "${{ steps.pages.outputs.base_url }}/" \
-              --cacheDir "${{ runner.temp }}/hugo_cache"
-          else
-            hugo \
-              --gc --minify \
-              --baseURL "${{ steps.pages.outputs.base_url }}/${{ github.ref_name }}/" \
-              --destination "public/${{ github.ref_name }}/" \
-              --cacheDir "${{ runner.temp }}/hugo_cache"
-          fi
+          hugo \
+            --gc --minify \
+            --baseURL "${{ steps.pages.outputs.base_url }}/" \
+            --cacheDir "${{ runner.temp }}/hugo_cache"
       
       - name: Cache save
         id: cache-save
