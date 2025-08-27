@@ -20,6 +20,10 @@ permissions:
   contents: read
   deployments: write
 
+concurrency:
+  group: cf-pages-deployment-${{ github.ref }}
+  cancel-in-progress: true
+
 # Default shell for all steps
 defaults:
   run:
@@ -68,10 +72,18 @@ jobs:
           HUGO_ENV: production
         run: |
           hugo -s prebuild
-          hugo \
-            --gc --minify \
-            --baseURL "https://amblelabs.pages.dev/${{ github.event.repository.name }}/" \
-            --cacheDir "${{ runner.temp }}/hugo_cache"
+          
+          if [[ "${{ github.ref_name }}" == "main" ]]; then
+            hugo \
+              --gc --minify \
+              --baseURL "https://amblelabs.pages.dev/${{ github.event.repository.name }}/" \
+              --cacheDir "${{ runner.temp }}/hugo_cache"
+          else
+            hugo \
+              --gc --minify \
+              --baseURL "https://amblelabs.pages.dev/${{ github.event.repository.name }}/${{ github.ref }}/" \
+              --cacheDir "${{ runner.temp }}/hugo_cache"
+          fi
       
       - name: Cache save
         id: cache-save
@@ -80,10 +92,15 @@ jobs:
           path: ${{ runner.temp }}/hugo_cache
           key: ${{ steps.cache-restore.outputs.cache-primary-key }}
 
-      - name: Run stuff
+      - name: Prepare deployment
         run: |
-          mkdir -p deploy/${{ github.event.repository.name }}
-          cp -r public/. deploy/${{ github.event.repository.name }}/
+          if [[ "${{ github.ref_name }}" == "main" ]]; then
+            mkdir -p deploy/${{ github.event.repository.name }}
+            cp -r public/. deploy/${{ github.event.repository.name }}/
+          else
+            mkdir -p deploy/${{ github.event.repository.name }}/${{ github.ref }}
+            cp -r public/. deploy/${{ github.event.repository.name }}/${{ github.ref }}/
+          fi
 
       - name: Upload Worker Version
         uses: cloudflare/wrangler-action@v3
