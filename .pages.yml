@@ -53,7 +53,7 @@ content:
     type: collection
     path: prebuild/src
     format: yaml
-    filename: "{primary}.fr.yaml"
+    filename: "{primary}.fryaml"
     view:
       fields: [ title, filename ]
     fields:
