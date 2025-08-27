@@ -1,13 +1,17 @@
 title: Unlockable Dimensions
 blocks:
   - _type: text
-    alt: Content
+    alt: Unlockable Dimensions (Vanilla)
+    value: "# Unlockable Dimensions (Vanilla)"
+  - _type: local-image
+    src: /images/2025-08-27_17.05.34.png
+    caption: The Nether
+  - _type: local-image
+    src: /images/2025-08-27_17.11.38.png
+    caption: The End
+  - _type: text
+    alt: What Does This Do?
     value: >-
-      ![dim](images/nether.png)  
-
-      ![dim](images/end.png)
-
-
       ## What Does This Do?
 
 
