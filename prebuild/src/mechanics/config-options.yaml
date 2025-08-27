@@ -108,8 +108,12 @@ blocks:
       **Temperature type**
 
       This config changes the Temperature type
-  - _type: card
-    title: Server
+  - _type: text
+    alt: SERVER
+    value: >-
+      SERVER  
+
+      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 sidebar:
   open: false
   exclude: false
