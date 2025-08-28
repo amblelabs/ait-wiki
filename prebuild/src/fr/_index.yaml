@@ -62,8 +62,9 @@ blocks:
         image:
           _type: local-image
           src: /images/changelog.png
-      - title: Blocks
-        subtitle: Information on about blocks that you can find in Adventures In Time!
+      - title: Blocs
+        subtitle: Informations sur les blocs que vous pouvez trouver dans Adventures In
+          Time!
         link: blocks/
         image:
           _type: local-image
