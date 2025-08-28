@@ -56,8 +56,8 @@ blocks:
     alt: Card Group
     cols: 3
     value:
-      - title: Changelogs
-        subtitle: Information on what each update adds from 1.1.0 to 1.2.0!
+      - title: Journal des modifications
+        subtitle: Informations sur ce que chaque mise à jour ajoute de 1.1.0 à 1.2.0!
         link: changelogs/
         image:
           _type: local-image
