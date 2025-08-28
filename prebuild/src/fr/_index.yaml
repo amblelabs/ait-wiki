@@ -4,10 +4,10 @@ cascade:
 blocks:
   - _type: callout
     type: info
-    value: If you find any bugs / crashes, please create a [GitHub
-      Issue](https://github.com/Loqor/ait/issues/new) or ask for help in the
-      support channel in the [Amble Labs](https://discord.gg/D5Et6Ux7BS)
-      Discord.
+    value: Si vous trouvez des bugs / votre jeu plante, veuillez créer une [Issue
+      GitHub](https://github.com/Loqor/ait/issues/new) ou demander de l'aide
+      dans le channel de support sur le Discord [d'Amble
+      Labs](https://discord.gg/D5Et6Ux7BS).
   - _type: text
     alt: Content
     value: >-
