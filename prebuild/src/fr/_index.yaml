@@ -83,11 +83,7 @@ blocks:
           _type: local-image
           src: /images/mechanic.png
       - title: Datapacks
-        subtitle: >-
-          Information on how to make custom datapacks for Adventures In Time!
-
-
-          Information sur comment créer vos propres datapacks pour Adventures In
+        subtitle: Information sur comment créer vos propres datapacks pour Adventures In
           Time!
         link: datapacks/
         image:
