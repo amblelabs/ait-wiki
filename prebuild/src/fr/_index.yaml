@@ -93,9 +93,9 @@ blocks:
         image:
           _type: local-image
           src: /images/datapack.png
-      - title: Contributing & addon development
-        subtitle: Information on about how you should code when contributing in
-          Adventures In Time or in your AIT Addon!
+      - title: Contributions et développement d'addons
+        subtitle: Informations sur la manière de coder lorsque vous contribuez à
+          Adventures In Time ou à votre add-on AIT!
         link: development/
         image:
           _type: local-image
