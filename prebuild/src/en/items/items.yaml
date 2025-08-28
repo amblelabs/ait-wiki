@@ -1,0 +1,8 @@
+title: items
+blocks:
+  - _type: text
+    alt: Content
+    value: items
+sidebar:
+  open: false
+  exclude: false
