@@ -7,12 +7,30 @@ blocks:
     alt: Card Group
     cols: 3
     value:
+      - title: Coral Growth
+        subtitle: The seed of an adventure through time.
+        link: coral-growth
+        image:
+          _type: local-image
+          src: /images/mechanics/tardis/coral-growing.webp
       - title: Sonic Screwdriver
         subtitle: It doesn't work on wood!
         link: sonic-screwdriver
         image:
           _type: local-image
           src: /images/items/sonic/in_port.png
+      - title: Tardis Key
+        subtitle: Don't lose them!
+        link: tardis-key
+        image:
+          _type: local-image
+          src: /images/items/keys/key/keys.png
+      - title: Zeiton
+        subtitle: Zeiton
+        link: zeiton
+        image:
+          _type: local-image
+          src: /images/items/zeiton/blocks/FullGrowth.png
 sidebar:
   open: false
   exclude: false
