@@ -11,14 +11,13 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      Bienvenue sur le **Wiki d'Adventures In Time**! Ce wiki est constamment
-      mis à jour pour être à jour avec la version la plus récente d'AIT, afin
-      que vous puissiez obtenir les meilleures informations sur le mod, des
-      fonctionnalités inutiles aux blocs utiles, et même sur la création de
-      datapacks ou des Add-ons du mod!
+      Welcome to the **Adventures In Time Wiki**! This wiki is constantly
+      maintained to be up to date with the most recent version of AIT so you can
+      get the best information of the mod, from useless features to useful
+      blocks and even making datapacks or extra mods!
 
 
-      ## Où puis-je obtenir la version la plus récente d'AIT?
+      ## Where do I get the most recent release?
 
 
       AIT can be found on [Modrinth](https://modrinth.com/mod/ait) and can also
@@ -26,38 +25,30 @@ blocks:
       [Curseforge.](https://www.curseforge.com/minecraft/mc-mods/adventures-in-time)
 
 
-      Les dernières versions d'AIT peuvent être trouvées sur
-      [Modrinth](https://modrinth.com/mod/ait) et
-      [Curseforge](https://www.curseforge.com/minecraft/mc-mods/adventures-in-time).
+      ## AIT is fantastic! Is there anywhere I can talk about the mod?
 
 
-      ## AIT est fantastique ! Y a-t-il un endroit où je peux parler du mod ?
+      Yes, in [Amble Labs' discord server](https://discord.gg/D5Et6Ux7BS) where
+      you can talk about the mod, show off your interiors, post your AIT
+      datapacks, pay to get beta previews and even play with other people in the
+      **AIT Server**!
 
 
-      Oui, sur le [serveur Discord d'Amble Labs,](https://discord.gg/D5Et6Ux7BS)
-      vous pouvez parler du mod, montrer vos intérieurs, poster vos datapacks
-      pour AIT, payer pour obtenir les version bêta et même jouer avec d'autres
-      personnes sur le **serveur Minecraft officiel d'AIT**!
+      ## I've made a super cool mod for AIT! But I don't know where to publish
+      it?
 
 
-      ## J'ai créé un mod super cool pour AIT! Mais je ne sais pas où le
-      poster ?
+      Oooh! In the [AIT Additons](https://discord.gg/aYEtPD24bF) Discord server,
+      we would love to make a channel dedicated to talking about your addon. You
+      can share your progress, get bug reports and suggestions and even update
+      people on the changes! People can also play with your addons with other
+      **AIT Addons** in the **AIT Additions Minecraft Server!**
 
 
-      Oooh ! Sur le serveur Discord [AIT
-      Additions](https://discord.gg/aYEtPD24bF), nous aimerions créer un canal
-      dédié à parler de votre addon. Vous pouvez partager vos progrès, recevoir
-      des rapports de bugs et des suggestions, et même tenir les gens informés
-      des changements ! Les gens peuvent également jouer avec vos addons et
-      d'autres Add-ons AIT sur le **serveur Minecraft officiel d'AIT
-      Additions!**
+      ## Where can I start?
 
 
-      ## Où puis-je commencer?
-
-
-      Vous pouvez en apprendre davantage sur le mod AIT dans les onglets
-      ci-dessous :
+      You can learn about the AIT mod in these tabs below:
   - _type: cards
     alt: Card Group
     cols: 3
