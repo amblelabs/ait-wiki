@@ -22,6 +22,14 @@ blocks:
       Each rank of key increases the snapping range aside from iron, which
       doesn’t give the ability to snap.
   - _type: text
+    alt: How do I bind a key?
+    value: >-
+      ## How do I bind my key?
+
+
+      to bind a key to your Tardis you need to right-click it with the
+      telepathic circuits.
+  - _type: text
     alt: "Iron key "
     value: |-
       ## How do I get the keys?
