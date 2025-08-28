@@ -76,8 +76,8 @@ blocks:
         image:
           _type: local-image
           src: /images/items.png
-      - title: Mechanics
-        subtitle: Information on how your TARDIS works and how you can pilot it!
+      - title: Mécaniques
+        subtitle: Information sur comment votre TARDIS fonctionne et comment le piloter!
         link: mechanics/
         image:
           _type: local-image
