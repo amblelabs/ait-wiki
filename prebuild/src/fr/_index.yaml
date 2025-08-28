@@ -101,9 +101,10 @@ blocks:
           _type: local-image
           src: /images/development.png
   - _type: text
-    alt: If you're new to the mod
-    value: "But if you are new to the mod you'll probably want to know how to start.
-      Here are some pages you might want to look at:"
+    alt: Si vous êtes nouveau dans le mod
+    value: "Mais si vous êtes nouveau dans le mod, vous voudrez probablement savoir
+      comment commencer. Voici quelques pages que vous pourriez vouloir
+      consulter :"
   - _type: cards
     alt: Card Group
     cols: 3
