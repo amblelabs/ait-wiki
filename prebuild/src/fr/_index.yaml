@@ -122,9 +122,10 @@ blocks:
         image:
           _type: local-image
           src: /images/mechanics/tardis/new_tardis_interiors.png
-      - title: Sonic Screwdriver
-        subtitle: The Sonic Screwdriver is a handheld device used for various tasks, and
-          is the most important tool for a TARDIS user.
+      - title: Tournevis Sonic
+        subtitle: Le Tournevis Sonic est un appareil portable utilisé pour diverses
+          tâches, et est l'outil le plus important pour un utilisateur de
+          TARDIS.
         link: items/sonic-screwdriver/
         image:
           _type: local-image
