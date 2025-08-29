@@ -22,7 +22,7 @@ blocks:
     value: |-
       **Lock dimensions**
 
-      Enables or disables the locking of dimensions for the tardis
+      Enables the locking of dimensions for the tardis
   - _type: text
     alt: Enable Rwf
     value: |-
@@ -31,6 +31,45 @@ blocks:
       (Broken Do NOT USE)
 
       allows you enable the real world flight of the tardis
+  - _type: text
+    alt: can tnt teleport into through doors
+    value: |-
+      **can tnt teleport into through doors**
+
+      Enables whether lit tnt can enter the tardis doors
+  - _type: text
+    alt: Enable hypercubes
+    value: |-
+      **Enable hypercubes**
+
+      Enables whether or not hypercubes are obtainable
+  - _type: text
+    alt: Travel per tick
+    value: |-
+      **Travel per tick**
+
+      Default Value: 2
+
+      Changes the rate of Travel per tick
+  - _type: text
+    alt: Send Bulk
+  - _type: text
+    alt: Max amount of tardises
+    value: |-
+      **Max amount of tardises**
+
+      \-1 Defaults to no limit and is the default option
+
+      Changes how many tardises worlds can have
+  - _type: text
+    alt: Disable safegards
+    value: |-
+      **Disable safegards**
+
+      Disables safegards (Pretty self explanatory)
+  - _type: text
+    alt: Enviroment projector black list
+    value: "**Enviroment projector black list**"
 sidebar:
   open: false
   exclude: false
