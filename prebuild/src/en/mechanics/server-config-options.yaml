@@ -1,7 +1,36 @@
 title: Server config options
 blocks:
   - _type: text
-    alt: Content
+    alt: Server config options
+    value: "**Server config options**"
+  - _type: text
+    alt: Minify json
+    value: |-
+      **Minify json**
+
+      Allows you to minify the json?
+  - _type: text
+    alt: Ghost monument
+    value: >-
+      **Ghost monument**
+
+
+      **Toggles the random teleporting of the tardis exterior when the engine is
+      phasing**
+  - _type: text
+    alt: Lock dimensions
+    value: |-
+      **Lock dimensions**
+
+      Enables or disables the locking of dimensions for the tardis
+  - _type: text
+    alt: Enable Rwf
+    value: |-
+      **Enable rwf**
+
+      (Broken Do NOT USE)
+
+      allows you enable the real world flight of the tardis
 sidebar:
   open: false
   exclude: false
