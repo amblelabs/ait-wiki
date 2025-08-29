@@ -24,6 +24,38 @@ blocks:
 
       **/ait flight \[TARDIS ID\] Toggles rwf on your tardis if enabled in
       server config**
+
+
+      **/ait fuel add \[TARDIS ID\] \[AMOUNT\]** Sets the amount of fuel in the
+      tardis
+
+
+      **/ait fuel get \[TARDIS ID\]** Tells you how much the tardis has
+
+
+      **/ait fuel remove \[TARDIS ID\] \[AMOUNT\]** Removes the set amount of
+      fuel from the tardis
+
+
+      **/ait fuel set \[TARDIS ID\] \[AMOUNT\]** Sets the amount of fuel in the
+      tardis
+
+
+      **/ait link \[TARDIS ID\]** Links a eligible item to the tardis
+
+
+      **/ait list** Lists all tardis ids
+
+
+      **/ait load \[TARDIS ID\]** Loads the selected tardis
+
+
+      **/ait lock \[TARDIS ID\] \[TRUE/FALSE\]** Sets wether the tardis is
+      locked or not
+
+
+      **/ait loyalty \[TARDIS ID\] \[PLAYER NAME\] \[VALUE\]** Sets the tardises
+      loyalty
 sidebar:
   open: false
   exclude: false
