@@ -83,10 +83,10 @@ blocks:
 
       *   Immersive Portals : empêche les gens d'entrer/sortir du TARDIS.
           
-      *   No Nametag Render : empêche l'affichage des noms de la consols.
+      *   No Nametag Render : empêche l'affichage des noms de la console.
           
-      *   Concurrent Chunk Management Engine (C2ME) : semble casser les rift
-      chunk et la croissance du TARDIS.
+      *   Concurrent Chunk Management Engine (C2ME) : semble casser les rifts
+      chunks et la croissance du TARDIS.
           
       *   Distant Horizons (côté serveur) : casse la croissance du TARDIS et
       provoque des plantages de serveur lors de l'entrée dans un TARDIS. Côté
