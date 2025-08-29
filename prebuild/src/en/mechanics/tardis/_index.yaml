@@ -22,7 +22,7 @@ blocks:
         link: security-protocols
         image:
           _type: local-image
-          src: /images/mechanics/tardis/security/securitymenu.png
+          src: /images/security-menu-updated.png
 sidebar:
   open: false
   exclude: false
