@@ -102,10 +102,10 @@ blocks:
 
 
       This config toggles the animations of doors so instead of it having really
-      nice yummy moving doors you got shitty doors
+      nice yummy moving doors you got terrible doors
 
 
-      (i dont see why you would though, less your pc is a potato)
+      (i dont see why you would turn this off though, less your pc is a potato)
   - _type: text
     alt: Temperature type
     value: |-
