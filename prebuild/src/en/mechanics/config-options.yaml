@@ -109,9 +109,9 @@ blocks:
   - _type: text
     alt: Temperature type
     value: |-
-      (This config currently does nothing)
-
       **Temperature type**
+
+      (This config currently does nothing)
 
       This config changes the Temperature type
 sidebar:
