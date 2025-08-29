@@ -9,9 +9,7 @@ blocks:
       link="protocols" title="TARDIS Protocols"
       image="media/mechanics/tardis/protocols.png" subtitle="TARDIS Protocols
       are features that make your playthrough easier" >}} {{< card
-      link="security-protocols" title="TARDIS Security Features" image="media/  
-
-      mechanics/tardis/security/securitymenu.png" subtitle="The TARDIS has
+      link="security-protocols" title="TARDIS Security Features" image="media/mechanics/tardis/security/securitymenu.png" subtitle="The TARDIS has
       Security Options that work to keep you safe." >}} {{< /cards >}}
 sidebar:
   open: false
