@@ -43,6 +43,14 @@ blocks:
 
       A : Si vous voulez créer un datapacks pour AIT, référez-vous à [cet
       article](../datapacks/).
+  - _type: text
+    alt: J'ai changé mon intérieur et maintenant je ne peux pas allumer mon TARDIS !
+    value: >-
+      Q : J'ai changé mon intérieur et maintenant je ne peux pas allumer mon
+      TARDIS !
+
+
+      R : Vous devez replacer votre [moteur](../blocks/engine).
 sidebar:
   open: false
   exclude: false
