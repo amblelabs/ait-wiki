@@ -53,6 +53,10 @@ blocks:
       Changes the rate of Travel per tick
   - _type: text
     alt: Send Bulk
+    value: |-
+      **Send Bulk**
+
+      Toggles between sending tardises as bulk packets and separate packets
   - _type: text
     alt: Max amount of tardises
     value: |-
@@ -69,7 +73,28 @@ blocks:
       Disables safegards (Pretty self explanatory)
   - _type: text
     alt: Enviroment projector black list
-    value: "**Enviroment projector black list**"
+    value: |-
+      **Enviroment projector black list**
+
+      blacklists dimensions from the env projector skybox list
+  - _type: text
+    alt: Tardis travel world black list
+    value: |-
+      **Tardis travel world black list**
+
+      Blacklists dimensions for the tardis to travel
+  - _type: text
+    alt: rift spawn world black list
+    value: |-
+      **rift spawn world black list**
+
+      Blacklists what dimensions rifts cannot spawn in
+  - _type: text
+    alt: rift drop world black list
+    value: |-
+      **rift drop world black list**
+
+      Blacklists what dimensions rifts cannot drop items in
 sidebar:
   open: false
   exclude: false
