@@ -56,6 +56,81 @@ blocks:
 
       **/ait loyalty \[TARDIS ID\] \[PLAYER NAME\] \[VALUE\]** Sets the tardises
       loyalty
+
+
+      **/ait name get \[TARDIS ID\]** Tells you the tardis name
+
+
+      **/ait name set \[TARDIS ID\]** Sets the tardis name
+
+
+      **/ait permission \[TARDIS ID\] \[PLAYER NAME\] \[PERMISION\]** lets you
+      set permissions i.e snaping
+
+
+      **/ait remove \[TARDIS ID\]** Removes a tardis
+
+
+      **/ait repair set \[TARDIS ID\] \[REPAIR TICKS\]** Lets you set the ticks
+      till repair is done on the tardis
+
+
+      **/ait rift\_chunk check ~ ~ ~** Checks if there is a rift chunk at the
+      positon
+
+
+      **/ait rift\_chunk get ~ ~ ~** tells you how much artron is in a rift
+      chunk at the positon
+
+
+      **/ait rift\_chunk set ~ ~ ~** sets the amount of artron in a rift chunk
+      at the positon
+
+
+      **/ait safe-pos \[DIMENSION\] ~ ~ ~ \[SEARCH TYPE\]** tells you where a
+      safe position is at that location
+
+
+      **/ait scale \[TARDIS ID\] \[X\] \[Y\] \[Z\]** Scales the tardis?
+
+
+      **/ait set-max-speed \[TARDIS ID\] \[SPEED\]** Sets how fast the flight
+      speed is
+
+
+      /ait siege \[TARDIS ID\] \[TRUE/FALSE\] Sets if the tardis is sieged or
+      not
+
+
+      **/ait summon \[TARDIS ID\] ~ ~ ~** Summons the tardis to you
+
+
+      **/ait teleport \[TARDIS ID\] \[EXTERIOR/INTERIOR\] \[PLAYER NAME\]**
+      Teleports you to the interior or exterior of a tardis
+
+
+      **~/ait this~** Obsolete
+
+
+      **/ait travel \[TARDIS ID\] demat** Dematerialises the tardis
+
+
+      **/ait travel \[TARDIS ID\] destination \[DIMENSION\] ~ ~ ~** Moves the
+      tardis to the selected point
+
+
+      **/ait travel \[TARDIS ID\] remat** rematerializes the tardis
+
+
+      **/ait trigger-mood-roll \[TARDIS ID\]** Randomises the tardises mood?
+
+
+      **/ait unlock \[TARDIS ID\] \[CONSOLE/DESKTOP/EXTERIOR\]** Unlocks a
+      console desktop or exterior for your tardis
+
+
+      **/ait version I think you're smart enough to figure this one out (it
+      tells you the version of ait)**
 sidebar:
   open: false
   exclude: false
