@@ -3,7 +3,7 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      ![Engine Core](images/tardis_star.png)
+      ![](/images/mechanics/tardis/tardis_star.png)
 
 
       ## What does it do?
