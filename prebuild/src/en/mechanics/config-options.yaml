@@ -1,8 +1,8 @@
 title: Client config options
 blocks:
   - _type: text
-    alt: Client
-    value: Client
+    alt: Client config options
+    value: Client config options
   - _type: text
     alt: Interior hum volume
     value: |-
