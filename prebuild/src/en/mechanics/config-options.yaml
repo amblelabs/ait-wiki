@@ -27,6 +27,12 @@ blocks:
       (if you wanna see this warning you should go donate to loqor) \[Donating
       gives you access to beta versions and more and supports the server\]
   - _type: text
+    alt: Render local sky box
+    value: |-
+      **Render local sky box**
+
+      This config toggles the environment projector rendering (maybe)
+  - _type: text
     alt: Enable TARDIS boti
     value: >-
       **Enable TARDIS boti**
@@ -40,7 +46,7 @@ blocks:
       (VERY UNSTABLE WILL NOT WORK FOR NOW)
 
 
-      **Render tardis interior**
+      **Render boti interior**
 
 
       This config allows you to see the interior of your tardis from the
@@ -82,12 +88,6 @@ blocks:
 
       This config toggles the smoke on the exterior when demating.
   - _type: text
-    alt: Darkness effect when TARDIS powered off
-    value: |-
-      **Darkness effect when TARDIS powered off**
-
-      This config makes it so you can see in the tardis when its off.
-  - _type: text
     alt: "Animate console "
     value: >-
       **Animate console**
@@ -105,10 +105,12 @@ blocks:
       nice yummy moving doors you got shitty doors
 
 
-      who the fuck is turning these off i swear.
+      (i dont see why you would though, less your pc is a potato)
   - _type: text
     alt: Temperature type
     value: |-
+      (This config currently does nothing)
+
       **Temperature type**
 
       This config changes the Temperature type
