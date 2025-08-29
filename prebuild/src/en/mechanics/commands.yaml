@@ -1,7 +1,29 @@
 title: Commands
 blocks:
   - _type: text
-    alt: Commands and what they do
+    alt: Ait commands and what they do
+    value: >-
+      # **Ait commands and what they do**
+
+
+      **/ait creator-name get \[TARDIS ID\]** Tells you who made a tardis
+
+
+      **/ait data \[TARDIS ID\]** Lets you modify a tardises data
+
+
+      **~/ait debug \[TARDIS ID\]~** Obsolete
+
+
+      **/ait door\_particle \[TARDIS ID\]** Lets you set the door repair
+      particles
+
+
+      **/ait erase-chunks** Self explanatory erases chunks
+
+
+      **/ait flight \[TARDIS ID\] Toggles rwf on your tardis if enabled in
+      server config**
 sidebar:
   open: false
   exclude: false
