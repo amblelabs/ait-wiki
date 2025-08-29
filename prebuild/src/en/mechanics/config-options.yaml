@@ -8,7 +8,7 @@ blocks:
     value: |-
       **Interior hum volume**
 
-      **Can be set to a value between 0.0% and 100.0%**
+      Can be set to a value between 0.0% and 100.0%
 
       Allows you to change how loud or quiet the interior hum is.
   - _type: text
