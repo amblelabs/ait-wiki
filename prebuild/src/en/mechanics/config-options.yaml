@@ -43,10 +43,10 @@ blocks:
   - _type: text
     alt: Render boti interior
     value: >-
-      (VERY UNSTABLE WILL NOT WORK FOR NOW)
-
-
       **Render boti interior**
+
+
+      (VERY UNSTABLE WILL NOT WORK FOR NOW)
 
 
       This config allows you to see the interior of your tardis from the
