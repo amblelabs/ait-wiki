@@ -3,7 +3,7 @@ blocks:
   - _type: text
     alt: Y a-t-il un channel avec tous les addons de la communauté ?
     value: >-
-      #### Q : Existe-t-il un channel avec tous les addons de la communauté ?
+      #### Q : Existe-t-il un channel avec tous les add-ons de la communauté ?
 
 
       R : Oui, cependant certains développeurs ont leurs propres serveurs, comme
@@ -11,22 +11,30 @@ blocks:
 
 
       *   [AIT Extras](https://discord.gg/5JDKuzarcS)
+          
 
-
-      Vous pouvez trouver les autres addons dans le channel des add-ons sur le
+      Vous pouvez trouver les autres add-ons dans le channel des add-ons sur le
       serveur Discord d'AmbleLabs (assurez-vous d'abord d'obtenir le rôle AIT
       dans les `Salons et Rôles`).
   - _type: text
     alt: "Que dois-je choisir : datapack ou mod pour créer un add-ons pour AIT ?"
     value: >-
-      #### Q : Que dois-je choisir : datapack ou mod pour créer un addon pour
+      #### Q : Que dois-je choisir : datapack ou mod pour créer un add-on pour
       AIT ?
 
 
-      R : Si vous souhaitez simplement ajouter des intérieurs, des console, des
+      R : Si vous souhaitez simplement ajouter des intérieurs, des consoles, des
       variantes extérieures et de console, des noms TARDIS personnalisés, etc.,
       n'hésitez pas à créer un datapack. Sinon, il est recommandé de créer un
       mod. Vous pouvez également utiliser un datapack à l'intérieur d'un mod.
+  - _type: text
+    alt: Comment créer un add-ons pour AIT?
+    value: >-
+      #### Q: Comment créer un add-ons pour AIT?
+
+
+      R : Si vous souhaitez créer un add-on pour AIT, référez-vous à [cet
+      article](../development/).
 sidebar:
   open: false
   exclude: false
