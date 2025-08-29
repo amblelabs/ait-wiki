@@ -46,11 +46,21 @@ blocks:
   - _type: text
     alt: J'ai changé mon intérieur et maintenant je ne peux pas allumer mon TARDIS !
     value: >-
-      Q : J'ai changé mon intérieur et maintenant je ne peux pas allumer mon
+      Q : J'ai changé mon intérieur et maintenant, je ne peux pas allumer mon
       TARDIS !
 
 
       R : Vous devez replacer votre [moteur](../blocks/engine).
+  - _type: text
+    alt: Les fenêtres ne brillent pas ! (sans Iris)
+    value: >-
+      Q : Les fenêtres ne brillent pas ! (sans Iris)
+
+
+      R : Assurez-vous que l'alimentation est activée. Si vous utilisez Iris ou
+      l'un de ses dérivés, assurez-vous d'utiliser la version 1.0.5 ou
+      supérieure d'AIT, ou la version 1.0.6 ou supérieure si vous êtes sur
+      Forge.
 sidebar:
   open: false
   exclude: false
