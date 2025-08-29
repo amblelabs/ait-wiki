@@ -8,13 +8,15 @@ blocks:
     value: |-
       **Interior hum volume**
 
+      **Can be set to a value between 0.0% and 100.0%**
+
       Allows you to change how loud or quiet the interior hum is.
   - _type: text
     alt: Use custom main menu
     value: |-
       **Use custom main menu**
 
-      Allows you to use different modded or vanilla main menus.
+      Turns on or off ait's custom title screen
   - _type: text
     alt: Show experimental warnings
     value: >-
@@ -22,7 +24,8 @@ blocks:
 
 
       This config makes it so you can see the warnings if you are on a ait beta.
-      (if you wanna see this warning you should go donate to loqor)
+      (if you wanna see this warning you should go donate to loqor) \[Donating
+      gives you access to beta versions and more and supports the server\]
   - _type: text
     alt: Enable TARDIS boti
     value: >-
@@ -32,7 +35,7 @@ blocks:
       This config allows you to toggle bigger on the inside on your tardis so
       you can see the vortex and other things.
   - _type: text
-    alt: Render tardis interior
+    alt: Render boti interior
     value: >-
       (VERY UNSTABLE WILL NOT WORK FOR NOW)
 
@@ -62,16 +65,16 @@ blocks:
       **Show text on console monitors**
 
 
-      This config toggles the information on the console monitors. (toyota coral
-      etc)
+      This config toggles the flight information on the console monitors.
+      (toyota coral etc)
   - _type: text
     alt: Show text on crt monitors
     value: >-
       **Show text on crt monitors**
 
 
-      This config toggles the information on the crt monitors (the big chunky
-      one)
+      This config toggles the flight information on the crt monitors (the big
+      chunky one)
   - _type: text
     alt: "Render demat particles "
     value: |-
