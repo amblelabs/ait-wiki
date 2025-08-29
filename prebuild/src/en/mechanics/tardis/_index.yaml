@@ -1,22 +1,28 @@
 title: TARDIS
 blocks:
   - _type: text
-    value: '{{< cards >}} {{< card link="linking-items" title="Linking Items to your
-      TARDIS" image="media/items/sonic/in\_port.png" subtitle="" >}} {{< card
-      link="protocols" title="TARDIS Protocols"
-      image="media/mechanics/tardis/protocols.png" subtitle="TARDIS Protocols
-      are features that make your playthrough easier" >}} {{< card
-      link="security-protocols" title="TARDIS Security Features"
-      image="media/mechanics/tardis/security/securitymenu.png" subtitle="The
-      TARDIS has Security Options that work to keep you safe." >}} {{< /cards
-      >}}'
   - _type: cards
     alt: Card Group
     cols: 3
     value:
       - title: Linking Items to your Tardis
-        subtitle: Even a TARDIS needs car keys! And a way to connect them...
-        link: reroute.yaml
+        subtitle: Even a Tardis needs car keys! And a way to connect them...
+        link: linking-items
+        image:
+          _type: local-image
+          src: /images/items/sonic/in_port.png
+      - title: Tardis Protocols
+        subtitle: Tardis Protocols are features that make your playthrough easier
+        link: protocols
+        image:
+          _type: local-image
+          src: /images/mechanics/tardis/protocols.png
+      - title: Tardis Security
+        subtitle: The TARDIS has Security Options that work to keep you safe.
+        link: security-protocols
+        image:
+          _type: local-image
+          src: /images/mechanics/tardis/security/securitymenu.png
 sidebar:
   open: false
   exclude: false
