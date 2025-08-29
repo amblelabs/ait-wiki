@@ -70,6 +70,27 @@ blocks:
       l'un de ses dérivés, assurez-vous d'utiliser la version 1.0.5 ou
       supérieure d'AIT, ou la version 1.0.6 ou supérieure si vous êtes sur
       Forge.
+  - _type: text
+    alt: Quels mods sont incompatibles avec AIT ?
+    value: >-
+      Q: Quels mods sont incompatibles avec AIT ?
+
+
+      A : Ci-dessous se trouvent les incompatibilités actuellement connues. Si
+      vous en connaissez d'autres qui ne sont pas listées ici, veuillez nous en
+      informer !
+
+
+      *   Immersive Portals : empêche les gens d'entrer/sortir du TARDIS.
+          
+      *   No Nametag Render : empêche l'affichage des noms de la consols.
+          
+      *   Concurrent Chunk Management Engine (C2ME) : semble casser les rift
+      chunk et la croissance du TARDIS.
+          
+      *   Distant Horizons (côté serveur) : casse la croissance du TARDIS et
+      provoque des plantages de serveur lors de l'entrée dans un TARDIS. Côté
+      client, cela fonctionne normalement.
 sidebar:
   open: false
   exclude: false
