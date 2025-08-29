@@ -35,6 +35,14 @@ blocks:
 
       R : Si vous souhaitez créer un add-on pour AIT, référez-vous à [cet
       article](../development/).
+  - _type: text
+    alt: Comment créer un datapacks pour AIT?
+    value: >-
+      Q : Comment créer un datapacks pour AIT?
+
+
+      A : Si vous voulez créer un datapacks pour AIT, référez-vous à [cet
+      article](../datapacks/).
 sidebar:
   open: false
   exclude: false
