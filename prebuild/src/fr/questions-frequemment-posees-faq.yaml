@@ -61,6 +61,15 @@ blocks:
       l'un de ses dérivés, assurez-vous d'utiliser la version 1.0.5 ou
       supérieure d'AIT, ou la version 1.0.6 ou supérieure si vous êtes sur
       Forge.
+  - _type: text
+    alt: La console Toyota est entièrement noire !
+    value: >-
+      Q : La console Toyota est entièrement noire !  
+        
+      R : Assurez-vous que l'alimentation est allumée. Si vous utilisez Iris ou
+      l'un de ses dérivés, assurez-vous d'utiliser la version 1.0.5 ou
+      supérieure d'AIT, ou la version 1.0.6 ou supérieure si vous êtes sur
+      Forge.
 sidebar:
   open: false
   exclude: false
