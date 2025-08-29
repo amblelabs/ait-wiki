@@ -1,6 +1,7 @@
 title: TARDIS
 blocks:
   - _type: text
+    alt: Content
   - _type: cards
     alt: Card Group
     cols: 3
@@ -22,7 +23,7 @@ blocks:
         link: security-protocols
         image:
           _type: local-image
-          src: /images/security-menu-updated.png
+          src: /images/mechanics/tardis/security-menu-updated.png
 sidebar:
   open: false
   exclude: false
