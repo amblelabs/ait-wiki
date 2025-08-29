@@ -1,0 +1,7 @@
+title: Commands
+blocks:
+  - _type: text
+    alt: Commands and what they do
+sidebar:
+  open: false
+  exclude: false
