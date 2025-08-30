@@ -1,6 +1,7 @@
 title: TARDIS Loyalty
 blocks:
   - _type: text
+    alt: Content
     value: >-
       # Wait what? Loyalty!!!!!!
 
@@ -79,7 +80,7 @@ blocks:
           
       6.  Unlocks snapping for fingers
           
-      7.  You can which ranks aren't affected by P19.
+      7.  You can choose which ranks aren't affected by P19.
           
       8.  If your a companion the shields wont push you away anymore
           
@@ -93,3 +94,6 @@ blocks:
 
       Sleep in a bed inside the tardis, a sound will play indicating your
       loyalty rank and a message will appear as well.
+sidebar:
+  open: false
+  exclude: false
