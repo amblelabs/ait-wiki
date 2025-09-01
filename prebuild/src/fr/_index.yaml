@@ -107,8 +107,8 @@ blocks:
     cols: 3
     value:
       - title: Commencer avec votre TARDIS
-        subtitle: Votre TARDIS est votre seul moyen pour voyager dans le temps et
-          l'espace, donc vous allez en avoir besoin.
+        subtitle: Votre TARDIS est votre seul moyen pour voyager dans le l'espace et le
+          temp, donc vous allez en avoir besoin.
         link: /images/mechanics/tardis/beginning-tardis-growth
         image:
           _type: local-image
