@@ -57,7 +57,8 @@ blocks:
     cols: 3
     value:
       - title: Journal des modifications
-        subtitle: Informations sur ce que chaque mise à jour ajoute de 1.1.0 à 1.2.0!
+        subtitle: Informations sur ce que chaque version ajoute a partir de la 1.1.0
+          jusqu'à la 1.2.0!
         link: changelogs/
         image:
           _type: local-image
