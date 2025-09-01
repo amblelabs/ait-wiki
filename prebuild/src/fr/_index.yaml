@@ -114,7 +114,7 @@ blocks:
           _type: local-image
           src: /images/mechanics/tardis/coral-growing.webp
       - title: Compléter votre TARDIS
-        subtitle: Vous y êtes presque, maintenant, il faut juste ajouter quelques choses.
+        subtitle: Vous y êtes presque, maintenant, il faut juste ajouter quelques trucs.
         link: mechanics/tardis/completing-tardis-growth/
         image:
           _type: local-image
