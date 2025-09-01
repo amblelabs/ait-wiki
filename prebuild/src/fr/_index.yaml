@@ -100,7 +100,7 @@ blocks:
   - _type: text
     alt: Si vous êtes nouveau dans le mod
     value: "Mais si vous êtes nouveau dans le mod, vous voudrez probablement savoir
-      comment commencer. Voici quelques pages que vous pourriez vouloir
+      comment commencer. Voici quelques pages que vous voudrez surement
       consulter :"
   - _type: cards
     alt: Card Group
