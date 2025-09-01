@@ -71,7 +71,7 @@ blocks:
           _type: local-image
           src: /images/blocks.png
       - title: Items
-        subtitle: Information sur tous les items que vous pouvez trouver sur Adventures
+        subtitle: Information sur tous les items que vous pouvez trouver dans Adventures
           In Time!
         link: items/
         image:
