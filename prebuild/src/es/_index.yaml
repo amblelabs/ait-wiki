@@ -96,8 +96,7 @@ blocks:
           src: /images/development.png
   - _type: text
     alt: If you're new to the mod
-    value: "Sin embargo, si eres nuevo con el mod, probablemente quieras saber por
-      donde empezar. Aquí hay algunas páginas que quizás quieras revisar:"
+    value: "Sin embargo, si eres nuevo con el mod, probablemente quieras saber por donde empezar. Aquí hay algunas páginas que quizás quieras revisar:"
   - _type: cards
     alt: Card Group
     cols: 3
