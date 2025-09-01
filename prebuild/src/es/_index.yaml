@@ -4,51 +4,55 @@ cascade:
 blocks:
   - _type: callout
     type: info
-    value: If you find any bugs / crashes, please create a [GitHub
-      Issue](https://github.com/Loqor/ait/issues/new) or ask for help in the
-      support channel in the [Amble Labs](https://discord.gg/D5Et6Ux7BS)
-      Discord.
+    value: Si te encuentras con algún bug / crasheo, crea una [Nota en
+      GitHub](https://github.com/Loqor/ait/issues/new) o pide ayuda en el canal
+      de soporte del Discord de [Amble Labs](https://discord.gg/D5Et6Ux7BS).
+      Gracias.
   - _type: text
     alt: Content
     value: >-
-      Welcome to the **Adventures In Time Wiki**! This wiki is constantly
-      maintained to be up to date with the most recent version of AIT so you can
-      get the best information of the mod, from useless features to useful
-      blocks and even making datapacks or extra mods!
+      ¡Bienvenido a la **Wiki** de **Adventures In Time**! Esta wiki está en
+      constante mantenimiento para estar al día con las versiones mas recientes
+      de AIT, de forma que siempre puedas conseguir la mejor información acerca
+      del mod.  
+        
+      Características totalmente inútiles, bloques altamente útiles e Incluso
+      cómo crear Datapacks o Mods complementarios! Todo en un solo lugar _(esta
+      wiki)_.  
 
 
-      ## Where do I get the most recent release?
+      ## ¿Dónde consigo las versiones mas recientes?
 
 
-      AIT can be found on [Modrinth](https://modrinth.com/mod/ait) and can also
-      be found on
-      [Curseforge.](https://www.curseforge.com/minecraft/mc-mods/adventures-in-time)
+      Las versiones mas receientes de AIT se pueden encontrar en
+      [Modrinth](https://modrinth.com/mod/ait) y también en
+      [Curseforge](https://www.curseforge.com/minecraft/mc-mods/adventures-in-time).
 
 
-      ## AIT is fantastic! Is there anywhere I can talk about the mod?
+      ## ¡AIT es fantástico! ¿Hay algún lugar para hablar sobre el mod?
 
 
-      Yes, in [Amble Labs' discord server](https://discord.gg/D5Et6Ux7BS) where
-      you can talk about the mod, show off your interiors, post your AIT
-      datapacks, pay to get beta previews and even play with other people in the
-      **AIT Server**!
+      Claro, en el [Discord de Amble Labs](https://discord.gg/ZXQdFxTNKh).
 
 
-      ## I've made a super cool mod for AIT! But I don't know where to publish
-      it?
+      Ahí puedes hablar acerca del mod, mostrar tus interiores personalizados,
+      publicar tus Datapacks de AIT, pagar para conseguir acceso a versiones
+      Beta del mod e incluso jugar con otras personas en el **Servidor Oficial
+      de AIT**.
 
 
-      Oooh! In the [AIT Additons](https://discord.gg/aYEtPD24bF) Discord server,
-      we would love to make a channel dedicated to talking about your addon. You
-      can share your progress, get bug reports and suggestions and even update
-      people on the changes! People can also play with your addons with other
-      **AIT Addons** in the **AIT Additions Minecraft Server!**
+      ## ¡Hice un mod / addon muy cool para AIT! ¿Dónde puedo publicarlo?
 
 
-      ## Where can I start?
+      ¡OOhh! Eso también va en el Discord de Amble Labs. Tenemos un foro
+      dedicado a la publicación de contenido extra para AIT. Puedes compartir tu
+      progreso, recibir reportes de bugs y sugerencias.
 
 
-      You can learn about the AIT mod in these tabs below:
+      ## ¿Por dónde empiezo?
+
+
+      Puedes aprender acerca de AIT en las pestañas de abajo:
   - _type: cards
     alt: Card Group
     cols: 3
@@ -92,28 +96,33 @@ blocks:
           src: /images/development.png
   - _type: text
     alt: If you're new to the mod
-    value: "But if you are new to the mod you'll probably want to know how to start.
-      Here are some pages you might want to look at:"
+    value: "Sin embargo, si eres nuevo con el mod, probablemente quieras saber por
+      donde empezar. Aquí hay algunas páginas que quizás quieras revisar:"
   - _type: cards
     alt: Card Group
     cols: 3
     value:
-      - title: Beginning your TARDIS
-        subtitle: Your TARDIS is your one way to travel in space and time, so you are
-          gonna need one.
+      - title: Comenzando tu TARDIS
+        subtitle: >-
+          Tu TARDIS es tu medio de transporte a travéz de todo el tiempo y el
+          espacio, así que necesitarás una.
+
+
+          _\* Viajes temporales no incluidos aún._
         link: /images/mechanics/tardis/beginning-tardis-growth
         image:
           _type: local-image
           src: /images/mechanics/tardis/coral-growing.webp
-      - title: Completing your TARDIS
-        subtitle: Nearly there, now you just need to add some more stuff.
+      - title: Terminando tu TARDIS
+        subtitle: ¡Ya casi estás! Solo necesitas agregar un par de cosas más.
         link: mechanics/tardis/completing-tardis-growth/
         image:
           _type: local-image
           src: /images/mechanics/tardis/new_tardis_interiors.png
-      - title: Sonic Screwdriver
-        subtitle: The Sonic Screwdriver is a handheld device used for various tasks, and
-          is the most important tool for a TARDIS user.
+      - title: Destornillador Sónico
+        subtitle: El Destornillador Sónico es un dispositivo de mano usado para
+          distintas tareas, y es la herramienta mas importante para el Operador
+          de una TARDIS.
         link: items/sonic-screwdriver/
         image:
           _type: local-image
