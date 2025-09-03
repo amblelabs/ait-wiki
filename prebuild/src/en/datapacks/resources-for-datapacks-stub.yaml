@@ -21,7 +21,7 @@ blocks:
       use it
 
 
-      ## [Blockbench Website](https://www.blockbench.net)
+      ### [Blockbench Website](https://www.blockbench.net)
 sidebar:
   open: false
   exclude: false
