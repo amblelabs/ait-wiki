@@ -48,9 +48,22 @@ blocks:
       ### [Krita Website](https://krita.org/en)
 
 
-      [Aseprite Website](https://www.aseprite.org/)
+      ### [Aseprite Website](https://www.aseprite.org/)
   - _type: text
     alt: fuckhowdoimakeapackinthefirstplace
+    value: >-
+      ## Wait, Where do I get an empty pack to fill up?
+
+
+      well you can always search for one but making all the directories in my
+      opinion is way more fun! Here is the link to the minecraft wiki page about
+      creating a datapack and resource pack.
+
+
+      ### [Datapack](https://minecraft.wiki/w/Tutorial:Creating_a_data_pack)
+
+
+      ### [Resource Pack](minecraft.wiki/w/Tutorials/Creating_a_resource_pack)
 sidebar:
   open: false
   exclude: false
