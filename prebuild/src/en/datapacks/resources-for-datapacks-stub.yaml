@@ -1,0 +1,27 @@
+title: Resources for Datapacks (stub)
+description: Wait, how do I make a model?
+blocks:
+  - _type: text
+    alt: wait what?
+    value: >-
+      ## Wait, You guys make these models but how do I!?
+
+
+      Good question, we use a variety of Software and some of them are up to
+      personal preference but We'll be providing free basic stuff for Datapacks
+  - _type: text
+    alt: Dad I'm ga- mbling
+    value: >-
+      ## Modeling and Textures
+
+
+      One of the basics we use is **BlockBench.** Blockbench is a 3d modeling
+      software that uses voxels (cubes) instead of complex shapes like circles
+      and triangles, and don't worry you won't need a degree in 3d modeling to
+      use it
+
+
+      ## [Blockbench Website](https://www.blockbench.net)
+sidebar:
+  open: false
+  exclude: false
