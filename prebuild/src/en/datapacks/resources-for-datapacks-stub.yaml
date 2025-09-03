@@ -8,20 +8,49 @@ blocks:
 
 
       Good question, we use a variety of Software and some of them are up to
-      personal preference but We'll be providing free basic stuff for Datapacks
+      personal preference but heres what we recommend:
   - _type: text
     alt: Dad I'm ga- mbling
     value: >-
-      ## Modeling and Textures
+      ## Modeling and Texturing
 
 
       One of the basics we use is **BlockBench.** Blockbench is a 3d modeling
       software that uses voxels (cubes) instead of complex shapes like circles
       and triangles, and don't worry you won't need a degree in 3d modeling to
-      use it
+      use it.
 
 
       ### [Blockbench Website](https://www.blockbench.net)
+
+
+      ## Audio
+
+
+      for audio we suggest **Audacity.** Audacity is a free audio editing
+      program that has a good amount of editing features for what you'll
+      (probably) be using it for.
+
+
+      ### [Audacity Website](https://www.audacityteam.org)
+
+
+      ## More Advanced Texture work
+
+
+      for free you could use anything! paint3d, mspaint, krita, gimp, and more,
+      but my suggestion is **krita** it has a lot of editing features and is
+      just good for drawing in general. but if you want to spit up some money
+      you can use **Aseprite,** Aseprite is made especially for pixel art with
+      animation built in.
+
+
+      ### [Krita Website](https://krita.org/en)
+
+
+      [Aseprite Website](https://www.aseprite.org/)
+  - _type: text
+    alt: fuckhowdoimakeapackinthefirstplace
 sidebar:
   open: false
   exclude: false
