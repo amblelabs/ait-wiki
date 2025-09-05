@@ -56,6 +56,8 @@ blocks:
 
       >   "left_animation": "exterior_name:animation_name",
 
+      >   "right_animation": "exterior_name:animation_name",
+
       >   "has_transparent_doors": true/false,
 
       >   "animations": {
@@ -94,13 +96,86 @@ blocks:
 
       >   "west": [VALUE,VALUE,VALUE],
 
-      >     "north_west": [VALUE,VALUE,VALUE]
+      >   "north_west": [VALUE,VALUE,VALUE]
 
       >   }
 
       > }
 
       > ```
+  - _type: text
+    alt: Model Paths
+    value: >-
+      *   Make sure you save your files to `assets/(namespace)/bedrock` (you
+      `CAN NOT` do sub-folders as the datapack json file only looks for a file
+      in the bedrock folder. This means you `CAN NOT` do
+      `bedrock/exterior_name/exterior.geo.json` ).
+          
+      *   For the exterior models, we use bedrock entity models. This is also
+      the format you should use to make your models in blockbench! When
+      exporting your models as `Bedrock Geometry` and then add `.json` to the
+      end of the file name (your model file name should be `model_name.geo.json`
+      ). When exporting animations make sure to also add `.json` to the end of
+      the file name (your animation file name should be
+      `animation_name.animation.json` ).
+  - _type: text
+    alt: Explaining everything you can do
+    value: >-
+      ## Explaining everything you can do!
+
+
+      ### BOTI Portal
+
+
+      *   For the `portal_info` you will need to manually set its positions and
+      scale (FYI: both interior and exterior doors use the same width and
+      height) for both the interior AND exterior door. You can also set whether
+      the BOTI Portal is always visible or not by setting
+      `has_transparent_doors` to `true or false`
+          
+
+      ### Custom Animations
+
+
+      *   You can also add custom `mat, demat, and landed` animations (do be
+      aware that they wont override and animations you have selected in the
+      monitor, both will run at the same time)
+          
+      *   Along with exterior animations, you can add custom door animations for
+      both doors. This will also determine the amount of doors your exterior
+      has. (if you want just 1 door, only make a `left_animation` ).
+          
+
+      ### Get your model in game
+
+
+      *   You can define the exterior and door models by adding your namespace
+      and model file name to both the `"model"` and `"door"` sections.
+          
+      *   To define the texture and emissive textures, add your namespace and
+      texture file name to both the`"texture"` and `"emission"` sections (you
+      don't have to have an emissive texture if you don't want too but you NEED
+      a model texture!).
+          
+      *   You will need to add your exterior to a category by adding your
+      namespace and category name to the`"category"` section so it can be
+      selected in the montior, you can use one from ait OR make your own [(SEE
+      HOW
+      HERE)](https://amblelabs.github.io/ait-wiki/datapacks/custom-categories/).
+          
+      *   The parent model is what the exterior will become if it somehow can't
+      find your model
+  - _type: text
+    alt: Bugs
+    value: >-
+      ## Bugs!
+
+
+      *   This system is still pretty new so will have some issues. If you find
+      any please report them [HERE](https://github.com/amblelabs/modkit/issues)
+      and NOT on the AIT issues page as datapack exterior models are a part of
+      AmbleKit (Our mod library). Also make sure that your issue hasn't been
+      reported before!
 sidebar:
-  open: false
+  open: true
   exclude: false
