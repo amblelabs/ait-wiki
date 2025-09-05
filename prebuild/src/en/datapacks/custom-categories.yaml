@@ -24,8 +24,6 @@ blocks:
 
       > *   This will contain the "code" for the categorie.
 
-      >     
-
       > 
 
       > Inside this new .json file, paste:
@@ -43,5 +41,5 @@ blocks:
 
       > ```
 sidebar:
-  open: false
+  open: true
   exclude: false
