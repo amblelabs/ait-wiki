@@ -14,11 +14,12 @@ blocks:
       ¡Bienvenido a la **Wiki** de **Adventures In Time**! Esta wiki está en
       constante mantenimiento para estar al día con las versiones mas recientes
       de AIT, de forma que siempre puedas conseguir la mejor información acerca
-      del mod.  
-        
+      del mod.
+
+
       Características totalmente inútiles, bloques altamente útiles e Incluso
       cómo crear Datapacks o Mods complementarios! Todo en un solo lugar _(esta
-      wiki)_.  
+      wiki)_.
 
 
       ## ¿Dónde consigo las versiones mas recientes?
@@ -95,17 +96,17 @@ blocks:
           _type: local-image
           src: /images/development.png
   - _type: text
-    alt: "If you're new to the mod"
-    value: "Sin embargo, si eres nuevo con el mod, probablemente quieras saber por donde empezar. Aquí hay algunas páginas que quizás quieras revisar:"
+    alt: If you're new to the mod
+    value: "Sin embargo, si eres nuevo con el mod, probablemente quieras saber por
+      donde empezar. Aquí hay algunas páginas que quizás quieras revisar:"
   - _type: cards
     alt: Card Group
     cols: 3
     value:
       - title: Comenzando tu TARDIS
-        subtitle: >-
-          Tu TARDIS es tu medio de transporte a travéz de todo el tiempo y el
-          espacio, así que necesitarás una.
-          _Viajes temporales no incluidos aún._
+        subtitle: Tu TARDIS es tu medio de transporte a travéz de todo el tiempo y el
+          espacio, así que necesitarás una. _Viajes temporales no incluidos
+          aún._
         link: /images/mechanics/tardis/beginning-tardis-growth
         image:
           _type: local-image
