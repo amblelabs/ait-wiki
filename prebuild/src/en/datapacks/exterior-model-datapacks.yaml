@@ -1,0 +1,153 @@
+title: Exterior Model Datapacks
+description: add custom exterior models to ait!
+blocks:
+  - _type: text
+    alt: Content
+    value: >-
+      {{< callout type="warning" >}} You need to learn how texture pack and
+      datapacks works! {{< /callout >}}
+
+
+      ## Create a Datapack
+
+
+      {{< callout type="info" >}} Follow the tutorial on the [Minecraft Wiki on
+      datapacks](https://minecraft.wiki/w/Data_pack) on how to set one up, use
+      the namespace from earlier {{< /callout >}}
+
+
+      Create a new **.json** file in the path
+
+
+      > `data/(namespace)/exterior/(exterior_name)/(exterior_name).json`
+
+      > 
+
+      > *   This will contain the "code" for the exterior, similar to the old
+      AddonExteriors class system.
+
+      >     
+
+      > 
+
+      > Inside this new .json file, paste:
+
+      > 
+
+      > \`\`\`{
+
+      > 
+
+      > "id": "ait-extras:clock",
+
+      > 
+
+      > "category": "ait-extras:clock",
+
+      > 
+
+      > "parent": "ait:exterior/capsule/default",
+
+      > 
+
+      > "texture":
+      "ait-extras:textures/blockentities/exteriors/clock/clock.png",
+
+      > 
+
+      > "model": "ait-extras:clock",
+
+      > 
+
+      > "door": "ait-extras:clock",
+
+      > 
+
+      > "left\_animation": "clock:open",
+
+      > 
+
+      > "has\_transparent\_doors": false,
+
+      > 
+
+      > "animations": {
+
+      > 
+
+      > "landed": "clock:idle",
+
+      > 
+
+      > "demat": "clock:flight",
+
+      > 
+
+      > "mat": "clock:flight"
+
+      > 
+
+      > },
+
+      > 
+
+      > "seat\_translation": \[0, 0, 0\],
+
+      > 
+
+      > "portal\_info": {
+
+      > 
+
+      > "enabled": true,
+
+      > 
+
+      > "width": 1,
+
+      > 
+
+      > "height": 2,
+
+      > 
+
+      > "north": \[0,-0.4,-0.3\],
+
+      > 
+
+      > "north\_east": \[0,-0.4,-0.3\],
+
+      > 
+
+      > "east": \[0,-0.4,-0.3\],
+
+      > 
+
+      > "south\_east": \[0,-0.4,-0.3\],
+
+      > 
+
+      > "south": \[0,-0.4,-0.3\],
+
+      > 
+
+      > "south\_west": \[0,-0.4,-0.3\],
+
+      > 
+
+      > "west": \[0,-0.4,-0.3\],
+
+      > 
+
+      > "north\_west": \[0,-0.4,-0.3\]
+
+      > 
+
+      > }
+
+      > 
+
+      > }\`\`\`
+sidebar:
+  open: false
+  exclude: false
