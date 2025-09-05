@@ -34,120 +34,73 @@ blocks:
 
       > 
 
-      > \`\`\`{
+      > ```json
+
+      > {
+
+      >   "id": "namespace:exterior_name",
+
+      >   "category": "namespace:category_name",
+
+      >   "parent": "ait:exterior/capsule/default",
+
+      >   "texture":
+      "namespace:textures/blockentities/exteriors/exterior_name/exterior_name.png",
+
+      >   "emission":
+      "namespace:textures/blockentities/exteriors/exterior_name/exterior_name_emission.png",
+
+      >   "model": "namespace:exterior_name",
+
+      >   "door": "namespace:exterior_name_door",
+
+      >   "left_animation": "exterior_name:animation_name",
+
+      >   "has_transparent_doors": true/false,
+
+      >   "animations": {
+
+      >     "landed": "exterior_name:animation_name",
+
+      >     "demat": "exterior_name:animation_name",
+
+      >     "mat": "exterior_name:animation_name"
+
+      >   },
 
       > 
 
-      > "id": "ait-extras:clock",
+      >   "seat_translation": [VALUE,VALUE,VALUE],
 
-      > 
+      >   "portal_info": {
 
-      > "category": "ait-extras:clock",
+      >   "enabled": true/false,
 
-      > 
+      >   "width": VALUE,
 
-      > "parent": "ait:exterior/capsule/default",
+      >   "height": VALUE,
 
-      > 
+      >   "north": [VALUE,VALUE,VALUE],
 
-      > "texture":
-      "ait-extras:textures/blockentities/exteriors/clock/clock.png",
+      >   "north_east": [VALUE,VALUE,VALUE],
 
-      > 
+      >   "east": [VALUE,VALUE,VALUE],
 
-      > "model": "ait-extras:clock",
+      >   "south_east": [VALUE,VALUE,VALUE],
 
-      > 
+      >   "south": [VALUE,VALUE,VALUE],
 
-      > "door": "ait-extras:clock",
+      >   "south_west": [VALUE,VALUE,VALUE],
 
-      > 
+      >   "west": [VALUE,VALUE,VALUE],
 
-      > "left\_animation": "clock:open",
+      >     "north_west": [VALUE,VALUE,VALUE]
 
-      > 
-
-      > "has\_transparent\_doors": false,
-
-      > 
-
-      > "animations": {
-
-      > 
-
-      > "landed": "clock:idle",
-
-      > 
-
-      > "demat": "clock:flight",
-
-      > 
-
-      > "mat": "clock:flight"
-
-      > 
-
-      > },
-
-      > 
-
-      > "seat\_translation": \[0, 0, 0\],
-
-      > 
-
-      > "portal\_info": {
-
-      > 
-
-      > "enabled": true,
-
-      > 
-
-      > "width": 1,
-
-      > 
-
-      > "height": 2,
-
-      > 
-
-      > "north": \[0,-0.4,-0.3\],
-
-      > 
-
-      > "north\_east": \[0,-0.4,-0.3\],
-
-      > 
-
-      > "east": \[0,-0.4,-0.3\],
-
-      > 
-
-      > "south\_east": \[0,-0.4,-0.3\],
-
-      > 
-
-      > "south": \[0,-0.4,-0.3\],
-
-      > 
-
-      > "south\_west": \[0,-0.4,-0.3\],
-
-      > 
-
-      > "west": \[0,-0.4,-0.3\],
-
-      > 
-
-      > "north\_west": \[0,-0.4,-0.3\]
-
-      > 
+      >   }
 
       > }
 
-      > 
-
-      > }\`\`\`
+      > ```
 sidebar:
   open: false
   exclude: false
