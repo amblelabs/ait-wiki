@@ -99,7 +99,7 @@ blocks:
       - title: Beginning your TARDIS
         subtitle: Your TARDIS is your one way to travel in space and time, so you are
           gonna need one.
-        link: /images/mechanics/tardis/beginning-tardis-growth
+        link: mechanics/tardis/beginning-tardis-growth
         image:
           _type: local-image
           src: /images/mechanics/tardis/coral-growing.webp
