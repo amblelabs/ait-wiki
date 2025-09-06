@@ -1,6 +1,10 @@
 title: Chameleon (Adaptive) Exterior
 blocks:
   - _type: text
+    alt: BETA
+    value: "## THIS CONTENT IS CURRENTLY IN BETA ACCESS, PLEASE WAIT UNTIL WE
+      RELEASE THE FEATURE"
+  - _type: text
     alt: Content
     value: >-
       Chameleon exterior also known as adaptive box is a special kind of
