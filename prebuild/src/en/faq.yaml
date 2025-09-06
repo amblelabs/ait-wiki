@@ -68,7 +68,7 @@ blocks:
   - _type: text
     alt: What mods are incompatible with AIT?
     value: >-
-      Q: What mods are incompatible with AIT?
+      ### Q: What mods are incompatible with AIT?
 
 
       A: Below are currently known incompatibilities, if you know of any not
