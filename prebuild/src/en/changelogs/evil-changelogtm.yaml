@@ -5,11 +5,13 @@ blocks:
     value: >-
       The EVIL changelog™ is a section of the wiki dedicated to registring
       miscelaneous known issues of the mod, various EVIL™ big updates and
-      etcétera.  
-        
+      etcétera.
+
+
       Note that this is mainly for the funsies and a "Did you know?" trivia kind
-      of thing, and might not contain every single bug / error in existence.  
-        
+      of thing, and might not contain every single bug / error in existence.
+
+
       Please, if you find any bugs / crashes, create a [GitHub
       Issue](https://github.com/Loqor/ait/issues/new) or ask for help in the
       support channel in the [Amble Labs](https://discord.gg/D5Et6Ux7BS)
@@ -17,7 +19,7 @@ blocks:
   - _type: text
     alt: The goodies
     value: >-
-      ## Current version; 1.12.12  
+      ## Current version; 1.2.12
 
 
       *   Emission on consoles is lacking with shaders (Works for doors
@@ -39,7 +41,7 @@ blocks:
       ## ISSUES
 
 
-      The following is a list of issues and changelogs in no particular order:  
+      The following is a list of issues and changelogs in no particular order:
 
 
       *   At some point, spilling tea on the console used to crash the entire
