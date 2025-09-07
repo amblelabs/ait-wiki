@@ -1,7 +1,7 @@
 title: Real World Flight
 blocks:
   - _type: callout
-    type: warning
+    type: error
     value: Real World Flight/RWF Is a very buggy feature that is not made to be used
       in its current state! Please do not use RWF outside of a test world!
 sidebar:
