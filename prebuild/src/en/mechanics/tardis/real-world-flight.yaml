@@ -15,6 +15,31 @@ blocks:
 
 
       ![](/images/mechanics/tardis/rwf-gaysex.png)
+  - _type: text
+    alt: how to touch people
+    value: >-
+      ## How To Use RWF
+
+
+      First you must use the command:
+
+
+      ```
+
+      /ait flight [TARDIS ID]
+
+      ```
+
+
+      then you will see the outside of your Tardis like this:
+
+
+      ![](/images/mechanics/tardis/rwf-saygex.png)
+
+
+      to start flying press the 'G' key, this will turn on the antigravs, then
+      to actually start moving around press the 'G' key then press space to go
+      up. that's about it.
 sidebar:
   open: false
   exclude: false
