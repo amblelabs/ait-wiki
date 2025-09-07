@@ -6,9 +6,8 @@ blocks:
       ## How do i grow a tardis?
 
 
-      You need [Coral
-      Growth](/items/coral-growth//items/coral-growth/)
-      To grow a tardis (same for growing a console).
+      You need [Coral Growth](/items/coral-growth//items/coral-growth/) To grow
+      a tardis (same for growing a console).
 
 
       ## How do I complete growing the tardis?
@@ -20,7 +19,7 @@ blocks:
       *   The Coral Shell
           
 
-      ![Image](images/coral_setup/shell.png)
+      ![](/images/mechanics/tardis/coral_setup/shell.png)
 
 
       *   Once the coral plant has fully grown, it will become open. Now you
@@ -31,7 +30,7 @@ blocks:
       *   The Matrix Engergizer
           
 
-      ![Image](images/coral_setup/matrix.png)
+      ![](/images/mechanics/tardis/coral_setup/matrix.png)
 
 
       *   Once that is done you need to give the tardis its "personality", to do
@@ -45,7 +44,7 @@ blocks:
       *   The Personality Matrix
           
 
-      ![Image](images/coral_setup/personality.png)
+      ![](/images/mechanics/tardis/coral_setup/personality.png)
 
 
       *   When the bar is full, it will break and drop the Personality Matrix,
@@ -77,25 +76,25 @@ blocks:
       ### Coral Cage
 
 
-      ![Image](images/coral_setup/cage_recipe.png)
+      ![](/images/mechanics/tardis/coral_setup/cage_recipe.png)
 
 
       ### Superheated Zeiton
 
 
-      ![Image](images/coral_setup/superheatedzeiton_recipe.png)
+      ![](/images/mechanics/tardis/coral_setup/superheatedzeiton_recipe.png)
 
 
       ### Plasmic Material
 
 
-      ![Image](images/coral_setup/plasmic_recipe.png)
+      ![](/images/mechanics/tardis/coral_setup/plasmic_recipe.png)
 
 
       ### Matrix Engergizer
 
 
-      ![Image](images/coral_setup/matrix_recipe.png)
+      ![](/images/mechanics/tardis/coral_setup/matrix_recipe.png)
 sidebar:
   open: false
   exclude: false
