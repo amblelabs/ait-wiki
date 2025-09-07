@@ -1,21 +1,17 @@
 title: Chameleon (Adaptive) Exterior
 blocks:
   - _type: text
-    alt: BETA
-    value: "## THIS CONTENT IS CURRENTLY IN BETA ACCESS, PLEASE WAIT UNTIL WE
-      RELEASE THE FEATURE"
-  - _type: text
     alt: Content
     value: >-
-      Chameleon exterior also known as adaptive box is a special kind of
-      exterior category.
+      Chameleon exterior also known as the adaptive exterior is a special kind
+      of exterior category.
 
 
       When activated, it turns into a tree/desert well/chorus plant/giant
-      mushroom and etc depending on the biome.
+      mushroom and etc. depending on the biome.
 
 
-      Due to the way it was implemented it has 2 qualities:
+      Due to the way it was implemented it has 2 qualities,
 
 
       1\. It's undetectable. You can't use F3, WAILA, Jade or X-ray mods to find
@@ -38,7 +34,7 @@ blocks:
       try and find the TARDIS here:
 
 
-      ![](/images/adaptive%20exterior.png)
+      ![](/images/mechanics/tardis/adaptive-preview.png)
 
 
       if you can't its the tree on the right.
