@@ -26,8 +26,6 @@ blocks:
       > *   This will contain the "code" for the exterior, similar to the old
       AddonExteriors class system.
 
-      >     
-
       > 
 
       > Inside this new .json file, paste:
@@ -132,7 +130,7 @@ blocks:
       height) for both the interior AND exterior door. You can also set whether
       the BOTI Portal is always visible or not by setting
       `has_transparent_doors` to `true or false`
-          
+
 
       ### Custom Animations
 
@@ -176,6 +174,10 @@ blocks:
       and NOT on the AIT issues page as datapack exterior models are a part of
       AmbleKit (Our mod library). Also make sure that your issue hasn't been
       reported before!
+          
+
+      {{< callout type="warning" >}} If you need any help, feel free to ping
+      `@addi3` in the Amble discord server! {{< /callout >}}
 sidebar:
   open: true
   exclude: false
