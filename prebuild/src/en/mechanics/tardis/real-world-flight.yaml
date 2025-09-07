@@ -3,7 +3,15 @@ blocks:
   - _type: callout
     type: error
     value: Real World Flight/RWF Is a very buggy feature that is not made to be used
-      in its current state! Please do not use RWF outside of a test world!
+      in its current state! Please do not use RWF outside of a test world.
+  - _type: text
+    alt: "Team Fortress 2: The Gay Update"
+    value: >-
+      ## Real World Flight (RWF)
+
+
+      Real world flight allows you to fly around the world in your Tardis
+      without dematerializing and rematerializing.
 sidebar:
   open: false
   exclude: false
