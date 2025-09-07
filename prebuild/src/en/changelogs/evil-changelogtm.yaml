@@ -1,0 +1,101 @@
+title: EVIL changelog™
+blocks:
+  - _type: callout
+    type: info
+    value: >-
+      The EVIL changelog™ is a section of the wiki dedicated to registring
+      miscelaneous known issues of the mod, various EVIL™ big updates and
+      etcétera.  
+        
+      Note that this is mainly for the funsies and a "Did you know?" trivia kind
+      of thing, and might not contain every single bug / error in existence.  
+        
+      Please, if you find any bugs / crashes, create a [GitHub
+      Issue](https://github.com/Loqor/ait/issues/new) or ask for help in the
+      support channel in the [Amble Labs](https://discord.gg/D5Et6Ux7BS)
+      Discord. Thank you.
+  - _type: text
+    alt: The goodies
+    value: >-
+      ## Current version; 1.12.12  
+
+
+      *   Emission on consoles is lacking with shaders (Works for doors
+      surprisingly)
+          
+      *   On Forge, the blueprints gambling was reimplemented when changing from
+      one container to another.
+          
+      *   Vortexs not vortexing _(they arent rendering correctly)_
+          
+      *   The "boti" placeholder is weird on non built in exteriors
+          
+      *   TARDISes exteriors are aparently duping again i guess
+          
+
+      * * *
+
+
+      ## ISSUES
+
+
+      The following is a list of issues and changelogs in no particular order:  
+
+
+      *   At some point, spilling tea on the console used to crash the entire
+      game.
+          
+      *   Interacting with the Hammer Manager on the Coral console, without it
+      having a Hammer on it, used to crash dedicated servers.
+          
+      *   On 1.2.11, someone _(Presumibly Loqor)_ messed up all the console and
+      exterior emissions, causing them to look almost completely white.
+          
+      *   AIT 1.2.8 was so evil it was removed from existence.
+          
+      *   For a while, piloting the TARDIS on maximum speed would cause it to
+      instantly crash.
+          
+      *   Some Planet blocks were totally uncraftable until 1.2.9
+          
+      *   On some point, the Dematerialization sounds used to keep playing in a
+      TARDIS' last postition, even after it had departed completely from there.
+          
+      *   "control entities are no longer living entities" — 1.2.4.2811
+          
+      *   At some point, [Gallifrey
+      Falls](https://amblelabs.github.io/ait-wiki/blocks/gallifrey-falls/)
+      painting kept turning into
+      [Trenzalore](https://amblelabs.github.io/ait-wiki/blocks/trenzalore/), but
+      no more.
+          
+      *   "randomizer and structure locator no longer throw up when you rejoin
+      the world" — 1.2.4.2811
+          
+      *   Real World Flight, _(AKA tardis hover mode)_ used to Brick your world.
+      It was removed due to this.
+          
+      *   "Removed pottery shards from opinions" — 1.2.1.2808
+          
+      *   On 1.2.11, Dev Exclusive Exteriors werent exclusive anymore. This was
+      fixed on 1.2.12 and they are back to exclusiveness again.
+          
+      *   "/ait erase-chunks is no longer accessible by non-op people.
+      whoopsie." — 1.2.0.2786
+          
+      *   For a while TARDIS' exteriors shells could render umproperly and
+      become invisible. This was "fixed" two times in two diferent versions
+      before begin actually fixed.
+          
+      *   For a while, you could insta-travel by crashing the TARDIS.
+          
+      *   On 1.0.3 respirators didnt render lol
+          
+      *   "_Perhaps_ fixed the player being able to fall and teleport back to
+      the interior door." — 1.0.3
+          
+      *   For a while, budding zeiton block would grow amethyst instead of
+      zeiton. Fixed on 1.0.2
+sidebar:
+  open: false
+  exclude: false
