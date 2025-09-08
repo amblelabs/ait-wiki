@@ -38,7 +38,7 @@ blocks:
 
 
       to start flying press the 'G' key, this will turn on the antigravs, then
-      to actually start moving around press the 'G' key then press space to go
+      to actually start moving around press the 'B' key then press space to go
       up. that's about it.
 sidebar:
   open: false
