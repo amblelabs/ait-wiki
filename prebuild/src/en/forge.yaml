@@ -45,17 +45,17 @@ blocks:
       ###### `This list will expand based on reported issues!`
 
 
-      *   OptiFine. OptiFine is generally incompatible with a lot of mods, so we
-      recommend Embeddium instead.
+      *   OptiFine: generally incompatible with a lot of mods, so we recommend
+      Embeddium instead.
           
-      *   C2ME (Concurrent Chunk Management). Breaks rift chunks and TARDIS
+      *   C2ME (Concurrent Chunk Management): Breaks rift chunks and TARDIS
       growth.
           
-      *   Distant Horizons (if installed on the server). Will cause server
+      *   Distant Horizons: (if installed on the server) Will cause server
       crashes when entering a TARDIS. Client-side Distant Horizons play like
       normal.
           
-      *   Blueprint will cause the game to crash on loading.
+      *   Blueprint: will cause the game to crash on loading.
 sidebar:
   open: false
   exclude: false
