@@ -54,6 +54,8 @@ blocks:
       *   Distant Horizons (if installed on the server). Will cause server
       crashes when entering a TARDIS. Client-side Distant Horizons play like
       normal.
+          
+      *   Blueprint will cause the game to crash on loading.
 sidebar:
   open: false
   exclude: false
