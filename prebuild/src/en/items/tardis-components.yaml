@@ -101,9 +101,6 @@ blocks:
           
       *   Shield circuit; unlocks both shield types
   - _type: text
-    alt: "Recipes for non blueprint items! "
-    value: "## Recipes for non blueprint items!"
-  - _type: text
     alt: Where do the go?
     value: >-
       ## Interior reconfiguration
@@ -112,6 +109,9 @@ blocks:
       When you change interior, all components you had will be in the Tardis
       console itself, if you right-click on the console will open a GUI and will
       have all the stuff you had inside
+  - _type: text
+    alt: "Recipes for non blueprint items! "
+    value: "## Recipes for non blueprint items!"
   - _type: local-image
     src: /images/items/ind.png
   - _type: local-image
