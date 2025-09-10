@@ -114,7 +114,7 @@ blocks:
 
       An utility class that can be instantiated. Used to interpolate
       angle/rotation for the [Rift
-      Locator](/development/items/rift-locator).
+      Scanner](/mechanics/rift-chunks/#how-do-i-find-a-rift-chunk).
 
 
       ### `ClientItemUtil`
