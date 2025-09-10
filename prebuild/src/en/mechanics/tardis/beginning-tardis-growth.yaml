@@ -16,8 +16,8 @@ blocks:
       these blueprints can be found in all structures. You can see what the
       blueprint is for by holding shift while hovering your mouse over it in
       your inventory. To use the blueprint, you also need a
-      [Fabricator](/blocks/fabricator).
-      Fabricators need to be on top of a Smithing Table to work.  
+      [Fabricator](/blocks/fabricator). Fabricators need to be on top of a
+      Smithing Table to work.  
 
       Now that you have a Fabricator, right-click it with the blueprint for the
       Sonic Screwdriver. This will show all the items needed to fabricate the
@@ -44,9 +44,8 @@ blocks:
       fragments! Nine coral fragments can used to make a Coral Growth which is
       the key to growing a TARDIS, and is also used for growing a console for
       said TARDIS. You can obtain coral fragments by right-clicking a
-      [Rift](/mechanics/rift-chunks). A Rift
-      is is a crack in time that spawns in rift chunks, which can be found using
-      a [Rift
+      [Rift](/mechanics/rift-chunks). A Rift is is a crack in time that spawns
+      in rift chunks, which can be found using a [Rift
       Scanner](/mechanics/rift-chunks).  
 
       Right-clicking a rift will either give you a coral fragment, paper, or
@@ -68,11 +67,11 @@ blocks:
 
       Now that you have a Coral Growth, you can start growing it. To start the
       process, you will need to be in a rift chunk, which can be found using the
-      [Rift Scanner](/mechanics/rift-chunks)
-      you used to find the Rifts earlier. It will point in the direction of the
-      nearest Rift Chunk. Once you're in a rift chunk, you will need soul sand:
-      Growths only grow on soul sand, so place it down and then place the Coral
-      Growth on top of it. Overtime, it will start growing!
+      [Rift Scanner](/mechanics/rift-chunks) you used to find the Rifts earlier.
+      It will point in the direction of the nearest Rift Chunk. Once you're in a
+      rift chunk, you will need soul sand: Growths only grow on soul sand, so
+      place it down and then place the Coral Growth on top of it. Overtime, it
+      will start growing!
 
 
       At this point, you can now move onto [**Completing Tardis
@@ -83,13 +82,13 @@ blocks:
 
 
       *   Rift Scanner
-          
+
 
       ![](/images/mechanics/rift-chunks/scanner-recipe.png)
 
 
       *   Fabricator
-          
+
 
       ![](/images/blocks/engine_stuff_blocks/fabricator_recipe.png)
 
@@ -98,3 +97,4 @@ blocks:
 sidebar:
   open: false
   exclude: false
+next: /mechanics/tardis/completing-tardis-growth/
