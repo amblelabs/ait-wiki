@@ -1,20 +1,19 @@
 title: Custom Exterior Animations
 blocks:
+  - _type: callout
+    type: warning
+    value: You need to learn how texture pack and datapacks works!
+  - _type: text
+    alt: Content
+    value: "## Create a Datapack"
+  - _type: callout
+    type: info
+    value: Follow the tutorial on the [Minecraft Wiki on
+      datapacks](https://minecraft.wiki/w/Data_pack) on how to set one up, use
+      the namespace from earlier.
   - _type: text
     alt: Content
     value: >-
-      {{< callout type="warning" >}} You need to learn how texture pack and
-      datapacks works! {{< /callout >}}
-
-
-      ## Create a Datapack
-
-
-      {{< callout type="info" >}} Follow the tutorial on the [Minecraft Wiki on
-      datapacks](https://minecraft.wiki/w/Data_pack) on how to set one up, use
-      the namespace from earlier {{< /callout >}}
-
-
       Create a new **.json** file in the path
 
 
@@ -28,8 +27,8 @@ blocks:
       still show you how here.)
           
       *   You can use any sound from any mod as a de/mat sfx, or even add your
-      own by making a sound resourcepack, \[check out this video on how to do
-      so\]([https://youtu.be/igZQdEoxcQk?si=nlVLIUNUJxXHxu2u\]](https://youtu.be/igZQdEoxcQk?si=nlVLIUNUJxXHxu2u%5D).
+      own by making a sound resourcepack, [check out this video on how to do
+      so](https://youtu.be/igZQdEoxcQk?si=nlVLIUNUJxXHxu2u%5D).
           
 
       Create a new **.json** file in the path
