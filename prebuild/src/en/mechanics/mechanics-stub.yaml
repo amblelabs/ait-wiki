@@ -1,0 +1,8 @@
+title: Mechanics (stub)
+blocks:
+  - _type: text
+    alt: Content
+    value: Lorem ipsum dolor sit amet
+sidebar:
+  open: false
+  exclude: false
