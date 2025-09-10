@@ -17,7 +17,7 @@ blocks:
       these blueprints can be found in all structures. You can see what the
       blueprint is for by holding shift while hovering your mouse over it in
       your inventory. To use the blueprint, you also need a
-      [Fabricator](/blocks/fabricator). Fabricators need to be on top of a
+      [**Fabricator**](/blocks/fabricator). Fabricators need to be on top of a
       Smithing Table to work.  
 
       Now that you have a Fabricator, right-click it with the blueprint for the
@@ -45,15 +45,15 @@ blocks:
       fragments! Nine coral fragments can used to make a Coral Growth which is
       the key to growing a TARDIS, and is also used for growing a console for
       said TARDIS. You can obtain coral fragments by right-clicking a
-      [Rift](/mechanics/rift-chunks). A Rift is is a crack in time that spawns
-      in rift chunks, which can be found using a [Rift
-      Scanner](/mechanics/rift-chunks).  
+      [**Rift**](/mechanics/rift-chunks). A Rift is is a crack in time that
+      spawns in rift chunks, which can be found using a [**Rift
+      Scanner**](/mechanics/rift-chunks).  
 
       Right-clicking a rift will either give you a coral fragment, paper, or
       place some coral blocks around the rift. If you're holding a sonic
-      screwdriver, it will also refill your Sonic's Artron reserve. **Note that
+      screwdriver, it will also refill your Sonic's Artron reserve. Note that
       you will take some damage when you right click a rift. Avoid walking into
-      them, too - you'll be flung across time and space!** Once you have nine
+      them, too - you'll be flung across time and space! Once you have nine
       coral fragments, you can craft a Coral Growth by placing all nine of them
       in a crafting table. We recommend getting eighteen fragments while you're
       on the hunt, as you can then craft two Growths; one for the TARDIS, one
@@ -68,28 +68,27 @@ blocks:
 
       Now that you have a Coral Growth, you can start growing it. To start the
       process, you will need to be in a rift chunk, which can be found using the
-      [Rift Scanner](/mechanics/rift-chunks) you used to find the Rifts earlier.
-      It will point in the direction of the nearest Rift Chunk. Once you're in a
-      rift chunk, you will need soul sand: Growths only grow on soul sand, so
-      place it down and then place the Coral Growth on top of it. Overtime, it
-      will start growing!
+      [**Rift Scanner**](/mechanics/rift-chunks) you used to find the Rifts
+      earlier. It will point in the direction of the nearest Rift Chunk. Once
+      you're in a rift chunk, you will need soul sand: Growths only grow on soul
+      sand, so place it down and then place the Coral Growth on top of it.
+      Overtime, it will start growing!
 
 
-      At this point, you can now move onto [**Completing Tardis
-      Growth.**](/mechanics/tardis/completing_tardis_growth)
+      At this point, you can now move onto Completing Tardis Growth.
 
 
       ## Recipes
 
 
       *   Rift Scanner
-
+          
 
       ![](/images/mechanics/rift-chunks/scanner-recipe.png)
 
 
       *   Fabricator
-
+          
 
       ![](/images/blocks/engine_stuff_blocks/fabricator_recipe.png)
 
@@ -112,7 +111,7 @@ blocks:
 
 
       *   The Coral Shell
-          
+
 
       ![](/images/mechanics/tardis/coral_setup/shell.png)
 
@@ -147,7 +146,7 @@ blocks:
       random color hex code and random name. Take the Personality Matrix into
       your newly grown coral and throw it into any water source, you will then
       be asked to leave the TARDIS so it can finish building.
-          
+
 
       ### THIS WILL MEAN THE TARDIS INTERIOR WILL BE WIPED AND YOU WILL LOSE
       EVERYTHING YOU HAVE PLACED INSIDE!!!
@@ -157,7 +156,7 @@ blocks:
 
 
       *   REMINDER!
-          
+
 
       Don't forget to set up the engine and essential compenents when the TARDIS
       is complete. It is also recommended to wear a resporator when first
