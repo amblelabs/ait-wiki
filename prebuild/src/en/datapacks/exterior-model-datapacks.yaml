@@ -1,21 +1,20 @@
 title: Custom Exterior Model
 description: add custom exterior models to ait!
 blocks:
+  - _type: callout
+    type: warning
+    value: You need to learn how texture pack and datapacks works!
+  - _type: text
+    alt: Content
+    value: "## Create a Datapack"
+  - _type: callout
+    type: info
+    value: Follow the tutorial on the [Minecraft Wiki on
+      datapacks](https://minecraft.wiki/w/Data_pack) on how to set one up, use
+      the namespace from earlier.
   - _type: text
     alt: Content
     value: >-
-      {{< callout type="warning" >}} You need to learn how texture pack and
-      datapacks works! {{< /callout >}}
-
-
-      ## Create a Datapack
-
-
-      {{< callout type="info" >}} Follow the tutorial on the [Minecraft Wiki on
-      datapacks](https://minecraft.wiki/w/Data_pack) on how to set one up, use
-      the namespace from earlier {{< /callout >}}
-
-
       Create a new **.json** file in the path
 
 
@@ -25,6 +24,8 @@ blocks:
 
       > *   This will contain the "code" for the exterior, similar to the old
       AddonExteriors class system.
+
+      >     
 
       > 
 
@@ -130,7 +131,7 @@ blocks:
       height) for both the interior AND exterior door. You can also set whether
       the BOTI Portal is always visible or not by setting
       `has_transparent_doors` to `true or false`
-
+          
 
       ### Custom Animations
 
@@ -158,8 +159,7 @@ blocks:
       *   You will need to add your exterior to a category by adding your
       namespace and category name to the`"category"` section so it can be
       selected in the montior, you can use one from ait OR make your own [(SEE
-      HOW
-      HERE)](https://amblelabs.github.io/ait-wiki/datapacks/custom-categories/).
+      HOW HERE)](/datapacks/custom-categories/).
           
       *   The parent model is what the exterior will become if it somehow can't
       find your model
@@ -174,10 +174,10 @@ blocks:
       and NOT on the AIT issues page as datapack exterior models are a part of
       AmbleKit (Our mod library). Also make sure that your issue hasn't been
       reported before!
-          
-
-      {{< callout type="warning" >}} If you need any help, feel free to ping
-      `@addi3` in the Amble discord server! {{< /callout >}}
+  - _type: callout
+    type: warning
+    value: If you need any help, feel free to ping `@addi3` in the Amble discord
+      server!
 sidebar:
   open: true
   exclude: false
