@@ -16,10 +16,7 @@ blocks:
           _type: local-image
           src: /images/mechanics/tardis/new_tardis_interiors.png
       - title: Artron Energy
-        subtitle: |-
-          powering the whole of spacetime...
-
-          (image temporary)
+        subtitle: powering the whole of spacetime (image temporary)
         link: artron-energy
         image:
           _type: local-image
