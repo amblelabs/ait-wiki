@@ -1,5 +1,9 @@
 title: Chameleon (Adaptive) Exterior
 blocks:
+  - _type: callout
+    type: info
+    value: This feature was added in version 1.2.12, you cannot use it until you
+      update to 1.2.12
   - _type: text
     alt: Content
     value: >-
@@ -39,10 +43,6 @@ blocks:
 
 
       if you can't its the tree on the right.
-  - _type: callout
-    type: info
-    value: This feature was added in version 1.2.12, you cannot use it until you
-      update to 1.2.12
 sidebar:
   open: false
   exclude: false
