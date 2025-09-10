@@ -3,7 +3,7 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      ![](/images/blocks/tardis_interior_door.png)
+      ![](/images/blocks/interior_door/policebox_interior_door.png)
 
 
       The Interior Door is a vital part of the TARDIS, much like the
