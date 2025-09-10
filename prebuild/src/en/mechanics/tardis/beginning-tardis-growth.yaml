@@ -190,8 +190,8 @@ blocks:
 
 
       To make your tardis safe to breath in and flyable take a look at these
-      pages In this order : [**TARDIS Engine**](/blocks/tardis-engine/),
-      [**Console**](/blocks/console/)
+      pages In this order : [**TARDIS Engine**](/blocks/tardis-engine),
+      [**Console**](/blocks/console)
 sidebar:
   open: false
   exclude: false
