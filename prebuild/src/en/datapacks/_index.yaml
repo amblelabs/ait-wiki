@@ -3,7 +3,7 @@ blocks:
   - _type: text
     alt: Content
     value: AIT works with [Datapacks](https://minecraft.wiki/w/Data_pack)! This lets
-      you customize your TARDIS (or sonic) to unlimited possibilities!
+      you customize your TARDIS (or [**sonic**](/items/sonic-screwdriver/)) to unlimited possibilities!
   - _type: cards
     alt: Card Group
     cols: 2
@@ -29,7 +29,7 @@ blocks:
           _type: local-image
           src: /images/datapacks/custom_console.png
       - title: Custom Sonics
-        subtitle: Design your own new sonic screwdriver to look like anything! I mean,
+        subtitle: Design your own new Sonic Screwdriver to look like anything! I mean,
           anything...
         link: custom-sonics
         image:

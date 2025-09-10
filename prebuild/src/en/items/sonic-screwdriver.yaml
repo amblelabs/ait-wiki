@@ -30,9 +30,9 @@ blocks:
     value: |-
       ## Recipe
 
-      Made with the Sonic Screwdrive Blueprint!
+      Made with the Sonic Screwdriver Blueprint!
   - _type: text
-    alt: "Sonic Modes "
+    alt: "Sonic Modes"
     value: >-
       ## Sonic Modes
 
@@ -120,7 +120,7 @@ blocks:
     value: |-
       ## **To change the sonic casing**
 
-      *   Place the Sonic ScrewDriver into the port.
+      *   Place the Sonic Screwdriver into the port.
           
       *   Open the Monitor
           
@@ -189,7 +189,7 @@ blocks:
       pressed for you to fly without crashing (**Flight Events**).
 
 
-      In addition the sonics pitch increases with your head velocity.
+      In addition, the sonic's pitch increases with your head velocity.
 sidebar:
   open: false
   exclude: false

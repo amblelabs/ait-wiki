@@ -63,7 +63,7 @@ blocks:
       **Show control hitboxs**
 
 
-      This config allows the sonic when in scanning mode to show control
+      This config allows the [**sonic**](/items/sonic-screwdriver/) when in scanning mode to show control
       hitboxs.
   - _type: text
     alt: Show text on console monitors

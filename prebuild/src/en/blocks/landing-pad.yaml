@@ -11,7 +11,7 @@ blocks:
 
       This is used to mark a chunk as a landing pad chunk.  
 
-      If you use the Sonic Screwdriver in scanning mode, it will show you the
+      If you use the [**Sonic Screwdriver**](/items/sonic-screwdriver/) in scanning mode, it will show you the
       locations of each spot a TARDIS can land on, and you can move them with
       the sonic by clicking on the floor. Interacting with the Landing Pad block
       will give you a GUI to input a landing code that you can copy and put into

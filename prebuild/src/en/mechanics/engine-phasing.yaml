@@ -24,7 +24,7 @@ blocks:
           
       *   Keep circuit durability high
           
-      *   Use sonic on the exterior to cancel engine phasing
+      *   Use [**sonic**](/items/sonic-screwdriver/) on the exterior to cancel engine phasing
 sidebar:
   open: false
   exclude: false

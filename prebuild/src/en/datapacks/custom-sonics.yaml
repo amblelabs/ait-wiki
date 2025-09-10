@@ -9,10 +9,10 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      ## Sonic Texture & Model
+      ## [**Sonic**](/items/sonic-screwdriver/) Texture & Model
 
 
-      *   Make an sonic texture and model.
+      *   Make a sonic texture and model.
           
       *   Save your sonic texture and model to your Resource Pack that is called
       by your own custom datapack namespace (see below), naming it whatever you

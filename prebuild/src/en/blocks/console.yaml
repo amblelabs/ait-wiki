@@ -71,7 +71,7 @@ blocks:
 
 
       If you're having a hard time finding the controls, you can use the
-      **Scanning Mode** of a [**Sonic Screwdriver**.](/items/sonic-screwdriver/)
+      **Scanning Mode** of a [**Sonic Screwdriver**](/items/sonic-screwdriver/).
       Alternatively, you can turn on debugging mode for viewing entity
       **hitboxes** by using F3+B (pressing again will turn them off).
 
