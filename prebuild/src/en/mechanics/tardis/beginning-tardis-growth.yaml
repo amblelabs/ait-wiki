@@ -68,11 +68,10 @@ blocks:
 
       Now that you have a Coral Growth, you can start growing it. To start the
       process, you will need to be in a rift chunk, which can be found using the
-      [**Rift Scanner**](/mechanics/rift-chunks) you used to find the Rifts
-      earlier. It will point in the direction of the nearest Rift Chunk. Once
-      you're in a rift chunk, you will need soul sand: Growths only grow on soul
-      sand, so place it down and then place the Coral Growth on top of it.
-      Overtime, it will start growing!
+      Rift Scanner you used to find the Rifts earlier. It will point in the
+      direction of the nearest Rift Chunk. Once you're in a rift chunk, you will
+      need soul sand: Growths only grow on soul sand, so place it down and then
+      place the Coral Growth on top of it. Overtime, it will start growing!
 
 
       At this point, you can now move onto Completing Tardis Growth.
@@ -100,7 +99,7 @@ blocks:
       ## How do i grow a tardis?
 
 
-      You need [**Coral Growth**](/items/coral-growth/) To grow a tardis (same
+      You need [**Coral Growth**](/items/coral-growth) To grow a tardis (same
       for growing a console).
 
 
@@ -121,17 +120,17 @@ blocks:
       Cage. After that you need to create the cage panels by right clicking the
       exterior with 8 Plasmic Material.
           
-      *   The Matrix Engergizer
+      *   The Matrix Energizer
           
 
       ![](/images/mechanics/tardis/coral_setup/matrix.png)
 
 
       *   Once that is done you need to give the tardis its "personality", to do
-      this you will need to place a Matrix Engergizer on top of a naturally
+      this you will need to place a Matrix Energizer on top of a naturally
       spawned Sculk Shrieker block, Right Click the Matrix Energizer with a
       Nether Star and activate it by making the Shrieker shriek. Doing so will
-      slowy fill up a bar on the side of the Matrix Engergizer block. Remember
+      slowly fill up a bar on the side of the Matrix Energizer block. Remember
       to keep an eye on your surroundings if you are doing this in the Deep Dark
           
       *   The Personality Matrix
@@ -157,7 +156,7 @@ blocks:
       *   REMINDER!
           
 
-      Don't forget to set up the engine and essential compenents when the TARDIS
+      Don't forget to set up the engine and essential components when the TARDIS
       is complete. It is also recommended to wear a resporator when first
       entering a complete TARDIS as there is no life support and you will begin
       to die upon entering!
@@ -191,8 +190,8 @@ blocks:
 
 
       To make your tardis safe to breath in and flyable take a look at these
-      pages In this order : [**TARDIS Engine**](/items/tardis-engine),
-      [**Console**](/items/console)
+      pages In this order : [**TARDIS Engine**](/blocks/tardis-engine/),
+      [**Console**](/blocks/console/)
 sidebar:
   open: false
   exclude: false
