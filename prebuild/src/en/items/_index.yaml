@@ -19,9 +19,9 @@ blocks:
         image:
           _type: local-image
           src: /images/items/sonic/in_port.png
-      - title: Key
+      - title: Keys
         subtitle: Don't lose them!
-        link: key
+        link: keys
         image:
           _type: local-image
           src: /images/items/keys/key/keys.png

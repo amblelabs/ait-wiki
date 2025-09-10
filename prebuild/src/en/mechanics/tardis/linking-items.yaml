@@ -16,7 +16,7 @@ blocks:
       Linkable items include:
 
 
-      *   Key
+      *   Keys
           
       *   Sonic Screwdriver
           
@@ -36,7 +36,7 @@ blocks:
 
 
       Certainly! The command to link different linkable items (like the
-      sonic/key/stattenheim remote) is:
+      sonic/keys/stattenheim remote) is:
 
 
       > /ait link <id or ~ or ^>
