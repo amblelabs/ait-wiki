@@ -172,10 +172,8 @@ blocks:
       ## My controls are smoking and dont work
 
 
-      Look at [control
-      durability](/mechanics/tardis/control_durability/)
-      This will tell you how to fix the damaged controls and what each stage
-      does!
+      Look at [control durability](/mechanics/tardis/control-durability/) This
+      will tell you how to fix the damaged controls and what each stage does!
 sidebar:
   open: false
   exclude: false
