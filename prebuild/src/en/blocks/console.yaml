@@ -61,8 +61,7 @@ blocks:
       type.
           
       3.  Confirm the console by using a [**Sonic
-      Screwdriver**](/items/sonic-screwdriver/)
-      or blaze powder on it.
+      Screwdriver**](/items/sonic-screwdriver/) or blaze powder on it.
           
 
       ![Image of the Default Console](/images/blocks/hologram.png)
@@ -72,8 +71,7 @@ blocks:
 
 
       If you're having a hard time finding the controls, you can use the
-      **Scanning Mode** of a [**Sonic
-      Screwdriver**.](/items/sonic-screwdriver/)
+      **Scanning Mode** of a [**Sonic Screwdriver**.](/items/sonic-screwdriver/)
       Alternatively, you can turn on debugging mode for viewing entity
       **hitboxes** by using F3+B (pressing again will turn them off).
 
@@ -115,8 +113,7 @@ blocks:
 
       The **Antigravs Control** will make the TARDIS' exterior hover in place by
       preventing it from falling, but uses [**Artron
-      Energy**](/mechanics/artron-energy/)
-      while active.
+      Energy**](/mechanics/artron-energy/) while active.
 
 
       The **Waypoint Controls** are explained in this webpage.
@@ -146,10 +143,8 @@ blocks:
 
 
       The **Refuel Control** requires the Handbrake to be engaged. It will then
-      slowly refuel [**Artron
-      Energy**](/mechanics/artron-energy/)
-      over time. Being inside a [**Rift
-      Chunk**](/mechanics/rift-chunks/) will
+      slowly refuel [**Artron Energy**](/mechanics/artron-energy/) over time.
+      Being inside a [**Rift Chunk**](/mechanics/rift-chunks/) will
       significantly increase refuelling speed.
 
 
@@ -181,8 +176,7 @@ blocks:
       3.  Using the brick item, observer block or quartz block on it will change
       how the Siege exterior will look. Using stone block will restore the
       default look.
-          
-
-      {{< callout type="info" >}} Controls can be hit by mobs, explosions and
-      projectiles. The console also emits a redstone signal if powered is on.
-      {{< /callout >}}
+  - _type: callout
+    type: info
+    value: Controls can be hit by mobs, explosions and projectiles. The console also
+      emits a redstone signal if powered is on.
