@@ -1,22 +1,22 @@
 title: Rift Chunks
 blocks:
+  - _type: callout
+    type: warning
+    value: This article will be split into sub-articles for each given block or item.
   - _type: text
     alt: Content
     value: >-
-      {{< callout type="warning" >}} This article will be split into
-      sub-articles for each given block or item. {{< /callout >}}
-
-
       ## What is a Rift Chunk?
 
 
       A rift chunk is a tear in space-time that can be found in any dimension.
       It's used to grow the [**Coral Growth**](/items/coral-growth) (tardis
-      coral) or siphoned for [**Artron Energy**](../artron) that the TARDIS uses
-      for fuel. You can fly the TARDIS into a rift chunk to syphon fuel more
-      efficiently (faster) or as an alternative, you can use an [**Artron
-      Collector**](../artron#artron-collector-block) to collect [**Artron
-      Energy**](../artron) while outside the TARDIS.
+      coral) or siphoned for [**Artron Energy**](/mechanics/artron-energy/) that
+      the TARDIS uses for fuel. You can fly the TARDIS into a rift chunk to
+      syphon fuel more efficiently (faster) or as an alternative, you can use an
+      [**Artron Collector**](/mechanics/artron-energy/#artron-collector-block)
+      to collect [**Artron Energy**](/mechanics/artron-energy/) while outside
+      the TARDIS.
 
 
       ## How do I find a Rift Chunk?
