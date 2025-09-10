@@ -1,19 +1,18 @@
 title: Security Protocols
 blocks:
+  - _type: callout
+    type: warning
+    value: This article will be split into sub-articles for each given block or item.
   - _type: text
     alt: Content
     value: >-
-      {{< callout type="warning" >}} This article will be split into
-      sub-articles for each given block or item. {{< /callout >}}
-
-
       # TARDIS Security Features
 
 
       Feel like locking the door isn't enough? No worries as if you go into your
-      [**Console**](../../blocks/console) then hit **Settings** above the
-      **Sonic Settings** you should see the **Security** button. Right-clicking
-      the button takes you to this menu...
+      [**Console**](/blocks/console/) then hit **Settings** above the **Sonic
+      Settings** you should see the **Security** button. Right-clicking the
+      button takes you to this menu...
 
 
       ![](/images/mechanics/tardis/security-menu-updated.png)
