@@ -98,4 +98,4 @@ blocks:
 sidebar:
   open: false
   exclude: false
-weight: 1
+weight: 0
