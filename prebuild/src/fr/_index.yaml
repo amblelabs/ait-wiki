@@ -5,7 +5,7 @@ blocks:
   - _type: callout
     type: info
     value: Si vous trouvez des bugs / votre jeu plante, veuillez créer une [Issue
-      GitHub](https://github.com/Loqor/ait/issues/new) ou demander de l'aide
+      GitHub](https://github.com/amblelabs/ait/issues/new/choose) ou demander de l'aide
       dans le channel de support sur le Discord [d'Amble
       Labs](https://discord.gg/D5Et6Ux7BS).
   - _type: text

@@ -5,7 +5,7 @@ blocks:
   - _type: callout
     type: info
     value: If you find any bugs / crashes, please create a [GitHub
-      Issue](https://github.com/Loqor/ait/issues/new) or ask for help in the
+      Issue](https://github.com/amblelabs/ait/issues/new/choose) or ask for help in the
       support channel in the [Amble Labs](https://discord.gg/D5Et6Ux7BS)
       Discord.
   - _type: text

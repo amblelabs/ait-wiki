@@ -1,4 +1,4 @@
-module github.com/Loqor/ait
+module github.com/amblelabs/ait
 
 go 1.21
 

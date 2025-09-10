@@ -5,7 +5,7 @@ blocks:
   - _type: callout
     type: info
     value: Si te encuentras con algún bug / crasheo, crea una [Nota en
-      GitHub](https://github.com/Loqor/ait/issues/new) o pide ayuda en el canal
+      GitHub](https://github.com/amblelabs/ait/issues/new/choose) o pide ayuda en el canal
       de soporte del Discord de [Amble Labs](https://discord.gg/D5Et6Ux7BS).
       Gracias.
   - _type: text
