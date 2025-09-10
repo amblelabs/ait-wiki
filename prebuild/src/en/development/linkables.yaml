@@ -3,9 +3,6 @@ blocks:
   - _type: text
     alt: link
     value: >-
-      # Linkables
-
-
       Linkables are elements of the game which have the ability to be linked to
       a TARDIS.
 
