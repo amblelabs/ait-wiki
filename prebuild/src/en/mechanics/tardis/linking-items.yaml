@@ -1,12 +1,11 @@
 title: Linking Items
 blocks:
+  - _type: callout
+    type: warning
+    value: This article will be split into sub-articles for each given block or item.
   - _type: text
     alt: Content
     value: >-
-      {{< callout type="warning" >}} This article will be split into
-      sub-articles for each given block or item. {{< /callout >}}
-
-
       ## How to link items
 
 
