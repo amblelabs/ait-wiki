@@ -86,8 +86,7 @@ blocks:
 
       It’s very important to register the component on time. Otherwise, the
       component registry will freeze and won’t add your component. Read [addon
-      entrypoint](/development/entrypoint/)
-      for details
+      entrypoint](/development/addon-entrypoint/) for details
 
 
       IDs are used for both networking and querying. To get a component from a
@@ -135,10 +134,9 @@ blocks:
       # Synching
 
 
-      It’s recommended to use [V2
-      properties](/development/properties)
-      for this, but in case your data structure is too complex to be implemented
-      using the properties API, you can use this method.
+      It’s recommended to use [V2 properties](/development/properties) for this,
+      but in case your data structure is too complex to be implemented using the
+      properties API, you can use this method.
 
 
       You can call `TardisComponent#sync` to force sync the full component data
