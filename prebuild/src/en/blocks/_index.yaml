@@ -21,7 +21,7 @@ blocks:
       - title: Engine
         subtitle: The engine is what gives the TARDIS life. Connect different components
           to the engine in order to power it.
-        link: tardis-engine/
+        link: engine/
         image:
           _type: local-image
           src: /images/blocks/engine_stuff_blocks/engine.png

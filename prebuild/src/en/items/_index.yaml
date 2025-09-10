@@ -19,9 +19,9 @@ blocks:
         image:
           _type: local-image
           src: /images/items/sonic/in_port.png
-      - title: Tardis Key
+      - title: Key
         subtitle: Don't lose them!
-        link: tardis-key
+        link: key
         image:
           _type: local-image
           src: /images/items/keys/key/keys.png

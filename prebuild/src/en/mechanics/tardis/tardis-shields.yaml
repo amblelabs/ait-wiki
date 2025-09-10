@@ -1,4 +1,4 @@
-title: TARDIS Shields
+title: Shields
 blocks:
   - _type: text
     alt: Content
@@ -20,7 +20,7 @@ blocks:
 
       2.  Visible
           
-          ![](/images/mechanics/tardis/shields/shield.png)
+          ![](/images/mechanics/tardis/shields/shields.png)
 
           
 

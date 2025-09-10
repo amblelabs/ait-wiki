@@ -46,7 +46,7 @@ blocks:
     value: |-
       #### Q: I changed my interior and now I can't turn the power on!
 
-      A: You need to set up the [engine](/blocks/tardis-engine) again.
+      A: You need to set up the [engine](/blocks/engine) again.
   - _type: text
     alt: Windows don't glow! (without Iris)
     value: >-
