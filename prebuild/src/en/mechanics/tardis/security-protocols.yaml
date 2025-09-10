@@ -25,7 +25,7 @@ blocks:
       ## Leave Behind
 
 
-      When activating this feature any other guest that doesn't have a **Key**
+      When activating this feature any other guest that doesn't have a **[Key](/items/keys/)**
       (that is linked to your TARDIS) will be left behind when taking off.
       This feature is inspired by the Doctor Who episode "Blink"
 

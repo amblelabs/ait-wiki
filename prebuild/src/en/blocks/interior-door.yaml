@@ -35,7 +35,7 @@ blocks:
       (regardless of its current state).
 
 
-      Using a **linked Key** (of any type) on the **Interior Door** will close
+      Using a linked **[key](/items/keys/)** (of any type) on the **Interior Door** will close
       and lock it. Using the key on it again will unlock (but not open) it.
 
 

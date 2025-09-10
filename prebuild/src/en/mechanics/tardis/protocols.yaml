@@ -60,7 +60,7 @@ blocks:
       Cloak Mode is a function on your TARDIS console designed to keep the
       TARDIS hidden when the chameleon circuit is faulty. Cloak Mode will render
       your TARDIS exterior invisible to the naked eye, and will reveal itself
-      only when a pilot is holding a key linked to the console. When a
+      only when a pilot is holding a **[key](/items/keys/)** linked to the console. When a
       pilot, holding a key, is within 5 meters of the exterior, the TARDIS will
       start to reveal itself. The closer the pilot approaches the exterior the
       more the TARDIS will reveal itself.

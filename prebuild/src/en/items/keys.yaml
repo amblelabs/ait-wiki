@@ -34,29 +34,29 @@ blocks:
       To bind a key to your Tardis you need to right-click it with the
       telepathic circuits.
   - _type: text
-    alt: "Iron key "
+    alt: "Iron Key "
     value: |-
       ## How do I get the keys?
 
-      # Iron key
+      # Iron Key
 
       ![](/images/items/keys/recipe/iron%20key.png)
   - _type: text
-    alt: "Gold key "
+    alt: "Gold Key "
     value: |-
-      # Gold key
+      # Gold Key
 
       ![](/images/items/keys/recipe/gold%20key.png)
   - _type: text
-    alt: "Netherite key "
+    alt: "Netherite Key "
     value: |-
-      # Netherite key
+      # Netherite Key
 
       ![](/images/items/keys/recipe/netherite%20key.png)
   - _type: text
-    alt: "Classic key "
+    alt: "Classic Key "
     value: |-
-      # Classic key
+      # Classic Key
 
       ![](/images/items/keys/recipe/classic%20key.png)
   - _type: text
