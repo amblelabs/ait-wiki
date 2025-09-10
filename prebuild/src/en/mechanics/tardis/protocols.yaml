@@ -14,13 +14,13 @@ blocks:
 
 
       To locate where these controls are on the console, use the [**Sonic
-      Screwdriver**](/items/sonic-screwdriver/)
-      while in scanning mode.
+      Screwdriver**](/items/sonic-screwdriver/) while in scanning mode.
 
 
       Hope this helps!
-
-
+  - _type: text
+    alt: Siege Mode
+    value: >-
       # Protocol 1913 (AKA **Siege Mode**)
 
 
@@ -35,8 +35,7 @@ blocks:
       fail.
 
 
-      Siege Mode does not drain any [Artron
-      energy](/mechanics/artron-energy/)
+      Siege Mode does not drain any [Artron energy](/mechanics/artron-energy/)
       while activated, this is because all systems are powered down. Including
       **life support**. While in Siege Mode, the TARDIS will become extremely
       cold, and you will begin to **freeze to death**, to combat this, leather
@@ -52,8 +51,9 @@ blocks:
 
       **PLEASE NOTE THAT SIEGE MODE REQUIRES THE PLAYER TO HAVE INSTALLED THE
       DESPERATION CIRCUIT IN THE TARDIS ENGINE**
-
-
+  - _type: text
+    alt: Cloak Mode
+    value: >-
       # Protocol 3 (AKA **Cloak Mode**)
 
 
@@ -66,12 +66,12 @@ blocks:
       more the TARDIS will reveal itself.
 
 
-      Cloak Mode requires [Artron
-      energy](/mechanics/artron-energy/) to
-      operate, make sure you have a hefty supply before you activate this
-      emergency protocol!
-
-
+      Cloak Mode requires [Artron energy](/mechanics/artron-energy/) to operate,
+      make sure you have a hefty supply before you activate this emergency
+      protocol!
+  - _type: text
+    alt: Stabilisers
+    value: >-
       # Protocol 116 (AKA **Stabilisers**)
 
 
@@ -80,10 +80,11 @@ blocks:
       allows for automated navigation throughout the time vortex, but is
       programmed to take the safest route possible which is not always the
       shortest. This protocol takes extra [Artron
-      energy](/mechanics/artron-energy/) to
-      operate so make sure you have enough fuel in your TARDIS before flight.
-
-
+      energy](/mechanics/artron-energy/) to operate so make sure you have enough
+      fuel in your TARDIS before flight.
+  - _type: text
+    alt: Hail Mary
+    value: >-
       # Protocol 813 (AKA **Hail Mary**)
 
 
@@ -93,12 +94,12 @@ blocks:
       position to rescue them from certain death.
 
 
-      Hail Mary Mode also requires [Artron
-      energy](/mechanics/artron-energy/) to
+      Hail Mary Mode also requires [Artron energy](/mechanics/artron-energy/) to
       operate, so make sure that the TARDIS has a healthy supply of fuel before
       activating this protocol.
-
-
+  - _type: text
+    alt: Isomorphic Security
+    value: >-
       # Protocol 19 (AKA **Isomorphic Security**)
 
 
@@ -108,8 +109,9 @@ blocks:
       linked key cannot interact with the console at all, though via the
       security menu you're able to change what loyalty rank is required for
       players to interact with the console while P19 is active.
-
-
+  - _type: text
+    alt: Self-Destruct
+    value: >-
       # Protocol 000 (AKA **Self-Destruct**)
 
 
@@ -122,24 +124,25 @@ blocks:
 
 
       **PLEASE NOTE THAT THIS REQUIRES THE PLAYER TO HAVE PILOT LOYALTY**
-
-
-      {{< callout type="warning" >}} Once self destruct is enabled it cannot be
-      stopped, so you better only let trustworthy people get inside your TARDIS,
-      incase it is activated grab whatever you can from your interior. Once your
-      TARDIS is destroyed it is not possible to retrieve destroyed items from
-      it. {{< /callout >}}
-
-
-      # Protocol 515 (AKA **Emergency Land / Artron Dump**)
+  - _type: callout
+    type: warning
+    value: Once self destruct is enabled it cannot be stopped, so you better only
+      let trustworthy people get inside your TARDIS, incase it is activated grab
+      whatever you can from your interior. Once your TARDIS is destroyed it is
+      not possible to retrieve destroyed items from it.
+  - _type: text
+    alt: Engine Overload
+    value: >-
+      # Protocol 515 (AKA **Engine Overload / Artron Dump**)
 
 
       This protocol can be used for emergency escapes. How? It dumps all your
       artron and immediately travels to your destination, but (as a side effect)
       it does 1000 damage to each Circuit (aside from the Gravitational
       circuit).
-
-
+  - _type: text
+    alt: Electric Discharge
+    value: >-
       # Protocol 54 (AKA **Electric Discharge**)
 
 
