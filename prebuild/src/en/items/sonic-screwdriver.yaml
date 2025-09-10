@@ -24,8 +24,7 @@ blocks:
       To **charge** a Sonic Screwdriver insert it into a [**TARDIS
       Console**](/blocks/console). Like you would for linking it then the Sonic
       Screwdriver should start charging (keep in mind the Sonic Screwdriver uses
-      the [**Artron
-      Energy**](/mechanics/artron-energy//mechanics/artron-energy/) to charge).
+      the [**Artron Energy**](/mechanics/artron-energy/) to charge).
   - _type: text
     alt: Recipe
     value: |-
@@ -81,9 +80,9 @@ blocks:
           
           **Scanning** mode allows the Sonic Screwdriver to;
           
-          *   Tell you what console controls are by hovering over the Control Entities and will show you the controls hitboxes. (off by default. check the [**config**](https://amblelabs.github.io/ait-wiki/mechanics/config-options/))
+          *   Tell you what console controls are by hovering over the Control Entities and will show you the controls hitboxes. (off by default. check the [**config**](/mechanics/config-options/))
               
-          *   Confirm if you are located inside a [**Rift Chunk**](/mechanics/rift-chunks) and how much [**Artron Energy**](/mechanics/artron) is stored in that chunk.
+          *   Confirm if you are located inside a [**Rift Chunk**](/mechanics/rift-chunks) and how much [**Artron Energy**](/mechanics/artron-energy/) is stored in that chunk.
               
           *   In addition, hovering over a generalized subsystem core will tell you the durability of the subsystem that it holds if the circuit has durability,
               
@@ -128,7 +127,7 @@ blocks:
       *   Select the "Sonic Settings" Option
           
       *   Use the buttons to change and select your casing  
-          (more can be added with [datapacks](/datapacks/sonics))
+          (more can be added with [datapacks](/datapacks/custom-sonics/))
   - _type: local-image
     src: /images/items/sonic/soniccasing.png
   - _type: text
