@@ -18,7 +18,7 @@ blocks:
 
 
       Once in a while if you don't see your TARDIS in the [TARDIS
-      Monitor](../../blocks/monitor) when you are selecting a **Exterior /
+      Monitor](/blocks/monitor-blocks/) when you are selecting a **Exterior /
       Console Skin** or a **Interior** then it could be that the datapack is not
       enabled in your world. to fix this:
 
@@ -26,8 +26,8 @@ blocks:
       1.  In chat run the command `/datapack list available`
           
 
-      If you have this problem you may get this responce: ![/datapack list
-      available responce](images/bugfixing/listcommandresponse.png)
+      If you have this problem you may get this response:
+      ![](/images/datapacks/bugfixing/listcommandresponse.png)
 
 
       If you see your datapack this might be your problem and continue otherwise
@@ -63,7 +63,7 @@ blocks:
       like this.
 
 
-      ![boo](images/bugfixing/yourworstnightmare.png)
+      ![](/images/datapacks/bugfixing/yourworstnightmare.png)
 
 
       Make sure to check the games log (usualy located at `.minecraft/logs` or
