@@ -100,8 +100,8 @@ blocks:
       ## How do i grow a tardis?
 
 
-      You need [Coral Growth](/items/coral-growth//items/coral-growth/) To grow
-      a tardis (same for growing a console).
+      You need [**Coral Growth**](/items/coral-growth/) To grow a tardis (same
+      for growing a console).
 
 
       ## How do I complete growing the tardis?
@@ -111,7 +111,7 @@ blocks:
 
 
       *   The Coral Shell
-
+          
 
       ![](/images/mechanics/tardis/coral_setup/shell.png)
 
@@ -131,9 +131,8 @@ blocks:
       this you will need to place a Matrix Engergizer on top of a naturally
       spawned Sculk Shrieker block, Right Click the Matrix Energizer with a
       Nether Star and activate it by making the Shrieker shriek. Doing so will
-      slowy fill up a bar on the side of the Matrix Engergizer block.
-      **_Remember to keep an eye on your surroundings if you are doing this in
-      the Deep Dark_**
+      slowy fill up a bar on the side of the Matrix Engergizer block. Remember
+      to keep an eye on your surroundings if you are doing this in the Deep Dark
           
       *   The Personality Matrix
           
@@ -146,7 +145,7 @@ blocks:
       random color hex code and random name. Take the Personality Matrix into
       your newly grown coral and throw it into any water source, you will then
       be asked to leave the TARDIS so it can finish building.
-
+          
 
       ### THIS WILL MEAN THE TARDIS INTERIOR WILL BE WIPED AND YOU WILL LOSE
       EVERYTHING YOU HAVE PLACED INSIDE!!!
@@ -156,7 +155,7 @@ blocks:
 
 
       *   REMINDER!
-
+          
 
       Don't forget to set up the engine and essential compenents when the TARDIS
       is complete. It is also recommended to wear a resporator when first
@@ -189,6 +188,11 @@ blocks:
 
 
       ![](/images/mechanics/tardis/coral_setup/matrix_recipe.png)
+
+
+      To make your tardis safe to breath in and flyable take a look at these
+      pages In this order : [**TARDIS Engine**](/items/tardis-engine),
+      [**Console**](/items/console)
 sidebar:
   open: false
   exclude: false
