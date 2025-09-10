@@ -4,10 +4,10 @@ blocks:
     alt: Content
     value: >-
       If you're looking into contributing to AIT or making an addon, the
-      following guides are for you.
+      following guides are for you.<br>
 
 
-      Make sure to read [the guidelines](/development/guidelines/)!
+      Make sure to read [the guidelines](/development/guidelines/)!<br>
 
 
       If you need support ask in the [Amble Labs Addon Dev
