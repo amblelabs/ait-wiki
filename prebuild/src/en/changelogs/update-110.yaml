@@ -18,10 +18,9 @@ blocks:
       ### Blocks
 
 
-      *   [Redstone
-      Controls](/blocks/redstone_controls/)
+      *   [Redstone Control Block](/blocks/redstone-control-block/)
           
-      *   Landing Pad
+      *   [Landing Pad](/blocks/landing-pad/)
           
 
       ### Items
@@ -41,8 +40,7 @@ blocks:
       ### Exteriors
 
 
-      *   [Adaptive
-      Exterior](/mechanics/tardis/chameleon/)
+      *   [Adaptive Exterior](/mechanics/tardis/chameleon-adaptive-exterior/)
       (bit broken)
           
       *   Frooploof Exteriors
@@ -63,8 +61,7 @@ blocks:
       *   [Notification on Interior
       Change](https://github.com/pavatus/ait/issues/285)
           
-      *   [Lockable
-      Dimensions](/mechanics/unlock_dims/)
+      *   [Unlockable Dimensions](/mechanics/unlockable-dimensions/)
           
       *   Gave the player the option to recive Distress Cubes
           
@@ -88,8 +85,7 @@ blocks:
       ### Sonic
 
 
-      *   [Landing
-      Markers](/blocks/landing_pad/)
+      *   [Landing Markers](/blocks/landing-pad/)
           
       *   Sonics can smelt ores to their ingot forms (Iron and Gold only)
           
