@@ -1,12 +1,11 @@
 title: Bug Fixing Your Datapack
 blocks:
+  - _type: callout
+    type: warning
+    value: You need to learn how texture pack and datapacks works!
   - _type: text
     alt: Content
     value: >-
-      {{< callout type="warning" >}} You need to learn how texture pack and
-      datapacks works! {{< /callout >}}
-
-
       When making your own AIT Datapack you may go though some minor problems on
       the way
 
