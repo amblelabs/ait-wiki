@@ -15,7 +15,7 @@ blocks:
       special episode "[The Day of the
       Doctor](https://en.wikipedia.org/wiki/The_Day_of_the_Doctor)".
   - _type: local-image
-    src: /images/blocks/falls_recipe_upd.png
+    src: /images/blocks/falls_recipe.png
     alt: Crafting Recipe
 sidebar:
   open: false
