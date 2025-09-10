@@ -6,7 +6,8 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      ![Image of the Environment Projector](/images/blocks/environment_projector.png)
+      ![Image of the Environment
+      Projector](/images/blocks/environment_projector.png)
 
 
       The Environment Projector is a fun way to change the TARDIS' interior
@@ -37,7 +38,6 @@ blocks:
       will let you cycle through the available skyboxes. This block can only
       work in the TARDIS and will only control the skybox for that specific
       **TARDIS interior**.
-
-
-      {{< callout type="info" >}} This block can be activated and deactivated
-      with a redstone signal. {{< /callout >}}
+  - _type: callout
+    type: info
+    value: This block can be activated and deactivated with a redstone signal.
