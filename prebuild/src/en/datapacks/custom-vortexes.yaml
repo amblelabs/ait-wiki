@@ -1,20 +1,19 @@
 title: Custom Vortexes
 blocks:
+  - _type: callout
+    type: warning
+    value: You need to learn how texture pack and datapacks works!
   - _type: text
-    alt: Datapack
-    value: >-
-      {{< callout type="warning" >}} You need to learn how texture pack and
-      datapacks works! {{< /callout >}}
-
-
-      ## Create a Datapack
-
-
-      {{< callout type="info" >}} Follow the tutorial on the [Minecraft Wiki on
+    alt: Datapack (Header)
+    value: "## Create a Datapack"
+  - _type: callout
+    type: info
+    value: Follow the tutorial on the [Minecraft Wiki on
       datapacks](https://minecraft.wiki/w/Data_pack) on how to set one up, use
-      the namespace from earlier {{< /callout >}}
-
-
+      the namespace from earlier.
+  - _type: text
+    alt: Datapack (Content)
+    value: >-
       Create a new **.json** file in the path
 
 
@@ -42,20 +41,18 @@ blocks:
           
       *   Now put this **Datapack** into Minecraft.
   - _type: text
-    alt: Resource Pack
+    alt: Resource Pack (Header)
+    value: "## Create A Resource Pack"
+  - _type: callout
+    type: info
+    value: "[Follow this
+      guide](https://minecraft.wiki/w/Tutorials/Creating_a_resource_pack)"
+  - _type: callout
+    type: warning
+    value: It is recommended that your texture is 128x128 pixels.
+  - _type: text
+    alt: Resource Pack (Content)
     value: >-
-      ## Create A Resource Pack
-
-
-      {{< callout type="info" >}} [Follow this
-      guide](https://minecraft.wiki/w/Tutorials/Creating_a_resource_pack) {{<
-      /callout >}}
-
-
-      {{< callout type="warning" >}} It is recommended that your texture is
-      128x128 pixels. {{< /callout >}}
-
-
       Place your **.png** vortex texture in this path
 
 
