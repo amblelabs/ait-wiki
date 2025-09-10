@@ -4,9 +4,6 @@ blocks:
   - _type: text
     alt: Folder Layout
     value: >-
-      # Folder Layout
-
-
       This page should be a guideline to AIT’s package structure.
 
 
