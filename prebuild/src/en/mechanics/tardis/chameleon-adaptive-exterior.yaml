@@ -2,8 +2,8 @@ title: Chameleon (Adaptive) Exterior
 blocks:
   - _type: callout
     type: info
-    value: This feature was added in version 1.2.12, you cannot use it until you
-      update to 1.2.12
+    value: This feature was added in version 1.2.12 it will not be available for
+      older versions.
   - _type: text
     alt: Content
     value: >-
