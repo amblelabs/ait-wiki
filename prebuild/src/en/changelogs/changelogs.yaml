@@ -7,14 +7,14 @@ blocks:
       - title: Update 1.1.0
         subtitle: "This Update Contains: Major bug fixes, Improved models & textures and
           the all new Redstone Control!"
-        link: ../update-110/
+        link: /update-110/
         image:
           _type: local-image
           src: /images/changelogs/ait-1.1.0.png
       - title: Update 1.2.0
         subtitle: "This Update Contains: Engines to Planets with a non-functional BOTI
           system!"
-        link: ../update-120-expanded-update/
+        link: /ait-wiki/changelogs/update-120-expanded-update/
         image:
           _type: local-image
           src: /images/changelogs/ait-1.2.0.png
