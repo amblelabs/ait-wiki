@@ -35,14 +35,11 @@ blocks:
       ## Any useful commands?
 
 
-      Certainly! the command to link different linkable items (like the
-      sonic/keys/Stattenheim remote) its:
+      Certainly! The command to link different linkable items (like the
+      sonic/key/stattenheim remote) is:
 
 
-      > /ait link
-
-
-      ...And that should link your currently held item.
+      > /ait link <id or ~ or ^>
 sidebar:
   open: false
   exclude: false
