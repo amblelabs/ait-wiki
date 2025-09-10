@@ -3,9 +3,6 @@ blocks:
   - _type: text
     alt: properties
     value: >-
-      # Properties
-
-
       Properties exist as a way to sync data from server to client without
       having to send the entire TARDIS/its component to the client.
 
@@ -96,15 +93,14 @@ blocks:
 
       `RangedIntProperty` allows you to automatically clamp the value between a
       start and end integers.
+  - _type: callout
+    type: info
+    value: >-
+      Only do this if the desired behaviour _breaks_ with values out of the
+      range. Otherwise, make a public setter for the value, that clamps it.
 
 
-      {{< callout type="info" >}} Only do this if the desired behaviour _breaks_
-      with values out of the range. Otherwise, make a public setter for the
-      value, that clamps it.
-
-
-      The clamp range will affect values set by packets and commands too. {{<
-      /callout >}}
+      The clamp range will affect values set by packets and commands too.
 sidebar:
   open: false
   exclude: false
