@@ -13,7 +13,7 @@ blocks:
 
 
       Please, if you find any bugs / crashes, create a [GitHub
-      Issue](https://github.com/amblelabs/ait/issues/new/choose) or ask for help in the
+      Issue](https://github.com/amblelabs/ait/issues/new?template=1-bug-report.yaml) or ask for help in the
       support channel in the [Amble Labs](https://discord.gg/D5Et6Ux7BS)
       Discord. Thank you.
   - _type: text
