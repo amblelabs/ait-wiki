@@ -98,3 +98,4 @@ sidebar:
   open: false
   exclude: false
 next: /mechanics/tardis/completing-tardis-growth/
+weight: -1
