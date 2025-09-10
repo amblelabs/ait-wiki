@@ -1,12 +1,11 @@
 title: Custom Exteriors
 blocks:
+  - _type: callout
+    type: warning
+    value: You need to learn how texture pack and datapacks works!
   - _type: text
     alt: Content
     value: >-
-      {{< callout type="warning" >}} You need to learn how texture pack and
-      datapacks works! {{< /callout >}}
-
-
       ## Exterior Texture
 
 
@@ -41,7 +40,7 @@ blocks:
 
 
       *   Inside this new .json file, paste
-
+          
 
       > ```json
 
@@ -84,20 +83,20 @@ blocks:
 
 
       *   Place your **.png** exterior texture in this path
-
+          
 
       `assets/(namespace)/textures/blockentites/exteriors/(exterior_texture_name).png`
 
 
       *   Place your .**png** exterior texture emission in the same path
-
+          
 
       `assets/(namespace)/textures/blockentites/exteriors/(exterior_texture_name)_emission.png`
 
 
       *   If you want people to be able to see your exterior texture variant,
       they will need this **resource pack**.
-
+          
 
       ## Example Reference That's Easy to Follow :)
 
@@ -251,7 +250,7 @@ blocks:
 
       1.  In the same directory as the other .**json** files for your exterior,
       make a new one called (id).json and do the syntax as follows:
-
+          
 
       ```json
 
@@ -315,20 +314,20 @@ blocks:
 
 
       *   Place your **.png** exterior texture in this path
-          
+
 
       `assets/(namespace)/exterior/(exterior_texture_name).png`
 
 
       *   Place your .**png** exterior texture emission in the same path
-          
+
 
       `assets/(namespace)/exterior/(exterior_texture_name)_emission.png`
 
 
       *   If you want people to be able to see your exterior texture variant,
       they will need this **resource pack**.
-          
+
 
       ## Example Reference That’s Easy to Follow :)
 
@@ -409,8 +408,6 @@ blocks:
 
       > *   Police Box (I am only listing the ones that have different models):
 
-      >     
-
       > 
 
       > > `default` `coral`
@@ -418,8 +415,6 @@ blocks:
       > 
 
       > *   Classic Police Box:
-
-      >     
 
       > 
 
@@ -429,8 +424,6 @@ blocks:
 
       > *   K2 Phone Booth:
 
-      >     
-
       > 
 
       > > `default`
@@ -438,8 +431,6 @@ blocks:
       > 
 
       > *   TT Capsule:
-
-      >     
 
       > 
 
@@ -449,8 +440,6 @@ blocks:
 
       > *   Moyai:
 
-      >     
-
       > 
 
       > > `default`
@@ -458,8 +447,6 @@ blocks:
       > 
 
       > *   Plinth:
-
-      >     
 
       > 
 
@@ -469,8 +456,6 @@ blocks:
 
       > *   TARDIM:
 
-      >     
-
       > 
 
       > > `default`
@@ -478,8 +463,6 @@ blocks:
       > 
 
       > *   Siege Mode:
-
-      >     
 
       > 
 
