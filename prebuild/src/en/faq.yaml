@@ -10,7 +10,7 @@ blocks:
 
 
       *   [AIT Extras](https://discord.gg/kndce97FyU)
-          
+
 
       You can find the other addons in the addons channel on teh AmbleLabs
       discord server (make sure to get the AIT role first in `Channels &
@@ -46,7 +46,7 @@ blocks:
     value: |-
       #### Q: I changed my interior and now I can't turn the power on!
 
-      A: You need to set up the [engine](../blocks/engine) again.
+      A: You need to set up the [engine](/blocks/tardis-engine) again.
   - _type: text
     alt: Windows don't glow! (without Iris)
     value: >-
