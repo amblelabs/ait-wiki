@@ -10,14 +10,20 @@ blocks:
 
 
       On the console, find the **telepathic circuit** and right click it with
-      the linkable item. Linkable items include:
+      the linkable item.<br>
 
 
-      TARDIS Key(../../items/sonic)
+      Linkable items include:
 
 
-      Stattenhiem Remote
-
+      *   TARDIS Key
+          
+      *   Sonic Screwdriver
+          
+      *   Stattenhiem Remote
+          
+      *   Handles
+          
 
       ## How come my sonic isn't linking?
 
@@ -36,7 +42,7 @@ blocks:
       > /ait link
 
 
-      ...And that should link your currently held item.
+      <br>...And that should link your currently held item.
 sidebar:
   open: false
   exclude: false
