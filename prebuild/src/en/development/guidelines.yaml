@@ -3,12 +3,8 @@ blocks:
   - _type: text
     alt: Guidelines
     value: >-
-      # Guidelines
-
-
       If you want to contribute to AIT it’s recommended to read the [package
-      structure](/development/layout) as
-      well.
+      structure](/development/folder-layout/) as well.
 
 
       # Components
@@ -144,7 +140,7 @@ blocks:
 
 
       *   make a getter in the `Tardis` class like this:
-          
+
 
       ```java
 
@@ -159,7 +155,7 @@ blocks:
 
 
       *   or alternatively make a static method in your handler class like this:
-          
+
 
       ```java
 
