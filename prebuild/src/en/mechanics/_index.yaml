@@ -1,8 +1,41 @@
-title: Mechanics (stub)
+title: "Mechanics "
 blocks:
   - _type: text
-    alt: Content
-    value: Lorem ipsum dolor sit amet
+    alt: guantanamo bay
+    value: "The mechanics are what make it all the fun, but without knowledge of
+      them they can feel more like burdens, so here are some mechanics that are
+      crucial:"
+  - _type: cards
+    alt: Card Group
+    cols: 3
+    value:
+      - title: Tardis Growth
+        subtitle: Travel through all of space and time.
+        link: tardis/beginning-tardis-growth
+        image:
+          _type: local-image
+          src: /images/mechanics/tardis/new_tardis_interiors.png
+      - title: Artron Energy
+        subtitle: |-
+          powering the whole of spacetime...
+
+          (image temporary)
+        link: artron-energy
+        image:
+          _type: local-image
+          src: /images/development.png
+      - title: Rift Chunks
+        subtitle: Cracks in space-time itself!
+        link: rift-chunks
+        image:
+          _type: local-image
+          src: /images/mechanics/rift-chunks/rift_entity.png
+      - title: commands
+        subtitle: commanding the world itself.
+        link: commands
+        image:
+          _type: local-image
+          src: /images/mechanics/tardis/adaptive_exterior.png
 sidebar:
   open: false
   exclude: false
