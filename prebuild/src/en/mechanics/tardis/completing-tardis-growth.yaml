@@ -17,7 +17,7 @@ blocks:
 
 
       *   The Coral Shell
-          
+
 
       ![](/images/mechanics/tardis/coral_setup/shell.png)
 
@@ -52,7 +52,7 @@ blocks:
       random color hex code and random name. Take the Personality Matrix into
       your newly grown coral and throw it into any water source, you will then
       be asked to leave the TARDIS so it can finish building.
-          
+
 
       ### THIS WILL MEAN THE TARDIS INTERIOR WILL BE WIPED AND YOU WILL LOSE
       EVERYTHING YOU HAVE PLACED INSIDE!!!
@@ -62,7 +62,7 @@ blocks:
 
 
       *   REMINDER!
-          
+
 
       Don't forget to set up the engine and essential compenents when the TARDIS
       is complete. It is also recommended to wear a resporator when first
@@ -98,3 +98,4 @@ blocks:
 sidebar:
   open: false
   exclude: false
+weight: 2
