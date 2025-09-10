@@ -10,11 +10,11 @@ blocks:
       ## What is a Rift Chunk?
 
 
-      **A rift chunk** is a tear in space-time that can be found in any
-      dimension. It's used to grow the **TARDIS Coral** or siphoned for
-      [**Artron Energy**](../artron) that the TARDIS uses for fuel. You can fly
-      the TARDIS into a rift chunk to syphon fuel more efficiently (faster) or
-      as an alternative, you can use an [**Artron
+      A rift chunk is a tear in space-time that can be found in any dimension.
+      It's used to grow the [**Coral Growth**](/items/coral-growth) (tardis
+      coral) or siphoned for [**Artron Energy**](../artron) that the TARDIS uses
+      for fuel. You can fly the TARDIS into a rift chunk to syphon fuel more
+      efficiently (faster) or as an alternative, you can use an [**Artron
       Collector**](../artron#artron-collector-block) to collect [**Artron
       Energy**](../artron) while outside the TARDIS.
 
@@ -50,8 +50,8 @@ blocks:
       Blocks around its area. You can also recharge the sonic if you hold it and
       Right Click the Rift.  
 
-      If you use the Sonic Screwdriver in **Interact Mode** on a rift, it will
-      drop TARDIS coral 100% of the time.
+      If you use the Sonic Screwdriver in Interact Mode on a rift, it will drop
+      TARDIS coral 100% of the time.
 sidebar:
   open: false
   exclude: false
