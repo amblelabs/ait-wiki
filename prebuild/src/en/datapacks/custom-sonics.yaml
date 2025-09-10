@@ -2,17 +2,13 @@ title: Custom Sonics
 blocks:
   - _type: text
     alt: Content
+    value: "### This page is being worked on please do not follow it just yet!"
+  - _type: callout
+    type: warning
+    value: You need to learn how texture pack and datapacks works!
+  - _type: text
+    alt: Content
     value: >-
-      # Custom Sonics
-
-
-      This page is being worked on please do not follow it just yet!
-
-
-      {{< callout type="warning" >}} You need to learn how texture pack and
-      datapacks works! {{< /callout >}}
-
-
       ## Sonic Texture & Model
 
 
