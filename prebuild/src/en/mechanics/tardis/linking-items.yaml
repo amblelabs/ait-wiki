@@ -10,7 +10,7 @@ blocks:
 
 
       On the console, find the **telepathic circuit** and right click it with
-      the linkable item.  
+      the linkable item.
 
 
       Linkable items include:
@@ -40,9 +40,9 @@ blocks:
 
 
       > /ait link
-  - _type: text
-    alt: Content (after quote block)
-    value: ...And that should link your currently held item.
+
+
+      ...And that should link your currently held item.
 sidebar:
   open: false
   exclude: false
