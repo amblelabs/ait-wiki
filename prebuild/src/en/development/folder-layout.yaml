@@ -31,8 +31,7 @@ blocks:
       ### `util` (`loqor.ait.core.util`)
 
 
-      Common [utility](/development/utils)
-      classes.
+      Common [utility](/development/utils) classes.
 
 
       ### `tardis` (`loqor.ait.core.tardis`)
@@ -45,15 +44,13 @@ blocks:
       #### `util` (`loqor.ait.core.tardis.util`)
 
 
-      TARDIS [utility](/development/utils)
-      classes.
+      TARDIS [utility](/development/utils) classes.
 
 
       #### `handler` (`loqor.ait.core.tardis.handler`)
 
 
-      Package containing all of the
-      [component](/development/components)
+      Package containing all of the [component](/development/tardis-components/)
       classes.
 
 
@@ -69,8 +66,7 @@ blocks:
       ### `util` (`loqor.ait.client.util`)
 
 
-      The client-side
-      [utility](/development/utils) classes.
+      The client-side [utility](/development/utils) classes.
 
 
       ### `data` (`loqor.ait.client.data`)
@@ -99,9 +95,7 @@ blocks:
       ### `link` (`loqor.ait.api.link`)
 
 
-      Contains the standard
-      [linkable](/development/linkables)
-      classes.
+      Contains the standard [linkable](/development/linkables) classes.
 sidebar:
   open: false
   exclude: false
