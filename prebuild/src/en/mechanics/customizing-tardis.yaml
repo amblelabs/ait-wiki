@@ -1,5 +1,9 @@
 title: Customizing TARDIS
 blocks:
+  - _type: callout
+    type: default
+    value: you need a chameleon circuit connected to the engine to change the
+      exterior.
   - _type: text
     alt: Content
     value: >-
@@ -79,10 +83,6 @@ blocks:
       4.  When you see the vortex tab appear select the vortex you want.
           
       5.  Enjoy!
-  - _type: callout
-    type: default
-    value: you need a chameleon circuit connected to the engine to change the
-      exterior.
 sidebar:
   open: false
   exclude: false
