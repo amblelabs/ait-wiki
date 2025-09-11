@@ -9,7 +9,7 @@ blocks:
     alt: Card Group
     cols: 3
     value:
-      - title: Tardis Growth
+      - title: TARDIS Growth
         subtitle: Travel through all of space and time.
         link: tardis/beginning-tardis-growth
         image:

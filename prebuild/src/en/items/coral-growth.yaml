@@ -5,7 +5,7 @@ blocks:
   - _type: text
     alt: Coral?
     value: >-
-      This is the Tardis, it is crafted from Coral Fragments. It is placed on
+      This is the TARDIS, it is crafted from Coral Fragments. It is placed on
       Soul Sand inside of a Rift Chunk. Simular to crops in the game, the Coral
       Growth is grown in stages over time (this can be sped up by changing the
       games random tick speed).
@@ -13,9 +13,9 @@ blocks:
 
       * * *
   - _type: text
-    alt: "How do i finish growing a tardis / console? "
+    alt: "How do i finish growing a TARDIS / console? "
     value: >-
-      How do i finish growing a tardis / console?
+      How do i finish growing a TARDIS / console?
 
 
       Place a **Coral Cage** on the fuly grown Coral

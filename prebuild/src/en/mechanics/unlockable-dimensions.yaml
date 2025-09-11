@@ -4,11 +4,11 @@ blocks:
     alt: Unlockable Dimensions (Vanilla)
     value: "# Unlockable Dimensions (Vanilla)"
   - _type: local-image
-    src: /images/mechanics/Nether_Tardis.png
+    src: /images/mechanics/Nether_TARDIS.png
     alt: Nether
     caption: The Nether
   - _type: local-image
-    src: /images/mechanics/End_Tardis.png
+    src: /images/mechanics/End_TARDIS.png
     alt: End
     caption: The End
   - _type: text

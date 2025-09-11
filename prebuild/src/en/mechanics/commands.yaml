@@ -6,9 +6,9 @@ blocks:
       # **AIT commands and what they do**
 
 
-      *   **/ait creator-name get \[TARDIS ID\]** Tells you who made a tardis
+      *   **/ait creator-name get \[TARDIS ID\]** Tells you who made a TARDIS
           
-      *   **/ait data \[TARDIS ID\]** Lets you modify a tardises data
+      *   **/ait data \[TARDIS ID\]** Lets you modify a TARDISes data
           
       *   **~/ait debug \[TARDIS ID\]~** Obsolete
           
@@ -17,43 +17,43 @@ blocks:
           
       *   **/ait erase-chunks** Self explanatory erases chunks
           
-      *   **/ait flight \[TARDIS ID\]** Toggles rwf on your tardis if enabled in
+      *   **/ait flight \[TARDIS ID\]** Toggles rwf on your TARDIS if enabled in
       server config
           
       *   **/ait fuel add \[TARDIS ID\] \[AMOUNT\]** Sets the amount of fuel in
-      the tardis
+      the TARDIS
           
-      *   **/ait fuel get \[TARDIS ID\]** Tells you how much the tardis has
+      *   **/ait fuel get \[TARDIS ID\]** Tells you how much the TARDIS has
           
       *   **/ait fuel remove \[TARDIS ID\] \[AMOUNT\]** Removes the set amount
-      of fuel from the tardis
+      of fuel from the TARDIS
           
       *   **/ait fuel set \[TARDIS ID\] \[AMOUNT\]** Sets the amount of fuel in
-      the tardis
+      the TARDIS
           
-      *   **/ait link \[TARDIS ID\]** Links a eligible item to the tardis
+      *   **/ait link \[TARDIS ID\]** Links a eligible item to the TARDIS
           
-      *   **/ait list** Lists all tardis ids
+      *   **/ait list** Lists all TARDIS ids
           
-      *   **/ait load \[TARDIS ID\]** Loads the selected tardis
+      *   **/ait load \[TARDIS ID\]** Loads the selected TARDIS
           
-      *   **/ait lock \[TARDIS ID\] \[TRUE/FALSE\]** Sets wether the tardis is
+      *   **/ait lock \[TARDIS ID\] \[TRUE/FALSE\]** Sets wether the TARDIS is
       locked or not
           
       *   **/ait loyalty \[TARDIS ID\] \[PLAYER NAME\] \[VALUE\]** Sets the
-      tardises loyalty
+      TARDISes loyalty
           
-      *   **/ait name get \[TARDIS ID\]** Tells you the tardis name
+      *   **/ait name get \[TARDIS ID\]** Tells you the TARDIS name
           
-      *   **/ait name set \[TARDIS ID\]** Sets the tardis name
+      *   **/ait name set \[TARDIS ID\]** Sets the TARDIS name
           
       *   **/ait permission \[TARDIS ID\] \[PLAYER NAME\] \[PERMISION\]** lets
       you set permissions i.e snaping
           
-      *   **/ait remove \[TARDIS ID\]** Removes a tardis
+      *   **/ait remove \[TARDIS ID\]** Removes a TARDIS
           
       *   **/ait repair set \[TARDIS ID\] \[REPAIR TICKS\]** Lets you set the
-      ticks till repair is done on the tardis
+      ticks till repair is done on the TARDIS
           
       *   **/ait rift\_chunk check ~ ~ ~** Checks if there is a rift chunk at
       the positon
@@ -67,32 +67,32 @@ blocks:
       *   **/ait safe-pos \[DIMENSION\] ~ ~ ~ \[SEARCH TYPE\]** tells you where
       a safe position is at that location
           
-      *   **/ait scale \[TARDIS ID\] \[X\] \[Y\] \[Z\]** Scales the tardis?
+      *   **/ait scale \[TARDIS ID\] \[X\] \[Y\] \[Z\]** Scales the TARDIS?
           
       *   **/ait set-max-speed \[TARDIS ID\] \[SPEED\]** Sets how fast the
       flight speed is
           
-      *   **/ait siege \[TARDIS ID\] \[TRUE/FALSE\]** Sets if the tardis is
+      *   **/ait siege \[TARDIS ID\] \[TRUE/FALSE\]** Sets if the TARDIS is
       sieged or not
           
-      *   **/ait summon \[TARDIS ID\] ~ ~ ~** Summons the tardis to you
+      *   **/ait summon \[TARDIS ID\] ~ ~ ~** Summons the TARDIS to you
           
       *   **/ait teleport \[TARDIS ID\] \[EXTERIOR/INTERIOR\] \[PLAYER NAME\]**
-      Teleports you to the interior or exterior of a tardis
+      Teleports you to the interior or exterior of a TARDIS
           
       *   **~/ait this~** Obsolete
           
-      *   **/ait travel \[TARDIS ID\] demat** Dematerialises the tardis
+      *   **/ait travel \[TARDIS ID\] demat** Dematerialises the TARDIS
           
       *   **/ait travel \[TARDIS ID\] destination \[DIMENSION\] ~ ~ ~** Moves
-      the tardis to the selected point
+      the TARDIS to the selected point
           
-      *   **/ait travel \[TARDIS ID\] remat** rematerializes the tardis
+      *   **/ait travel \[TARDIS ID\] remat** rematerializes the TARDIS
           
-      *   **/ait trigger-mood-roll \[TARDIS ID\]** Randomises the tardises mood?
+      *   **/ait trigger-mood-roll \[TARDIS ID\]** Randomises the TARDISes mood?
           
       *   **/ait unlock \[TARDIS ID\] \[CONSOLE/DESKTOP/EXTERIOR\]** Unlocks a
-      console desktop or exterior for your tardis
+      console desktop or exterior for your TARDIS
           
       *   **/ait version** I think you're smart enough to figure this one out
       (it tells you the version of ait)

@@ -38,7 +38,7 @@ blocks:
       **Enable TARDIS boti**
 
 
-      This config allows you to toggle bigger on the inside on your tardis so
+      This config allows you to toggle bigger on the inside on your TARDIS so
       you can see the vortex and other things.
   - _type: text
     alt: Render boti interior
@@ -49,14 +49,14 @@ blocks:
       (VERY UNSTABLE WILL NOT WORK FOR NOW)
 
 
-      This config allows you to see the interior of your tardis from the
+      This config allows you to see the interior of your TARDIS from the
       outside. (its broken dont use it i beg of you)
   - _type: text
     alt: Green screen boti
     value: |-
       **Green screen boti**
 
-      turns your tardis green dont use this unless you do video editing or smth.
+      turns your TARDIS green dont use this unless you do video editing or smth.
   - _type: text
     alt: Show control hitboxs
     value: >-

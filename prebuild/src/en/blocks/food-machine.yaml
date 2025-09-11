@@ -2,7 +2,7 @@ title: Food Machine
 blocks:
   - _type: local-image
     src: /images/food_machine.jpg
-    alt: Food machine inside the tardis
+    alt: Food machine inside the TARDIS
   - _type: text
     alt: Content
     value: >-

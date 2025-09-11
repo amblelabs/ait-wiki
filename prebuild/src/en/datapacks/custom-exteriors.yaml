@@ -265,7 +265,7 @@ blocks:
       ## Translating Your Exterior
 
 
-      You are probably wondering why (in the monitor) your tardis is called
+      You are probably wondering why (in the monitor) your TARDIS is called
       something like `exterior.(namespace).(exterior_name)`. Well that is
       because it is NOT translated, here is how to. (FYI you can replace
       `en_us.json` with the name of any language you use, [see that list

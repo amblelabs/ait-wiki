@@ -15,7 +15,7 @@ blocks:
 
 
       To make your item linkable just extend the `LinkableItem` class, then use
-      one of the static methods it provides to get the tardis instance.
+      one of the static methods it provides to get the TARDIS instance.
 
 
       # Blocks

@@ -88,7 +88,7 @@ blocks:
               
           *   You can also scan blocks and entities for info such as; health, required mining tool, and blast resistance.
               
-          *   It also allows the ability see where your tardis is by `right clicking`on a Zeiton Cluster or Bell blocks.
+          *   It also allows the ability see where your TARDIS is by `right clicking`on a Zeiton Cluster or Bell blocks.
               
           
           ## TARDIS Mode
@@ -101,7 +101,7 @@ blocks:
               
           *   Looking down activates the handbrake and refuels the TARDIS.
               
-          *   When you are inside your Tardis and the sonic is linked to said Tardis (when its placed in your offhand) you can activate the sonic the tardis will takeoff.
+          *   When you are inside your TARDIS and the sonic is linked to said TARDIS (when its placed in your offhand) you can activate the sonic the TARDIS will takeoff.
   - _type: text
     alt: Sonic Settings & Configuration
     value: >-

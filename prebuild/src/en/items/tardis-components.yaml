@@ -66,7 +66,7 @@ blocks:
       ## How do i use them?
 
 
-      They are used to access certain functions of the Tardis. How? By inserting
+      They are used to access certain functions of the TARDIS. How? By inserting
       them (with `right click`) into the Generalized Subsystem Core.
 
 
@@ -106,7 +106,7 @@ blocks:
       ## Interior reconfiguration
 
 
-      When you change interior, all components you had will be in the Tardis
+      When you change interior, all components you had will be in the TARDIS
       console itself, if you right-click on the console will open a GUI and will
       have all the stuff you had inside
   - _type: text

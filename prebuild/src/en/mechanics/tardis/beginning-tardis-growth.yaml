@@ -1,11 +1,11 @@
-title: Growing Tardises
+title: Growing TARDISes
 description: page for helping players figure out how to start the process of
-  growing a tardis and getting the items needed to Complete a Tardis. Page made
+  growing a TARDIS and getting the items needed to Complete a TARDIS. Page made
   by Echo, revised by Ferreira for general English correctness. (merged by
   TokenBro)
 blocks:
   - _type: text
-    alt: Beginning Tardis Growth
+    alt: Beginning TARDIS Growth
     value: >-
       ## Fabricating a Sonic Screwdriver
 
@@ -74,7 +74,7 @@ blocks:
       place the Coral Growth on top of it. Overtime, it will start growing!
 
 
-      At this point, you can now move onto Completing Tardis Growth.
+      At this point, you can now move onto Completing TARDIS Growth.
 
 
       ## Recipes
@@ -94,16 +94,16 @@ blocks:
 
       *   Coral Growth
   - _type: text
-    alt: Completing Tardis Growth
+    alt: Completing TARDIS Growth
     value: >-
-      ## How do i grow a tardis?
+      ## How do i grow a TARDIS?
 
 
-      You need [**Coral Growth**](/items/coral-growth) To grow a tardis (same
+      You need [**Coral Growth**](/items/coral-growth) To grow a TARDIS (same
       for growing a console).
 
 
-      ## How do I complete growing the tardis?
+      ## How do I complete growing the TARDIS?
 
 
       (recipes are at the bottom of this page!)
@@ -126,7 +126,7 @@ blocks:
       ![](/images/mechanics/tardis/coral_setup/matrix.png)
 
 
-      *   Once that is done you need to give the tardis its "personality", to do
+      *   Once that is done you need to give the TARDIS its "personality", to do
       this you will need to place a Matrix Energizer on top of a naturally
       spawned Sculk Shrieker block, Right Click the Matrix Energizer with a
       Nether Star and activate it by making the Shrieker shriek. Doing so will
@@ -189,7 +189,7 @@ blocks:
       ![](/images/mechanics/tardis/coral_setup/matrix_recipe.png)
 
 
-      To make your tardis safe to breath in and flyable take a look at these
+      To make your TARDIS safe to breath in and flyable take a look at these
       pages In this order : [**Engine**](/blocks/engine),
       [**Console**](/blocks/console)
 sidebar:

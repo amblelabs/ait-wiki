@@ -15,14 +15,14 @@ blocks:
       **Ghost monument**
 
 
-      **Toggles the random teleporting of the tardis exterior when the engine is
-      phasing**
+      Toggles the random teleporting of the TARDIS exterior when the engine is
+      phasing
   - _type: text
     alt: Lock dimensions
     value: |-
       **Lock dimensions**
 
-      Enables the locking of dimensions for the tardis
+      Enables the locking of dimensions for the TARDIS
   - _type: text
     alt: Enable Rwf
     value: |-
@@ -30,13 +30,13 @@ blocks:
 
       (Broken Do NOT USE)
 
-      allows you enable the real world flight of the tardis
+      allows you enable the real world flight of the TARDIS
   - _type: text
     alt: can tnt teleport into through doors
     value: |-
       **can tnt teleport into through doors**
 
-      Enables whether lit tnt can enter the tardis doors
+      Enables whether lit tnt can enter the TARDIS doors
   - _type: text
     alt: Enable hypercubes
     value: |-
@@ -56,7 +56,7 @@ blocks:
     value: |-
       **Send Bulk**
 
-      Toggles between sending tardises as bulk packets and separate packets
+      Toggles between sending TARDISes as bulk packets and separate packets
   - _type: text
     alt: Max amount of tardises
     value: |-
@@ -64,7 +64,7 @@ blocks:
 
       \-1 Defaults to no limit and is the default option
 
-      Changes how many tardises worlds can have
+      Changes how many TARDISes worlds can have
   - _type: text
     alt: Disable safegards
     value: |-
@@ -78,11 +78,11 @@ blocks:
 
       blacklists dimensions from the env projector skybox list
   - _type: text
-    alt: Tardis travel world black list
+    alt: TARDIS travel world black list
     value: |-
-      **Tardis travel world black list**
+      **TARDIS travel world black list**
 
-      Blacklists dimensions for the tardis to travel
+      Blacklists dimensions for the TARDIS to travel
   - _type: text
     alt: rift spawn world black list
     value: |-

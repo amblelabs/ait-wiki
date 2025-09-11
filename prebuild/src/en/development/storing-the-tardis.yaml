@@ -38,9 +38,9 @@ blocks:
       Each time you ask a ref for a TARDIS instance, it checks if:
 
 
-      1.  the cached tardis instance is null
+      1.  the cached TARDIS instance is null
           
-      2.  the cached tardis is outdated
+      2.  the cached TARDIS is outdated
           
       3.  the ref has a non-null id to look up
           

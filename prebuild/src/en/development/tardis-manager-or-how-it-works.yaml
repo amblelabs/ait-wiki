@@ -114,7 +114,7 @@ blocks:
 
       > How it failed: multiple packets per TARDIS update are back. Property
       deltas update their holder component instead of just the property. The mod
-      can chain multiple full tardis sends at once. The mod can send a full
+      can chain multiple full TARDIS sends at once. The mod can send a full
       update when loading a marked chunk, even though the data is synched via
       the other chunk.
 
