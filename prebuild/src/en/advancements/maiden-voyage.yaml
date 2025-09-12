@@ -3,9 +3,9 @@ blocks:
   - _type: text
     alt: Content
     value: |-
-      The advancement "**Maiden Voyage**" is very simple.
+      The advancement "**Maiden Voyage**" is very simple.<br>
 
-      Achive your **first** TARDIS flight.
+      Achieve your **first** TARDIS flight.
 sidebar:
   open: false
   exclude: false

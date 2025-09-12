@@ -3,9 +3,9 @@ blocks:
   - _type: text
     alt: Content
     value: |-
-      The advancement "**Gardening Guru**" is also very simple.
-
-      Place TARDIS Coral on soul sand in a Rift Chunk.
+      The advancement "**Gardening Guru**" is also very simple.<br>
+      
+      Place a TARDIS Coral on soul sand in a rift chunk.
 sidebar:
   open: false
   exclude: false

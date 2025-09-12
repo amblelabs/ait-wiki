@@ -3,11 +3,11 @@ blocks:
   - _type: text
     alt: Content
     value: |-
-      The advancement "**Having a Coffee**" can be achived by:
-
-      1.  Getting the tea item from the **renaisance** consoles drink dispenser
-          
-      2.  using the tea item on the telepathic circuits.
+      The advancement "**Having a Coffee**" can be obtained by:<br>
+      
+      Use a drink, water-, lava- or milk-bucket on the telepathic circuits.<br>
+      
+      (You can get a drink from the **renaissance** console's refreshment dispenser.)
 sidebar:
   open: false
   exclude: false

@@ -3,9 +3,9 @@ blocks:
   - _type: text
     alt: Content
     value: |-
-      The advacncement "**Temporal Turbulence**" is very simple.
+      The advancement "**Temporal Turbulence**" is very easy to obtain.
 
-      Simply **crash** your TARDIS for the first time
+      Simply **crash** your TARDIS for the first time.
 sidebar:
   open: false
   exclude: false

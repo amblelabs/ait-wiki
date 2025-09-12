@@ -5,15 +5,15 @@ blocks:
     value: |-
       To get the advancement "**Procrastination 3000**" you need to:
 
-      1.  have a Matrix Energiser
+      1.  Have a Matrix Energizer.
           
-      2.  have a Nether star
+      2.  Have a Nether Star.
           
-      3.  place the Matrix Energiser ontop of a sculk shrieker
+      3.  Place the Matrix Energizer on top of a naturally spawned Sculk Shrieker.
           
-      4.  use the nether star on the Matrix Energiser
+      4.  Use the Nether Star on the Matrix Energizer.
           
-      5.  activate the shrieker until a Personality Matrix comes out
+      5.  Trigger the shrieker until a Personality Matrix comes out.
 sidebar:
   open: false
   exclude: false

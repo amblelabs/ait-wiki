@@ -3,9 +3,9 @@ blocks:
   - _type: text
     alt: Content
     value: |-
-      The Advancement "**Grand Design**" can get achieved by:
-
-      Crafting a [**Stattenheim Remote**](/items/stattenheim-remote/)
+      The advancement "**Grand Design**" can be obtained by:<br>
+      
+      Craft a [**Stattenheim Remote**](/items/stattenheim-remote/)
 sidebar:
   open: false
   exclude: false

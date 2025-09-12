@@ -1,11 +1,10 @@
-title: "Piloting Under The Influence "
+title: Piloting under the influence
 blocks:
   - _type: text
     alt: Content
     value: |-
-      The Advancement "**Piloting Under The Influence**" is achived by,
-
-      Piloting your TARDIS while under the effects of zeiton dust.
+      The advancement "**Piloting under the influence**" is achieved by 
+      piloting your TARDIS while under the effects of Zeiton Dust.
 sidebar:
   open: false
   exclude: false

@@ -3,15 +3,15 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      The advancement "**Technical Problems**" also know as "**ENGINES
-      PHASING**" is simple to get,
+      The advancement "**Technical Problems**", also know as "**ENGINES 
+      PHASING**", is simple to get:
 
 
-      1.  Lower your engine durability to atleast 300
+      1.  Lower your engine durability to at least 300.
           
-      2.  wait till it says "Engines Phasing!"
+      2.  Wait till the message "ENGINES PHASING" appears.
           
-      3.  be inside your TARDIS as it happens.
+      3.  Be inside your TARDIS as it happens.
 sidebar:
   open: false
   exclude: false

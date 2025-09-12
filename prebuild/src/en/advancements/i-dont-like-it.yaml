@@ -3,9 +3,9 @@ blocks:
   - _type: text
     alt: advancement
     value: |-
-      To get the advancement "**I don't like it**" its very simple.
+      Getting the advancement "**I Don't Like It.**" is very easy.<br>
 
-      simply change your **TARDIS desktop** and you should get the advancement!
+      Simply change your **TARDIS desktop** and you should get the advancement!
 sidebar:
   open: false
   exclude: false

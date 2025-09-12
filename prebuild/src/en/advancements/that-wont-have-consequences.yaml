@@ -3,9 +3,10 @@ blocks:
   - _type: text
     alt: Content
     value: |-
-      To get the advancement "**That Won't Have Consequences...**" you need to,
-
-      Axe any TARDIS door down then they are locked and have no power.
+      To get the advancement "**That Won't Have Consequences...**" you need to 
+      axe down any TARDIS door when the TARDIS is powered down and the doors are locked.<br>
+      
+      The axe has to have an attack damage of at least 8, but not be made of stone.
 sidebar:
   open: false
   exclude: false

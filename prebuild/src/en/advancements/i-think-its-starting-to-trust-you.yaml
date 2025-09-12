@@ -1,13 +1,10 @@
-title: I Think It's Starting To Trust You
+title: I think it's starting to trust you.
 blocks:
   - _type: text
     alt: Content
     value: >-
-      The advancement "**I Think It's Starting To Trust You**" can be achived
-      by,
-
-
-      Getting Pilot loyalty in **any** TARDIS
+      The advancement "**I think it's starting to trust you.**" can be obtained
+      by getting at least "**Pilot**" loyalty in **any** TARDIS.
 sidebar:
   open: false
   exclude: false

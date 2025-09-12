@@ -1,11 +1,9 @@
-title: "It Doesn't Do Wood "
+title: It Doesn't Do Wood!
 blocks:
   - _type: text
     alt: Content
     value: |-
-      The Advancement "**It Doesn't Do Wood**" is achived by,
-
-      trying to sonic a piece of wood.
+      The advancement "**It Doesn't Do Wood!**" is obtained by trying to sonic any wooden block.
 sidebar:
   open: false
   exclude: false
