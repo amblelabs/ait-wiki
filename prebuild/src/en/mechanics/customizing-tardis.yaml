@@ -2,7 +2,7 @@ title: Customizing TARDIS
 blocks:
   - _type: callout
     type: default
-    value: you need a chameleon circuit connected to the engine to change the
+    value: You need a chameleon circuit connected to the engine to change the
       exterior.
   - _type: text
     alt: Content
