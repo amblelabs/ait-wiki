@@ -36,26 +36,26 @@ blocks:
 
 
       *   Have `Leave behind` set to `false` in the security settings (is false
-      by default),
+      by default).
           
       *   Have `Ghost Monument` enabled in the server config (is enabled by
-      default),
+      default).
           
       *   Do a manual flight, and before the TARDIS arrives at the destination
-      location have everyone leave the TARDIS.,
+      location have everyone leave the TARDIS.
           
 
       If you then go to the destination spot you'll see the following happening:
 
 
-      1.  The TARDIS will land.,
+      1.  The TARDIS will land.
           
-      2.  It will immediately take off again.,
+      2.  It will immediately take off again.
           
       3.  It will travel to the same coordinates again (which may take around 20
-      seconds or so),
+      seconds or so).
           
-      4.  Repeat from step 1
+      4.  Repeat from step 1.
 sidebar:
   open: false
   exclude: false
