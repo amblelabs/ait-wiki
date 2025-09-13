@@ -80,8 +80,9 @@ blocks:
       controls - like the **throttle** - need you to crouch to increment (or
       decrement) them fully up or down but will do normal increments when
       freestanding.
-
-
+  - _type: text
+    alt: Controls
+    value: >-
       The **Increment Control** cycles through 1-10-100-1000-10000; left-click
       decreases the increment, while right-click increases it.
 
