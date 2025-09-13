@@ -13,9 +13,9 @@ blocks:
 
 
       Please, if you find any bugs / crashes, create a [GitHub
-      Issue](https://github.com/amblelabs/ait/issues/new?template=1-bug-report.yaml) or ask for help in the
-      support channel in the [Amble Labs](https://discord.gg/D5Et6Ux7BS)
-      Discord. Thank you.
+      Issue](https://github.com/amblelabs/ait/issues/new?template=1-bug-report.yaml)
+      or ask for help in the support channel in the [Amble
+      Labs](https://discord.gg/D5Et6Ux7BS) Discord. Thank you.
   - _type: text
     alt: The goodies
     value: >-
@@ -33,6 +33,8 @@ blocks:
       *   The "boti" placeholder is weird on non built in exteriors
           
       *   TARDISes exteriors are aparently duping again i guess
+          
+      *   Aparently, we added a cactus. _/place feature ait:cactus_
           
 
       * * *
