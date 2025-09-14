@@ -1,6 +1,10 @@
 title: Resources for Datapacks (stub)
 description: Wait, how do I make a model?
 blocks:
+  - _type: callout
+    type: info
+    value: This page was made by one person so it may be bias or inaccurate, please
+      keep this in mind while reading.
   - _type: text
     alt: wait what?
     value: >-
