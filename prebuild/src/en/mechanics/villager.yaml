@@ -3,30 +3,29 @@ sidebar:
   open: false
   exclude: false
 blocks:
-  - _type: cards
-    alt: Card Group
-    cols: 3
-    value:
-      - title: Fabricator engineer
-        subtitle: >-
-          The Fabricator engineer is a villager that sells various items and
-          blueprints for your tardis.
-
-
-          To get the fabricator put a villeger infront of a fabricator (duh)
-        image:
-          _type: local-image
-          src: /images/mechanics/2025-09-16_04.44.47.png
-      - title: Fabricator engineer trades
-        subtitle: >-
-          The items the villager offers depends as with vanilla villagers an
-          example of possible items is below.
-
-
-          Also the [Psychic Paper](/items/psychic-paper) can decrease the price
-          of items sold.
-        image:
-          _type: local-image
-          src: /images/mechanics/2025-09-16_04.45.13.png
   - _type: text
-    alt: Content
+    alt: Fabricator engineer
+    value: >-
+      **Fabricator engineer**
+
+
+      The Fabricator engineer is a villager that sells various items and
+      blueprints for your tardis.
+
+
+      To get the fabricator put a villeger infront of a fabricator (duh)
+
+
+      ![](/images/mechanics/2025-09-16_04.44.47.png)
+  - _type: text
+    alt: Fabricator engineer trades
+    value: >-
+      The items the villager offers depends as with vanilla villagers an example
+      of possible items is below.
+
+
+      ![](/images/mechanics/2025-09-16_04.45.13.png)
+
+
+      Also the [Psychic Paper](/items/psychic-paper) can decrease the price of
+      items sold.
