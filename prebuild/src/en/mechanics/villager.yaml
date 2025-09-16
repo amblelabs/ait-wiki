@@ -2,3 +2,13 @@ title: "Villager "
 sidebar:
   open: false
   exclude: false
+blocks:
+  - _type: cards
+    alt: Card Group
+    cols: 3
+    value:
+      - title: Fabricator engineer
+        subtitle: The Fabricator engineer is a villager that sells various items and
+          blueprints for your tardis
+        image:
+          _type: local-image
