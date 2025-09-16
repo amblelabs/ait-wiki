@@ -27,7 +27,7 @@ blocks:
         image:
           _type: local-image
           src: /images/mechanics/rift-chunks/rift_entity.png
-      - title: commands
+      - title: Commands
         subtitle: commanding the world itself.
         link: commands
         image:
