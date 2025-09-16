@@ -6,7 +6,7 @@ blocks:
   - _type: text
     alt: Fabricator engineer
     value: >-
-      **Fabricator engineer**
+      # **Fabricator engineer**
 
 
       The Fabricator engineer is a villager that sells various items and
