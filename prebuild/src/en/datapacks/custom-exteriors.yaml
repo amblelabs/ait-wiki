@@ -418,63 +418,40 @@ blocks:
       > `default` `hudolin`
 
 
-      > *   K2 Phone Booth:
+      *   K2 Phone Booth:
+          
 
-      >     
+      > `default`
 
-      > 
 
-      > > `default`
+      *   TT Capsule:
+          
 
-      > 
+      > `default`
 
-      > *   TT Capsule:
 
-      >     
+      *   Moyai:
+          
 
-      > 
+      > `default`
 
-      > > `default`
 
-      > 
+      *   Plinth:
+          
 
-      > *   Moyai:
+      > `default`
 
-      >     
 
-      > 
+      *   TARDIM:
+          
 
-      > > `default`
+      > `default`
 
-      > 
 
-      > *   Plinth:
+      *   Siege Mode:
+          
 
-      >     
-
-      > 
-
-      > > `default`
-
-      > 
-
-      > *   TARDIM:
-
-      >     
-
-      > 
-
-      > > `default`
-
-      > 
-
-      > *   Siege Mode:
-
-      >     
-
-      > 
-
-      > > `default`
+      > `default`
 sidebar:
   open: false
   exclude: false
