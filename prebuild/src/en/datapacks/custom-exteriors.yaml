@@ -314,20 +314,20 @@ blocks:
 
 
       *   Place your **.png** exterior texture in this path
-
+          
 
       `assets/(namespace)/exterior/(exterior_texture_name).png`
 
 
       *   Place your .**png** exterior texture emission in the same path
-
+          
 
       `assets/(namespace)/exterior/(exterior_texture_name)_emission.png`
 
 
       *   If you want people to be able to see your exterior texture variant,
       they will need this **resource pack**.
-
+          
 
       ## Example Reference That’s Easy to Follow :)
 
@@ -408,21 +408,27 @@ blocks:
 
       > *   Police Box (I am only listing the ones that have different models):
 
+      >     
+
       > 
 
-      > > `default` `coral`
+      > > `default` `coral` `renaissance`
 
       > 
 
       > *   Classic Police Box:
 
+      >     
+
       > 
 
-      > > `default`
+      > > `default` `hudolin`
 
       > 
 
       > *   K2 Phone Booth:
+
+      >     
 
       > 
 
@@ -432,6 +438,8 @@ blocks:
 
       > *   TT Capsule:
 
+      >     
+
       > 
 
       > > `default`
@@ -439,6 +447,8 @@ blocks:
       > 
 
       > *   Moyai:
+
+      >     
 
       > 
 
@@ -448,6 +458,8 @@ blocks:
 
       > *   Plinth:
 
+      >     
+
       > 
 
       > > `default`
@@ -456,6 +468,8 @@ blocks:
 
       > *   TARDIM:
 
+      >     
+
       > 
 
       > > `default`
@@ -463,6 +477,8 @@ blocks:
       > 
 
       > *   Siege Mode:
+
+      >     
 
       > 
 
