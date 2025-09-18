@@ -406,25 +406,17 @@ blocks:
       ## Exterior Subcategories
 
 
-      > *   Police Box (I am only listing the ones that have different models):
+      *   Police Box (I am only listing the ones that have different models):
+          
 
-      >     
+      > `default` `coral` `renaissance`
 
-      > 
 
-      > > `default` `coral` `renaissance`
+      *   Classic Police Box:
+          
 
-      > 
+      > `default` `hudolin`
 
-      > *   Classic Police Box:
-
-      >     
-
-      > 
-
-      > > `default` `hudolin`
-
-      > 
 
       > *   K2 Phone Booth:
 
