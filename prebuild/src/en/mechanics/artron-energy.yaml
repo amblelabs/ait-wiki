@@ -29,7 +29,7 @@ blocks:
       item form.
 
 
-      ## Artron Collector Unit
+      ## Artron Collector Block
 
 
       It is crafted with this recipe:
@@ -38,12 +38,11 @@ blocks:
       ![](/images/mechanics/artron/collector-recipe.png)
 
 
-      To use it, simply hold the item in your hand while and `right-click` the
-      Artron Collecter Block and it will slowly drain the block. To fill up your
-      TARDIS with it, `crouch right-click` the console.
+      To use it, place it in a rift chunk and it will slowly drain the chunk
+      over time (filling up the collector block)
 
 
-      ## Artron Collector Block
+      ## Artron Collector Unit
 
 
       It is crafted with this recipe:
@@ -52,9 +51,10 @@ blocks:
       ![](/images/mechanics/artron/panel-recipe.png)
 
 
-      It works the same as the panel, but instead it doesn't require you to hold
-      the item. It is instead placed down. You can then shift right-click this
-      block with a panel to drain its storage.
+      You can use this on the Artron Collector by holding this item and
+      `right-clicking` which will then take the artron from the block and fill
+      this up, you can then use this on the console and it will put it's artron
+      into the console
 sidebar:
   open: false
   exclude: false
