@@ -23,8 +23,8 @@ blocks:
       *   Keep circuit durability high
           
       *   Use [**sonic**](/items/sonic-screwdriver/) with the [**TARDIS**
-      **mode**](https://amblelabs.github.io/ait-wiki/en/items/sonic-screwdriver/#tardis-mode)
-      on the exterior to cancel engine phasing
+      **mode**](items/sonic-screwdriver/#tardis-mode) on the exterior to cancel
+      engine phasing
   - _type: text
     alt: ghostmonumenting
     value: >-
