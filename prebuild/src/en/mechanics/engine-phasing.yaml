@@ -20,12 +20,10 @@ blocks:
       ## How do I counter this?
 
 
-      *   Turn power off
-          
       *   Keep circuit durability high
           
-      *   Use [**sonic**](/items/sonic-screwdriver/) on the exterior to cancel
-      engine phasing
+      *   Use [**sonic**](/items/sonic-screwdriver/) with the **TARDIS** mode on
+      the exterior to cancel engine phasing
   - _type: text
     alt: ghostmonumenting
     value: >-
