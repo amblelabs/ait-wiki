@@ -80,7 +80,7 @@ blocks:
       *   **/ait teleport \[TARDIS ID\] \[EXTERIOR/INTERIOR\] \[PLAYER NAME\]**
       Teleports you to the interior or exterior of a TARDIS
           
-      *   **~/ait this~** Obsolete
+      *   **/ait this** Gets the Current TARDIS ID the user is in
           
       *   **/ait travel \[TARDIS ID\] demat** Dematerialises the TARDIS
           
