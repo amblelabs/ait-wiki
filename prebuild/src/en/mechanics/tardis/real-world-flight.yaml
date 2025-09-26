@@ -3,8 +3,8 @@ blocks:
   - _type: callout
     type: error
     value: Real World Flight/RWF Is a very buggy feature that is not made to be used
-      in its current state! Please do not use RWF outside of a test world
-      because it will brick your tardis/destroy your world.
+      in its current state! Using RWF May Result in your save files being
+      unloadable, Please use with care.
   - _type: text
     alt: "Team Fortress 2: The Gay Update"
     value: >-
