@@ -32,7 +32,7 @@ blocks:
 
       Made with the Sonic Screwdriver Blueprint!
   - _type: text
-    alt: "Sonic Modes"
+    alt: Sonic Modes
     value: >-
       ## Sonic Modes
 
@@ -58,16 +58,16 @@ blocks:
           
           ## Interaction Mode
           
-          **Interaction** mode allows the Sonic Screwdriver to;
+          **Interaction** mode allows the Sonic Screwdriver to:
           
           *   Ignite candles, campfires and unlit torches, open iron doors/trap doors
               
-          *   Change repeaters delay and mode.
+          *   Change repeaters' delay and mode.
               
           
           ## Overload Mode
           
-          **Overload** mode allows the Sonic Screwdriver to;
+          **Overload** mode allows the Sonic Screwdriver to:
           
           *   Ignite TNT,
               
@@ -78,30 +78,30 @@ blocks:
           
           ## Scanning Mode
           
-          **Scanning** mode allows the Sonic Screwdriver to;
+          **Scanning** mode allows the Sonic Screwdriver to:
           
-          *   Tell you what console controls are by hovering over the Control Entities and will show you the controls hitboxes. (off by default. check the [**config**](/mechanics/config-options/))
+          *   Tell you what console controls are by hovering over the Control Entities and also show you their hitboxes. (the latter is off by default; check the [**config**](/mechanics/config-options/))
               
-          *   Confirm if you are located inside a [**Rift Chunk**](/mechanics/rift-chunks) and how much [**Artron Energy**](/mechanics/artron-energy/) is stored in that chunk.
+          *   Check if you are located inside a [**Rift Chunk**](/mechanics/rift-chunks) and how much [**Artron Energy**](/mechanics/artron-energy/) is stored in that chunk.
               
-          *   In addition, hovering over a generalized subsystem core will tell you the durability of the subsystem that it holds if the circuit has durability,
+          *   In addition, hovering over a generalized subsystem core will tell you both the name and the durability of the subsystem that it holds. (If a particular subsystem can't lose durability it will only show the name.)
               
-          *   You can also scan blocks and entities for info such as; health, required mining tool, and blast resistance.
+          *   You can also scan blocks and entities for info such as: health, required mining tool, and blast resistance.
               
           *   It also allows the ability see where your TARDIS is by `right clicking`on a Zeiton Cluster or Bell blocks.
               
           
           ## TARDIS Mode
           
-          **TARDIS** mode allows the Sonic Screwdriver to;
+          **TARDIS** mode allows the Sonic Screwdriver to:
           
-          *   Set the destination of the TARDIS wherever you right-click (as long as it’s available to land, and deactivates the handbrake).If you are within 256 blocks of the TARDIS exterior you can summon it, however you do need the “PILOT” rank (loyalty),
+          *   Summon the TARDIS it's linked to by right-clicking an valid landing spot, which needs to be within 256 blocks of the TARDIS exterior. However you need the “PILOT” rank (loyalty).
               
-          *   Looking up (in the interior) and using the sonic triggers demat,
+          *   Looking up (in the interior) and using the sonic triggers demat.
               
-          *   Looking down activates the handbrake and refuels the TARDIS.
+          *   Looking down (in the interior) activates the handbrake and refuels the TARDIS.
               
-          *   When you are inside your TARDIS and the sonic is linked to said TARDIS (when its placed in your offhand) you can activate the sonic the TARDIS will takeoff.
+          *   Using the sonic when it's placed in your off-hand will make the TARDIS take off (regardless if you're inside or not).
   - _type: text
     alt: Sonic Settings & Configuration
     value: >-
