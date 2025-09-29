@@ -93,15 +93,21 @@ blocks:
           
           ## TARDIS Mode
           
-          **TARDIS** mode allows the Sonic Screwdriver to:
+          **TARDIS** mode provides the following features:
           
-          *   Summon the TARDIS it's linked to by right-clicking a valid landing spot, which needs to be within 256 blocks of the TARDIS exterior. However you need the “PILOT” rank (loyalty).
+          *   When inside the TARDIS:
               
-          *   Looking up (in the interior) and using the sonic triggers demat.
+              *   Looking up and using the sonic triggers demat.
+                  
+              *   Looking down and using the sonic activates the handbrake and refueler.
+                  
+          *   When outside the TARDIS:
               
-          *   Looking up (on the outside) and using the sonic while it's in the _off-hand_ will also trigger the demat.
-              
-          *   Looking down (with the sonic in either hand) activates the handbrake and refuels the TARDIS.
+              *   You can summon the TARDIS by right-clicking a valid landing spot near you, which needs to be within 256 blocks of the TARDIS exterior. However you also need the "PILOT" rank (loyalty).
+                  
+              *   Looking up (with the sonic in the **_off-hand_**) and using the sonic will trigger the demat.
+                  
+              *   Looking down (with the sonic in the **_off-hand_**) and using the sonic activates the handbrake and refuels the TARDIS.
   - _type: text
     alt: Sonic Settings & Configuration
     value: >-
