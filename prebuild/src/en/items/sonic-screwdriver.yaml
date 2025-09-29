@@ -101,7 +101,7 @@ blocks:
               
           *   Looking down activates the handbrake and refuels the TARDIS.
               
-          *   Using the sonic when it's placed in your off-hand will make the TARDIS take off (regardless if you're inside or not).
+          *   Using the sonic when it's placed in your off-hand will make the TARDIS take off.
   - _type: text
     alt: Sonic Settings & Configuration
     value: >-
