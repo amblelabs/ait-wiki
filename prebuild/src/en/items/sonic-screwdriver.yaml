@@ -99,7 +99,7 @@ blocks:
               
           *   Looking up (in the interior) and using the sonic triggers demat.
               
-          *   Looking down (in the interior) activates the handbrake and refuels the TARDIS.
+          *   Looking down activates the handbrake and refuels the TARDIS.
               
           *   Using the sonic when it's placed in your off-hand will make the TARDIS take off (regardless if you're inside or not).
   - _type: text
