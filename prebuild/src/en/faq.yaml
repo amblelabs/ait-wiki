@@ -10,7 +10,7 @@ blocks:
 
 
       *   [AIT Extras](https://discord.gg/kndce97FyU)
-          
+
 
       You can find the other addons in the addons channel on teh AmbleLabs
       discord server (make sure to get the AIT role first in `Channels &
@@ -121,7 +121,7 @@ blocks:
           
       *   Shrimple
           
-      *   Bliss (latest)
+      *   Bliss (2.0.3)
           
 
       **Buggy**:
@@ -134,6 +134,8 @@ blocks:
       *   Miniature
           
       *   BSL
+          
+      *   Bliss (all versions other than 2.0.3)
           
 
       (tested on 1.2.0)
