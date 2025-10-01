@@ -80,6 +80,10 @@ blocks:
       controls - like the **throttle** - need you to crouch to increment (or
       decrement) them fully up or down but will do normal increments when
       freestanding.
+  - _type: callout
+    type: info
+    value: Controls can be hit by mobs, explosions and projectiles. The console also
+      emits a redstone signal if powered is on.
   - _type: text
     alt: Controls
     value: >-
@@ -99,7 +103,3 @@ blocks:
 
 
       **Fast Return** - Sets the cords to the last postition your TARDIS was at.
-  - _type: callout
-    type: info
-    value: Controls can be hit by mobs, explosions and projectiles. The console also
-      emits a redstone signal if powered is on.
