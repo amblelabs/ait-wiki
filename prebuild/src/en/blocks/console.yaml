@@ -87,19 +87,20 @@ blocks:
   - _type: text
     alt: Controls
     value: >-
-      **Increment** - Cycles through 1-10-100-1000-10000; left-click decreases
-      the increment, while right-click increases it.
+      ### **Increment** - Cycles through 1-10-100-1000-10000; left-click
+      decreases the increment, while right-click increases it.
 
 
-      **Co-ordinates** - Changes the X, Y, Z coordinate by the increment.
+      ### **Co-ordinates** - Changes the X, Y, Z coordinate by the increment.
 
 
-      **Dimension** - Changes the dimension you will travel too. (The Nether and
-      End are locked by default)
+      ### **Dimension** - Changes the dimension you will travel too. (The Nether
+      and End are locked by default)
 
 
-      **Direction** - Changes the direction you will travel too. (N, NE, S, SE,
-      E, SE, W, SW)
+      ### **Direction** - Changes the direction you will travel too. (N, NE, S,
+      SE, E, SE, W, SW)
 
 
-      **Fast Return** - Sets the cords to the last postition your TARDIS was at.
+      ### **Fast Return** - Sets the cords to the last postition your TARDIS was
+      at.
