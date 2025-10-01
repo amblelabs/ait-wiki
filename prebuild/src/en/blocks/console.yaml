@@ -97,21 +97,17 @@ blocks:
       Sets the cords to the last postition your TARDIS was at.</p>
 
 
-      # PROTOCOL CONTROLS
+      # CONTROLS
 
 
-      **Anti-grav** - Makes your TARDIS fall or not.  
-
-      **Waypoint** - Saves or Loads a waypoint cartridge in the console port  
-
-      **Power** - Turns off and on the power inside the TARDIS  
-
-      **Alarms** - Turns off and on the alarms inside the TARDIS  
-
-      **Door** - Opens or closes the TARDIS doors  
-
-      **Door lock** - Locks or unlocks the TARDIS doors (can also be done with a
-      [key](/items/keys/))
+      <p style="text-align: justify"><strong>Anti-grav</strong> - Makes your
+      TARDIS fall or not.<br><strong>Waypoint</strong> - Saves or Loads a
+      waypoint cartridge in the console port<br><strong>Power</strong> - Turns
+      off and on the power inside the TARDIS<br><strong>Alarms</strong> - Turns
+      off and on the alarms inside the TARDIS<br><strong>Door</strong> - Opens
+      or closes the TARDIS doors<br><strong>Door lock</strong> - Locks or
+      unlocks the TARDIS doors (can also be done with a <a
+      href="/items/keys/">key</a>)</p>
 
 
       # MONITOR CONTROLS
