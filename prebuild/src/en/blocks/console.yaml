@@ -86,11 +86,129 @@ blocks:
       emits a redstone signal if powered is on.
   - _type: text
     alt: Controls
-    value: '<p style="text-align: justify"><strong>Increment</strong> - Cycles
-      through 1-10-100-1000-10000; left-click decreases the increment, while
-      right-click increases it.<br><strong>Co-ordinates</strong> - Changes the
-      X, Y, Z coordinate by the increment.<br><strong>Dimension</strong> -
-      Changes the dimension you will travel too. (The Nether and End are locked
-      by default)<br><strong>Direction</strong> - Changes the direction you will
+    value: >-
+      <p style="text-align: justify"><strong>Increment</strong> - Cycles through
+      1-10-100-1000-10000; left-click decreases the increment, while right-click
+      increases it.<br><strong>Co-ordinates</strong> - Changes the X, Y, Z
+      coordinate by the increment.<br><strong>Dimension</strong> - Changes the
+      dimension you will travel too. (The Nether and End are locked by
+      default)<br><strong>Direction</strong> - Changes the direction you will
       travel too. (N, NE, S, SE, E, SE, W, SW)<br><strong>Fast Return</strong> -
-      Sets the cords to the last postition your TARDIS was at.</p>'
+      Sets the cords to the last postition your TARDIS was at.</p><p
+      style="text-align: justify"># The <strong>Protocol Controls</strong> are
+      explained in this webpage.</p>
+
+
+      The **Antigravs Control** will make the TARDIS' exterior hover in place by
+
+
+      preventing it from falling, but uses \[\*\*Artron
+
+
+      Energy\*\*\](/mechanics/artron-energy/) while active.
+
+
+      The **Waypoint Controls** are explained in this webpage.
+
+
+      The **Power Control** toggles the TARDIS' power and engines. While off, it
+
+
+      renders most of the console non-functional. Any controls that were active
+
+
+      will be disabled when the power is off (except for the Handbrake and
+
+
+      Refueler control).
+
+
+      The **Alarm Control** toggles the TARDIS alarms between active and
+
+
+      inactive.
+
+
+      The **Door Control** cycles the TARDIS' exterior doors open/close state
+
+
+      when right- or left-clicked. Some doors have multiple open states.
+
+
+      The **Door Lock** locks the TARDIS' exterior doors, rendering them
+
+
+      inoperable until they are unlocked again via a linked
+
+
+      \[\*\*key\*\*\](/items/keys/) or by using the Door Lock control once
+      again. If
+
+
+      the power is off, then by using an axe on the exterior doors they can be
+
+
+      broken open.
+
+
+      The **Monitor Control** is explained more in this webpage.
+
+
+      \# The **Monitor Control** is explained more in this webpage.
+
+
+      The **Refuel Control** requires the Handbrake to be engaged. It will then
+
+
+      slowly refuel \[\*\*Artron Energy\*\*\](/mechanics/artron-energy/) over
+      time.
+
+
+      Being inside a \[\*\*Rift Chunk\*\*\](/mechanics/rift-chunks/) will
+
+
+      significantly increase refuelling speed.
+
+
+      The **Land Type Control** forces the TARDIS to look for a **surface** to
+
+
+      land on. Left-clicking controls whether it searches in the horizontal
+
+
+      direction, while right-clicking cycles through various vertical land
+
+
+      types. If both are disabled, then the TARDIS will land at the exact
+
+
+      **destination coordinates** as entered.
+
+
+      The **Randomiser Control** does exactly what is says on the tin. It
+
+
+      randomises the destination coordinates depending on how high the
+
+
+      **Increment Control** is set.
+
+
+      The **Shields Control** has 2 functional modes, the first being invisible
+
+
+      shields and the second visible shields. Find more information in the
+
+
+      The **Telepathic Circuit** has 3 functions:  
+
+      1\. Locating the closest structure  
+
+      2\. If you have a nether star and right-click the telepathic circuits with
+      it in hand and it will self destruct your TARDIS  
+
+      3\. Using the brick item, observer block or quartz block on it will
+      change  
+
+      how the Siege exterior will look. Using stone block will restore the
+      default look.
