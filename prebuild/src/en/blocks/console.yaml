@@ -86,16 +86,19 @@ blocks:
       emits a redstone signal if powered is on.
   - _type: text
     alt: Controls
-    value: '<p style="text-align: justify"><strong>Increment</strong> - Cycles
-      through 1-10-100-1000-10000; left-click decreases the increment, while
-      right-click increases it.<br><strong>Co-ordinates</strong> - Changes the
-      X, Y, Z coordinate by the increment.<br><strong>Dimension</strong> -
-      Changes the dimension you will travel too. (The Nether and End are locked
-      by default)<br><strong>Direction</strong> - Changes the direction you will
+    value: >-
+      # CONTROLS
+
+
+      <p style="text-align: justify"><strong>Increment</strong> - Cycles through
+      1-10-100-1000-10000; left-click decreases the increment, while right-click
+      increases it.<br><strong>Co-ordinates</strong> - Changes the X, Y, Z
+      coordinate by the increment.<br><strong>Dimension</strong> - Changes the
+      dimension you will travel too. (The Nether and End are locked by
+      default)<br><strong>Direction</strong> - Changes the direction you will
       travel too. (N, NE, S, SE, E, SE, W, SW)<br><strong>Fast Return</strong> -
-      Sets the cords to the last postition your TARDIS was at.</p><h1
-      style="text-align: justify">CONTROLS</h1><p style="text-align:
-      justify"><strong>Anti-grav</strong> - Makes your TARDIS fall or
+      Sets the cords to the last postition your TARDIS was
+      at.<br><strong>Anti-grav</strong> - Makes your TARDIS fall or
       not.<br><strong>Waypoint</strong> - Saves or Loads a waypoint cartridge in
       the console port<br><strong>Power</strong> - Turns off and on the power
       inside the TARDIS<br><strong>Alarms</strong> - Turns off and on the alarms
@@ -116,4 +119,4 @@ blocks:
       sequence<br>Using some items on the telepath changes the seige mode cube
       these are:</p><p style="text-align: justify">Quartz block = Companion
       Cube<br>Observer = Weighted Storage Cube<br>Stone = Default<br>Brick =
-      Bricks<br><br></p>'
+      Bricks<br><br></p>
