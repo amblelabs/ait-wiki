@@ -101,7 +101,7 @@ blocks:
       dimension you will travel too. (The Nether and End are locked by
       default)<br><strong>Direction</strong> - Changes the direction you will
       travel too. (N, NE, S, SE, E, SE, W, SW)<br><strong>Fast Return</strong> -
-      Sets the cords to the last postition your TARDIS was
+      Sets the coords to the last position your TARDIS was
       at.<br><strong>Anti-grav</strong> - Makes your TARDIS fall or
       not.<br><strong>Waypoint</strong> - Saves or Loads a waypoint cartridge in
       the console port<br><strong>Power</strong> - Turns off and on the power
@@ -110,7 +110,7 @@ blocks:
       doors<br><strong>Door lock</strong> - Locks or unlocks the TARDIS doors
       (can also be done with a <a
       href="/ait-wiki/items/keys/">key</a>)<br><strong>Refuel </strong>-
-      Handbreak + Refueler refuels the TARDIS, This is siginificantly faster in
+      Handbrake + Refueler refuels the TARDIS, This is significantly faster in
       <a href="/ait-wiki/mechanics/rift-chunks/">rift chunks</a><strong><br>Land
       type </strong>- forces the TARDIS to look for a <strong>surface</strong>
       to land on.<br>Right-click cycles through options, Left-click changes the
@@ -120,8 +120,8 @@ blocks:
       Enables the TARDIS shield. Right-click makes them
       visible<strong><br>Telepathic Circuit</strong> -<br><br>Selects a major
       structure of that dimension (i.e a village/fortress)<br>Using a
-      <strong>nether star</strong> on the telepath initiates the self destruct
-      sequence<br>Using some items on the telepath changes the seige mode cube
-      these are:</p><p style="text-align: justify">Quartz block = Companion
-      Cube<br>Observer = Weighted Storage Cube<br>Stone = Default<br>Brick =
-      Bricks<br><br></p>
+      <strong>nether star</strong> on the telepathic circuit initiates the self
+      destruct sequence<br>Using some items on the telepathic circuit changes
+      the siege mode cube these are:</p><p style="text-align: justify">Quartz
+      block = Companion Cube<br>Observer = Weighted Storage Cube<br>Stone =
+      Default<br>Brick = Bricks<br><br></p>
