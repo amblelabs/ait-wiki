@@ -84,6 +84,9 @@ blocks:
           
       *   Distant Horizons (serverside): breaks TARDIS growth, causes server
       crashes when entering a TARDIS. Clientside plays like normal.
+          
+      *   Valkyrien Skies (Forge/Fabric): will instantly crash your game when
+      you place a TARDIS.
   - _type: text
     alt: The rendering is buggy with shaders
     value: >-
