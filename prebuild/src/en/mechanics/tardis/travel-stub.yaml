@@ -1,4 +1,4 @@
-title: Travel (stub)
+title: "Travel "
 blocks:
   - _type: text
     alt: Content
@@ -25,34 +25,34 @@ blocks:
 
 
       *   Artron drain detected!
-          
+
 
       1.  Refueler
-          
+
 
       *   Directional error!
-          
+
 
       1.  Direction
-          
+
 
       *   Increment scale error! Recalculation necessary!
-          
+
 
       1.  Increment
-          
+
 
       *   Gravity miscalculation!
-          
+
 
       1.  Antigravs
-          
+
 
       *   Ship computer offline!
-          
+
 
       1.  P116
-          
+
 
       ### 2) BUTTON EVENTS
 
@@ -73,7 +73,7 @@ blocks:
           
 
       *   Drifting off course Z!
-          
+
 
       1.  Dimension
           
@@ -81,7 +81,7 @@ blocks:
           
 
       *   Debris incoming!
-          
+
 
       1.  Direction
           
@@ -89,7 +89,7 @@ blocks:
           
 
       *   Vortex drift: acceleration necessarry!
-          
+
 
       1.  Increment
           
@@ -97,7 +97,7 @@ blocks:
           
 
       *   Immediate cloaking necessarry!
-          
+
 
       1.  Protocol 3
           
@@ -105,7 +105,7 @@ blocks:
           
 
       *   DIMENSION BREACH: SECURE DOORS
-          
+
 
       1.  Dimension
           
@@ -113,7 +113,7 @@ blocks:
           
 
       *   Small debries field!
-          
+
 
       1.  Increment
           
@@ -124,7 +124,7 @@ blocks:
 
 
       *   Unstable landing posistion!
-          
+
 
       1.  Land Type
           
@@ -134,7 +134,7 @@ blocks:
           
 
       *   TARDIS off course!
-          
+
 
       1.  Handbrake
           
@@ -144,7 +144,7 @@ blocks:
           
 
       *   Power drain imminent!
-          
+
 
       1.  Power
           
@@ -156,10 +156,10 @@ blocks:
       ## I have dementia what do I do?
 
 
-      *   Fear not, simply put the [**sonic**](/items/sonic-screwdriver/) in scanning mode and into the sonic
-      port on the console, now you'll be told what to press to complete a flight
-      event.
-          
+      *   Fear not, simply put the [**sonic**](/items/sonic-screwdriver/) in
+      scanning mode and into the sonic port on the console, now you'll be told
+      what to press to complete a flight event.
+
 
       ## Turns out I actually suck at flying the TARDIS even WITH the warnings,
       what do I do?
@@ -167,7 +167,7 @@ blocks:
 
       *   Auto pilot is something you can use to turn off flight events, however
       it caps your speed low and you won't be able to gain loyalty.
-          
+
 
       ## My controls are smoking and dont work
 
