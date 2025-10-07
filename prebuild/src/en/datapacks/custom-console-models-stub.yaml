@@ -1,0 +1,8 @@
+title: Custom Console Models (stub)
+blocks:
+  - _type: text
+    alt: Content
+    value: addie or duzo please document
+sidebar:
+  open: false
+  exclude: false
