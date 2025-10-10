@@ -30,7 +30,8 @@ blocks:
       Look at the tooltip of the blueprint _(hover over it in your inventory)_,
       this will show what item is the blueprint for. This applies to other items
       / blocks in the mod as well, although sometimes you might need to hold the
-      Shift Key!
+      Shift Key! You’ll also need to place the fabricator on top of a smithing
+      table for it to work.
   - _type: callout
     type: info
     value: You won't need JEI, REI, or any other recipe mod for this, as the
