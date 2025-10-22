@@ -2,13 +2,15 @@ title: Hazandra
 blocks:
   - _type: local-image
     src: /images/items/hr.png
+    alt: A Hazandra dropped on the ground
   - _type: text
     alt: "What does it do? "
-    value: Link it to your TARDIS and use it at any point to teleport back to the
-      interior! To be sparing with them though,their a 1 time use.
+    value: Link it to your TARDIS and use it at any point to teleport back to into
+      your TARDIS interior! Use them wisely though, since they are only a 1 time
+      use.
   - _type: text
-    alt: "How do i craft them? "
-    value: "## How do i craft them?"
+    alt: How can I craft it?
+    value: "## How can I craft it?"
   - _type: local-image
     src: /images/items/h.png
 sidebar:
