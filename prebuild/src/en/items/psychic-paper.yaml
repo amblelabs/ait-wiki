@@ -11,13 +11,13 @@ blocks:
       It does 2 things;
 
 
-      1.  Gives you hero of the village to make trading easier.
+      1.  Grants "Hero of the Village" status effect, making trades much cheaper
           
-      2.  Changes your ingame name. This happens if you rename the Psychic Paper
-      in an anvil and you then hold the item.
+      2.  Changes your in-game name. This happens if you rename the Psychic
+      Paper in an anvil, then holding it in your offhand or main hand.
   - _type: local-image
     src: /images/items/john_smith.png
-    alt: john Smith
+    alt: John Smith
   - _type: text
     alt: Recipe
     value: "## Recipe"
