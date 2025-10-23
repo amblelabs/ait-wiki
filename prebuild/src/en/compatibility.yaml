@@ -18,11 +18,12 @@ blocks:
       *   [Loqor's Weeping
       Angels](https://modrinth.com/mod/loqors-weeping-angels)
           
-      *   ~Immersive Portals~ Compatibility in Beta
+      *   [Immersive Portals](https://modrinth.com/mod/immersiveportals)
+      _Compatibility in Beta_
           
-      *   ~AmbleLabs Regen~ UNRELEASED
+      *   AmbleLabs Regeneration _UNRELEASED_
           
-      *   ~AmbleLabs Stargate~ UNRELEASED
+      *   AmbleLabs Stargate _UNRELEASED_
   - _type: text
     alt: Grav header
     value: "## Gravity Changer (qouteall fork)"
@@ -44,8 +45,19 @@ blocks:
 
       when you left click the chosen orientation is put into use.
   - _type: text
-    alt: Content
+    alt: Weeping
     value: |-
       ## Loqor's Weeping Angels
 
       lorem ipsum dolor sit amet
+  - _type: text
+    alt: Immersive Portals
+    value: >-
+      ## Immersive Portals
+
+
+      ![](/images/compat/boti-compat.png)
+
+
+      When AiT is paired with Immersive Portals (ip) they add the infamous
+      **Bigger on The Inside** effect from the show!
