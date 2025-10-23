@@ -1,4 +1,4 @@
-title: Compatibility
+title: Compatibility (stub)
 sidebar:
   open: false
   exclude: false
@@ -21,3 +21,6 @@ blocks:
       *   ~AmbleLabs Regen~ UNRELEASED
           
       *   ~AmbleLabs Stargate~ UNRELEASED
+  - _type: text
+    alt: Grav
+    value: "## Gravity Changer (qouteall fork)"
