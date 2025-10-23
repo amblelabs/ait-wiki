@@ -2,3 +2,22 @@ title: Compatibility
 sidebar:
   open: false
   exclude: false
+blocks:
+  - _type: text
+    alt: Compat whats that?
+    value: >-
+      ## Compatible Mods
+
+
+      List of compatible mods for Adventures in Time
+
+
+      *   [Gravity Changer (qouteall
+      fork)](https://modrinth.com/mod/gravity-api-fork)
+          
+      *   [Loqor's Weeping
+      Angels](https://modrinth.com/mod/loqors-weeping-angels)
+          
+      *   ~AmbleLabs Regen~ UNRELEASED
+          
+      *   ~AmbleLabs Stargate~ UNRELEASED
