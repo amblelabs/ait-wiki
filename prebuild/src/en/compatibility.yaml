@@ -23,4 +23,13 @@ blocks:
       *   ~AmbleLabs Stargate~ UNRELEASED
   - _type: text
     alt: Grav
-    value: "## Gravity Changer (qouteall fork)"
+    value: |-
+      ## Gravity Changer (qouteall fork)
+
+      lorem ipsum dolor sit amet
+  - _type: text
+    alt: Content
+    value: |-
+      ## Loqor's Weeping Angels
+
+      lorem ipsum dolor sit amet
