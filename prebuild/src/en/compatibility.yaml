@@ -24,11 +24,25 @@ blocks:
           
       *   ~AmbleLabs Stargate~ UNRELEASED
   - _type: text
-    alt: Grav
-    value: |-
-      ## Gravity Changer (qouteall fork)
+    alt: Grav header
+    value: "## Gravity Changer (qouteall fork)"
+  - _type: local-image
+    src: /images/compat/gravity.png
+    alt: gravity
+  - _type: text
+    alt: Grav content
+    value: >-
+      AiT adds a new button on the TARDIS monitors 2nd menu which allows you to
+      set which way the gravity faces the TARDIS.
 
-      lorem ipsum dolor sit amet
+
+      ![](/images/compat/gravity-menu.png)
+
+
+      By right-clicking the gravity button it turns yellow and displays the
+      orientation you're selecting,  
+
+      when you left click the chosen orientation is put into use.
   - _type: text
     alt: Content
     value: |-
