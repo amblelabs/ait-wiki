@@ -15,9 +15,6 @@ blocks:
       *   [Gravity Changer (qouteall
       fork)](https://modrinth.com/mod/gravity-api-fork)
           
-      *   [Loqor's Weeping
-      Angels](https://modrinth.com/mod/loqors-weeping-angels)
-          
       *   [Immersive Portals](https://modrinth.com/mod/immersiveportals)
       _Compatibility in Beta_
           
@@ -44,12 +41,6 @@ blocks:
       orientation you're selecting,  
 
       when you left click the chosen orientation is put into use.
-  - _type: text
-    alt: Weeping
-    value: |-
-      ## Loqor's Weeping Angels
-
-      lorem ipsum dolor sit amet
   - _type: text
     alt: Immersive Portals
     value: >-
