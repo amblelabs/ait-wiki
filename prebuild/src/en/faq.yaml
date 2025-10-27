@@ -241,6 +241,12 @@ blocks:
       BOTI: Bigger On The Inside, kinda self explanatory the bigger on the
       inside effect you see on the show.
   - _type: text
+    alt: What does stub mean?
+    value: |-
+      ### Q: What does "Stub" Mean?
+
+      A: The page isn't ready/is being worked on so go away!
+  - _type: text
     alt: Retep
     value: |-
       ### Q: Who is Retep?????
