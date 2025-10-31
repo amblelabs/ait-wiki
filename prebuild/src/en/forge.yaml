@@ -23,7 +23,9 @@ blocks:
       #### Q: Why doesn't BOTI work? It glitches my screen!
 
 
-      A: Install the `Chloride` mod with the `Embeddium` mod!
+      A: Install the `Chloride` mod with the `Embeddium` mod! If this does not
+      work, do `/ait-config` in the in-game chat, click on the `CLIENT` tab and
+      disable all options called `BOTI` .
 
 
       #### Q: Where can I report an issue for forge?
