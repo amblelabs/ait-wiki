@@ -72,12 +72,7 @@ blocks:
       [loyalty](/tardis/loyalty) (or OP).
 
 
-      <iframe width="560" height="315"
-      src="https://www.youtube-nocookie.com/embed/tN\_xUV4BOSo?si=tfnJLfscq3dE8qSs"
-      title="YouTube video player" frameborder="0" allow="accelerometer;
-      autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-      web-share" referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen></iframe>
+      [![](/images/mechanics/tardis/adaptive-sonic-disguise-changer-fake-youtube-link.png)](https://youtu.be/tN_xUV4BOSo)
   - _type: callout
     type: info
     value: The sonic feature is (or will be) available starting with version 1.12.13
