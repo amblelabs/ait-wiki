@@ -60,13 +60,13 @@ blocks:
       swap to a different disguise (appropriate to the biome, of course).
           
 
-      ### NOTE:
+      NOTE:
 
 
       If [**isomorphic
       security**](/mechanics/tardis/protocols/#protocol-19-aka-isomorphic-security)
       is active, then it requires the respective loyalty and a linked
-      [**key**](/items/keys/).</BR>  
+      [**key**](/items/keys/).  
 
       If it's not active, then it requires at least _PILOT_
       [loyalty](/tardis/loyalty) (or OP).
