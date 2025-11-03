@@ -60,7 +60,7 @@ blocks:
       swap to a different disguise (appropriate to the biome, of course).
           
 
-      NOTE:
+      NOTE:<BR>
 
 
       If [**isomorphic
@@ -72,8 +72,8 @@ blocks:
       [loyalty](/tardis/loyalty) (or OP).
 
 
-      \[!\[Demonstration
-      Video\](https://img.youtube.com/vi/tN\_xUV4BOSo/0.jpg)\](https://www.youtube.com/watch?v=tN\_xUV4BOSo)
+      <iframe width="768" height="432"
+      src=https://www.youtube.com/watch?v=tN\_xUV4BOSo></iframe>
   - _type: callout
     type: info
     value: The sonic feature is (or will be) available starting with version 1.12.13
