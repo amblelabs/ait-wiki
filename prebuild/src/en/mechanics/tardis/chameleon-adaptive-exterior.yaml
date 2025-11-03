@@ -1,23 +1,22 @@
-title: Chameleon (Adaptive) Exterior
+title: Adaptive (Chameleon) Exterior
 blocks:
   - _type: callout
     type: info
-    value: This feature was added in version 1.2.12 it will not be available for
-      older versions.
+    value: This feature is available since version 1.2.12
   - _type: text
     alt: Content
     value: >-
-      Chameleon exterior also known as the adaptive exterior is a special kind
-      of exterior category.
+      Adaptive exterior (also known as chameleon exterior) is a special kind of
+      exterior category.
 
 
-      This is a unique exterior that turns into a tree/desert well/chorus
-      plant/giant mushroom and etc. depending on the biome. To enable it, just
-      select the `Adaptive` exterior type in the monitor _(its listed with the
-      rest of the exteriors in the mod)_
+      This is a unique exterior that disguises itself as a tree/desert
+      well/chorus plant/giant mushroom etc. depending on the biome. To enable
+      it, just select the `Adaptive` exterior type in the monitor _(it's listed
+      with the rest of the exteriors in the mod)._
 
 
-      Due to the way it was implemented it has 2 qualities,
+      Due to the way it was implemented it has 2 properties:
 
 
       *   It's undetectable. You can't use F3, WAILA, Jade or X-ray mods to find
@@ -28,21 +27,49 @@ blocks:
       biomes.
           
 
-      To open a camouflaged TARDIS, click the bottom block, where the exterior
-      would normally be. Doing that will reveal the capsule. Closing the door
-      will camouflage it back.
+      To open a camouflaged TARDIS, right-click the bottom block, where the
+      exterior would normally be. Doing that will reveal the capsule. Closing
+      the door will camouflage it back.
 
 
-      ## The exterior is extremely useful to hide
+      ## The exterior hides itself very effectively
 
 
-      try and find the TARDIS here:
+      Try and find the TARDIS here:
 
 
       ![](/images/mechanics/tardis/adaptive-preview.png)
 
 
-      if you can't its the tree on the right.
+      If you can't, it's the tree on the right.
+  - _type: text
+    alt: Sonic disguise changer
+    value: >-
+      The [**sonic screwdriver**](/items/sonic-screwdriver/) allows you to
+      change the current disguise more conveniently:
+
+
+      1.  Set sonic screwdriver to `INTERACTION` mode.
+          
+      2.  Put sonic screwdriver in off-hand.
+          
+      3.  Using it now on the bottom block of the TARDIS exterior will make it
+      swap to a different disguise (appropriate to the biome, of course).
+          
+
+      NOTE:
+
+
+      If [**isomorphic
+      security**](/mechanics/tardis/protocols/#protocol-19-aka-isomorphic-security)
+      is active, then it requires the respective loyalty and a linked
+      [**key**](/items/keys/).<BR>  
+
+      If it's not active, then it requires at least _PILOT_
+      [loyalty](/tardis/loyalty) (or OP).
+  - _type: callout
+    type: info
+    value: The sonic feature is (or will be) available starting with version 1.12.13
 sidebar:
   open: false
   exclude: false
