@@ -45,6 +45,9 @@ blocks:
   - _type: text
     alt: Sonic disguise changer
     value: >-
+      ## Sonic Disguise Changer
+
+
       The [**sonic screwdriver**](/items/sonic-screwdriver/) allows you to
       change the current disguise more conveniently:
 
@@ -63,8 +66,8 @@ blocks:
       If [**isomorphic
       security**](/mechanics/tardis/protocols/#protocol-19-aka-isomorphic-security)
       is active, then it requires the respective loyalty and a linked
-      [**key**](/items/keys/).<BR>  
-
+      [**key**](/items/keys/).  
+        
       If it's not active, then it requires at least _PILOT_
       [loyalty](/tardis/loyalty) (or OP).
   - _type: callout
