@@ -163,6 +163,8 @@ blocks:
       *   You MUST press the exclamation markers in this order `yellow, orange,
       red`
           
+      *   There can be events that require a single, two or three buttons.
+          
 
       ## Turns out I actually suck at flying the TARDIS even WITH the warnings,
       what do I do?
