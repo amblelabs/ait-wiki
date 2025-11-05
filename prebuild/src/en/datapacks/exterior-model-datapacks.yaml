@@ -100,9 +100,8 @@ blocks:
       > }
 
       > ```
-  - _type: details
-    title: doors
-    closed: true
+  - _type: text
+    alt: Content
     value: >-
       > `data/(namespace)/door/(exterior_name)/(exterior_name).json`
 
