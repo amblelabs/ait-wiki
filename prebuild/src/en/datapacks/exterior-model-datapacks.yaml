@@ -136,13 +136,11 @@ blocks:
 
       >   "right_animation": "namespace:right_door_animation_name",
 
-      >   "has_transparent_doors": true/false (if true the BOTI portal will
-      always render, even if doors are closed),
+      >   "has_transparent_doors": true/false,
 
       >   "portal_info": {
 
-      >     "enabled": true/false (whether the interior door had a BOTI portal
-      or not) ,
+      >     "enabled": true/false ,
 
       >     "north": [VALUE,VALUE,VALUE],
 
@@ -156,11 +154,16 @@ blocks:
 
       > }
 
-      > 
-
-      > 
-
       > ```
+  - _type: text
+    alt: Content
+    value: >-
+      `has_trasparent_doors` defines if the BOTI portal will always render, even
+      if doors are closed)
+
+
+      `enabled` under `portal_info` defines if the exterior / interior has a
+      BOTI portal or not
   - _type: text
     alt: Model Paths
     value: >-
