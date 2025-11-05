@@ -100,6 +100,68 @@ blocks:
       > }
 
       > ```
+  - _type: details
+    title: doors
+    closed: true
+    value: >-
+      > `data/(namespace)/door/(exterior_name)/(exterior_name).json`
+
+      > 
+
+      > *   This will contain the "code" for the exterior, similar to the old
+      AddonExteriors class system.
+
+      >     
+
+      > 
+
+      > Inside this new .json file, paste:
+
+      > 
+
+      > ```json
+
+      > {
+
+      >   "id": "namespace:exterior_name",
+
+      >   "model": "namespace:exterior_door_model_name",
+
+      >   "is_double": true/false,
+
+      >   "open_sound": "namespace:sound_id",
+
+      >   "close_sound": "namespace:sound_id",
+
+      >   "left_animation": "namespace:left_door_animation_name",
+
+      >   "right_animation": "namespace:right_door_animation_name",
+
+      >   "has_transparent_doors": true/false (if true the BOTI portal will
+      always render, even if doors are closed),
+
+      >   "portal_info": {
+
+      >     "enabled": true/false (whether the interior door had a BOTI portal
+      or not) ,
+
+      >     "north": [VALUE,VALUE,VALUE],
+
+      >     "east": [VALUE,VALUE,VALUE],
+
+      >     "south": [VALUE,VALUE,VALUE],
+
+      >     "west": [VALUE,VALUE,VALUE]
+
+      >   }
+
+      > }
+
+      > 
+
+      > 
+
+      > ```
   - _type: text
     alt: Model Paths
     value: >-
