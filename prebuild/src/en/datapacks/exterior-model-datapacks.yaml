@@ -25,6 +25,8 @@ blocks:
       > *   This will contain the "code" for the exterior, similar to the old
       AddonExteriors class system.
 
+      >     
+
       > 
 
       > Inside this new .json file, paste:
@@ -67,8 +69,6 @@ blocks:
 
       >   },
 
-      > 
-
       >   "seat_translation": [VALUE,VALUE,VALUE],
 
       >   "portal_info": {
@@ -102,6 +102,15 @@ blocks:
       > ```
   - _type: text
     alt: Content
+    value: >-
+      `has_trasparent_doors` defines if the BOTI portal will always render, even
+      if doors are closed)
+
+
+      `enabled` under `portal_info` defines if the exterior / interior has a
+      BOTI portal or not
+  - _type: text
+    alt: Content
     value: |-
       > `data/(namespace)/door/(exterior_name)/(exterior_name).json`
       > 
@@ -121,7 +130,6 @@ blocks:
       >   "right_animation": "namespace:right_door_animation_name",
       >   "has_transparent_doors": true/false,
       >   "portal_info": {
-      >     "enabled": true/false ,
       >     "north": [VALUE,VALUE,VALUE],
       >     "east": [VALUE,VALUE,VALUE],
       >     "south": [VALUE,VALUE,VALUE],
@@ -129,15 +137,6 @@ blocks:
       >   }
       > }
       > ```
-  - _type: text
-    alt: Content
-    value: >-
-      `has_trasparent_doors` defines if the BOTI portal will always render, even
-      if doors are closed)
-
-
-      `enabled` under `portal_info` defines if the exterior / interior has a
-      BOTI portal or not
   - _type: text
     alt: Model Paths
     value: >-
