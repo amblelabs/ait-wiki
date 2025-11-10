@@ -56,7 +56,7 @@ blocks:
   - _type: text
     alt: Can i grow zeiton?
     value: |-
-      ## Can i grow zeiton?
+      ## Can I grow zeiton?
 
       Yeah, zeiton budding has the capability of growing zeiton very slowly!
 
@@ -64,7 +64,7 @@ blocks:
   - _type: text
     alt: Can i craft zeiton blocks?
     value: |-
-      ## Can i craft zeiton blocks?
+      ## Can I craft zeiton blocks?
 
       ![](/images/items/zeiton/blocks/ZeitonBlockRecepie.png)
   - _type: text
