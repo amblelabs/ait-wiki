@@ -9,9 +9,14 @@ blocks:
     value: "## Create a Datapack"
   - _type: callout
     type: info
-    value: Follow the tutorial on the [Minecraft Wiki on
+    value: >-
+      Follow the tutorial on the [Minecraft Wiki on
       datapacks](https://minecraft.wiki/w/Data_pack) on how to set one up, use
       the namespace from earlier.
+
+
+      Also if you have an issue where your doors aren't animated but should be,
+      install the `Indium mod` as that should fix it.
   - _type: text
     alt: Content
     value: >-
@@ -24,8 +29,6 @@ blocks:
 
       > *   This will contain the "code" for the exterior, similar to the old
       AddonExteriors class system.
-
-      >     
 
       > 
 
@@ -115,7 +118,6 @@ blocks:
       > `data/(namespace)/door/(exterior_name)/(exterior_name).json`
       > 
       > *   This will contain the "code" for the interior door.
-      >     
       > 
       > Inside this new .json file, paste:
       > 
