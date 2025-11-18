@@ -60,10 +60,10 @@ blocks:
       Cloak Mode is a function on your TARDIS console designed to keep the
       TARDIS hidden when the chameleon circuit is faulty. Cloak Mode will render
       your TARDIS exterior invisible to the naked eye, and will reveal itself
-      only when a pilot is holding a **[key](/items/keys/)** linked to the console. When a
-      pilot, holding a key, is within 5 meters of the exterior, the TARDIS will
-      start to reveal itself. The closer the pilot approaches the exterior the
-      more the TARDIS will reveal itself.
+      only when a pilot is holding a **[key](/items/keys/)** linked to the
+      console. When a pilot, holding a key, is within 5 meters of the exterior,
+      the TARDIS will start to reveal itself. The closer the pilot approaches
+      the exterior the more the TARDIS will reveal itself.
 
 
       Cloak Mode requires [Artron energy](/mechanics/artron-energy/) to operate,
@@ -100,19 +100,19 @@ blocks:
   - _type: text
     alt: Isomorphic Security
     value: >-
-      # Protocol 19 (AKA **Isomorphic Security**)
+      # Isomorphic Security (AKA **Protocol 19**)
 
 
-      On the console, find "Protocol 19" and use a key linked to the current
-      TARDIS and click on the control. Once that's done, anyone that has a key
-      linked to the current TARDIS can use the console, but anyone without a
-      linked key cannot interact with the console at all, though via the
+      On the console, find "Isomorphic Security" and use a key linked to the
+      current TARDIS and click on the control. Once that's done, anyone that has
+      a key linked to the current TARDIS can use the console, but anyone without
+      a linked key cannot interact with the console at all, though via the
       security menu you're able to change what loyalty rank is required for
-      players to interact with the console while P19 is active.
+      players to interact with the console while Isomorphic is active.
   - _type: text
     alt: Self-Destruct
     value: >-
-      # Protocol 000 (AKA **Self-Destruct**)
+      # Self-Destruct (AKA **Protocol 000**)
 
 
       This is a special kind of protocol that cannot be triggered via its own
@@ -133,7 +133,7 @@ blocks:
   - _type: text
     alt: Engine Overload
     value: >-
-      # Protocol 515 (AKA **Engine Overload / Artron Dump**)
+      # Engine Overload (AKA **Protocol 515**)
 
 
       This protocol can be used for emergency escapes. How? It dumps all your
@@ -143,7 +143,7 @@ blocks:
   - _type: text
     alt: Electric Discharge
     value: >-
-      # Protocol 54 (AKA **Electric Discharge**)
+      # Shell Repellent (AKA **Protocol 54**)
 
 
       It produces an electric shock around the exterior, if someone is near the
