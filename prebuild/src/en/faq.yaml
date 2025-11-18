@@ -247,6 +247,15 @@ blocks:
 
       A: The page isn't ready/is being worked on so go away!
   - _type: text
+    alt: Refuel?
+    value: >-
+      Q: How do I refuel?
+
+
+      A: There's two ways to refuel, 1, you can turn on the handbrake then press
+      the refueler on the console, 2, you can attach an energy converter to the
+      engine of your TARDIS and supply fuel via that.
+  - _type: text
     alt: Retep
     value: |-
       ### Q: Who is Retep?????
