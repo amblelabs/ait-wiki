@@ -72,20 +72,20 @@ blocks:
   - _type: text
     alt: Stabilisers
     value: >-
-      # Protocol 116 (AKA **Stabilisers**)
+      # Stabilizers (AKA **Protocol 116**)
 
 
-      Autopilot is a function on your TARDIS console designed for when there is
-      less than the required pilots to navigate the time vortex. This protocol
-      allows for automated navigation throughout the time vortex, but is
-      programmed to take the safest route possible which is not always the
+      The stabilizers are a function on your TARDIS console designed for when
+      there is less than the required pilots to navigate the time vortex. This
+      protocol allows for automated navigation throughout the time vortex, but
+      is programmed to take the safest route possible which is not always the
       shortest. This protocol takes extra [Artron
       energy](/mechanics/artron-energy/) to operate so make sure you have enough
       fuel in your TARDIS before flight.
   - _type: text
     alt: Hail Mary
     value: >-
-      # Protocol 813 (AKA **Hail Mary**)
+      # Hail Mary (AKA **Protocol 813**)
 
 
       Hail Mary Mode is a function on your TARDIS console designed to rescue the
