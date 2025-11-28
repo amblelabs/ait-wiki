@@ -41,6 +41,10 @@ blocks:
       orientation you're selecting,  
 
       when you left click the chosen orientation is put into use.
+  - _type: callout
+    type: info
+    value: Compatibility with Immersive Portals was/will be added in 1.2.13, any
+      older version will not have compatibility.
   - _type: text
     alt: Immersive Portals
     value: >-
@@ -52,7 +56,3 @@ blocks:
 
       When AiT is paired with Immersive Portals (ip) they add the famous
       **Bigger on The Inside** effect from the show!
-  - _type: callout
-    type: info
-    value: Compatibility with Immersive Portals was/will be added in 1.2.13, any
-      older version will not have compatibility.
