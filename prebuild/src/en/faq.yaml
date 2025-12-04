@@ -94,7 +94,8 @@ blocks:
 
 
       A: The recommended combination is Iris 1.6.17 and Sodium 0.5.8, and above.
-      Here's a list of tested shaders:
+      Here's a list of tested shaders (FYI some of these might work and then
+      break in the future, nothing we can really do about that.):
 
 
       **Works**:
