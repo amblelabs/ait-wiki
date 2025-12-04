@@ -42,6 +42,9 @@ blocks:
 
 
       If you can't, it's the tree on the right.
+  - _type: callout
+    type: info
+    value: The sonic feature is (or will be) available starting with version 1.12.13
   - _type: text
     alt: Sonic disguise changer
     value: >-
@@ -60,7 +63,7 @@ blocks:
       swap to a different disguise (appropriate to the biome, of course).
           
 
-      NOTE:<BR>
+      NOTE:  
 
 
       If [**isomorphic
@@ -73,9 +76,6 @@ blocks:
 
 
       [![](/images/mechanics/tardis/adaptive-sonic-disguise-changer-fake-youtube-link.png)](https://youtu.be/tN_xUV4BOSo)
-  - _type: callout
-    type: info
-    value: The sonic feature is (or will be) available starting with version 1.12.13
 sidebar:
   open: false
   exclude: false
