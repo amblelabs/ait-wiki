@@ -35,12 +35,15 @@ blocks:
       then you will see the outside of your TARDIS like this:
 
 
-      ![](/images/mechanics/tardis/rwf-saygex.png)
+      ![](/images/mechanics/tardis/rwf-hud.png)
 
 
       to start flying press the 'G' key, this will turn on the antigravs, then
       to actually start moving around press the 'B' key then press space to go
       up. that's about it.
+
+
+      ![](/images/mechanics/tardis/rwf-flight.png)
 sidebar:
   open: false
   exclude: false
