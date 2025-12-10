@@ -126,7 +126,6 @@ blocks:
       block = Companion Cube<br>Observer = Weighted Storage Cube<br>Stone =
       Default<br>Brick = Bricks<br><br>Here's a detailed view of the
       <strong>type 40</strong> console and all its contols,</p>
-
-
-      <p style="text-align: center"><img
-      src="/images/blocks/console/type40-Console-labels.png"></p>
+  - _type: local-image
+    src: /images/blocks/console/type40-Console-labels.png
+    alt: Type 40 console labels
