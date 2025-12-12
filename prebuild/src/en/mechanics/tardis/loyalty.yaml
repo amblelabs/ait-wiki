@@ -47,12 +47,8 @@ blocks:
       2.  Repairing a subsystem/circuit
           
       3.  Positive mood rolls (NOT IMPLEMENTED YET)
-  - _type: callout
-    type: warning
-    value: Letting Water Seep into the TARDIS will cause **rapid** loyalty decrease
-  - _type: text
-    alt: Content 2
-    value: >-
+          
+
       # What decreases loyalty points?
 
 
@@ -67,8 +63,12 @@ blocks:
       5.  Hitting the console with a hammer
           
       6.  A [**key**](/items/keys/) getting destroyed
-          
-
+  - _type: callout
+    type: warning
+    value: Letting Water Seep into the TARDIS will cause **rapid** loyalty decrease
+  - _type: text
+    alt: Content 2
+    value: >-
       # What does loyalty give me/do?
 
 
