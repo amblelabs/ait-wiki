@@ -110,6 +110,43 @@ blocks:
         image:
           _type: local-image
           src: /images/items/sonic/in_port.png
+  - _type: text
+    alt: Creds to our amazing team
+    value: >-
+      ## Our Team!  
+
+
+      And I'd love to credit and thank our amazing team for keeping these wikis
+      up for everyone! Going in no particular order they are:  
+
+
+      *   Theo
+          
+      *   Treeturry
+          
+      *   Echo
+          
+      *   Nathan
+          
+      *   Kataclism
+          
+      *   Le-Gars
+          
+      *   Addie
+          
+      *   Avid
+          
+      *   TokenBro
+          
+      *   Monke
+          
+      *   Gamertron
+          
+      *   Bird
+          
+      *   0ddbod
+          
+      *   Pan
 sidebar:
   open: false
   exclude: true
