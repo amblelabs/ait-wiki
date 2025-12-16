@@ -35,6 +35,10 @@ blocks:
       hand and follow the dial to you destination.
 
 
+      (The 'Geiger Counter' is currently just a reskin of this, and for now is
+      uncraftable)
+
+
       The device will point to the centre of the **Rift Chunk**, when you are at
       the centre it will spin frantically.
 
@@ -50,8 +54,8 @@ blocks:
       Blocks around its area. You can also recharge the sonic if you hold it and
       Right Click the Rift.  
 
-      If you use the [**Sonic Screwdriver**](/items/sonic-screwdriver/) in Interact Mode on a rift, it will drop
-      TARDIS coral 100% of the time.
+      If you use the [**Sonic Screwdriver**](/items/sonic-screwdriver/) in
+      Interact Mode on a rift, it will drop TARDIS coral 100% of the time.
 sidebar:
   open: false
   exclude: false
