@@ -113,11 +113,11 @@ blocks:
   - _type: text
     alt: Creds to our amazing team
     value: >-
-      ## Our Team!  
+      ## Our Team!
 
 
       And I'd love to credit and thank our amazing team for keeping these wikis
-      up for everyone! Going in no particular order they are:  
+      up for everyone! Going in no particular order they are:
 
 
       *   [Theo](https://theo.is-a.dev)
@@ -145,6 +145,8 @@ blocks:
       *   Bird
           
       *   0ddbod
+          
+      *   [astrovue](https://github.com/astrovue)
           
       *   [Pan](https://github.com/Mansarde)
 sidebar:
