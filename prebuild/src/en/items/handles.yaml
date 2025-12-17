@@ -150,6 +150,19 @@ blocks:
           "flight progress"
           "progress"
       ```
+  - _type: text
+    alt: KYS
+    value: >-
+      ## Self Destruct
+
+
+      (this will start the self destruct sequence on the Tardis and currently
+      ((1.2.12)) there is no way to stop it)
+
+
+      ```
+          "KYS"
+      ```
 sidebar:
   open: false
   exclude: false
