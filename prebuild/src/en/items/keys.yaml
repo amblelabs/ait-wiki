@@ -1,5 +1,8 @@
 title: Keys
 blocks:
+  - _type: local-image
+    src: /images/items/keys/key/keys.png
+    alt: loqor working on some keys
   - _type: text
     alt: Keys
     value: |-
