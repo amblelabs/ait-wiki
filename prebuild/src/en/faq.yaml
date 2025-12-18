@@ -1,30 +1,29 @@
-title: Frequently Asked Questions
+title: Domande Frequenti (F.A.Q.)
 blocks:
   - _type: text
     alt: Is there a channel with all of the community addons?
     value: >-
-      #### Q: Is there a channel with all of the community addons?
+      #### D: C'è un canale con tutti gli addon fatti dalla community?
 
 
-      A: Yes, however some developers have their own servers, like:
+      R: Si, tuttavia alcuni sviluppatori hanno il proprio server, ad esempio:
 
 
       *   [AIT Extras](https://discord.gg/kndce97FyU)
+          
 
-
-      You can find the other addons in the addons channel on the AmbleLabs
-      discord server (make sure to get the AIT role first in `Channels &
-      Roles`).
+      Puoi trovare gli altri addon nel canale dedicato nel server Discord di
+      Ample Lamps (assicurati di ottenere il ruolo "AIT" in `Canali e ruoli`).
   - _type: text
     alt: "What do I choose: datapack or mod for making an addon for AIT?"
     value: >-
-      #### Q: What do I choose: datapack or mod for making an addon for AIT?
+      #### D: Che cosa scelgo per creare un addon di AIT: datapack o mod?
 
 
-      A: If you just want to add interiors, desktops, exterior and console
-      variants, custom TARDIS names and etc., then feel free to create a
-      datapack. Otherwise, making a mod is recommended. You can also use a
-      datapack inside a mod.
+      R: Se vuoi solo aggiungere un interno, un desktop, un esterno, varianti
+      delle console, nomi del TARDIS personalizzati ecc., sentiti libero di
+      creare un datapack. Altrimenti, è consigliato creare una mod. Puoi anche
+      usare un datapack dentro una mod
   - _type: text
     alt: How do I make a mod addon?
     value: >-
