@@ -71,15 +71,16 @@ blocks:
         image:
           _type: local-image
           src: /images/mechanic.png
-      - title: Datapacks
-        subtitle: Information on how to make custom datapacks for Adventures In Time!
+      - title: Datapack
+        subtitle: Informazioni su come creare datapack personalizzati per Adventure In
+          Time!
         link: datapacks/
         image:
           _type: local-image
           src: /images/datapack.png
       - title: Contributing & addon development
-        subtitle: Information on about how you should code when contributing in
-          Adventures In Time or in your AIT Addon!
+        subtitle: Informazioni su come dovresti programmare Adventure in Time o i tuoi
+          addon di AIT
         link: development/
         image:
           _type: local-image
