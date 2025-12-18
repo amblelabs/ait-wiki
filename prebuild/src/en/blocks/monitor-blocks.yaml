@@ -2,7 +2,7 @@ title: Monitor Blocks
 blocks:
   - _type: local-image
     src: /images/blocks/monitor.png
-    alt: Monitor Pic
+    alt: Monitor Pic (it's pretty sick)
   - _type: text
     alt: General Content
     value: >-
@@ -11,9 +11,8 @@ blocks:
 
 
       A monitor is integrated within most TARDIS
-      [**Consoles**](/blocks/console/), but
-      you can craft it as a separate block and use it anywhere in your interior
-      rather than just your
+      [**Consoles**](/blocks/console/), but you can craft it as a separate block
+      and use it anywhere in your interior rather than just your
       [**Console**](/blocks/console/).
 
 
@@ -26,15 +25,13 @@ blocks:
       Regular Monitor
 
 
-      ![Image of the
-      recipe](/images/blocks/monitor/recipe.png)
+      ![Image of the recipe](/images/blocks/monitor/recipe.png)
 
 
       Wall Monitor
 
 
-      ![Image of the
-      recipe](/images/blocks/monitor/wall-monitor_recipe.png)
+      ![Image of the recipe](/images/blocks/monitor/wall-monitor_recipe.png)
 
 
       ## Customizing Your TARDIS
@@ -58,9 +55,8 @@ blocks:
       coordinates, dimension and direction the TARDIS will be facing.
           
       *   A yellow fuel icon at the bottom, with a percentage next to it
-      indicating how much [**Artron
-      Energy**](/mechanics/artron-energy/)
-      is left.
+      indicating how much [**Artron Energy**](/mechanics/artron-energy/) is
+      left.
           
       *   A green hourglass below that, with a percentage next to it indicating
       flight progress.
@@ -91,9 +87,7 @@ blocks:
 
 
       *   A yellow fuel icon at the top, with a percentage below it indicating
-      how much [**Artron
-      Energy**](/mechanics/artron-energy/)
-      is left.
+      how much [**Artron Energy**](/mechanics/artron-energy/) is left.
           
       *   A green hourglass at the bottom, with a percentage below it indicating
       flight progress.
@@ -124,9 +118,8 @@ blocks:
           
       *   The bottom section shows two bars and a button. The 5-segment display
       shows flight-progress, the bar below that displays how much [**Artron
-      Energy**](/mechanics/artron-energy/)
-      _(in green)_ is left. The button next to these navigates to the **Settings
-      Screen**.
+      Energy**](/mechanics/artron-energy/) _(in green)_ is left. The button next
+      to these navigates to the **Settings Screen**.
           
           _The Artron Energy bar will turn red when the TARDIS is under ~30% of fuel._
 
@@ -143,7 +136,7 @@ blocks:
   - _type: text
     alt: Monitor GUI - Customisation
     value: >-
-      ## TARDIS Settings Customisation
+      ## TARDIS Settings Customization
 
 
       Clicking the button next to the Artron energy bar will open the settings
