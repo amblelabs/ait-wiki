@@ -46,3 +46,6 @@ blocks:
 
       right-clicking turns on a projection, shift right-clicking/left-clicking
       cycles through the available skyboxes.
+  - _type: local-image
+    src: /images/blocks/environment_projector/env_space.png
+    alt: ait space skybox
