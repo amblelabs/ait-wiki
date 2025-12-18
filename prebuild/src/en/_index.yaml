@@ -149,6 +149,8 @@ blocks:
       *   [astrovue](https://github.com/astrovue)
           
       *   [Pan](https://github.com/Mansarde)
+          
+      *   waterbender
 sidebar:
   open: false
   exclude: true
