@@ -1,4 +1,4 @@
-# AIT Wiki Repository
+# AIT Wiki (IT) Repository
 This is the repository for the Adventures in Time Wiki. It is currently being updated by a new team of maintainers under the AIT Wiki Archivus team as of 22/08/2025.
 
 ## General Information
