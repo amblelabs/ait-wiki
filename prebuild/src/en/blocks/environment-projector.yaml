@@ -40,4 +40,9 @@ blocks:
       **TARDIS interior**.
   - _type: callout
     type: info
-    value: This block can be activated and deactivated with a redstone signal.
+    value: >-
+      This block can be activated and deactivated with a redstone signal.
+
+
+      right-clicking turns on a projection, shift right-clicking/left-clicking
+      cycles through the available skyboxes.
