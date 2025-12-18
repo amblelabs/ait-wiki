@@ -1,7 +1,7 @@
 title: Waypoint Cartridge
 blocks:
   - _type: local-image
-    src: /images/images/waypoints/waypoints.png
+    src: /images/items/waypoints/waypoints.png
   - _type: text
     alt: "Waypoint Cartridges? "
     value: >-
@@ -42,9 +42,8 @@ blocks:
       4.  See the set coordinates on the monitor.
           
 
-      *   Alternatively, you can use the [Waypoint
-      bank](/blocks/waypoint-bank) if you
-      have multiple waypoint cartridges!
+      *   Alternatively, you can use the [Waypoint bank](/blocks/waypoint-bank)
+      if you have multiple waypoint cartridges!
   - _type: text
     alt: "Crafting Recipe "
     value: |-
