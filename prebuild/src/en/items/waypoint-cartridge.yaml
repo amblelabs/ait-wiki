@@ -2,6 +2,7 @@ title: Waypoint Cartridge
 blocks:
   - _type: local-image
     src: /images/items/waypoints/waypoints.png
+    alt: waypoint cartridges and banks with sunrise valley selected
   - _type: text
     alt: "Waypoint Cartridges? "
     value: >-
