@@ -47,25 +47,26 @@ blocks:
     cols: 3
     value:
       - title: Changelogs
-        subtitle: Information on what each update adds from 1.1.0 to 1.2.0!
+        subtitle: Informazioni su che cosa viene aggiunto in ogni aggiornamento da 1.1.0
+          a 1.2.0!
         link: changelogs/
         image:
           _type: local-image
           src: /images/changelog.png
-      - title: Blocks
-        subtitle: Information on about blocks that you can find in Adventures In Time!
+      - title: Blocchi
+        subtitle: Informazioni sui blocchi che puoi trovare in Adventure In Time!
         link: blocks/
         image:
           _type: local-image
           src: /images/blocks.png
-      - title: Items
-        subtitle: Information on about items that you can find in Adventures In Time!
+      - title: Oggetti
+        subtitle: Informazioni sugli oggetti che puoi trovare in Adventure In Time!
         link: items/
         image:
           _type: local-image
           src: /images/items.png
-      - title: Mechanics
-        subtitle: Information on how your TARDIS works and how you can pilot it!
+      - title: Meccaniche
+        subtitle: Informazioni sul funzionamento del tuo TARDIS e come pilotarlo!
         link: mechanics/
         image:
           _type: local-image
