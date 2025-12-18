@@ -35,8 +35,6 @@ blocks:
 
 
       ![](/images/items/zeiton/items/Charge.png)
-  - _type: local-image
-    src: /Charge..jpg
 sidebar:
   open: false
   exclude: false
