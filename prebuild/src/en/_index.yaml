@@ -4,49 +4,44 @@ cascade:
 blocks:
   - _type: callout
     type: info
-    value: If you find any bugs / crashes, please create a [GitHub
-      Issue](https://github.com/amblelabs/ait/issues/new?template=1-bug-report.yaml)
-      or ask for help in the support channel in the [Amble
-      Labs](https://discord.gg/D5Et6Ux7BS) Discord.
+    value: Se incontri quasiasi bug/crash, seganlalo tramite Github o chiedi aiuto
+      nel canale di supporto nel Discord di Ample Labs
   - _type: text
     alt: Content
     value: >-
-      Welcome to the **Adventures In Time Wiki**! This wiki is constantly
-      maintained to be up to date with the most recent version of AIT so you can
-      get the best information of the mod, from useless features to useful
-      blocks and even making datapacks or extra mods!
+      Benvenuto nella Wiki di _Adventure In Time_! Questa wiki è costantemente
+      curata per rimanere aggiornata sull’ultima versione di AIT, così da poter
+      fornire informazioni il più accurate possibile: dalle funzioni inutili ai
+      blocchi utili, fino alla creazione di datapack e mod extra!
 
 
-      ## Where do I get the most recent release?
+      ## Dove trovo le versioni più recenti?
 
 
-      AIT can be found on [Modrinth](https://modrinth.com/mod/ait) and can also
-      be found on
+      AIT può essere trovata su [Modrinth](https://modrinth.com/mod/ait) e anche
+      su
       [Curseforge.](https://www.curseforge.com/minecraft/mc-mods/adventures-in-time)
 
 
-      ## AIT is fantastic! Is there anywhere I can talk about the mod?
+      ## AIT è fantastica! C'è un luogo dedicato dove parlarne?
 
 
-      Yes, in [Amble Labs' discord server](https://discord.gg/D5Et6Ux7BS) where
-      you can talk about the mod, show off your interiors, post your AIT
-      datapacks, pay to get beta previews and even play with other people in the
-      **AIT Server**!
+      Si, nel server Discord di Ample Labs potrai parlare della mod, mostrare i
+      tuoi interni, condividere i tuoi datapack di AIT, pagare per ottenere
+      anteprime in beta e anche giocare con altre persone sul **Server AIT**!
 
 
-      ## I've made a super cool mod for AIT! But I don't know where to publish
-      it?
+      ## Ho creato una mod fighissima per AIT! Dove posso pubblicarla?
 
 
-      Oooh! You can show off your awesome creations in the [Amble Labs' discord
-      server](https://discord.gg/ZXQdFxTNKh)! Just make sure to get the
-      Adventures in Time role!
+      Oooh! Puoi mostrare le tue meravigliose creazioni nel server discord di
+      Ample Labs! Assicurati di ottenere il ruolo "Adventure in Time"!
 
 
-      ## Where can I start?
+      ## Da dove inizio?
 
 
-      You can learn about the AIT mod in these tabs below:
+      Puoi leggere informazioni sulla mod nelle schede sottostanti:
   - _type: cards
     alt: Card Group
     cols: 3
