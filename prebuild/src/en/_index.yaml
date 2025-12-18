@@ -97,7 +97,7 @@ blocks:
     cols: 3
     value:
       - title: Creating Your TARDIS
-        subtitle: Your TARDIS is your one way to travel in space and time, so you are
+        subtitle: Your TARDIS is your one way to travel in space and time, so you're
           gonna need one.
         link: mechanics/tardis/beginning-tardis-growth
         image:
