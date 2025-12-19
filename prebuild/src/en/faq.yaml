@@ -63,25 +63,26 @@ blocks:
   - _type: text
     alt: What mods are incompatible with AIT?
     value: >-
-      #### Q: What mods are incompatible with AIT?
+      #### D: Quali mod non sono compatibili con AIT?
 
 
-      A: Below are currently known incompatibilities, if you know of any not
-      listed here, please inform us!
+      R: Queste sono le note incompatibilità con AIT, se sei a conoscenza di
+      altre, per favore comunicacelo!
 
 
-      *   Immersive Portals: stops people from entering / exiting the TARDIS.
+      *   Immersive Portals: impedisce l'entrata/uscita dal TARDIS.
           
-      *   No Nametag Render: will stop the control names from showing.
+      *   No Nametag Render: blocca la visualizzazione dei nomi dei controlli.
           
-      *   Concurrent Chunk Management Engine (C2ME): seems to break rift chunks
-      and TARDIS growth.
+      *   Concurrent Chunk Management Engine (C2ME): sembra rompere le
+      funzionalità dei chunk delle crepe e la crescita del TARDIS.
           
-      *   Distant Horizons (serverside): breaks TARDIS growth, causes server
-      crashes when entering a TARDIS. Clientside plays like normal.
+      *   Distant Horizons (Server): rompe la crescita del TARDIS, causa crash
+      del server quando si entra in un TARDIS. Se installata solo nel client non
+      provoca problemi.
           
-      *   Valkyrien Skies (Forge/Fabric): will instantly crash your game when
-      you place a TARDIS.
+      *   Valkyrien Skies (Forge/Fabric): crash del gioco istantaneo quando si
+      piazza un TARDIS.
   - _type: text
     alt: The rendering is buggy with shaders
     value: >-
