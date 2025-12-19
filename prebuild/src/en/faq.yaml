@@ -10,7 +10,7 @@ blocks:
 
 
       *   [AIT Extras](https://discord.gg/kndce97FyU)
-          
+
 
       Puoi trovare gli altri addon nel canale dedicato nel server Discord di
       Ample Lamps (assicurati di ottenere il ruolo "AIT" in `Canali e ruoli`).
@@ -26,44 +26,40 @@ blocks:
       usare un datapack dentro una mod
   - _type: text
     alt: How do I make a mod addon?
-    value: >-
-      #### Q: How do I make a mod addon?
+    value: |-
+      #### R: Come creo una mod addon?
 
-
-      A: If you want to make a mod addon, refer to [this
-      article](../development/).
+      R: Se vuoi creare una mod addon, fai riferimento a questo articolo.
   - _type: text
     alt: How do I make a datapack addon?
-    value: >-
-      #### Q: How do I make a datapack addon?
-
-
-      A: If you want to make a datapack addon, refer to [this
-      article](../datapacks/).
-  - _type: text
-    alt: I changed my interior and now I can't turn the power on!
     value: |-
-      #### Q: I changed my interior and now I can't turn the power on!
+      #### D: Come creo un datapack?
 
-      A: You need to set up the [engine](/blocks/engine) again.
+      R: Se vuoi creare un datapack, fai riferimento a questo articolo.
+  - _type: text
+    alt: I changed my interior and now !
+    value: |-
+      #### D: Ho cambiato il mio interno e ora non posso attivare la corrente!
+
+      R: Devi posizionare nuovamente il motore.
   - _type: text
     alt: Windows don't glow! (without Iris)
     value: >-
-      #### Q: Windows don't glow! (without Iris)
+      #### D: Le finestre non si accendono! (senza Iris)
 
 
-      A: Make sure you have the power on. If you use Iris or any of its
-      derivatives, make sure you're using 1.0.5+ of AIT, or 1.0.6+ if you're on
-      Forge.
+      R: Assicurati che la corrente sia attiva. Se usi Iris o qualsiasi suo
+      derivato, assicurati di star usando la versiona 1.0.5+ di AIT, 1.0.6+ se
+      sei su Forge.
   - _type: text
     alt: The toyota console is all black!
     value: >-
-      #### Q: The toyota console is all black!
+      #### D: La console toyota è completamente oscurata!
 
 
-      A: Make sure you have the power on. If you use Iris or any of its
-      derivatives, make sure you're using 1.0.5+ of AIT, or 1.0.6+ if you're on
-      Forge.
+      R: Assicurati che la corrente sia attiva. Se usi Iris o qualsiasi suo
+      derivato, assicurati di star usando la versiona 1.0.5+ di AIT, 1.0.6+ se
+      sei su Forge.
   - _type: text
     alt: What mods are incompatible with AIT?
     value: >-
