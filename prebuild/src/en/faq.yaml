@@ -86,15 +86,16 @@ blocks:
   - _type: text
     alt: The rendering is buggy with shaders
     value: >-
-      #### Q: The rendering is buggy with shaders!
+      #### D: Il rendering ha dei bug con le shaders!
 
 
-      A: The recommended combination is Iris 1.6.17 and Sodium 0.5.8, and above.
-      Here's a list of tested shaders (FYI some of these might work and then
-      break in the future, nothing we can really do about that.):
+      R: La combinazione raccomandata è Iris 1.6.17 e Sodium 0.5.8 e versioni
+      successive. Ecco una lista delle shaders testate (N.b alcune di queste
+      potrebbero funzionare per poi rompersi in futuro, non possiamo farci
+      nulla):
 
 
-      **Works**:
+      **Funzionanti**:
 
 
       *   Rethinking Voxels
@@ -126,7 +127,7 @@ blocks:
       *   Bliss (2.0.3)
           
 
-      **Buggy**:
+      **Con Bug**:
 
 
       *   Noble
@@ -140,7 +141,7 @@ blocks:
       *   Bliss (all versions other than 2.0.3)
           
 
-      (tested on 1.2.0)
+      (testato su 1.2.0)
   - _type: text
     alt: How do I become a beta tester?
     value: |-
