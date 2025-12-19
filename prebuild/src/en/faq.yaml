@@ -145,30 +145,30 @@ blocks:
   - _type: text
     alt: How do I become a beta tester?
     value: |-
-      #### Q: How do I become a beta tester?
+      #### D: Come faccio a diventare un beta tester?
 
-      A: Beta testers? I don't know what you're talking about.
+      R: Beta testers? Non so di cosa tu stia parlando.
   - _type: text
     alt: Where can I download the mod?
     value: >-
-      #### Q: Where can I download the mod?
+      #### D: Dove posso scaricare la mod?
 
 
-      A: [Modrinth](https://modrinth.com/mod/ait) or
+      R: [Modrinth](https://modrinth.com/mod/ait) o
       [Curseforge](https://www.curseforge.com/minecraft/mc-mods/adventures-in-time).
   - _type: text
-    alt: Can I get my [something] added?
+    alt: Can I get my [something]?
     value: >-
-      #### Q: Can I get my \[something\] added?
+      #### Q: Potete aggiungere il mio \[qualcosa\]?
 
 
-      A: No, end of discussion. If we feel like it fits, we will contact you
-      directly. For making suggestions for the mod, please use the correct
-      channel in our [Discord Server.](https://discord.gg/WjKhRjavCj)
+      A: No, fine della conversazione. Se lo reputiano necessario, ti
+      contatteremo direttamente. Per suggerimenti sulla mod, per favore usa il
+      canale apposito nel server Discord[.](https://discord.gg/WjKhRjavCj)
   - _type: text
     alt: How do I get beta builds?
     value: >-
-      Q: How do I get beta (dev) builds?
+      Q: Ho?
 
 
       A: Donators, beta testers, team members and some addon developers get
