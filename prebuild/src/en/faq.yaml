@@ -168,33 +168,33 @@ blocks:
   - _type: text
     alt: How do I get beta builds?
     value: >-
-      Q: Ho?
+      D: Come ottengo versioni in beta?
 
 
-      A: Donators, beta testers, team members and some addon developers get
-      access to beta builds. To become a donator, you can support
-      [Loqor](https://ko-fi.com/loqor), [Theo](https://boosty.to/dr.theo) or
-      [Rhyno](https://ko-fi.com/aitserver).
+      R: Donatori, beta tester, membri del team e alcuni sviluppatori di addon
+      ottengono l'accesso a versioni beta. Per diventare un donatore, puoi
+      supportare [Loqor](https://ko-fi.com/loqor),
+      [Theo](https://boosty.to/dr.theo) o [Rhyno](https://ko-fi.com/aitserver).
   - _type: text
     alt: What perks do donators get?
     value: |-
-      #### Q: What perks do donators get?
+      #### D: Che benefici ottiene un donatore?
 
-      A:
+      R:
 
-      *   Access to beta builds for all our mods.
+      *   Accesso alle versioni beta di tutte le nostre mod.
           
-      *   Special teasers for up coming content.
+      *   Teasers speciali per contenuti in arrivo.
           
-      *   Access to donator / beta tester only channels.
+      *   Accesso ai canali esclusivi per beta tester / donatori.
   - _type: text
     alt: I got unfairly banned/I want to appeal my ban on the Discord/MC server!
     value: >-
-      #### Q: I got unfairly banned/I want to appeal my ban on the Discord/MC
-      server!
+      #### Q: Sono stato bannato ingiustamente/ voglio fare ricorso per il mio
+      ban sul server Discord/MC!
 
 
-      A: Appeal using [this](https://forms.gle/u2p3Xy1zV5PKpamJ9) link.
+      A: Fai ricorso usando questo link.
   - _type: text
     alt: Can you add support for Immersive Portals / add your own BOTI
     value: >-
