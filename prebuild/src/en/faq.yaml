@@ -198,72 +198,75 @@ blocks:
   - _type: text
     alt: Can you add support for Immersive Portals / add your own BOTI
     value: >-
-      #### Q: Can you add support for Immersive Portals / add your own BOTI?
+      #### R: Potete implementare il supporto per Immersive Portals / creare un
+      proprio BOTI?
 
 
-      A: We are working on support for Immersive Portals currently. You can join
-      our Discord server to get mod teasers and updates to know when it's done!
+      A: Stiamo al momento lavorando sul supporto per Immersive Portals. Puoi
+      unirti al nostro server Disocrd per avere anticipazioni e aggiornamenti
+      per sapere quando sarà pronto!
   - _type: text
     alt: Is RWF/ARS/BOTI/other being added?
     value: >-
-      #### Q: Is RWF / ARS / BOTI / other being added?
+      #### R: RWF/ARS/BOTI/altro è implementato?
 
 
-      A: A lot of stuff is planned for the mod, but these are a few of the most
-      common features that people might ask about:
+      A: Ci sono molti piani per la mod, ma queste sono le funzioni più comuni
+      che le persone potrebbero chiedere.
 
 
-      RWF: Not being worked on right now, but will eventually be worked on. It
-      is not a priority at the moment.
+      RWF: Non è in fase di implementazione al momento, ma eventualmente lo
+      sarà. Per ora non è una priorità.
 
 
-      ARS: Yes. It won the poll and has seen some work done on it by the
-      developers.
+      ARS: Si, ha vinto nel sondaggio e c'è stato del lavoro da parte di alcuni
+      sviluppatori.
 
 
-      BOTI: Yes. It also won the poll alongside ARS and has seen work done on it
-      as well.
+      BOTI: Si, ha vinto il sondaggio insieme all'ARS e c'è anche qui stato del
+      lavoro.
   - _type: text
     alt: What is RWF/ARS/BOTI?
     value: >-
-      ### Q: What is RWF/ARS/BOTI?
+      ### Q: Cosa si intende per RWF/ARS/BOTI?
 
 
-      A: RWF: Real world flight, picture that scene in series four where the
-      TARDIS flies next to a taxi.
+      A: RWF: Real world flight, immagina quella scena nella quarta serie in cui
+      il TARDIS vola vicino ad un taxi.
 
 
-      ARS: Architectural Reconfiguration Systems, basically being able to add
-      more rooms other than the desktop to your TARDIS.
+      ARS: Architectural Reconfiguration Systems, praticamente la possibilità di
+      aggiungere altre stanze oltre a quella della console.
 
 
-      BOTI: Bigger On The Inside, kinda self explanatory the bigger on the
-      inside effect you see on the show.
+      BOTI: Bigger On The Inside, l'effetto di "più grande all'interno" che vedi
+      nello show.
   - _type: text
     alt: What does stub mean?
     value: |-
-      ### Q: What does "Stub" Mean?
+      ### D: Che significa "Stub"?
 
-      A: The page isn't ready/is being worked on so go away!
+      R: La pagina non è pronta / ci stiamo lavorando quindi vai via!
   - _type: text
     alt: Refuel?
     value: >-
-      Q: How do I refuel?
+      D: Come faccio rifornimento?
 
 
-      A: There's two ways to refuel, 1, you can turn on the handbrake then press
-      the refueler on the console, 2, you can attach an energy converter to the
-      engine of your TARDIS and supply fuel via that.
+      R: Ci sono 2 modi per fare rifornimento: 1, puoi attivare il freno a mano
+      e poi attivare l'interruttore di rifornimento sulla console, 2, puoi
+      collegare un convertitore di energia al motore del tuo TARDIS e fornirgli
+      carburante direttamente.
   - _type: text
     alt: Retep
     value: |-
-      ### Q: Who is Retep?????
+      ### D: Chi è Retep?????
 
-      ### A:
+      ### R:
 
       ![](/images/retep.png)
 
-      He is Retep and he is **EVIL**
+      Lui è Retep ed è **CATTIVO**
 sidebar:
   open: false
   exclude: false
