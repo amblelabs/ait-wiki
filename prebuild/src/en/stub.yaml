@@ -2,8 +2,8 @@ title: Stub
 blocks:
   - _type: text
     alt: Main Content
-    value: If you see this, then the page you're trying to read is not written. go
-      away!
+    value: Se stai leggendo questo, allora la pagina che stai cercando non è ancora
+      pronta. Via!
   - _type: cards
     alt: Card Group
     cols: 3
