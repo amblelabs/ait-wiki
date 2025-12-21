@@ -1,4 +1,4 @@
-title: Compatibility (stub)
+title: Compatibilità (stub)
 sidebar:
   open: false
   exclude: false
@@ -6,21 +6,21 @@ blocks:
   - _type: text
     alt: Compat whats that?
     value: >-
-      ## Compatible Mods
+      ## Mod Compatibili
 
 
-      List of compatible mods for Adventures in Time
+      Lista delle mod compatibili con Adventure In Time
 
 
       *   [Gravity Changer (qouteall
       fork)](https://modrinth.com/mod/gravity-api-fork)
           
       *   [Immersive Portals](https://modrinth.com/mod/immersiveportals)
-      _Compatibility in Beta_
+      _Compatibilità in Beta_
           
-      *   AmbleLabs Regeneration _UNRELEASED_
+      *   AmbleLabs Regeneration _NON RILASCIATA_
           
-      *   AmbleLabs Stargate _UNRELEASED_
+      *   AmbleLabs Stargate NON RILASCIATA
   - _type: text
     alt: Grav header
     value: "## Gravity Changer (qouteall fork)"
@@ -30,8 +30,8 @@ blocks:
   - _type: text
     alt: Grav content
     value: >-
-      AiT adds a new button on the TARDIS monitors 2nd menu which allows you to
-      set which way the gravity faces the TARDIS.
+      AiT aggiunge un nuovo pulsante nel secondo menu del monitor del TARDIS che
+      permette di impostare la direzione della gravità nel TARDIS
 
 
       ![](/images/compat/gravity-menu.png)
@@ -43,8 +43,8 @@ blocks:
       when you left click the chosen orientation is put into use.
   - _type: callout
     type: info
-    value: Compatibility with Immersive Portals was/will be added in 1.2.13, any
-      older version will not have compatibility.
+    value: Compatibilità con Immersive Portals è stata/sarà aggiunta nella versione
+      1.2.13, qualsiasi versione precedente non sarà compatibile.
   - _type: text
     alt: Immersive Portals
     value: >-
@@ -54,5 +54,5 @@ blocks:
       ![](/images/compat/boti-compat.png)
 
 
-      When AiT is paired with Immersive Portals (ip) they add the famous
-      **Bigger on The Inside** effect from the show!
+      Quando AIT è associata a Immersive Portals aggiungeranno il famoso effetto
+      **Bigger on The Inside**!
