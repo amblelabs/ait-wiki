@@ -1,4 +1,4 @@
-title: Running on Forge
+title: Giocare su Forge
 blocks:
   - _type: local-image
     src: /images/forge.png
@@ -6,7 +6,7 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      ## Requires:
+      ## Requisiti:
 
 
       *   [AmbleKit (Forge)](https://modrinth.com/mod/amblekit/versions?l=forge)
@@ -20,44 +20,44 @@ blocks:
       ## FAQ
 
 
-      #### Q: Why doesn't BOTI work? It glitches my screen!
+      #### D: Perché il BOTI non funziona? Il mio schermo è glitchato!
 
 
-      A: Install the `Chloride` mod with the `Embeddium` mod! If this does not
-      work, do `/ait-config` in the in-game chat, click on the `CLIENT` tab and
-      disable all options called `BOTI` .
+      R: Installa le mod`Chloride` e `Embeddium` ! Se questo non funziona,
+      digita il comando`/ait-config` nella chat di gioco, clicca sulla
+      dicitura`CLIENT` e disattiva tutte le opzioni contenenti`BOTI`.
 
 
-      #### Q: Where can I report an issue for forge?
+      #### D: Dove posso seganalare un problema su Forge?
 
 
-      A: On the AIT Github page, but make sure to select `Forge` under the
-      `Modloader` tab!
+      R: Sulla pagina GitHub di AIT, ma assicurati di selezionare `Forge` sotto
+      alla sezione`Modloader`!
 
 
-      #### Q: When will Forge updates come out?
+      #### D: Quando verrà rilasciato un aggiornamento per Forge?
 
 
-      A: Some time after the fabric update (could be weeks, could be months).
+      R: Qualche tempo dopo l'aggiornamento per Fabric (potrebbero volerci
+      settimane o mesi).
 
 
-      ## Incompatible mods!
+      ## Mod Incomptibili!
 
 
-      ###### `This list will expand based on reported issues!`
+      ###### `Questa lista si espande in base ai problemi riportati`
 
 
-      *   OptiFine: generally incompatible with a lot of mods, so we recommend
-      Embeddium instead.
+      *   OptiFine: generalmente incompatibile con molte mod, raccomandiamo
+      l'uso di Embeddium.
           
-      *   C2ME (Concurrent Chunk Management): Breaks rift chunks and TARDIS
-      growth.
+      *   C2ME (Concurrent Chunk Management): rompe le funzionalità dei chunk
+      delle crepe e la crescita del TARDIS.
           
-      *   Distant Horizons: (if installed on the server) Will cause server
-      crashes when entering a TARDIS. Client-side Distant Horizons play like
-      normal.
+      *   Distant Horizons: (Server) causa crash quando si entra in un TARDIS.
+      Nessun problema se è installata sul Client.
           
-      *   Blueprint: will cause the game to crash on loading.
+      *   Blueprint: causa crash durante il caricamento del gioco.
 sidebar:
   open: false
   exclude: false
