@@ -82,11 +82,12 @@ blocks:
       freestanding.
   - _type: callout
     type: info
-    value: Controls can be hit by mobs, explosions and projectiles. The console also
+    value: >-
+      Controls can be hit by mobs, explosions and projectiles. The console also
       emits a redstone signal if powered is on.
-  - _type: callout
-    type: info
-    value: Holding a Sonic Screwdriver that is on scanning mode may help you find
+
+
+      Holding a Sonic Screwdriver that is on scanning mode may help you find
       controls easier
   - _type: text
     alt: Controls
