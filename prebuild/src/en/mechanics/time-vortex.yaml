@@ -3,8 +3,7 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      **_What is the Time Vortex?_**
-
+      **_What is the Time Vortex?_**  
 
       The Time Vortex is the dimension the TARDIS travels through in flight. It
       comes in all shapes, colors and sizes and may be customized in the
@@ -14,8 +13,7 @@ blocks:
       ![](/images/mechanics/vortex%20thing.png)
 
 
-      **_Can you see the Time Vortex?_**
-
+      **_Can you see the Time Vortex?_**  
 
       Yes, you can! Just open your doors while in flight or use the Environment
       Projector set to the `ait:time_vortex`skybox.
