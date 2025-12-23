@@ -38,7 +38,7 @@ blocks:
       If you can't see it, it's the tree on the right.
   - _type: callout
     type: info
-    value: The sonic feature will be available in version 1.2.13
+    value: The sonic feature will be available in version 1.2.13 and later
   - _type: text
     alt: Sonic disguise changer
     value: >-
