@@ -3,15 +3,10 @@ blocks:
   - _type: text
     alt: Content
     value: >-
-      # Wait what? Loyalty!!!!!!
-
-
-      yup, loyalty is a new mechanic which was introduced in the 1.0.5 update,
-      your TARDIS is alive and will actively judge you depening on what actions
-      you take and how you treat her
-
-
-      There are 5 ranks, which are.
+      Loyalty is a mechanic introduced in version 1.0.5, your loyalty with your
+      TARDIS will change depending on how you use it and treat it  
+        
+      There are 5 ranks, which are:
 
 
       1.  Owner
@@ -25,18 +20,18 @@ blocks:
       5.  Reject
           
 
-      Each rank needs a certain amount of loyalty points.
+      Each rank requires a certain amount of loyalty points to obtain
 
 
-      *   Owner requires: 500
+      *   Owner: `500`
           
-      *   Pilot requires: 450
+      *   Pilot: `450-499`
           
-      *   Companion requires: 245
+      *   Companion: `245-449`
           
-      *   Neutral requires: 125
+      *   Neutral: `125-244`
           
-      *   Reject requires: 0
+      *   Reject: `0-124`
           
 
       # What increases my loyalty points?
@@ -48,17 +43,19 @@ blocks:
           
       3.  Positive mood rolls (NOT IMPLEMENTED YET)
           
+      4.  Passive increase while inside the interior
+          
 
       # What decreases loyalty points?
 
 
-      1.  Missing a flight event
+      1.  Missing flight events
           
-      2.  Crashing
+      2.  Crashing the TARDIS
           
-      3.  Letting water seep into the interior
+      3.  Letting water through the door
           
-      4.  Abandoning the TARDIS for to long (NOT IMPLEMENTED YET)
+      4.  Not using the TARDIS for extended periods (NOT IMPLEMENTED YET)
           
       5.  Hitting the console with a hammer
           
