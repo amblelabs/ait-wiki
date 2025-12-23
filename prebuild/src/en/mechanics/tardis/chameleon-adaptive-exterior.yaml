@@ -2,20 +2,18 @@ title: Adaptive (Chameleon) Exterior
 blocks:
   - _type: callout
     type: info
-    value: This feature is available since version 1.2.12
+    value: This feature is available in all versions after 1.2.12
   - _type: text
     alt: Content
     value: >-
-      Adaptive exterior (also known as chameleon exterior) is a special kind of
-      exterior category.
-
-
-      This is a unique exterior that disguises itself as a tree/desert
-      well/chorus plant/giant mushroom etc. depending on the biome. To enable
-      it, just select the `Adaptive` exterior type in the monitor _(it's listed
-      with the rest of the exteriors in the mod)._
-
-
+      The Adaptive Exterior (also known as the Chameleon Exterior) is a unique
+      type of exterior.  
+        
+      While using this exterior, your TARDIS can disguise itself as a tree,
+      structure or other type of plant depending on the biome your TARDIS is in.
+      To enable it, select the `Adaptive` exterior type in the monitor _(it's
+      listed with the rest of the exteriors in the mod)._  
+        
       Due to the way it was implemented it has 2 properties:
 
 
@@ -29,22 +27,18 @@ blocks:
 
       To open a camouflaged TARDIS, right-click the bottom block, where the
       exterior would normally be. Doing that will reveal the capsule. Closing
-      the door will camouflage it back.
-
-
-      ## The exterior hides itself very effectively
-
-
-      Try and find the TARDIS here:
+      the door will camouflage it back.  
+        
+      Try and spot the TARDIS in the image below
 
 
       ![](/images/mechanics/tardis/adaptive-preview.png)
 
 
-      If you can't, it's the tree on the right.
+      If you can't see it, it's the tree on the right.
   - _type: callout
     type: info
-    value: The sonic feature is (or will be) available starting with version 1.12.13
+    value: The sonic feature will be available in version 1.2.13
   - _type: text
     alt: Sonic disguise changer
     value: >-
@@ -59,11 +53,11 @@ blocks:
           
       2.  Put sonic screwdriver in off-hand.
           
-      3.  Using it now on the bottom block of the TARDIS exterior will make it
+      3.  Using it on the bottom-most block of the TARDIS exterior will make it
       swap to a different disguise (appropriate to the biome, of course).
           
 
-      NOTE:  
+      NOTE:
 
 
       If [**isomorphic
@@ -72,7 +66,7 @@ blocks:
       [**key**](/items/keys/).  
 
       If it's not active, then it requires at least _PILOT_
-      [loyalty](/tardis/loyalty) (or OP).
+      [loyalty](/tardis/loyalty) (or operator).
 
 
       [![](/images/mechanics/tardis/adaptive-sonic-disguise-changer-fake-youtube-link.png)](https://youtu.be/tN_xUV4BOSo)
