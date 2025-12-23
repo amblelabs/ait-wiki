@@ -9,27 +9,31 @@ blocks:
       ## How to link items
 
 
-      On the console, find the **telepathic circuit** and right click it with
+      On the console, find the **Telepathic Circuits** and right click it with
       the linkable item.
 
 
       Linkable items include:
 
 
-      *   **[Keys](/items/keys/)**
+      *   [**TARDIS Keys**](/items/keys/)
           
-      *   [**Sonic Screwdriver**](/items/sonic-screwdriver/)
+      *   [**Sonic Screwdrivers**](/items/sonic-screwdriver/)
           
-      *   [**Stattenheim Remote**](/items/stattenheim-remote/)
+      *   [**Stattenheim Remotes**](/items/stattenheim-remote/)
           
       *   [**Handles**](/items/handles/)
           
 
-      ## How come my sonic isn't linking?
+      ## Why isn't my Sonic linking?
 
 
       For the Sonic Screwdriver specifically, you will need to insert it into
-      the **Sonic Port** for it to link properly.
+      the **Sonic Port** for it to link properly.  
+
+      If the sonic is already linked to another TARDIS, you must hold shift
+      whilst inserting it to relink it, otherwise it will just charge in the
+      port.
 
 
       ## Any useful commands?
@@ -39,7 +43,7 @@ blocks:
       sonic/keys/stattenheim remote) is:
 
 
-      > /ait link <id or ~ or ^>
+      `/ait link <id or ~ or ^>`
 sidebar:
   open: false
   exclude: false
