@@ -1,8 +1,5 @@
 title: Custom Sonics
 blocks:
-  - _type: text
-    alt: Content
-    value: "### This page is being worked on please do not follow it just yet!"
   - _type: callout
     type: warning
     value: You need to learn how texture pack and datapacks works!
@@ -35,31 +32,31 @@ blocks:
 
 
       *   Inside this new .json file, paste
-
+          
 
       > ```json
 
       > {
 
-      >   "id": "(namespace):(exterior_texture_name)",
+      >   "id": "(namespace):(sonic_name)",
 
       >   "models":{
 
-      >   "inactive": "(namespace):item/sonic/(refer to example below)",
+      >   "inactive": "(namespace):item/sonic/(sonic_model_name)",
 
-      >   "interaction": "(namespace):item/sonic/(refer to example below)",
+      >   "interaction": "(namespace):item/sonic/(sonic_model_name)",
 
-      >   "overload": "(namespace):item/sonic/(exterior_texture_name)",
+      >   "overload": "(namespace):item/sonic/(sonic_model_name)",
 
-      >   "scanning": "(namespace):item/sonic/(exterior_texture_name)",
+      >   "scanning": "(namespace):item/sonic/(sonic_model_name)",
 
-      >   "tardis": "(namespace):item/sonic/(exterior_texture_name)"
+      >   "tardis": "(namespace):item/sonic/(sonic_model_name)"
 
       >   },
 
       >   "loyalty": {
 
-      >   "type": "PILOT"
+      >   "type": "(RANK TYPE)"
 
       > }
 
@@ -76,7 +73,37 @@ blocks:
       *   replacing the **namespace** and the **sonic\_texture\_name** with your
       own from earlier
           
+      *   replace rank type with either; Owner, Pilot, Companion, Neutral,
+      Reject
+          
       *   Now put this **datapack** into Minecraft.
+  - _type: text
+    alt: Lang
+    value: >-
+      Currently in-game your sonic will be something like
+      `sonic.namespace.sonic_id` to fix this, make a folder in your resource
+      packs **assets folder. (name this file** `lang` ). Then in that folder,
+      make a file called `language_type.json` (for example **en\_us.json**).
+      Inside of that json file put the following:
+
+
+      > ```json
+
+      > {
+
+      > "sonic.namespace.name":"ingame name"
+
+      > }
+
+      > ```
+
+      > 
+
+      > *   Make sure to replace `namespace.name` with your namespace and name
+      from the datapack and replace `ingame name` with what you want it to be
+      called in game.
+
+      >
 sidebar:
   open: false
   exclude: false
