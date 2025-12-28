@@ -35,7 +35,8 @@ blocks:
           
       *   **/ait list** Lists all TARDIS ids
           
-      *   **/ait load \[TARDIS ID\]** Loads the selected TARDIS
+      *   **/ait load \[TARDIS ID\]** Loads the selected TARDIS (If its
+      unloaded)
           
       *   **/ait lock \[TARDIS ID\] \[TRUE/FALSE\]** Sets wether the TARDIS is
       locked or not
