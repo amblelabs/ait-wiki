@@ -86,7 +86,8 @@ blocks:
 
 
       **Links**  
-        
+
+
       Try to prevent using full links that include the protocol and domain when
       linking to another page of the wiki itself, because otherwise it opens in
       a new tab. For example, instead of  
