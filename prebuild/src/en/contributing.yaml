@@ -1,7 +1,7 @@
 title: Contributing
 blocks:
   - _type: text
-    alt: Welcome
+    alt: What can I say except youre welcome (I hated every second of this)
     value: >-
       ## Welcome!
 
@@ -36,7 +36,7 @@ blocks:
           
       2.  Choose a unique name for your fork (e.g. ait-wiki-my-fixes)
           
-      3.  Press 'Create fork'
+      3.  Press "Create fork"
           
       4.  Open [PageCMS](https://pagescms.org) and sign in to your github
           
@@ -44,6 +44,46 @@ blocks:
           
 
       ## Using PageCMS
+
+
+      **To author content**
+
+
+      1.  Open the already created entry
+          
+      2.  Press "+ Add an item" under the "Body" field
+          
+      3.  Choose the content block (text, image, etc.)
+          
+      4.  In the text block, you can use commands by typing the slash (`/`)
+      symbol and by selecting text
+          
+      5.  If you want to add more content, go to step 2
+          
+      6.  Press "Save"
+          
+
+      **To create a new page**
+
+
+      1.  go to "Wiki" tab in the sidebar
+          
+      2.  go to the category you want to create the page in (e.g. blocks, or
+      mechanics, etc)
+          
+      3.  if you want to create a new category press on the "+" folder button.
+          
+      4.  press "Add an entry"
+          
+      5.  Fill out the title
+          
+      6.  Press "Save"
+          
+
+      (thank you theo)
+
+
+      ## Good Practices
 sidebar:
   open: false
   exclude: true
