@@ -1,0 +1,7 @@
+title: Contributing
+blocks:
+  - _type: text
+    alt: PAGECMS and PULL REQUESTS
+sidebar:
+  open: false
+  exclude: true
