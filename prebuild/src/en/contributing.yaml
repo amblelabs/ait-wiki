@@ -1,7 +1,18 @@
 title: Contributing
 blocks:
   - _type: text
-    alt: PAGECMS and PULL REQUESTS
+    alt: Welcome
+    value: >-
+      ## WELCOME!
+
+
+      If you're on this page you're probably wanting to help make this wiki
+      better! on this page we'll go over the basics:
+
+
+      *   Creating a Fork
+          
+      *   Using PageCMS
 sidebar:
   open: false
   exclude: true
