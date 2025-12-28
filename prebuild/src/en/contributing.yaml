@@ -14,11 +14,11 @@ blocks:
           
       *   Using PageCMS
           
-      *   Writing Pages/Good Practices for Wiki writing
+      *   Good Practices
           
 
       This page is for both people wishing to contribute and training new
-      archivus.  
+      Archivus.  
 
       You will need a github account for this.
 
@@ -84,6 +84,20 @@ blocks:
 
 
       ## Good Practices
+
+
+      **Links**  
+        
+      Try to prevent using full links that include the protocol and domain when
+      linking to another page of the wiki itself, because otherwise it opens in
+      a new tab. For example, instead of  
+
+      `https://amblelabs.github.io/ait-wiki/items/zeiton-dust/`, use this
+      instead: `/items/zeiton-dust/`.  
+
+      That way the page doesn't open in a new tab when clicked. When the link
+      leads to an external site, then use the full link of course, because then
+      we leave the confines of the Wiki and then opening a new tab is ok.
 sidebar:
   open: false
   exclude: true
