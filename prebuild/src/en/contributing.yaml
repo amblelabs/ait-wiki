@@ -3,14 +3,14 @@ blocks:
   - _type: text
     alt: Welcome
     value: >-
-      ## WELCOME!
+      ## Welcome!
 
 
       If you're on this page you're probably wanting to help make this wiki
       better! on this page we'll go over the basics:
 
 
-      *   Creating a Fork
+      *   Forking the Wiki
           
       *   Using PageCMS
           
@@ -18,8 +18,32 @@ blocks:
           
 
       This page is for both people wishing to contribute and training new
-      archivus. (PLEASE UPDATE THIS PAGE WHEN STUFF CHANGES I FUCKING BEG OF
-      YOU)
+      archivus.  
+
+      You will need a github account for this.
+
+
+      (PLEASE UPDATE THIS PAGE WHEN STUFF CHANGES I FUCKING BEG OF YOU)
+  - _type: text
+    alt: Im so fucking lazy im copy pasting theos stuff
+    value: >-
+      ## Forking the Wiki
+
+
+      1.  Go to the github for the wiki [LINK](
+      https://github.com/amblelabs/ait-wiki/fork) (this link brings you to the
+      forking page for the wiki)
+          
+      2.  Choose a unique name for your fork (e.g. ait-wiki-my-fixes)
+          
+      3.  Press 'Create fork'
+          
+      4.  Open [PageCMS](https://pagescms.org) and sign in to your github
+          
+      5.  Open your fork of the wiki and start editing
+          
+
+      ## Using PageCMS
 sidebar:
   open: false
   exclude: true
