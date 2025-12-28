@@ -1,5 +1,7 @@
 title: Contributing
 blocks:
+  - _type: local-image
+    src: /images/contributing.png
   - _type: text
     alt: What can I say except youre welcome (I hated every second of this)
     value: >-
@@ -29,9 +31,9 @@ blocks:
       ## Forking the Wiki
 
 
-      1.  Go to the github for the wiki [LINK](
-      https://github.com/amblelabs/ait-wiki/fork) (this link brings you to the
-      forking page for the wiki)
+      1.  Go to the github for the wiki
+      [LINK](https://github.com/amblelabs/ait-wiki/fork) (this link brings you
+      to the forking page for the wiki)
           
       2.  Choose a unique name for your fork (e.g. ait-wiki-my-fixes)
           
@@ -85,7 +87,7 @@ blocks:
       ## Good Practices
 
 
-      **Links**  
+      **Links**
 
 
       Try to prevent using full links that include the protocol and domain when
