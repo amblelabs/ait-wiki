@@ -3,7 +3,8 @@ blocks:
   - _type: text
     alt: Content
     value: AIT works with [Datapacks](https://minecraft.wiki/w/Data_pack)! This lets
-      you customize your TARDIS (or [**sonic**](/items/sonic-screwdriver/)) to unlimited possibilities!
+      you customize your TARDIS (or [**sonic**](/items/sonic-screwdriver/)) to
+      unlimited possibilities!
   - _type: cards
     alt: Card Group
     cols: 2
@@ -21,7 +22,7 @@ blocks:
         image:
           _type: local-image
           src: /images/datapacks/custom_interior.png
-      - title: Custom Console Skins
+      - title: Custom Console Variants
         subtitle: You can customize what you want your favorite TARDIS Console to look
           like.
         link: custom-consoles
