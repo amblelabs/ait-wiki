@@ -15,7 +15,7 @@ blocks:
       *   When you reach your destination push the throttle back down
           
       *   However, during flights you'll have to do "flight event" **unless you
-      have Protocol 116 enabled**
+      have the Stabilisers enabled**
           
 
       ## What flight events are there?
@@ -48,10 +48,10 @@ blocks:
       1.  Antigravs
           
 
-      *   Ship computer offline!
+      *   TARDIS requires re-stabilisation
           
 
-      1.  P116
+      1.  Stabilisers
           
 
       ### 2 BUTTON EVENTS:
@@ -88,7 +88,7 @@ blocks:
       2.  Randomizer
           
 
-      *   Vortex drift: acceleration necessarry!
+      *   Vortex drift: acceleration necessary!
           
 
       1.  Increment
@@ -96,10 +96,10 @@ blocks:
       2.  Throttle
           
 
-      *   Immediate cloaking necessarry!
+      *   Immediate cloaking necessary!
           
 
-      1.  Protocol 3
+      1.  Shell Cloak
           
       2.  Randomizer
           
@@ -112,7 +112,7 @@ blocks:
       2.  Door Control
           
 
-      *   Small debries field!
+      *   Small debris field!
           
 
       1.  Increment
@@ -123,7 +123,7 @@ blocks:
       ### 3 BUTTON EVENTS:
 
 
-      *   Unstable landing posistion!
+      *   Unstable landing position!
           
 
       1.  Land Type
@@ -170,11 +170,11 @@ blocks:
       what do I do?
 
 
-      *   Auto pilot is something you can use to turn off flight events, however
-      it caps your speed low and you won't be able to gain loyalty.
+      *   The stabilisers are something you can use to turn off flight events,
+      however it caps your speed low and you won't be able to gain loyalty.
           
 
-      ## My controls are smoking and dont work
+      ## My controls are smoking and don't work
 
 
       Look at [control durability](/mechanics/tardis/control-durability/) This
