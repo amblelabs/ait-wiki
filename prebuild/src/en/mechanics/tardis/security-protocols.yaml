@@ -25,9 +25,10 @@ blocks:
       ## Leave Behind
 
 
-      When activating this feature any other guest that doesn't have a **[Key](/items/keys/)**
-      (that is linked to your TARDIS) will be left behind when taking off.
-      This feature is inspired by the Doctor Who episode "Blink"
+      When activating this feature any other guest that doesn't have a
+      [**Key**](/items/keys/) (that is linked to your TARDIS) will be left
+      behind when taking off. This feature is inspired by the Doctor Who episode
+      "Blink"
 
 
       ## Hostile Alarms
@@ -41,15 +42,15 @@ blocks:
       # Other Info
 
 
-      # How to activate Isomorphic Security (Protocol 19)
+      # How to activate Isomorphic Security
 
 
-      On the console, find "Protocol 19" and use a key linked to that TARDIS and
-      click on the control. Once that's done, anyone that has a key that's
-      linked to the current TARDIS can use the console, but anyone without a
-      lniked key cannot interact with the console at all, you can set what
-      loyalty a user needs to be in order to bypass this, like companion for
-      example via settings from the monitor.
+      On the console, find "Isomorphic Security" and use a key linked to that
+      TARDIS and click on the control. Once that's done, anyone that has a key
+      that's linked to the current TARDIS can use the console, but anyone
+      without a linked key cannot interact with the console at all, you can set
+      what loyalty a user needs to be in order to bypass this, like companion
+      for example via settings from the monitor.
 sidebar:
   open: false
   exclude: false
