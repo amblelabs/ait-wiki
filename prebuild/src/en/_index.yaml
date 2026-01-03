@@ -2,6 +2,8 @@ title: AIT Wiki
 cascade:
   type: docs
 blocks:
+  - _type: local-image
+    src: /images/wikibanner_final_v2.jpg
   - _type: callout
     type: info
     value: If you find any bugs / crashes, please create a [GitHub
