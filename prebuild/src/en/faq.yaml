@@ -3,14 +3,14 @@ blocks:
   - _type: text
     alt: Is there a channel with all of the community addons?
     value: >-
-      #### Q: Is there a channel with all of the community addons?
+      ### Q: Is there a channel with all of the community addons?
 
 
       A: Yes, however some developers have their own servers, like:
 
 
       *   [AIT Extras](https://discord.gg/kndce97FyU)
-
+          
 
       You can find the other addons in the addons channel on the AmbleLabs
       discord server (make sure to get the AIT role first in `Channels &
@@ -18,7 +18,7 @@ blocks:
   - _type: text
     alt: "What do I choose: datapack or mod for making an addon for AIT?"
     value: >-
-      #### Q: What do I choose: datapack or mod for making an addon for AIT?
+      ### Q: What do I choose: datapack or mod for making an addon for AIT?
 
 
       A: If you just want to add interiors, desktops, exterior and console
@@ -28,7 +28,7 @@ blocks:
   - _type: text
     alt: How do I make a mod addon?
     value: >-
-      #### Q: How do I make a mod addon?
+      ### Q: How do I make a mod addon?
 
 
       A: If you want to make a mod addon, refer to [this
@@ -36,7 +36,7 @@ blocks:
   - _type: text
     alt: How do I make a datapack addon?
     value: >-
-      #### Q: How do I make a datapack addon?
+      ### Q: How do I make a datapack addon?
 
 
       A: If you want to make a datapack addon, refer to [this
@@ -44,13 +44,13 @@ blocks:
   - _type: text
     alt: I changed my interior and now I can't turn the power on!
     value: |-
-      #### Q: I changed my interior and now I can't turn the power on!
+      ### Q: I changed my interior and now I can't turn the power on!
 
       A: You need to set up the [engine](/blocks/engine) again.
   - _type: text
     alt: Windows don't glow! (without Iris)
     value: >-
-      #### Q: Windows don't glow! (without Iris)
+      ### Q: Windows don't glow! (without Iris)
 
 
       A: Make sure you have the power on. If you use Iris or any of its
@@ -59,7 +59,7 @@ blocks:
   - _type: text
     alt: The toyota console is all black!
     value: >-
-      #### Q: The toyota console is all black!
+      ### Q: The toyota console is all black!
 
 
       A: Make sure you have the power on. If you use Iris or any of its
@@ -68,7 +68,7 @@ blocks:
   - _type: text
     alt: What mods are incompatible with AIT?
     value: >-
-      #### Q: What mods are incompatible with AIT?
+      ### Q: What mods are incompatible with AIT?
 
 
       A: Below are currently known incompatibilities, if you know of any not
@@ -90,7 +90,7 @@ blocks:
   - _type: text
     alt: The rendering is buggy with shaders
     value: >-
-      #### Q: The rendering is buggy with shaders!
+      ### Q: The rendering is buggy with shaders!
 
 
       A: The recommended combination is Iris 1.6.17 and Sodium 0.5.8, and above.
@@ -148,13 +148,13 @@ blocks:
   - _type: text
     alt: How do I become a beta tester?
     value: |-
-      #### Q: How do I become a beta tester?
+      ### Q: How do I become a beta tester?
 
       A: Beta testers? I don't know what you're talking about.
   - _type: text
     alt: Where can I download the mod?
     value: >-
-      #### Q: Where can I download the mod?
+      ### Q: Where can I download the mod?
 
 
       A: [Modrinth](https://modrinth.com/mod/ait) or
@@ -162,7 +162,7 @@ blocks:
   - _type: text
     alt: Can I get my [something] added?
     value: >-
-      #### Q: Can I get my \[something\] added?
+      ### Q: Can I get my \[something\] added?
 
 
       A: No, end of discussion. If we feel like it fits, we will contact you
@@ -171,7 +171,7 @@ blocks:
   - _type: text
     alt: How do I get beta builds?
     value: >-
-      Q: How do I get beta (dev) builds?
+      ### Q: How do I get beta (dev) builds?
 
 
       A: Donators, beta testers, team members and some addon developers get
@@ -181,7 +181,7 @@ blocks:
   - _type: text
     alt: What perks do donators get?
     value: |-
-      #### Q: What perks do donators get?
+      ### Q: What perks do donators get?
 
       A:
 
@@ -193,7 +193,7 @@ blocks:
   - _type: text
     alt: I got unfairly banned/I want to appeal my ban on the Discord/MC server!
     value: >-
-      #### Q: I got unfairly banned/I want to appeal my ban on the Discord/MC
+      ### Q: I got unfairly banned/I want to appeal my ban on the Discord/MC
       server!
 
 
@@ -201,7 +201,7 @@ blocks:
   - _type: text
     alt: Can you add support for Immersive Portals / add your own BOTI
     value: >-
-      #### Q: Can you add support for Immersive Portals / add your own BOTI?
+      ### Q: Can you add support for Immersive Portals / add your own BOTI?
 
 
       A: We are working on support for Immersive Portals currently. You can join
@@ -209,7 +209,7 @@ blocks:
   - _type: text
     alt: Is RWF/ARS/BOTI/other being added?
     value: >-
-      #### Q: Is RWF / ARS / BOTI / other being added?
+      ### Q: Is RWF / ARS / BOTI / other being added?
 
 
       A: A lot of stuff is planned for the mod, but these are a few of the most
@@ -251,7 +251,7 @@ blocks:
   - _type: text
     alt: Refuel?
     value: >-
-      Q: How do I refuel?
+      ### Q: How do I refuel?
 
 
       A: There's two ways to refuel, 1, you can turn on the handbrake then press
