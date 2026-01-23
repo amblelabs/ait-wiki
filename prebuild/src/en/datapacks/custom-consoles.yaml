@@ -37,7 +37,7 @@ blocks:
 
 
       *   Inside this new .json file, paste
-
+          
 
       > ```json
 
@@ -72,20 +72,20 @@ blocks:
 
 
       *   Place your **.png** console texture in this path
-
+          
 
       `assets/(namespace)/blockentites/consoles/(console_texture_name).png`
 
 
       *   Place your .**png** console texture emission in the same path
-
+          
 
       `assets/(namespace)/blockentites/consoles/(console_texture_name)_emission.png`
 
 
       *   If you want people to be able to see your console texture variant,
       they will need this **resource pack**.
-
+          
 
       ## Example Reference That's Easy to Follow :)
 
@@ -151,6 +151,10 @@ blocks:
       >     
 
       > *   Tokamak Console = `renaissance`
+
+      >     
+
+      > *   Hudolin Console = `hudolin`
 
       >
 sidebar:
