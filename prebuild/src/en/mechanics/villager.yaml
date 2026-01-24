@@ -21,7 +21,9 @@ blocks:
   - _type: text
     alt: Fabricator engineer trades
     value: >-
-      The items offered by the villager depend on its profession level, just like with vanilla villagers.<br>
+      The items offered by the villager depend on its profession level, just
+      like with vanilla villagers.  
+
       Here is an example of possible items:
 
 
@@ -30,3 +32,57 @@ blocks:
 
       Also, the [Psychic Paper](/items/psychic-paper) can decrease the price of
       items.
+  - _type: text
+    alt: All Trades
+    value: |-
+      Here are ALL of the possible trades from this villager:  
+
+      ### level 1
+
+      \- rift scanner
+
+      \- zeiton shard
+
+      \- hyperion core shaft
+
+      ### level 2
+
+      \- artron fluid link
+
+      \- artron mercurial link
+
+      \- transwarp resonator
+
+      \- matrix energizer
+
+      ### level 3
+
+      \- plasmic material
+
+      \- cable block
+
+      \- photon accelerator
+
+      \- console generator
+
+      ### level 4
+
+      \- geberuc subsystem
+
+      \- blueprint
+
+      \- orthogonal engine filter
+
+      \- waypoint catridge
+
+      \- waypoint bank
+
+      ### level 5
+
+      \- gold key upgrade smithing template
+
+      \- oxygenator block
+
+      \- landing pad
+
+      \- redstone control
