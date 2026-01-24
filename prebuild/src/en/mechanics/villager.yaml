@@ -39,50 +39,69 @@ blocks:
 
       ### level 1
 
-      \- rift scanner
+      *   rift scanner
+          
 
-      \- zeiton shard
+      *   zeiton shard
+          
 
-      \- hyperion core shaft
+      *   hyperion core shaft
+          
 
       ### level 2
 
-      \- artron fluid link
+      *   artron fluid link
+          
 
-      \- artron mercurial link
+      *   artron mercurial link
+          
 
-      \- transwarp resonator
+      *   transwarp resonator
+          
 
-      \- matrix energizer
+      *   matrix energizer
+          
 
       ### level 3
 
-      \- plasmic material
+      *   plasmic material
+          
 
-      \- cable block
+      *   cable block
+          
 
-      \- photon accelerator
+      *   photon accelerator
+          
 
-      \- console generator
+      *   console generator
+          
 
       ### level 4
 
-      \- geberuc subsystem
+      *   generic subsystem
+          
 
-      \- blueprint
+      *   blueprint
+          
 
-      \- orthogonal engine filter
+      *   orthogonal engine filter
+          
 
-      \- waypoint catridge
+      *   waypoint catridge
+          
 
-      \- waypoint bank
+      *   waypoint bank
+          
 
       ### level 5
 
-      \- gold key upgrade smithing template
+      *   gold key upgrade smithing template
+          
 
-      \- oxygenator block
+      *   oxygenator block
+          
 
-      \- landing pad
+      *   landing pad
+          
 
-      \- redstone control
+      *   redstone control
