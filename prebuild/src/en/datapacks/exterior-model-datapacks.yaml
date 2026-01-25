@@ -168,13 +168,13 @@ blocks:
       height) for both the interior AND exterior door. You can also set whether
       the BOTI Portal is always visible or not by setting
       `has_transparent_doors` to `true or false`
-
+          
 
       ### Custom Animations
 
 
       *   You can also add custom `mat, demat, and landed` animations (do be
-      aware that they wont override and animations you have selected in the
+      aware that they wont override any animations you have selected in the
       monitor, both will run at the same time)
           
       *   Along with exterior animations, you can add custom door animations for
