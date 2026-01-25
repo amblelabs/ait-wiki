@@ -207,10 +207,8 @@ blocks:
 
 
       *   This system is still pretty new so will have some issues. If you find
-      any please report them [HERE](https://github.com/amblelabs/modkit/issues)
-      and NOT on the AIT issues page as datapack exterior models are a part of
-      AmbleKit (Our mod library). Also make sure that your issue hasn't been
-      reported before!
+      any please report them [HERE](https://github.com/amblelabs/ait/issues).
+      Also make sure that your issue hasn't been reported before!
   - _type: callout
     type: warning
     value: If you need any help, feel free to ping `@addi3` in the Amble discord
