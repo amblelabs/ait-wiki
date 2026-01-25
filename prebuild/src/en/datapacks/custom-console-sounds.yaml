@@ -91,7 +91,145 @@ blocks:
 
       > *   Tokamak Console = `renaissance`
 
+      >     
+
+      > *   Hudolin Console = `hudolin`
+
       >
+  - _type: text
+    alt: Controls
+    value: |-
+      ## Here is a list of ALL control names in ait (as of 1.2.12)
+
+      *   ait:shields
+          
+      *   ait:electrical\_discharge
+          
+      *   ait:sonic\_port
+          
+      *   ait:load\_waypoint
+          
+      *   ait:engine\_overload
+          
+      *   ait:visualiser
+          
+      *   ait:save\_waypoint
+          
+      *   ait:console\_port
+          
+      *   ait:power
+          
+      *   ait:alarms
+          
+      *   ait:refueler
+          
+      *   ait:dimension
+          
+      *   ait:protocol\_1913
+          
+      *   ait:protocol\_3
+          
+      *   ait:protocol\_813
+          
+      *   ait:protocol\_19
+          
+      *   ait:direction
+          
+      *   ait:randomiser
+          
+      *   ait:z
+          
+      *   ait:y
+          
+      *   ait:x
+          
+      *   ait:increment
+          
+      *   ait:land\_type
+          
+      *   ait:telepathic\_circuit
+          
+      *   ait:monitor
+          
+      *   ait:antigravs
+          
+      *   ait:door\_lock
+          
+      *   ait:door\_control
+          
+      *   ait:fast\_return
+          
+      *   ait:throttle
+          
+      *   ait:handbrake
+          
+      *   ait:protocol\_116ait:shields
+          
+      *   ait:electrical\_discharge
+          
+      *   ait:sonic\_port
+          
+      *   ait:load\_waypoint
+          
+      *   ait:engine\_overload
+          
+      *   ait:visualiser
+          
+      *   ait:save\_waypoint
+          
+      *   ait:console\_port
+          
+      *   ait:power
+          
+      *   ait:alarms
+          
+      *   ait:refueler
+          
+      *   ait:dimension
+          
+      *   ait:protocol\_1913
+          
+      *   ait:protocol\_3
+          
+      *   ait:protocol\_813
+          
+      *   ait:protocol\_19
+          
+      *   ait:direction
+          
+      *   ait:randomiser
+          
+      *   ait:z
+          
+      *   ait:y
+          
+      *   ait:x
+          
+      *   ait:increment
+          
+      *   ait:land\_type
+          
+      *   ait:telepathic\_circuit
+          
+      *   ait:monitor
+          
+      *   ait:antigravs
+          
+      *   ait:door\_lock
+          
+      *   ait:door\_control
+          
+      *   ait:fast\_return
+          
+      *   ait:throttle
+          
+      *   ait:handbrake
+          
+      *   ait:protocol\_116
+          
+      *   ait:hammer\_hanger
+          
+      *   ait:refreshment\_control
 sidebar:
   open: false
   exclude: false
