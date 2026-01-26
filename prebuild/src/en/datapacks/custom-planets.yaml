@@ -15,7 +15,7 @@ blocks:
           
       *   Create a new **.json** file in the path
           
-          `data/(namespace)/planet/(planet_name).json`
+          `data/namespace/planet/planet_name.json`
   - _type: text
     alt: JSON File
     value: >-
@@ -26,7 +26,7 @@ blocks:
 
       > {
 
-      >  "dimension": "(dimension:name)",
+      >  "dimension": "dimension:name",
 
       >  "gravity": 0,
 
@@ -38,7 +38,7 @@ blocks:
 
       >  "render": {
 
-      >    "texture": "(texture:path.png)",
+      >    "texture": "texture:path.png",
 
       >    "position": [9000, 76, -8000],
 
@@ -73,11 +73,11 @@ blocks:
       > ```
 
 
-      *   replacing the **(dimension:name)** with the name of the dimension that
-      you want to be taken too when entering the planets “surface”.
+      *   replacing the `dimension:name` with the name of the dimension that you
+      want to be taken too when entering the planets “surface”.
           
-      *   Make sure to set the **(texuture:path.png)** to the file location of
-      the plant texture (see below for how to do so).
+      *   Make sure to set the `texuture:path.png` to the file location of the
+      plant texture (see below for how to do so).
           
       *   Remeber that space in AIT is BIG so make sure your planet is far
       enought away from others nearby.
@@ -94,28 +94,28 @@ blocks:
 
 
       *   Place your **.png** planet texture in this path
+          
 
-
-      `assets/(namespace)/textures/environment/(plant_name).png`
+      `assets/namespace/textures/environment/plant_name.png`
 
 
       *   Place your .**png** ring texture emission in the same path
+          
 
-
-      `assets/(namespace)/textures/environment/(plant_name)_ring.png`
+      `assets/namespace/textures/environment/plant_name_ring.png`
 
 
       *   If you want people to be able to see your planet texture variant, they
       will need this **resource pack**.
-
+          
 
       ## Example Reference That’s Easy to Follow :)
 
 
-      > This is just an example, do not use the ID “(namespace)” and make sure
+      > This is just an example, do not use the ID “namespace” and make sure
       you’re not using any parentheses. Those are just there for making sure you
-      replace (namespace) with your own ID and (console\_texture\_name) with
-      your texture’s name.
+      replace namespace with your own ID and (console\_texture\_name) with your
+      texture’s name.
 
 
       Once you’re finished, the json file should look like this:
@@ -151,7 +151,7 @@ blocks:
 
 
       And your resourcepack directory should look like this:
-      `assets/(namespace)/textures/environment/(png files)`
+      `assets/namespace/textures/environment/`
 
 
       And once you make sure the textures are inside of the directory above,
