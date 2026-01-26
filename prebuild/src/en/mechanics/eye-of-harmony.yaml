@@ -1,11 +1,10 @@
 title: Eye of Harmony
 blocks:
+  - _type: local-image
+    src: /images/mechanics/tardis/eye_of_harmony.png
   - _type: text
     alt: Content
     value: >-
-      ![](/images/mechanics/tardis/tardis_star.png)
-
-
       ## What does it do?
 
 
