@@ -24,7 +24,7 @@ blocks:
       use it. blockbench also has built in texture editing and creation.
 
 
-      ### [Blockbench Website](https://www.blockbench.net)
+      [Blockbench Website](https://www.blockbench.net)
 
 
       *   Audio
@@ -35,7 +35,7 @@ blocks:
       (probably) be using it for.
 
 
-      ### [Audacity Website](https://www.audacityteam.org)
+      [Audacity Website](https://www.audacityteam.org)
   - _type: text
     alt: fuckhowdoimakeapackinthefirstplace
     value: >-
@@ -47,10 +47,10 @@ blocks:
       creating a datapack and resource pack.
 
 
-      ### [Datapack](https://minecraft.wiki/w/Tutorial:Creating_a_data_pack)
+      [Datapack](https://minecraft.wiki/w/Tutorial:Creating_a_data_pack)
 
 
-      ### [Resource Pack](minecraft.wiki/w/Tutorials/Creating_a_resource_pack)
+      [Resource Pack](minecraft.wiki/w/Tutorials/Creating_a_resource_pack)
 sidebar:
   open: false
   exclude: false
