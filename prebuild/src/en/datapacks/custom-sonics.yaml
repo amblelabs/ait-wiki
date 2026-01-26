@@ -28,7 +28,7 @@ blocks:
       *   Create a new **.json** file in the path
           
 
-      > `data/(namespace)/sonic/(sonic_texture_name).json`
+      > `data/namespace/sonic/sonic_texture_name.json`
 
 
       *   Inside this new .json file, paste
@@ -38,25 +38,25 @@ blocks:
 
       > {
 
-      >   "id": "(namespace):(sonic_name)",
+      >   "id": "namespace:sonic_name",
 
       >   "models":{
 
-      >   "inactive": "(namespace):item/sonic/(sonic_model_name)",
+      >   "inactive": "namespace:item/sonic/sonic_model_name",
 
-      >   "interaction": "(namespace):item/sonic/(sonic_model_name)",
+      >   "interaction": "namespace:item/sonic/sonic_model_name",
 
-      >   "overload": "(namespace):item/sonic/(sonic_model_name)",
+      >   "overload": "namespace:item/sonic/sonic_model_name",
 
-      >   "scanning": "(namespace):item/sonic/(sonic_model_name)",
+      >   "scanning": "namespace:item/sonic/sonic_model_name",
 
-      >   "tardis": "(namespace):item/sonic/(sonic_model_name)"
+      >   "tardis": "namespace:item/sonic/sonic_model_name"
 
       >   },
 
       >   "loyalty": {
 
-      >   "type": "(RANK TYPE)"
+      >   "type": "RANK TYPE"
 
       > }
 
@@ -65,13 +65,8 @@ blocks:
       > ```
 
 
-      > > Note: If you have a custom category, instead of something like
-      `"category": "ait:sonic/mechanical"` it would be `"category":
-      "(namespace):(custom_category)"`.
-
-
-      *   replacing the **namespace** and the **sonic\_texture\_name** with your
-      own from earlier
+      *   replacing the **namespace** and the `sonic_texture_name` with your own
+      from earlier
           
       *   replace rank type with either; Owner, Pilot, Companion, Neutral,
       Reject
@@ -102,8 +97,6 @@ blocks:
       > *   Make sure to replace `namespace.name` with your namespace and name
       from the datapack and replace `ingame name` with what you want it to be
       called in game.
-
-      >
 sidebar:
   open: false
   exclude: false
