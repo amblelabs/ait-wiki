@@ -35,7 +35,8 @@ blocks:
 
       First save your interior, and note down your namespace (before the colon)
       and desktop name (after the colon) The _.nbt_ will be saved to
-      `.minecraft/saves/(WorldName)/generated/(namespace)/structures`.
+      `.minecraft/saves/WorldName/generated/namespace/structures`. (`namespace`
+      is usually `minecraft`)
 
 
       * * *
@@ -51,13 +52,13 @@ blocks:
       *   Place the .nbt file from earlier in
           
 
-      `data/(namespace)/structures/interiors/(desktop_name).nbt`
+      `data/namespace/structures/interiors/desktop_name.nbt`
 
 
       *   Create a new **.json** file in the path
           
 
-      `data/(namespace)/desktop/(desktop_name).json`
+      `data/namespace/desktop/desktop_name.json`
 
 
       *   Inside this new .json file, paste
@@ -91,7 +92,7 @@ blocks:
       *   Place your **.png** preview in the path
           
 
-      `assets/(namespace)/textures/desktop/(desktop_name).png`
+      `assets/namespace/textures/desktop/desktop_name.png`
 
 
       *   If you want people to be able to see your preview, they will need this
