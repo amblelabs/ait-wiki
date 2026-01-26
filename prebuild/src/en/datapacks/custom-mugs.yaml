@@ -22,7 +22,7 @@ blocks:
       *   Create a new **.json** file in the path
           
 
-      > `data/(namespace)/drink/effect/(drink_name).json`
+      > `data/namespace/drink/effect/drink_name.json`
 
 
       *   Inside this new .json file, paste
@@ -32,21 +32,21 @@ blocks:
 
       > {
 
-      >  "id": "(name:of_drink)",
+      >  "id": "name:of_drink",
 
       >  "has_custom_color": true / false,
 
-      >  "custom_color": [(value), (value), (value)],
+      >  "custom_color": [value, value, value],
 
       >  "potion_instances": [
 
       >    {
 
-      >    "id": "(potion:id)",
+      >    "id": "potion:id",
 
-      >    "duration": (value),
+      >    "duration": value,
 
-      >    "amplifier": (value),
+      >    "amplifier": value,
 
       >    "ambient": true / false,
 
@@ -63,11 +63,11 @@ blocks:
       > ```
 
 
-      *   When replacing the **(name:of\_drink)**, make sure that it is the same
-      as the name of the `.json` file and to replace **(potion:id)** with the id
-      of a potion effect
+      *   When replacing the `name:of_drink`, make sure that it is the same as
+      the name of the `.json` file and to replace **(potion:id)** with the id of
+      a potion effect
           
-      *   Make sure to also replace **(value)** with a number.
+      *   Make sure to also replace `value` with a number.
           
       *   Now put this **datapack** into Minecraft.
           
