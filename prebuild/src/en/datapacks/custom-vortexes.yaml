@@ -17,7 +17,7 @@ blocks:
       Create a new **.json** file in the path
 
 
-      > `data/(namespace)/fx/vortex/(vortex_name).json`
+      > `data/namespace/fx/vortex/vortex_name.json`
 
 
       Inside this new .json file, paste:
@@ -27,9 +27,9 @@ blocks:
 
       > {
 
-      >   "id": "(namespace):(vortex_name)",
+      >   "id": "namespace:vortex_name",
 
-      >   "texture": "(namespace):textures/vortex/(vortex_name).png"
+      >   "texture": "namespace:textures/vortex/vortex_name.png"
 
       > }
 
@@ -56,7 +56,7 @@ blocks:
       Place your **.png** vortex texture in this path
 
 
-      `assets/(namespace)/vortex/(vortex_name).png`
+      `assets/namespace/vortex/vortex_name.png`
 
 
       If you want people to be able to see your vortex variant, they will need
@@ -65,7 +65,7 @@ blocks:
       file, keep it the same as shown above!)
 
 
-      `(vortex_name)_second.png` and `(vortex_name)_third.png`
+      `vortex_name_second.png` and `vortex_name_third.png`
 sidebar:
   open: false
   exclude: false
