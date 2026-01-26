@@ -17,7 +17,7 @@ blocks:
       Create a new **.json** file in the path
 
 
-      > `data/(namespace)/fx/animation/keyframes/(animation_name).json`
+      > `data/namespace/fx/animation/keyframes/animation_name.json`
 
 
       *   This will contain the "code" for the animation, you can edit one in
@@ -34,7 +34,7 @@ blocks:
       Create a new **.json** file in the path
 
 
-      > `data/(namespace)/fx/animation/type/(animationname_demat).json`
+      > `data/namespace/fx/animation/type/animation_name_demat.json`
 
 
       Inside this new .json file, paste:
@@ -44,11 +44,11 @@ blocks:
 
       > {
 
-      >  "id": "(id:animationname_demat)",
+      >  "id": "id:animation_name_demat",
 
       >  "expected_state": "demat",
 
-      >  "sound": "(sound:id_demat)"
+      >  "sound": "sound:id_demat"
 
       > }
 
