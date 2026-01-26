@@ -1,0 +1,11 @@
+title: datapacks
+blocks:
+  - _type: callout
+    type: warning
+    value: |-
+      DO NOT KEEP THE BRACKETS IN THE CODE
+
+      IT WILL BREAK YOUR DATAPACK MAKING IT NOT WORK
+sidebar:
+  open: false
+  exclude: false
