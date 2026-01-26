@@ -26,7 +26,7 @@ blocks:
       Create a new **.json** file in the path
 
 
-      > `data/(namespace)/hum/(hum_name).json`
+      > `data/namespace/hum/hum_name.json`
 
 
       *   Inside this new .json file, paste
@@ -36,11 +36,11 @@ blocks:
 
       > {
 
-      >  "id": "(id:of_hum)",
+      >  "id": "namespace:of_hum",
 
       >  "sound": {
 
-      >    "sound_id": "(sound:id)"
+      >    "sound_id": "sound:id"
 
       >  }
 
@@ -49,8 +49,8 @@ blocks:
       > ```
 
 
-      *   When replacing the **id:of\_hum** and the **sound:id**, make sure that
-      the **id:of\_hum** is named the same as the json file and the sounds id
+      *   When replacing the **id:of\_hum** and the **sound:id**. Make sure that
+      the `of_hum` part is named the same as the json file and the sounds id
       matches what it is ingame (using the `/playsound` command), also try to
       name it a singular word.
           
