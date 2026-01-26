@@ -1,5 +1,12 @@
 title: Datapack Modifications
 blocks:
+  - _type: callout
+    type: warning
+    value: |-
+      Keeping the brackets in your code will render your datapack unusable.
+
+      make sure no brackets are no the code **except** these ones:  
+      **{ } \[ \]**
   - _type: text
     alt: Content
     value: AIT works with [Datapacks](https://minecraft.wiki/w/Data_pack)! This lets
