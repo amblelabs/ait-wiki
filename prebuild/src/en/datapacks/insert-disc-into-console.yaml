@@ -33,7 +33,7 @@ blocks:
 
       >  "values": [
 
-      >    "(name_space:disc_name)"
+      >    "namespace:disc_name"
 
       >  ]
 
@@ -46,9 +46,8 @@ blocks:
           
       *   Replace **(disc\_name)** with the name of the disc item.
           
-      *   If you want to add more items, add a `,` after
-      `"(name_space:disc_name)"` then on a new like add
-      `"(name_space:disc_name)"`
+      *   If you want to add more items, add a `,` after `"namespace:disc_name"`
+      then on a new like add `"namespace:disc_name"`
 sidebar:
   open: false
   exclude: false
