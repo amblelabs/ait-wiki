@@ -24,7 +24,7 @@ blocks:
       Create a new **.json** file in the path
 
 
-      > `data/(namespace)/fx/flight/(flight_sound_name).json`
+      > `data/namespace/fx/flight/flight_sound_name.json`
 
 
       Inside this new .json file, paste:
@@ -34,9 +34,9 @@ blocks:
 
       > {
 
-      >  "id": "(namespace:name)",
+      >  "id": "namespace:name",
 
-      >  "sound": "(sound:id)",
+      >  "sound": "sound:id",
 
       >  "length": `VALUE`
 
@@ -45,7 +45,7 @@ blocks:
       > ```
 
 
-      *   Replace the **(namespace:name)** with the same name as the json file.
+      *   Replace the `namespace:name` with the same name as the json file.
           
       *   Replace the **sound:id**, make and the sounds id matches what it is
       ingame (using the `/playsound` command), also try to name it a singular
