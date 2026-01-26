@@ -16,7 +16,7 @@ blocks:
     value: |-
       Create a new **.json** file in the path
 
-      > `data/(namespace)/categories/(category_name).json`
+      > `data/namespace/categories/category_name.json`
       > 
       > *   This will contain the "code" for the categorie.
       >     
