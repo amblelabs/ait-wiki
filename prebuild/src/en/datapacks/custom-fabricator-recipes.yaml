@@ -19,7 +19,7 @@ blocks:
       *   Create a new **.json** file in the path
           
 
-      > `data/(namespace)/blueprint/(item_name).json`
+      > `data/namespace/blueprint/item_name.json`
 
 
       *   Inside this new .json file, paste
@@ -31,7 +31,7 @@ blocks:
 
       > "output": {
 
-      >    "id": "(name:of_item_you_want_to_make)",
+      >    "id": "name:of_item_you_want_to_make",
 
       >    "Count": 1 
 
@@ -41,7 +41,7 @@ blocks:
 
       >    {
 
-      >      "item": "(name:of_item_you_want_recipe_to_use)",
+      >      "item": "name:of_item_you_want_recipe_to_use",
 
       >      "maxCount": 2, 
 
@@ -51,7 +51,7 @@ blocks:
 
       >    {
 
-      >      "item": "(name:of_item_you_want_recipe_to_use)",
+      >      "item": "name:of_item_you_want_recipe_to_use",
 
       >      "maxCount": 6, 
 
