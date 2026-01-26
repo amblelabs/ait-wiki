@@ -18,7 +18,7 @@ blocks:
       *   Create a new **.json** file in the path
           
 
-      > `data/(namespace)/locked_dimension/(dimension_name).json`
+      > `data/namespace/locked_dimension/dimension_name.json`
 
 
       *   Inside this new .json file, paste
@@ -28,17 +28,17 @@ blocks:
 
       > {
 
-      >  "dimension": "(dimension:id)",
+      >  "dimension": "dimension:id",
 
-      >  "stack": "(item stack codec)"
+      >  "stack": "item stack codec"
 
       > }
 
       > ```
 
 
-      *   Replace the **(dimension:id)** with the name and mod id for the
-      dimension you want locking.
+      *   Replace the `dimension:id` with the name and mod id for the dimension
+      you want locking.
           
       *   If you are not sure what `item stack codec` is, you can google it OR
       ask in the AIT discord server!
