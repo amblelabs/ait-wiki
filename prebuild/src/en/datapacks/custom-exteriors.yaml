@@ -36,27 +36,27 @@ blocks:
       *   Create a new **.json** file in the path
           
 
-      > `data/(namespace)/exterior/(exterior_texture_name).json`
+      > `data/namespace/exterior/exterior_texture_name.json`
 
 
       *   Inside this new .json file, paste
-
+          
 
       > ```json
 
       > {
 
-      >   "id": "(namespace):(exterior_texture_name)",
+      >   "id": "namespace:exterior_texture_name",
 
-      >   "category": "ait:exterior/(refer to example below)",
+      >   "category": "ait:exterior/exterior_category",
 
-      >   "parent": "ait:exterior/(refer to example below)",
+      >   "parent": "ait:exterior/exterior_type",
 
       >   "texture":
-      "(namespace):textures/blockentites/exteriors/(exterior_texture_name).png",
+      "namespace:textures/blockentites/exteriors/exterior_texture_name.png",
 
       >   "emission":
-      "(namespace):textures/blockentites/exteriors/(exterior_texture_name)_emission.png"
+      "namespace:textures/blockentites/exteriors/exterior_texture_name_emission.png"
 
       > }
 
@@ -66,7 +66,7 @@ blocks:
 
       > > Note: If you have a custom category, instead of something like
       `"category": "ait:exterior/police_box"` it would be `"category":
-      "(namespace):(custom_category)"`.
+      "namespace:custom_category"`.
 
 
       *   replacing the **namespace** and the **exterior\_texture\_name** with
@@ -83,20 +83,20 @@ blocks:
 
 
       *   Place your **.png** exterior texture in this path
+          
 
-
-      `assets/(namespace)/textures/blockentites/exteriors/(exterior_texture_name).png`
+      `assets/namespace/textures/blockentites/exteriors/exterior_texture_name.png`
 
 
       *   Place your .**png** exterior texture emission in the same path
+          
 
-
-      `assets/(namespace)/textures/blockentites/exteriors/(exterior_texture_name)_emission.png`
+      `assets/namespace/textures/blockentites/exteriors/exterior_texture_name_emission.png`
 
 
       *   If you want people to be able to see your exterior texture variant,
       they will need this **resource pack**.
-
+          
 
       ## Example Reference That's Easy to Follow :)
 
@@ -118,11 +118,11 @@ blocks:
       ```json
 
       {
-        "id": "(namespace):my_exterior",
+        "id": "namespace:my_exterior",
         "category": "ait:exterior/police_box",
         "parent": "ait:exterior/police_box/default",
-        "texture": "(namespace):textures/(exterior_texture_name).png",
-        "emission": "(namespace):textures/(exterior_texture_name)_emission.png"
+        "texture": "namespace:textures/exterior_texture_name.png",
+        "emission": "namespace:textures/exterior_texture_name_emission.png"
       }
 
       ```
@@ -250,12 +250,12 @@ blocks:
 
       1.  In the same directory as the other .**json** files for your exterior,
       make a new one called (id).json and do the syntax as follows:
-
+          
 
       ```json
 
       {
-        "id": "(namespace):(custom_category_name)",
+        "id": "namespace:custom_category_name",
         "name": "Custom Category Name"
       }
 
@@ -272,7 +272,7 @@ blocks:
       here](https://minecraft.wiki/w/Language))
 
 
-      1.  make a new file in `assets/(namespace)/lang` called `en_us.json`
+      1.  make a new file in `assets/namespace/lang` called `en_us.json`
           
       2.  write the following into the file you just made
           
@@ -316,13 +316,13 @@ blocks:
       *   Place your **.png** exterior texture in this path
           
 
-      `assets/(namespace)/exterior/(exterior_texture_name).png`
+      `assets/namespace/exterior/exterior_texture_name.png`
 
 
       *   Place your .**png** exterior texture emission in the same path
           
 
-      `assets/(namespace)/exterior/(exterior_texture_name)_emission.png`
+      `assets/namespace/exterior/exterior_texture_name_emission.png`
 
 
       *   If you want people to be able to see your exterior texture variant,
@@ -344,18 +344,18 @@ blocks:
       ```json
 
       {
-        "id": "(namespace):my_exterior",
+        "id": "namespace:my_exterior",
         "category": "ait:exterior/police_box",
         "parent": "ait:exterior/police_box/default",
-        "texture": "(namespace):textures/(exterior_texture_name).png",
-        "emission": "(namespace):textures/(exterior_texture_name)_emission.png"
+        "texture": "namespace:textures/exterior_texture_name.png",
+        "emission": "namespace:textures/exterior_texture_name_emission.png"
       }
 
       ```
 
 
       And your resourcepack directory should look like this:
-      `(namespace)/assets/textures/`
+      `namespace/assets/textures/`
 
 
       And once you make sure the textures are inside of the directory above,
