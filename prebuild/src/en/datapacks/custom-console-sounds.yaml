@@ -23,8 +23,7 @@ blocks:
       *   Create a new **.json** file in the path
           
 
-      >
-      `data/(namespace)/control_sounds/(console_name)/(console_control_name).json`
+      > `data/namespace/control_sounds/console_name/console_control_name.json`
 
 
       *   Inside this new .json file, paste
@@ -34,13 +33,13 @@ blocks:
 
       > {
 
-      >  "control": "(name:of_control)",
+      >  "control": "name:of_control",
 
-      >  "console": "ait:console/(console_name)",
+      >  "console": "ait:console/console_name",
 
-      >  "success_sound": "(sound:id)",
+      >  "success_sound": "sound:id",
 
-      >  "alt_sound": "(sound:id_alt)"
+      >  "alt_sound": "sound:id_alt"
 
       > }
 
