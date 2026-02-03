@@ -34,9 +34,8 @@ blocks:
       table for it to work.
   - _type: callout
     type: info
-    value: You won't need JEI, REI, or any other recipe mod for this, as the
-      fabricator tells you what items and the amount you need. Support for these
-      mods MAY come in the future.
+    value: There is support for JEI, However there is currently NO support for REI
+      or EMI
   - _type: local-image
     src: /images/blocks/engine_stuff_blocks/fabricator_recipe.png
     alt: Fabricator Recipe
