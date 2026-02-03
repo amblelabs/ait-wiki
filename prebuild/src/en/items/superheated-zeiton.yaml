@@ -1,0 +1,24 @@
+title: Superheated Zeiton
+blocks:
+  - _type: local-image
+    src: /images/items/zeiton/items/Superheated.png
+  - _type: text
+    alt: "Zeiton "
+    value: >-
+      # What does Superheated Zeiton even do?
+
+
+      Superheated zeiton is used for many recipes for the
+      [fabricator](/ait-wiki/blocks/fabricator/) and even base recipes in the
+      mod!
+
+
+      # How do i get it though?
+
+
+      You get superheated Zeiton using a blast furnace like this:
+  - _type: local-image
+    src: /images/items/zeiton/items/super_recipe.png
+sidebar:
+  open: false
+  exclude: false
