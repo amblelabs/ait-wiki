@@ -5,14 +5,14 @@ blocks:
   - _type: text
     alt: "Zeiton "
     value: >-
-      # What does Superheated Zeiton even do?
+      ## What does Superheated Zeiton even do?
 
 
       Superheated zeiton is used for many recipes for the
       [fabricator](/blocks/fabricator/) and even base recipes in the mod!
 
 
-      # How do i get it though?
+      ## How do i get it though?
 
 
       You get superheated Zeiton using a blast furnace like this:
