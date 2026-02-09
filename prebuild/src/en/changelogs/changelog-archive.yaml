@@ -1461,7 +1461,7 @@ blocks:
   - _type: text
     alt: Content30
     value: |-
-      ## 1.2.30
+      ## 1.2.30 _Beta_
 
       *   Cloak now shows tooltip when changing value
           
