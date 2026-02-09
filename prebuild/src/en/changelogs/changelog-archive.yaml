@@ -984,7 +984,7 @@ blocks:
   - _type: text
     alt: 1.2.0
     value: >-
-      ## 1.2.0
+      ## 1.2.0 - the "Expanded" Update
 
 
       refer to [Update 1.2.0 - "Expanded"
@@ -1274,13 +1274,13 @@ blocks:
   - _type: text
     alt: 1.2.46
     value: |-
-      ## 1.2.46
+      ## 1.2.46 _Beta_
 
       *   Performance stuff
   - _type: text
     alt: Content1245
     value: |-
-      ## 1.2.45
+      ## 1.2.45 _Beta_
 
       *   stuff (very descriptive thanks guys)
           
@@ -1288,13 +1288,41 @@ blocks:
   - _type: text
     alt: Content1244
     value: |-
-      ## 1.2.44
+      ## 1.2.44 _Beta_
 
       *   performance optimization cuz for some reason DUZO ticked a bad thing
           
       *   HOLY FUCK THE SERVER IS AT 10 TPS
           
       *   Update sonic so it can be used on anything to get the repair time
+  - _type: text
+    alt: Content43
+    value: |-
+      ## 1.2.43
+
+      *   Fixed a typo
+          
+      *   Lag fix
+  - _type: text
+    alt: Content42
+    value: |-
+      ## 1.2.42
+
+      *   Fixed tardis flight and crash data
+          
+      *   sonic can see repair time left, shift right click the exterior
+  - _type: text
+    alt: Content41
+    value: |-
+      ## 1.2.41
+
+      *   Fixed tardis flight being bugged
+  - _type: text
+    alt: Content40
+    value: |-
+      ## 1.2.40
+
+      *   loqor broke something, it's fixed now
 sidebar:
   open: false
   exclude: false
