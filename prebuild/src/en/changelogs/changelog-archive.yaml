@@ -1497,7 +1497,127 @@ blocks:
 
       *   Hot fix crash
   - _type: text
-    alt: Content
+    alt: 1.2.26
+    value: >-
+      ## 1.2.26 _Beta_
+
+
+      *   Added Security
+          
+      *   Those without linked keys will be left behind on demat
+          
+      *   Those without linked keys cannot use the console
+          
+      *   Autopilot now only works on lowest speed
+          
+      *   Flipping the handbrake with autopilot enabled now forces you to land
+      instead of crashing
+          
+      *   Crashing now causes an explosion
+          
+      *   Monitor can now be rotated freely
+          
+      *   Added eighth doctor hum
+          
+      *   Made a different particle show when refueling in a RiftChunk
+          
+      *   Updated monitor screen
+          
+      *   Added four new creak sounds
+          
+      *   Added a LinkCommand
+          
+      *   Failing to takeoff/land no longer sends a message to the pilot
+          
+      *   Flight sounds no longer play when out of power
+          
+      *   Fixed being unable to turn off antigravs at max world height
+          
+      *   Fixed issues with Siege Mode
+          
+      *   Added a temporary command to force tardises out of siege mode
+          
+      *   Created ArtronHolder interface
+          
+      *   Renamed "ExteriorSchema" to "ExteriorCategory"
+          
+      *   Moved "hasPortals" method into the individual variants
+          
+      *   Readded syncing if you have a linked item
+  - _type: text
+    alt: 1.2.25
+    value: |-
+      ## 1.2.25 _Beta_
+
+      *   Fixed a crash
+  - _type: text
+    alt: 1.2.24
+    value: >-
+      ## 1.2.24 _Beta_
+
+
+      *   Fixed not being able to refuel in non rift chunks
+          
+      *   Updated neptune lib with a few bug fixes and an update to the discord
+      integration
+          
+      *   Buffed rift chunks 300 to 1000 AU in a chunk
+          
+      *   Alarms don't go off for hostile named entities
+  - _type: text
+    alt: 1.2.23 - 1.2.16
+    value: >-
+      ## 1.2.23
+
+
+      *   fixed crash for flight sound again
+          
+
+      ## 1.2.22
+
+
+      *   fixed crash for flight sound
+          
+
+      ## 1.2.21
+
+
+      *   Fixed more getChunk methods, they were in tardis flight code, should
+      help with the performance
+          
+
+      ## 1.2.20
+
+
+      *   Fixed FuelData and rift chunks to reduce lag
+          
+
+      ## 1.2.19
+
+
+      *   Update neptunelib to hopefully fix some lag
+          
+
+      ## 1.2.18
+
+
+      *   Updated neptunelib so that people can't be pinged anymore
+          
+
+      ## 1.2.17
+
+
+      *   Updated neptunelib
+          
+
+      ## 1.2.16
+
+
+      *   Temporary removal of code causing critical lag/bugs
+          
+      *   Made sonic TARDIS mode work up to 256 blocks
+          
+      *   Made sonic TARDIS mode only set destination after radius
 sidebar:
   open: false
   exclude: false
