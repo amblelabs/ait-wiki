@@ -3,9 +3,8 @@ description: archived for the world to see!
 blocks:
   - _type: callout
     type: info
-    value: due to issues (_the dev team not adding a changelog to modrinth_) some
-      updates will not have a proper changelog, we will try to get any
-      non-documented updates documented as soon as possible!
+    value: due to issues (_the dev team not adding a proper changelog to modrinth_)
+      some updates will not have a proper changelog
   - _type: text
     alt: 1.2.12
     value: >-
@@ -1298,7 +1297,7 @@ blocks:
   - _type: text
     alt: Content43
     value: |-
-      ## 1.2.43
+      ## 1.2.43 _Beta_
 
       *   Fixed a typo
           
@@ -1306,7 +1305,7 @@ blocks:
   - _type: text
     alt: Content42
     value: |-
-      ## 1.2.42
+      ## 1.2.42 _Beta_
 
       *   Fixed tardis flight and crash data
           
@@ -1314,15 +1313,191 @@ blocks:
   - _type: text
     alt: Content41
     value: |-
-      ## 1.2.41
+      ## 1.2.41 _Beta_
 
       *   Fixed tardis flight being bugged
   - _type: text
     alt: Content40
     value: |-
-      ## 1.2.40
+      ## 1.2.40 _Beta_
 
       *   loqor broke something, it's fixed now
+  - _type: text
+    alt: Content39
+    value: |-
+      ## 1.2.39 _Beta_
+
+      *   quick hotfix boot crash on old worlds
+  - _type: text
+    alt: Content36
+    value: >-
+      ## 1.2.36 _Beta_
+
+
+      *   Added a tardis versioning system to help with migration from one
+      system to another
+          
+      *   Changed how crashing works so that the player actually takes damage
+      when they crash severity depends on annoyance
+          
+      *   Fixed a crash that happens when the tardis loses power
+          
+      *   Fixed a crash in server tardis manager
+          
+      *   Add a music section for sounds
+          
+      *   Added drifting song by radio (I'll update with the new version when he
+      adds that)
+          
+      *   Added a music disc for drifting
+          
+      *   Starts playing drifting a random amount of time after the tardis power
+      turns off
+          
+      *   Fixed a crash with exterior renderer with sodium
+          
+      *   Made it so that drifting starts playing a random amount of time after
+      power is shut off in a tardis
+          
+      *   Replaced DeltaTimeManager with the one from neptunelib
+          
+      *   Added drifting music disc to dungeon loot tables
+  - _type: text
+    alt: Content35
+    value: >-
+      ## 1.2.35 _Beta_
+
+
+      *   Fixed crash with ClientExteriorVariantRegistry
+          
+      *   fixed a comodification error
+          
+      *   Added a warning and maybe a fix to some weird error with datapacks
+          
+      *   qol change for isomorphic for ops
+          
+      *   maybe fixed console caching bug
+          
+      *   and whatever the fuck loqor did cuz he doesn't use the changelog
+          
+      *   Slightly lowered fuel cost for hammer use
+          
+      *   Lowered limit of tardis hammer annoyance to 3, and instead of a
+      guaranteed chance to crash after 3, you now have a random chance that
+      increases as the annoyance builds
+          
+      *   Fixed a crash with getting the tardis dimension yet again client sided
+  - _type: text
+    alt: Content34
+    value: |-
+      ## 1.2.34 _Beta_
+
+      *   Fixed hammer giving infinite fuel
+          
+      *   Fixed crash with hammer
+          
+      *   Buffed hammer
+          
+      *   Fixed void saving
+  - _type: text
+    alt: Content33
+    value: >-
+      ## 1.2.33 _Beta_
+
+
+      *   New Steam Variant: Cherry
+          
+      *   Max increment changed to 10,000.
+          
+      *   Max fuel amount changed to 50,000au.
+          
+      *   Fixed telepathic circuit being broken
+          
+      *   Added functionality to the hammer, hitting the console with it now
+      speeds up flight at a cost 😉
+          
+      *   Hitting the console with a hammer causes the tardises "hammer
+      annoyance" to go up, when it reaches 7 your tardis will crash, the crash
+      severity depends on how high your annoyance is
+          
+      *   Fuel cost goes up the higher the hammer annoyance is, and you get
+      diminishing returns
+          
+      *   Fuel cost per hammer hit, affected by annoyance
+          
+      *   Hammer annoyance decays by 1 every 10 seconds
+  - _type: text
+    alt: Content32
+    value: |-
+      ## 1.2.32 _Beta_
+
+      *   TARDIS no longer shakes during flight if autopilot is enabled
+          
+      *   TARDIS now plays creaks if in flight without autopilot
+          
+      *   Fixed telepathic circuit ignoring security
+          
+      *   Fixed issues with monitor exterior selection
+          
+      *   Fixed alarm fog being crazy fast
+          
+      *   Made creak 6 & 7 louder
+          
+      *   Fixed unnecessary chunk loading causing memory and performance issues
+  - _type: text
+    alt: Content31
+    value: |-
+      ## 1.2.31 _Beta_
+
+      *   DATAPACK SUPPORT FOR EXTERIOR VARIANTS WOO!! - view wiki for details
+          
+      *   Datapack support for exterior categories
+          
+      *   Fixed memory leak issue
+          
+      *   Fixed a crash on the clientside
+          
+      *   Updated neptune lib to 1.4.6
+  - _type: text
+    alt: Content30
+    value: |-
+      ## 1.2.30
+
+      *   Cloak now shows tooltip when changing value
+          
+      *   You can only see through the cloak if you have a valid key now
+  - _type: text
+    alt: Content29
+    value: >-
+      ## 1.2.29 _Beta_
+
+
+      *   Items and Players now get saved if they fall into the TARDIS void
+          
+      *   Made cloak combine alpha when taking off / landing
+          
+      *   Fixed particles not showing
+          
+      *   Fixed security control breaking if there's more then one key and
+      security is bypassed if the player is opped
+  - _type: text
+    alt: 1.2.28
+    value: >-
+      ## 1.2.28 _Beta_
+
+
+      *   People who do not have a key when security is enabled cannot open the
+      monitor from the monitor block anymore
+          
+      *   Hot fix crash
+  - _type: text
+    alt: 1.2.27
+    value: |-
+      ## 1.2.27 _Beta_
+
+      *   Hot fix crash
+  - _type: text
+    alt: Content
 sidebar:
   open: false
   exclude: false
