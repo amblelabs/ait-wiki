@@ -1053,6 +1053,182 @@ blocks:
       *   Added TARDIS Shields
           
       *   Reworked Waypoint System
+  - _type: text
+    alt: 1.0.4.1
+    value: |-
+      ## 1.0.4.1
+
+      *   Fix date crash ( #264 ... )
+          
+      *   Remove underline text on sonic screen
+          
+      *   Sonic works with all candles ( #250 )
+          
+      *   Cant change interior during crash/flight
+          
+      *   Exterior properly falls again ( #248 )
+          
+      *   Summoning with sonic faces right direction ( #247 )
+          
+      *   Coral growth texture/model fixed ( #182 )
+          
+      *   Removed insta-travel via crashing
+          
+      *   Custom menu off by default >:)
+  - _type: text
+    alt: 1.0.4
+    value: >-
+      ## 1.0.4
+
+
+      *   Overhauled the sonic system.
+          
+      *   Added a hud overlay to display which blocks are interactable with the
+      Sonic.
+          
+      *   There is only 1 sonic, and it's casing can be changed via the TARDIS
+      console menu when the sonic is inserted called "sonic settings".
+          
+      *   The sonic can now interact with more blocks!
+          
+      *   The detector block now has a recipe.
+          
+      *   The Zeiton cluster now drops zeiton shards.
+          
+      *   The Zeiton block is now craftable via zeiton shards.
+          
+      *   New default sonic by Kiseki.
+          
+      *   Some new functionality for the sonic in different modes.
+          
+      *   Fixed bug where people could skip the nether star/charged zeiton
+      crystal.
+          
+      *   The telepathic control has been debuffed to avoid server crashing.
+          
+      *   Repair ticks have been correctly put to seconds and work properly now.
+          
+      *   Growth will demat and remat on change of exterior, TARDIS will land if
+      finished flight and the interior is empty.
+          
+      *   Creation date issue has been resolved, added time as well.
+  - _type: text
+    alt: 1.0.3
+    value: >-
+      ## 1.0.3
+
+
+      *   Fixed respirators not rendering for some strange reason.
+          
+      *   Fixed the sonic not being able to scan for rifts or charge in any
+      other mode but inactive.
+          
+      *   Made the controls highlight blue when holding the scanning sonic.
+          
+      *   Removed HUD messages for controls that have reactive levers or buttons
+      (handbrake, antigravs, etc.)
+          
+      *   Perhaps fixed the player being able to fall and teleport back to the
+      interior door.
+          
+      *   Datapack desktops will now have working consoles, properly this time.
+          
+      *   Sounds for controls only play when the control actually runs.
+          
+      *   Added new TARDIS properties command.
+          
+      *   Modified commands to make more sense.
+          
+      *   Changed repairing: 1234 from just ticks to seconds.
+          
+      *   Fixed sound effects at the exterior when repairing with a sonic.
+          
+      *   Stacking issues with the siege mode TARDIS has been resolved.
+          
+      *   With performance mods, the interior changing screen will no longer
+      appear on top of other elements.
+          
+      *   Fixed using the sonic in TARDIS mode to actually face the correct
+      direction.
+          
+      *   Added fixed translations.
+  - _type: text
+    alt: 1.0.2
+    value: >-
+      ## 1.0.2
+
+
+      *   Fixed block loot tables.
+          
+      *   Made sonic linking more intuitive.
+          
+      *   Made flight events happen faster.
+          
+      *   Fixed bug where the budding zeiton block grew amethyst and not zeiton
+      crystals.
+          
+      *   Added faceless respirator.
+  - _type: text
+    alt: 1.0.1
+    value: >-
+      ## 1.0.1
+
+
+      *   Fixed translation for the key not identifying with a TARDIS
+          
+      *   Fixed key not being able to be used on the exterior during non-repair
+          
+      *   Fixed the respirator not acting like an armor item, and not
+      shift+left-clicking into the headslot
+  - _type: text
+    alt: 1.0.0
+    value: >-
+      ## 1.0.0
+
+
+      *   Added Charged Zeiton Crystal.
+          
+      *   Fixed bug with exclamation marks not appearing.
+          
+      *   Added sonic port control for all consoles.
+          
+      *   Added repairing via putting the sonic into the exterior keyhole (or
+      nose or something).
+          
+      *   Fixed particles with the exterior during crashed state.
+          
+      *   Fixed crash state issues, indicates much better when you're in a
+      toxic/unstable flight mode.
+          
+      *   Added respirator for not choking during the toxic phase of crashing.
+          
+      *   Added TARDIS plaque - displays the name of the TARDIS and the date of
+      creation.
+          
+      *   Added security screen - Leave Behind toggle and Hostile Alarms toggle,
+      as well as also displaying identical information as the plaque.
+          
+      *   Tweaked how the sonic works - can now open iron doors/trapdoors and
+      has AU.
+          
+      *   Sonic can be used on Zeiton Clusters for 200 AU.
+          
+      *   The hammer is now dangerous.
+          
+      *   Fixed that dastardly datapack bug.
+          
+      *   Fixed alarms constantly playing at the exterior.
+          
+      *   Power lever now has delay when the power is off.
+          
+      *   Artron can be attained by giving the TARDIS Zeiton Clusters (or
+      Charged Zeiton Crystals) directly into the console (gives 15 artron).
+          
+      *   Fixed the rift scanner losing a part of its texture.
+          
+      *   Removed the radio block (sorry).
+          
+      *   Updated TARDIS names (give us suggestions!).
 sidebar:
   open: false
   exclude: false
