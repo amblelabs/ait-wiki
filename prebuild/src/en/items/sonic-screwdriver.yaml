@@ -22,7 +22,8 @@ blocks:
 
 
       To **charge** a Sonic Screwdriver insert it into a [**TARDIS
-      Console**](/blocks/console). Like you would for linking it then the Sonic
+      Console**](/blocks/console) (you can also `Right Click` on a rift OR an
+      artron collector too) Like you would for linking it then the Sonic
       Screwdriver should start charging (keep in mind the Sonic Screwdriver uses
       the [**Artron Energy**](/mechanics/artron-energy/) to charge).
   - _type: text
