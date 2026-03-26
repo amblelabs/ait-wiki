@@ -46,8 +46,8 @@ blocks:
 
 
       Right-clicking on the Artron Collector with the Collector Unit will
-      transfer the artron to the unit, which can then be used on a TARDIS'
-      console to refuel the TARDIS.
+      transfer the Artron inside it into the unit, which can then be used on a
+      TARDIS' console to refuel the TARDIS.
 sidebar:
   open: false
   exclude: false
