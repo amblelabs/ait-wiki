@@ -9,12 +9,12 @@ blocks:
       ## What Is It?
 
 
-      **Artron Energy** is the fuel the TARDIS runs on. It is known in the
-      TARDIS itself as _"AU"_, or just simply as a percentage. It comes from
-      rifts in Overworld, or passively anywhere.
+      **Artron Energy** is the fuel the TARDIS runs on. It is measured using
+      *Artron Units*, or *AU,* It can be obtained through rifts in the
+      Overworld, or passively in any dimension.
 
 
-      * * *
+      ---
 
 
       ## Where Is It Collected From?
@@ -22,17 +22,14 @@ blocks:
 
       **Artron Energy** is collected by the TARDIS during **refueling**, and can
       be passively gained from anywhere (slowly) or gained in larger amounts
-      quicker in a [**rift chunk**](../rift-chunks).
+      quicker in a **[rift chunk](../rift-chunks)**.
 
 
-      It can also be collected in **Artron Collectors**, which come in block and
+      It can also be collected by **Artron Collectors**, which come in block and
       item form.
 
 
       ## Artron Collector Block
-
-
-      It is crafted with this recipe:
 
 
       ![](/images/mechanics/artron/collector-recipe.png)
@@ -45,16 +42,12 @@ blocks:
       ## Artron Collector Unit
 
 
-      It is crafted with this recipe:
-
-
       ![](/images/mechanics/artron/panel-recipe.png)
 
 
-      You can use this on the Artron Collector by holding this item and
-      `right-clicking` which will then take the artron from the block and fill
-      this up, you can then use this on the console and it will put it's artron
-      into the console
+      Right-clicking on the Artron Collector with the Collector Unit will
+      transfer the artron to the unit, which can then be used on a TARDIS'
+      console to refuel the TARDIS.
 sidebar:
   open: false
   exclude: false
