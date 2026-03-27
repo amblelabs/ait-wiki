@@ -25,6 +25,8 @@ blocks:
       message based on what you ask him to do or an error message if you give
       him a wrong command. He will NOT do flight events for you when he’s in the
       Sonic Port!
+      You can also put him in your inventory, it will still work when its out of
+      the sonic port.
   - _type: text
     alt: Misc stuff
     value: |-
