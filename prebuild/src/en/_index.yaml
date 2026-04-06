@@ -99,14 +99,16 @@ blocks:
           _type: local-image
           src: /images/items/sonic/in_port.png
   - _type: text
-    alt: Creds to our amazing team
+    alt: team credit
     value: >+
       ## Our Team!
 
 
-      And I'd love to credit and thank our amazing team for keeping these wikis
-      up for everyone! Going in no particular order they are:
+      And we'd love to credit and thank our amazing team for keeping the wiki up
+      to date and providing support in the discord server!
 
+
+      - *CURATORS*
 
       - [Theo](https://theo.is-a.dev)
 
@@ -114,13 +116,13 @@ blocks:
 
       - [Echo](https://echodidathing1048.github.io/index.html)
 
-      - Nathan
+      - [Ouro](https://ouro-theartist.carrd.co)
+
+      - *WRITERS*
 
       - [Kataclism](https://www.youtube.com/watch?v=HFq68lbNtxA)
 
       - [Addie](https://addi3.github.io/)
-
-      - Avid
 
       - [Monke](https://github.com/rapbattlegod32)
 
@@ -128,9 +130,15 @@ blocks:
 
       - Undriak
 
-      - Ouro
-
       - Thalen
+
+      - *SUPPORT*
+
+      - Atlis
+
+      - Nathan
+
+      - Token
 
 sidebar:
   open: false
