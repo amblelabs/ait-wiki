@@ -12,50 +12,26 @@ blocks:
       Labs](https://discord.gg/D5Et6Ux7BS) Discord.
   - _type: text
     alt: Content
-    value: >-
-      Welcome to the **Adventures In Time Wiki**! This wiki is constantly
-      maintained to be up to date with the most recent version of AIT so you can
-      get the best information of the mod, from useless features to useful
-      blocks and even making datapacks or extra mods!
-
+    value: |-
+      Welcome to the **Adventures In Time Wiki**! This wiki is constantly maintained to be up to date with the most recent version of AIT so you can get the best information of the mod, from useless features to useful blocks and even making datapacks or extra mods!
 
       ## Where do I get the most recent release?
 
-
-      AIT can be found on [Modrinth](https://modrinth.com/mod/ait) and can also
-      be found on
-      [Curseforge.](https://www.curseforge.com/minecraft/mc-mods/adventures-in-time)
-
+      AIT can be found on [Modrinth](https://modrinth.com/mod/ait) and can also be found on [Curseforge.](https://www.curseforge.com/minecraft/mc-mods/adventures-in-time)
 
       ## AIT is fantastic! Is there anywhere I can talk about the mod?
 
+      Yes, in [Amble Labs' discord server](https://discord.gg/D5Et6Ux7BS) where you can talk about the mod, show off your interiors, post your AIT datapacks, pay to get beta previews and even play with other people in the **AIT Server**!
 
-      Yes, in [Amble Labs' discord server](https://discord.gg/D5Et6Ux7BS) where
-      you can talk about the mod, show off your interiors, post your AIT
-      datapacks, pay to get beta previews and even play with other people in the
-      **AIT Server**!
+      ## I've made a super cool mod for AIT! But I don't know where to publish it?
 
-
-      ## I've made a super cool mod for AIT! But I don't know where to publish
-      it?
-
-
-      Oooh! You can show off your awesome creations in the [Amble Labs' discord
-      server](https://discord.gg/ZXQdFxTNKh)! Just make sure to get the
-      Adventures in Time role!
-
+      Oooh! You can show off your awesome creations in the [Amble Labs' discord server](https://discord.gg/ZXQdFxTNKh)! Just make sure to get the Adventures in Time role!
 
       ## Something wrong with the wiki?
 
-
-      Get in touch with the Archivus (Wiki) Team in the [Amble Labs' discord
-      server](https://discord.gg/ZXQdFxTNKh), make an issue on our
-      [Github](https://github.com/amblelabs/ait-wiki/issues/new), or follow our
-      guide to [Contributing](contributing)!
-
+      Get in touch with the Archivus (Wiki) Team in the [Amble Labs' discord server](https://discord.gg/ZXQdFxTNKh), make an issue on our [Github](https://github.com/amblelabs/ait-wiki/issues/new), or follow our guide to [Contributing](contributing)!
 
       ## Where can I start?
-
 
       You can learn about the AIT mod in these tabs below:
   - _type: cards
@@ -124,7 +100,7 @@ blocks:
           src: /images/items/sonic/in_port.png
   - _type: text
     alt: Creds to our amazing team
-    value: >-
+    value: >+
       ## Our Team!
 
 
@@ -132,29 +108,30 @@ blocks:
       up for everyone! Going in no particular order they are:
 
 
-      *   [Theo](https://theo.is-a.dev)
-          
-      *   [Treeturry](https://www.youtube.com/watch?v=4KzFe50RQkQ)
-          
-      *   [Echo](https://github.com/EchoDidAThing1048)
-          
-      *   Nathan
-          
-      *   [Kataclism](https://www.youtube.com/watch?v=HFq68lbNtxA)
-          
-      *   [Addie](https://addi3.github.io/)
-          
-      *   Avid
-          
-      *   [Monke](https://github.com/rapbattlegod32)
-          
-      *   [Pan](https://github.com/Mansarde)
-          
-      *   Undriak
-          
-      *   Ouro
-          
-      *   Thalen
+      - [Theo](https://theo.is-a.dev)
+
+      - [Treeturry](https://www.youtube.com/watch?v=4KzFe50RQkQ)
+
+      - [Echo](https://echodidathing1048.github.io/index.html)
+
+      - Nathan
+
+      - [Kataclism](https://www.youtube.com/watch?v=HFq68lbNtxA)
+
+      - [Addie](https://addi3.github.io/)
+
+      - Avid
+
+      - [Monke](https://github.com/rapbattlegod32)
+
+      - [Pan](https://github.com/Mansarde)
+
+      - Undriak
+
+      - Ouro
+
+      - Thalen
+
 sidebar:
   open: false
   exclude: true
