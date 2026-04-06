@@ -28,6 +28,8 @@ blocks:
 
       To snap, you simply press the V key or whatever key that's bound to
       snapping.
+
+      You can also lock the door by holding shift and pressing the V key at the same time.
   - _type: text
     alt: How do I bind a key?
     value: >-
