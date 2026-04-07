@@ -100,7 +100,7 @@ blocks:
           src: /images/items/sonic/in_port.png
   - _type: text
     alt: team credit
-    value: >+
+    value: >-
       ## Our Team!
 
 
@@ -140,6 +140,8 @@ blocks:
 
       - Token
 
+
+      test
 sidebar:
   open: false
   exclude: true
