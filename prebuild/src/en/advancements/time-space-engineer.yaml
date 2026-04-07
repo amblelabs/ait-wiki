@@ -1,0 +1,18 @@
+title: Time-Space Engineer
+blocks:
+  - _type: text
+    alt: Content
+    value: >-
+      The advancement "**Time-Space Engineer**" can be achieved by:
+
+
+      1.  Have an engine placed down inside your TARDIS.
+          
+      2.  Have Generalized Subsystem Cores **connected** to your
+      [**Engine**](/blocks/engine/).
+          
+      3.  Placing any component/subsystem inside the Generalized Subsystem
+      Cores.
+sidebar:
+  open: false
+  exclude: false

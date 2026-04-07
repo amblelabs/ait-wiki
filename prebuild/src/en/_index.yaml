@@ -1,0 +1,146 @@
+title: AIT Wiki
+cascade:
+  type: docs
+blocks:
+  - _type: local-image
+    src: /images/wikibanner_final_v2.jpg
+  - _type: callout
+    type: info
+    value: If you find any bugs / crashes, please create a [GitHub
+      Issue](https://github.com/amblelabs/ait/issues/new?template=1-bug-report.yaml)
+      or ask for help in the support channel in the [Amble
+      Labs](https://discord.gg/D5Et6Ux7BS) Discord.
+  - _type: text
+    alt: Content
+    value: |-
+      Welcome to the **Adventures In Time Wiki**! This wiki is constantly maintained to be up to date with the most recent version of AIT so you can get the best information of the mod, from useless features to useful blocks and even making datapacks or extra mods!
+
+      ## Where do I get the most recent release?
+
+      AIT can be found on [Modrinth](https://modrinth.com/mod/ait) and can also be found on [Curseforge.](https://www.curseforge.com/minecraft/mc-mods/adventures-in-time)
+
+      ## AIT is fantastic! Is there anywhere I can talk about the mod?
+
+      Yes, in [Amble Labs' discord server](https://discord.gg/D5Et6Ux7BS) where you can talk about the mod, show off your interiors, post your AIT datapacks, pay to get beta previews and even play with other people in the **AIT Server**!
+
+      ## I've made a super cool mod for AIT! But I don't know where to publish it?
+
+      Oooh! You can show off your awesome creations in the [Amble Labs' discord server](https://discord.gg/ZXQdFxTNKh)! Just make sure to get the Adventures in Time role!
+
+      ## Something wrong with the wiki?
+
+      Get in touch with the Archivus (Wiki) Team in the [Amble Labs' discord server](https://discord.gg/ZXQdFxTNKh), make an issue on our [Github](https://github.com/amblelabs/ait-wiki/issues/new), or follow our guide to [Contributing](contributing)!
+
+      ## Where can I start?
+
+      You can learn about the AIT mod in these tabs below:
+  - _type: cards
+    alt: Card Group
+    cols: 3
+    value:
+      - title: Changelogs
+        subtitle: Information on what each update adds from 1.1.0 to 1.2.0!
+        link: changelogs/
+        image:
+          _type: local-image
+          src: /images/changelog.png
+      - title: Blocks
+        subtitle: Information on about blocks that you can find in Adventures In Time!
+        link: blocks/
+        image:
+          _type: local-image
+          src: /images/blocks.png
+      - title: Items
+        subtitle: Information on about items that you can find in Adventures In Time!
+        link: items/
+        image:
+          _type: local-image
+          src: /images/items.png
+      - title: Mechanics
+        subtitle: Information on how your TARDIS works and how you can pilot it!
+        link: mechanics/
+        image:
+          _type: local-image
+          src: /images/mechanic.png
+      - title: Datapacks
+        subtitle: Information on how to make custom datapacks for Adventures In Time!
+        link: datapacks/
+        image:
+          _type: local-image
+          src: /images/datapack.png
+      - title: Contributing & addon development
+        subtitle: Information on about how you should code when contributing in
+          Adventures In Time or in your AIT Addon!
+        link: development/
+        image:
+          _type: local-image
+          src: /images/development.png
+  - _type: text
+    alt: If you're new to the mod
+    value: "But if you are new to the mod you'll probably want to know how to start.
+      Here are some pages you might want to look at:"
+  - _type: cards
+    alt: Card Group
+    cols: 3
+    value:
+      - title: Creating Your TARDIS
+        subtitle: Your TARDIS is your one way to travel in space and time, so you're
+          gonna need one.
+        link: mechanics/tardis/beginning-tardis-growth
+        image:
+          _type: local-image
+          src: /images/TardisBuilding.png
+      - title: Sonic Screwdriver
+        subtitle: The Sonic Screwdriver is a handheld device used for various tasks, and
+          is the most important tool for a TARDIS user and will become your best
+          friend throughout space and time
+        link: items/sonic-screwdriver/
+        image:
+          _type: local-image
+          src: /images/items/sonic/in_port.png
+  - _type: text
+    alt: team credit
+    value: >+
+      ## Our Team!
+
+
+      And we'd love to credit and thank our amazing team for keeping the wiki up
+      to date and providing support in the discord server!
+
+
+      - *CURATORS*
+
+      - [Theo](https://theo.is-a.dev)
+
+      - [Treeturry](https://www.youtube.com/watch?v=4KzFe50RQkQ)
+
+      - [Echo](https://echodidathing1048.github.io/index.html)
+
+      - [Ouro](https://ouro-theartist.carrd.co)
+
+      - *WRITERS*
+
+      - [Kataclism](https://www.youtube.com/watch?v=HFq68lbNtxA)
+
+      - [Addie](https://addi3.github.io/)
+
+      - [Monke](https://github.com/rapbattlegod32)
+
+      - [Pan](https://github.com/Mansarde)
+
+      - Undriak
+
+      - Thalen
+
+      - *SUPPORT*
+
+      - Atlis
+
+      - Nathan
+
+      - Token
+
+sidebar:
+  open: false
+  exclude: true
+description: Your Guide To AIT And All Related To It

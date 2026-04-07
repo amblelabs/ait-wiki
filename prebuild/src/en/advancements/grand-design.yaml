@@ -1,0 +1,11 @@
+title: Grand Design
+blocks:
+  - _type: text
+    alt: Content
+    value: |-
+      The advancement "**Grand Design**" can be obtained by:<br>
+      
+      Craft a [**Stattenheim Remote**](/items/stattenheim-remote/)
+sidebar:
+  open: false
+  exclude: false

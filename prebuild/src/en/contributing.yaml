@@ -1,0 +1,106 @@
+title: Contributing
+blocks:
+  - _type: local-image
+    src: /images/contributing.png
+  - _type: text
+    alt: What can I say except youre welcome (I hated every second of this)
+    value: >-
+      ## Welcome!
+
+
+      If you're on this page you're probably wanting to help make this wiki
+      better! on this page we'll go over the basics:
+
+
+      *   Forking the Wiki
+          
+      *   Using PageCMS
+          
+      *   Good Practices
+          
+
+      This page is for both people wishing to contribute and training new
+      Archivus.  
+
+      You will need a github account for this.  
+
+      (PLEASE UPDATE THIS PAGE WHEN STUFF CHANGES I FUCKING BEG OF YOU)
+  - _type: text
+    alt: Im so fucking lazy im copy pasting theos stuff
+    value: >-
+      ## Forking the Wiki
+
+
+      1.  Go to the github for the wiki
+      [LINK](https://github.com/amblelabs/ait-wiki/fork) (this link brings you
+      to the forking page for the wiki)
+          
+      2.  Choose a unique name for your fork (e.g. ait-wiki-my-fixes)
+          
+      3.  Press "Create fork"
+          
+      4.  Open [PageCMS](https://pagescms.org) and sign in to your github
+          
+      5.  Open your fork of the wiki and start editing
+          
+
+      ## Using PageCMS
+
+
+      **To author content**
+
+
+      1.  Open the already created entry
+          
+      2.  Press "+ Add an item" under the "Body" field
+          
+      3.  Choose the content block (text, image, etc.)
+          
+      4.  In the text block, you can use commands by typing the slash (`/`)
+      symbol and by selecting text
+          
+      5.  If you want to add more content, go to step 2
+          
+      6.  Press "Save"
+          
+
+      **To create a new page**
+
+
+      1.  go to "Wiki" tab in the sidebar
+          
+      2.  go to the category you want to create the page in (e.g. blocks, or
+      mechanics, etc)
+          
+      3.  if you want to create a new category press on the "+" folder button.
+          
+      4.  press "Add an entry"
+          
+      5.  Fill out the title
+          
+      6.  Press "Save"
+          
+
+      (thank you theo)
+
+
+      ## Good Practices
+
+
+      **Links**
+
+        
+      Try to prevent using full links that include the protocol and domain when
+      linking to another page of the wiki itself, because otherwise it opens in
+      a new tab. For example, instead of  
+
+      `https://amblelabs.github.io/ait-wiki/items/zeiton-dust/`, use this
+      instead: `/items/zeiton-dust/`.  
+
+      That way the page doesn't open in a new tab when clicked. When the link
+      leads to an external site, then use the full link of course, because then
+      we leave the confines of the Wiki and then opening a new tab is ok.
+sidebar:
+  open: false
+  exclude: true
+description: Contribute to my wiki twin

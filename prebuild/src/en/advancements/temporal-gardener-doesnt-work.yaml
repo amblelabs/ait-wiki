@@ -1,0 +1,10 @@
+title: Temporal Gardener (currently unobtainable)
+blocks:
+  - _type: text
+    alt: Content
+    value: |-
+      The advancement "**Temporal Gardener**" is achieved by 
+      breaking some vegetation when your TARDIS is grown.
+sidebar:
+  open: false
+  exclude: false

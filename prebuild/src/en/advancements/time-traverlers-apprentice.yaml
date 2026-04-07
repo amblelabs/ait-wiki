@@ -1,0 +1,12 @@
+title: Time Traveler's Apprentice
+blocks:
+  - _type: text
+    alt: Content
+    value: >-
+      The advancement "**Time Traveler's Apprentice**" is similar to the other
+      key advancements. Simply:<br>
+
+      Gain a Classic **[Key](/items/keys/)**.
+sidebar:
+  open: false
+  exclude: false

@@ -1,0 +1,19 @@
+title: Flag
+sidebar:
+  open: false
+  exclude: false
+blocks:
+  - _type: text
+    alt: Content
+    value: >-
+      ![Image of the Flag](/images/blocks/flag.png)
+
+
+      Make your mark on any planet you may come across, with this decorative
+      flag block! ('MERICA RAHHHHHHHHHH)
+
+
+      ## Recipe
+
+
+      ![Image of the recipe](/images/blocks/flag_recipe.png)

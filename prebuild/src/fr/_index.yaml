@@ -1,0 +1,132 @@
+title: Wiki AIT
+cascade:
+  type: docs
+blocks:
+  - _type: callout
+    type: info
+    value: Si vous trouvez des bugs / votre jeu plante, veuillez créer une [Issue
+      GitHub](https://github.com/amblelabs/ait/issues/new?template=1-bug-report.yaml) ou demander de l'aide
+      dans le channel de support sur le Discord [d'Amble
+      Labs](https://discord.gg/D5Et6Ux7BS).
+  - _type: text
+    alt: Content
+    value: >-
+      Bienvenue sur le **Wiki d'Adventures In Time**! Ce wiki est constamment
+      mis à jour pour être à jour avec la version la plus récente d'AIT, afin
+      que vous puissiez obtenir les meilleures informations sur le mod, des
+      fonctionnalités inutiles jusqu'à des blocs utiles, et même sur la création
+      de datapacks ou des Add-ons du mod!
+
+
+      ## Où puis-je obtenir la version la plus récente d'AIT?
+
+
+      Les dernières versions d'AIT peuvent être trouvées sur
+      [Modrinth](https://modrinth.com/mod/ait) et
+      [Curseforge](https://www.curseforge.com/minecraft/mc-mods/adventures-in-time).
+
+
+      ## AIT est fantastique ! Y a-t-il un endroit où je peux parler du mod?
+
+
+      Oui, sur le [serveur Discord d'Amble Labs](https://discord.gg/D5Et6Ux7BS),
+      vous pouvez parler du mod, montrer vos intérieurs, poster vos datapacks
+      pour AIT, payer pour obtenir les version bêta et même jouer avec d'autres
+      personnes sur le **serveur Minecraft officiel d'AIT**!
+
+
+      ## J'ai créé un mod super cool pour AIT! Mais je ne sais pas où le poster?
+
+
+      Oooh ! Sur le [serveur Discord AIT
+      Additions](https://discord.gg/aYEtPD24bF), nous aimerions créer un canal
+      dédié à parler de votre addon. Vous pouvez partager vos progrès, recevoir
+      des rapports de bugs et des suggestions, et même tenir les gens informés
+      des changements ! Les gens peuvent également jouer avec vos addons et
+      d'autres Add-ons AIT sur le **serveur Minecraft officiel d'AIT
+      Additions!**
+
+
+      ## Où puis-je commencer?
+
+
+      Vous pouvez en apprendre davantage sur le mod AIT dans les onglets
+      ci-dessous :
+  - _type: cards
+    alt: Card Group
+    cols: 3
+    value:
+      - title: Journal des modifications
+        subtitle: Informations sur ce que chaque version ajoute a partir de la 1.1.0
+          jusqu'à la 1.2.0!
+        link: changelogs/
+        image:
+          _type: local-image
+          src: /images/changelog.png
+      - title: Blocs
+        subtitle: Informations sur les blocs que vous pouvez trouver dans Adventures In
+          Time!
+        link: blocks/
+        image:
+          _type: local-image
+          src: /images/blocks.png
+      - title: Items
+        subtitle: Information sur tous les items que vous pouvez trouver dans Adventures
+          In Time!
+        link: items/
+        image:
+          _type: local-image
+          src: /images/items.png
+      - title: Mécaniques
+        subtitle: Information sur comment votre TARDIS fonctionne et comment le piloter!
+        link: mechanics/
+        image:
+          _type: local-image
+          src: /images/mechanic.png
+      - title: Datapacks
+        subtitle: Information sur comment créer vos propres datapacks pour Adventures In
+          Time!
+        link: datapacks/
+        image:
+          _type: local-image
+          src: /images/datapack.png
+      - title: Contributions et développement d'addons
+        subtitle: Informations sur la manière de coder lorsque vous contribuez à
+          Adventures In Time ou à votre add-on AIT!
+        link: development/
+        image:
+          _type: local-image
+          src: /images/development.png
+  - _type: text
+    alt: Si vous êtes nouveau dans le mod
+    value: "Mais si vous êtes nouveau dans le mod, vous voudrez probablement savoir
+      comment commencer. Voici quelques pages que vous voudrez surement
+      consulter :"
+  - _type: cards
+    alt: Card Group
+    cols: 3
+    value:
+      - title: Commencer avec votre TARDIS
+        subtitle: Votre TARDIS est votre seul moyen pour voyager dans le l'espace et le
+          temp, donc vous allez en avoir besoin.
+        link: /images/mechanics/tardis/beginning-tardis-growth
+        image:
+          _type: local-image
+          src: /images/mechanics/tardis/coral-growing.webp
+      - title: Compléter votre TARDIS
+        subtitle: Vous y êtes presque, maintenant, il faut juste ajouter quelques trucs.
+        link: mechanics/tardis/completing-tardis-growth/
+        image:
+          _type: local-image
+          src: /images/mechanics/tardis/new_tardis_interiors.png
+      - title: Tournevis Sonic
+        subtitle: Le Tournevis Sonic est un appareil portable utilisé pour diverses
+          tâches, et est l'outil le plus important pour un utilisateur de
+          TARDIS.
+        link: items/sonic-screwdriver/
+        image:
+          _type: local-image
+          src: /images/items/sonic/in_port.png
+sidebar:
+  open: false
+  exclude: true
