@@ -71,6 +71,8 @@ blocks:
 
 
       *   **WARNING circuits have durability.**
+
+      Click [here](/mechanics/tardis/subsystem-durability/) to learn how to repair.
   - _type: text
     alt: How do i make them?
     value: |-
@@ -95,7 +97,7 @@ blocks:
           
       *   Gravitational circuit; unlocks anti-mavs.
           
-      *   Life support; gives constant regeneration within the TARDIS.
+      *   Life support; lets you breathe in the TARDIS and gives constant regeneration within the TARDIS.
           
       *   Stabilizers; unlocks P116 (auto-pilot)
           
