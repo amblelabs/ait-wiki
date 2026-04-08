@@ -25,11 +25,13 @@ blocks:
       message based on what you ask him to do or an error message if you give
       him a wrong command. He will NOT do flight events for you when he’s in the
       Sonic Port!
+
+
       You can also put him in your inventory, it will still work when its out of
       the sonic port.
   - _type: text
     alt: Misc stuff
-    value: |-
+    value: |+
       ## Misc stuff
 
       ```
@@ -37,114 +39,127 @@ blocks:
           "tell me a joke"
           "tell me a fun fact"
       ```
+
   - _type: text
     alt: Demat
-    value: |-
+    value: |+
       ## Demat
 
       ```
           "take off"
           "dematerialize"
       ```
+
   - _type: text
     alt: Remat
-    value: |-
+    value: |+
       ## Remat
 
       ```
           "land"
           "rematerialize"
       ```
+
   - _type: text
     alt: Shields
-    value: |-
+    value: |+
       ## Shields
 
       ```
           "toggle shields"
           "shields"
       ```
+
   - _type: text
     alt: Anti-Gravs
-    value: |-
+    value: |+
       ## Anti-Gravs
 
       ```
           "toggle antigravs"
           "antigravs"
       ```
+
   - _type: text
     alt: Cloak
-    value: |-
+    value: |+
       ## Cloak
 
       ```
           "p3"
       ```
+
   - _type: text
     alt: Open door
-    value: |-
+    value: |+
       ## Open door
 
       ```
           "open the door"
           "open"
       ```
+
   - _type: text
     alt: Close door
-    value: |-
+    value: |+
       ## Close door
 
       ```
           "close the door"
           "close"
       ```
+
   - _type: text
     alt: Lock door
-    value: |-
+    value: |+
       ## Lock door
 
       ```
           "lock door"
           "lock"
       ```
+
   - _type: text
     alt: Unlock door
-    value: |-
+    value: |+
       ## Unlock door
 
       ```
           "unlock door"
           "unlock"
       ```
+
   - _type: text
     alt: "Activate refuel "
-    value: |-
+    value: |+
       ## Activate refuel
 
       ```
           "refuel"
       ```
+
   - _type: text
     alt: Deactivate refuel
-    value: |-
+    value: |+
       ## Deactivate refuel
 
       ```
           "stop refuel"
       ```
+
   - _type: text
     alt: Travel to waypoint
-    value: |-
+    value: |+
       ## Travel to waypoint
 
       ```
           "go to waypoint"
           "travel to waypoint"
       ```
+
   - _type: text
     alt: Flight progress
-    value: |-
+    value: |+
       ## Flight progress
 
       ```
@@ -152,6 +167,7 @@ blocks:
           "flight progress"
           "progress"
       ```
+
 sidebar:
   open: false
   exclude: false
