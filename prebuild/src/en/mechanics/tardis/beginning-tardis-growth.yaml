@@ -6,31 +6,34 @@ description: page for helping players figure out how to start the process of
 blocks:
   - _type: text
     alt: Beginning TARDIS Growth
-    value: >-
+    value: >+
       ## Fabricating a Sonic Screwdriver
 
 
       ![](/images/mechanics/tardis/fabrication.webp)
 
 
-      To fabricate a [**Sonic Screwdriver**](/items/sonic-screwdriver/), you'll
+      To fabricate a **[Sonic Screwdriver](/items/sonic-screwdriver/)**, you'll
       need to find a blueprint for it; these blueprints can be found in all
       structures. You can see what the blueprint is for by holding shift while
       hovering your mouse over it in your inventory. To use the blueprint, you
-      also need a [**Fabricator**](/blocks/fabricator). Fabricators need to be
+      also need a **[Fabricator](/blocks/fabricator)**. Fabricators need to be
       on top of a Smithing Table to work.  
-        
+
+
       **NOTE:** Most blueprints require zeiton shards or clusters, so make sure
       you have those beforehand! If you don't know where to find zeiton, see
       this page about
       [Zeiton](https://amblelabs.github.io/ait-wiki/items/zeiton)  
-        
+
+
       Now that you have a Fabricator, right-click it with the blueprint for the
       Sonic Screwdriver. This will show all the items needed to fabricate the
       blueprint recipe. Some items needed for the recipe can vary in amount,
       which you can also see in the tooltip. We suggest getting the items about
       now if you haven't already.  
-        
+
+
       Once you have all the items needed, right-click the Fabricator while
       holding one of the items and the Fabricator will take it. Once you have
       placed all the items in the Fabricator, it will create the item. You
@@ -50,19 +53,19 @@ blocks:
       fragments! Nine coral fragments can used to make a Coral Growth which is
       the key to growing a TARDIS, and is also used for growing a console for
       said TARDIS. You can obtain coral fragments by right-clicking a
-      [**Rift**](/mechanics/rift-chunks). A Rift is is a crack in time that
-      spawns in rift chunks, which can be found using a [**Rift
-      Scanner**](/mechanics/rift-chunks/#how-do-i-find-a-rift-chunk).  
+      **[Rift](/mechanics/rift-chunks)**. A Rift is is a crack in time that
+      spawns in rift chunks, which can be found using a **[Rift
+      Scanner](/mechanics/rift-chunks/#how-do-i-find-a-rift-chunk)**.  
 
       Right-clicking a rift will either give you a coral fragment, paper, or
       place some coral blocks around the rift. If you're holding a Sonic
-      Screwdriver, it will also refill your sonic's Artron reserve. Note that
-      you will take some damage when you right click a rift. Avoid walking into
-      them, too - you'll be flung across time and space! Once you have nine
-      coral fragments, you can craft a Coral Growth by placing all nine of them
-      in a crafting table. We recommend getting eighteen fragments while you're
-      on the hunt, as you can then craft two Growths; one for the TARDIS, one
-      for the console.
+      Screwdriver, it will also refill your sonic's Artron reserve an give you a
+      coral growth 100% of the time. Note that you will take some damage when
+      you right click a rift. Avoid walking into them, too - you'll be flung
+      across time and space! Once you have nine coral fragments, you can craft a
+      Coral Growth by placing all nine of them in a crafting table. We recommend
+      getting eighteen fragments while you're on the hunt, as you can then craft
+      two Growths; one for the TARDIS, one for the console.
 
 
       ## Starting TARDIS Growth
@@ -77,26 +80,28 @@ blocks:
       direction of the nearest Rift Chunk. Once you're in a rift chunk, you will
       need soul sand: Growths only grow on soul sand, so place it down and then
       place the Coral Growth on top of it. Overtime, it will start growing!  
-        
+
+
       At this point, you can now move onto Completing TARDIS Growth.  
 
 
       ## Recipes
 
 
-      *   Rift Scanner
-          
+      - Rift Scanner
+
 
       ![](/images/mechanics/rift-chunks/scanner-recipe.png)
 
 
-      *   Fabricator
-          
+      - Fabricator
+
 
       ![](/images/blocks/engine_stuff_blocks/fabricator_recipe.png)
 
 
-      *   Coral Growth
+      - Coral Growth
+
   - _type: text
     alt: Completing TARDIS Growth
     value: >-
@@ -106,24 +111,24 @@ blocks:
       (recipes are at the bottom of this page!)
 
 
-      *   The Coral Shell
+      - The Coral Shell
 
 
       ![](/images/mechanics/tardis/coral_setup/shell.png)
 
 
-      *   Once the coral plant has fully grown, it will become open. Now you
-      need to give it a Coral Cage by right clicking the exterior with a Coral
-      Cage. After that you need to create the cage panels by right clicking the
+      - Once the coral plant has fully grown, it will become open. Now you need
+      to give it a Coral Cage by right clicking the exterior with a Coral Cage.
+      After that you need to create the cage panels by right clicking the
       exterior with 8 Plasmic Material.
-          
-      *   The Matrix Energizer
-          
+
+      - The Matrix Energizer
+
 
       ![](/images/mechanics/tardis/coral_setup/matrix.png)
 
 
-      *   Once that is done you need to give the TARDIS its "personality", to do
+      - Once that is done you need to give the TARDIS its "personality", to do
       this you will need to place a Matrix Energizer on top of a naturally
       spawned Sculk Shrieker block, Right Click the Matrix Energizer with a
       Nether Star and activate it by making the Shriek shriek. Doing so will
@@ -135,14 +140,14 @@ blocks:
       THE MATRIX!
 
 
-      *   The Personality Matrix
+      - The Personality Matrix
 
 
       ![](/images/mechanics/tardis/coral_setup/personality.png)
 
 
-      *   When the bar is full, it will break and drop the Personality Matrix,
-      if you hover over the item and press shift you may notice that is has a
+      - When the bar is full, it will break and drop the Personality Matrix, if
+      you hover over the item and press shift you may notice that is has a
       random color hex code and random name. Take the Personality Matrix into
       your newly grown coral and throw it into any water source, you will then
       be asked to leave the TARDIS so it can finish building.
@@ -152,16 +157,16 @@ blocks:
       EVERYTHING YOU HAVE PLACED INSIDE!!!
 
 
-      * * *
+      ---
 
 
-      *   REMINDER!
+      - REMINDER!
 
 
       Don't forget to set up the engine and essential components when the TARDIS
-      is complete. It is also recommended to wear a resperator when first
-      entering a complete TARDIS as there is no life support and you will begin
-      to die upon entering!
+      is complete. It is also recommended to wear a
+      **[respirator](/items/respirators)** when first entering a complete TARDIS
+      as there is no life support and you will begin to die upon entering!
 
 
       ## Recipes
@@ -192,8 +197,8 @@ blocks:
 
 
       To make your TARDIS safe to breath in and flyable take a look at these
-      pages In this order : [**Engine**](/blocks/engine),
-      [**Console**](/blocks/console)
+      pages In this order : **[Engine](/blocks/engine)**,
+      **[Console](/blocks/console)**
 sidebar:
   open: false
   exclude: false
