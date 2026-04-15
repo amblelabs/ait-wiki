@@ -10,22 +10,22 @@ blocks:
       tasks range from seeing what the console do, to blowing up TNT.
 
 
-      To **link** a Sonic Screwdriver to a [**TARDIS Console**](/blocks/console)
+      To **link** a Sonic Screwdriver to a **[TARDIS Console](/blocks/console)**
       right-click on the **Sonic Port** whilst holding the Sonic Screwdriver.  
 
       To **remove** it punch the Sonic Screwdriver in the **Sonic Port**, and it
-      will eject from the [**Console**](/blocks/console).
+      will eject from the **[Console](/blocks/console)**.
   - _type: text
     alt: Charge
     value: >-
       ![](/images/items/sonic/in_port.png)
 
 
-      To **charge** a Sonic Screwdriver insert it into a [**TARDIS
-      Console**](/blocks/console) (you can also `Right Click` on a rift OR an
+      To **charge** a Sonic Screwdriver insert it into a **[TARDIS
+      Console](/blocks/console)** (you can also `Right Click` on a rift OR an
       artron collector too) Like you would for linking it then the Sonic
       Screwdriver should start charging (keep in mind the Sonic Screwdriver uses
-      the [**Artron Energy**](/mechanics/artron-energy/) to charge).
+      the **[Artron Energy](/mechanics/artron-energy/)** to charge).
   - _type: text
     alt: Recipe
     value: |-
@@ -34,87 +34,112 @@ blocks:
       Made with the Sonic Screwdriver Blueprint!
   - _type: text
     alt: Sonic Modes
-    value: >-
+    value: >+
       ## Sonic Modes
 
 
       The sonic has 5 modes, those being:
 
 
-      *   Inactive (Powered Off)
-          
-      *   Interaction
-          
-      *   Overload
-          
-      *   Scanning
-          
-      *   TARDIS
-          
-      *   Inactive Mode
+      - Inactive (Powered Off)
+
+      - Interaction
+
+      - Overload
+
+      - Scanning
+
+      - TARDIS
+
+      - Inactive Mode
 
 
       To change between modes, hold Shift and Right click at the same time
+
+
+      ```
+
+      ## Inactive Mode
+
+
+      **Inactive** mode renders the Sonic Screwdriver unusable.
+
+
+      ## Interaction Mode
+
+
+      **Interaction** mode allows the Sonic Screwdriver to:
+
+
+      *   Ignite candles, campfires and unlit torches, open iron doors/trap
+      doors
           
-          ## Inactive Mode
+      *   Change repeaters' delay and mode.
           
-          **Inactive** mode renders the Sonic Screwdriver unusable.
+
+      ## Overload Mode
+
+
+      **Overload** mode allows the Sonic Screwdriver to:
+
+
+      *   Ignite TNT,
           
-          ## Interaction Mode
+      *   Toggle redstone lamps,
           
-          **Interaction** mode allows the Sonic Screwdriver to:
+      *   Shatter glass blocks.
           
-          *   Ignite candles, campfires and unlit torches, open iron doors/trap doors
+
+      ## Scanning Mode
+
+
+      **Scanning** mode allows the Sonic Screwdriver to:
+
+
+      *   Tell you what console controls are by hovering over the Control
+      Entities and also show you their hitboxes. (the latter is off by default;
+      check the [**config**](/mechanics/config-options/))
+          
+      *   Check if you are located inside a [**Rift
+      Chunk**](/mechanics/rift-chunks) and how much [**Artron
+      Energy**](/mechanics/artron-energy/) is stored in that chunk.
+          
+      *   In addition, hovering over a generalized subsystem core will tell you
+      both the name and the durability of the subsystem that it holds. (If a
+      particular subsystem can't lose durability it will only show the name.)
+          
+      *   You can also scan blocks and entities for info such as: health,
+      required mining tool, and blast resistance.
+          
+      *   It also allows the ability see where your TARDIS is by `right
+      clicking`on a Zeiton Cluster or Bell blocks.
+          
+
+      ## TARDIS Mode
+
+
+      **TARDIS** mode provides the following features:
+
+
+      *   When inside the TARDIS:
+          
+          *   Looking up and using the sonic triggers demat.
               
-          *   Change repeaters' delay and mode.
+          *   Looking down and using the sonic activates the handbrake and refueler.
+
               
+      *   When outside the TARDIS:
           
-          ## Overload Mode
-          
-          **Overload** mode allows the Sonic Screwdriver to:
-          
-          *   Ignite TNT,
+          *   You can summon the TARDIS by right-clicking a valid landing spot near you, which needs to be within 256 blocks of the TARDIS exterior. However you also need the "PILOT" rank (loyalty).
               
-          *   Toggle redstone lamps,
+          *   Looking up (with the sonic in the **_off-hand_**) and using the sonic will trigger the demat.
               
-          *   Shatter glass blocks.
-              
-          
-          ## Scanning Mode
-          
-          **Scanning** mode allows the Sonic Screwdriver to:
-          
-          *   Tell you what console controls are by hovering over the Control Entities and also show you their hitboxes. (the latter is off by default; check the [**config**](/mechanics/config-options/))
-              
-          *   Check if you are located inside a [**Rift Chunk**](/mechanics/rift-chunks) and how much [**Artron Energy**](/mechanics/artron-energy/) is stored in that chunk.
-              
-          *   In addition, hovering over a generalized subsystem core will tell you both the name and the durability of the subsystem that it holds. (If a particular subsystem can't lose durability it will only show the name.)
-              
-          *   You can also scan blocks and entities for info such as: health, required mining tool, and blast resistance.
-              
-          *   It also allows the ability see where your TARDIS is by `right clicking`on a Zeiton Cluster or Bell blocks.
-              
-          
-          ## TARDIS Mode
-          
-          **TARDIS** mode provides the following features:
-          
-          *   When inside the TARDIS:
-              
-              *   Looking up and using the sonic triggers demat.
-                  
-              *   Looking down and using the sonic activates the handbrake and refueler.
-                  
-          *   When outside the TARDIS:
-              
-              *   You can summon the TARDIS by right-clicking a valid landing spot near you, which needs to be within 256 blocks of the TARDIS exterior. However you also need the "PILOT" rank (loyalty).
-                  
-              *   Looking up (with the sonic in the **_off-hand_**) and using the sonic will trigger the demat.
-                  
-              *   Looking down (with the sonic in the **_off-hand_**) and using the sonic activates the handbrake and refuels the TARDIS.
+          *   Looking down (with the sonic in the **_off-hand_**) and using the sonic activates the handbrake and refuels the TARDIS.
+      ```
+
   - _type: text
     alt: Sonic Settings & Configuration
-    value: >-
+    value: >+
       ## Sonic Settings & Configuration
 
 
@@ -125,24 +150,23 @@ blocks:
 
 
       ![](/images/items/sonic/sonic-settings.png)
+
   - _type: text
     alt: Casing
-    value: |-
+    value: |+
       ## **To change the sonic casing**
 
-      *   Place the Sonic Screwdriver into the port.
-          
-      *   Open the Monitor
-          
-      *   Select the "Sonic Settings" Option
-          
-      *   Use the buttons to change and select your casing  
-          (more can be added with [datapacks](/datapacks/custom-sonics/))
+      - Place the Sonic Screwdriver into the port.
+      - Open the Monitor
+      - Select the "Sonic Settings" Option
+      - Use the buttons to change and select your casing  
+      (more can be added with [datapacks](/datapacks/custom-sonics/))
+
   - _type: local-image
     src: /images/items/sonic/soniccasing.png
   - _type: text
     alt: "Sonic TARDIS Repair "
-    value: >-
+    value: >+
       ## Sonic TARDIS Repair
 
 
@@ -169,6 +193,7 @@ blocks:
 
 
       ![](/images/items/sonic/repairing.png)
+
   - _type: text
     alt: "Other Info "
     value: >-
@@ -182,8 +207,8 @@ blocks:
 
 
       Some blocks would need to be interacted in the **Interaction** Mode or the
-      **Overload** Mode. **_The sonic can be used to cancel out engine phasing
-      aswell_**
+      **Overload** Mode. ***The sonic can be used to cancel out engine phasing
+      as well.***
 
 
       ![](/images/items/sonic/crosshair.png)
