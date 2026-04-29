@@ -69,6 +69,9 @@ services:
     id: G-3B98G1FDF0
 
 params:
+  banner:
+    key: "deprecated"
+    message: This wiki is now deprecated! Check out the new wiki at https://amblelabs.dev/wiki
   theme:
     color: '#fd852c'
 
