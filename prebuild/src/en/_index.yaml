@@ -5,6 +5,10 @@ blocks:
   - _type: local-image
     src: /images/wikibanner_final_v2.jpg
   - _type: callout
+    type: warning
+    value: "THIS WIKI IS DEPRECATED, USE THE NEW ONE
+      [HERE.](https://amblelabs.dev/wiki/en/ait) "
+  - _type: callout
     type: info
     value: If you find any bugs / crashes, please create a [GitHub
       Issue](https://github.com/amblelabs/ait/issues/new?template=1-bug-report.yaml)
