@@ -1,0 +1,40 @@
+<div id="big-popup" class="popup-overlay hidden">
+    <div class="popup-content">
+        <button class="close-btn" id="close-popup" aria-label="Close popup">&times;</button>
+
+        <h2 style="font-size: 2rem; margin-bottom: 10px;">📢 Important Update!</h2>
+        <p>We've moved! This wiki is officially deprecated. Please join our community or check out the new platform.</p>
+
+    </div>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const popup = document.getElementById("big-popup");
+        const closeBtn = document.getElementById("close-popup");
+
+        // Check if the user has already dismissed the popup during this active browser session
+        if (!sessionStorage.getItem("popupDismissed")) {
+            // Automatically pop open 1.5 seconds after page load
+            setTimeout(() => {
+                popup.classList.remove("hidden");
+            }, 1500);
+        }
+
+        function dismissPopup() {
+            popup.classList.add("hidden");
+            // sessionStorage resets when the tab is closed.
+            // Swap to localStorage if you want it to stay hidden permanently for returning users.
+            sessionStorage.setItem("popupDismissed", "true");
+        }
+
+        closeBtn.addEventListener("click", dismissPopup);
+
+        // Close the modal if they click outside the white popup content box
+        window.addEventListener("click", function (event) {
+            if (event.target === popup) {
+                dismissPopup();
+            }
+        });
+    });
+</script>
