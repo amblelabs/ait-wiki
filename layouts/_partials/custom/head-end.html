@@ -60,25 +60,19 @@
 
 <script>
     (function() {
-        const currentPath = window.location.pathname;
+        // 1. Get the current path and clean off the GitHub repo prefix
+        const rawPath = window.location.pathname;
+        let currentPath = rawPath.replace(/^\/ait-wiki/, "");
 
-        // 1. SECTION REPLACEMENTS (Wildcards)
-        // If the path contains the text on the left, it swaps it with the text on the right
-        // and keeps the rest of the URL exactly intact.
-        const folderReplacements = {
-            "/advancements/": "/advancement/",
-            "/items/": "/item/",
-            "/blocks/": "/block/",
-            "/machanics/": "/tardis/",
-        };
+        // Normalize paths to always have a leading and trailing slash for explicit checks
+        if (!currentPath.startsWith('/')) currentPath = '/' + currentPath;
+        if (!currentPath.endsWith('/')) currentPath = currentPath + '/';
 
         // 2. INDIVIDUAL PAGE EXCEPTIONS / DELETIONS
-        // If a page completely disappeared, you can still manually map it here to kill it
+        // If an old page completely disappeared, type its clean path here to kill it
         const explicitMap = {
-            "/ait-wiki/some-deleted-page/": "https://amblelabs.dev/wiki/en/ait",
+            "/some-old-deleted-page/": "https://amblelabs.dev/wiki/",
         };
-
-        // --- ROUTING ENGINE ---
 
         // Check individual explicit rules first
         if (explicitMap[currentPath]) {
@@ -86,23 +80,44 @@
             return;
         }
 
-        // Check bulk section/folder rules
-        for (const [oldFolder, newFolder] of Object.entries(folderReplacements)) {
-            if (currentPath.includes(oldFolder)) {
-                // Swap out just the folder name, leaving the rest of the path untouched
-                const cleanPath = currentPath.replace("/ait-wiki", "").replace(oldFolder, newFolder);
-                window.location.replace("https://amblelabs.dev/wiki/en/ait" + cleanPath + window.location.search + window.location.hash);
-                return;
+        // 3. BULK SECTION REPLACEMENTS (Wildcards)
+        // No slashes needed here! Just straight words.
+        // If the folder is found anywhere in the URL, it gets swapped.
+        const folderReplacements = {
+            "/advancements/": "/advancement/",
+            "/items/": "/item/",
+            "/blocks/": "/block/",
+            "/machanics/": "/tardis/",
+        };
+
+        // Split the path into clean segments
+        const segments = currentPath.split('/').filter(Boolean);
+        let isWildcardMatched = false;
+
+        // Loop through the segments and check if any match your folder replacements
+        for (let i = 0; i < segments.length; i++) {
+            const lowerSegment = segments[i].toLowerCase();
+            if (folderReplacements[lowerSegment]) {
+                segments[i] = folderReplacements[lowerSegment];
+                isWildcardMatched = true;
             }
         }
 
-        // 3. SAFE FALLBACK
-        // If they land on the old homepage, send them to the new homepage.
-        // If they land on an unknown page that didn't match any rules, send them to the new homepage.
-        if (currentPath === "/ait-wiki/" || currentPath === "/ait-wiki") {
-            window.location.replace("https://amblelabs.dev/wiki/en/ait");
-        } else {
-            window.location.replace("https://amblelabs.dev/wiki/en/ait");
+        // If a wildcard folder was swapped, build the new URL and redirect!
+        if (isWildcardMatched) {
+            const cleanPath = "/" + segments.join("/") + "/";
+            const destinationURL = "https://amblelabs.dev/wiki" + cleanPath + window.location.search + window.location.hash;
+            window.location.replace(destinationURL);
+            return;
         }
+
+        // 4. SAFE FALLBACK
+        // If they land on the root old homepage, or an unmapped page that doesn't exist anymore,
+        // safely drop them on the new main homepage.
+        window.location.replace("https://amblelabs.dev/wiki/");
     })();
 </script>
+
+<noscript>
+    <meta http-equiv="refresh" content="0;url=https://amblelabs.dev/wiki/" />
+</noscript>
