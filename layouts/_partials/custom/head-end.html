@@ -1,0 +1,44 @@
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        // Check if the popup was already dismissed in this session
+        if (sessionStorage.getItem("popupDismissed")) {
+            return;
+        }
+
+        const popupHTML = `
+    <div id="big-popup" class="popup-overlay hidden">
+        <div class="popup-content">
+            <button class="close-btn" id="close-popup" aria-label="Close popup">&times;</button>
+            <h2 style="font-size: 2rem; margin-bottom: 15px; font-weight: bold;">📢 Wiki Has Moved!</h2>
+            <p style="margin-bottom: 25px; line-height: 1.6;">
+                This wiki is now <strong>deprecated</strong>. We have migrated all documentation to our brand new platform.
+            </p>
+            <a href="https://amblelabs.dev/wiki" class="popup-redirect-btn">
+                Go to the New Wiki
+            </a>
+        </div>
+    </div>
+    `;
+
+        document.body.insertAdjacentHTML('beforeend', popupHTML);
+
+        const popup = document.getElementById("big-popup");
+        const closeBtn = document.getElementById("close-popup");
+
+        setTimeout(() => {
+            popup.classList.remove("hidden");
+        }, 1000);
+
+        function dismissPopup() {
+            popup.classList.add("hidden");
+            sessionStorage.setItem("popupDismissed", "true");
+        }
+
+        closeBtn.addEventListener("click", dismissPopup);
+        window.addEventListener("click", function (event) {
+            if (event.target === popup) {
+                dismissPopup();
+            }
+        });
+    });
+</script>

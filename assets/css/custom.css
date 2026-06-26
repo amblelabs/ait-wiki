@@ -17,60 +17,52 @@
 }
 
 /* Hide utility class */
-.popup-overlay.hidden {
-    display: none;
-    opacity: 0;
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.85);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 99999;
 }
 
-/* The actual big popup box */
+.popup-overlay.hidden {
+    display: none !important;
+}
+
 .popup-content {
-    background: #ffffff;
-    padding: 50px;
+    background: #ffffff !important;
+    color: #1a1a1a !important;
+    padding: 50px 40px;
     border-radius: 12px;
     position: relative;
-    width: 85%;
-    max-width: 700px;
-    min-height: 350px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    width: 90%;
+    max-width: 600px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
     text-align: center;
-    color: #1a1a1a; /* Ensures light-mode text readability if site is in dark mode */
-    animation: popupFadeIn 0.4s ease;
 }
 
-/* Close button positioning */
 .close-btn {
     position: absolute;
-    top: 15px;
+    top: 10px;
     right: 20px;
     background: none;
     border: none;
-    font-size: 35px;
+    font-size: 38px;
     cursor: pointer;
-    color: #333;
+    color: #666 !important;
 }
 
-@keyframes popupFadeIn {
-    from { transform: scale(0.95); opacity: 0; }
-    to { transform: scale(1); opacity: 1; }
-}
-
-/* Internal form styling matching your theme orange color */
-.popup-form input {
-    width: 70%;
-    padding: 12px;
-    margin-top: 20px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    background: #fff;
-    color: #000;
-}
-.popup-form button {
-    padding: 12px 24px;
-    background: #fd852c; /* Matches your Hextra theme color */
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
+.popup-redirect-btn {
+    display: inline-block;
+    padding: 14px 28px;
+    background-color: #fd852c !important; /* Perfect match with your hugo.yaml primary color */
+    color: white !important;
+    border-radius: 6px;
     font-weight: bold;
-    margin-left: 8px;
+    text-decoration: none !important;
 }

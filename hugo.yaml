@@ -9,15 +9,21 @@ defaultContentLanguage: en
 # import hextra as module
 module:
   imports:
-  - path: github.com/drtheodor/hextra
+    - path: github.com/drtheodor/hextra
   mounts:
-  - source: content
-    target: content
-  - source: prebuild/public/src/en
-    target: content
-  - source: prebuild/public/src
-    target: content
-
+    - source: content
+      target: content
+    - source: prebuild/public/src/en
+      target: content
+    - source: prebuild/public/src
+      target: content
+    # --- ADD THE LINES BELOW TO FIX THE ROUTING TRAP ---
+    - source: layouts
+      target: layouts
+    - source: assets
+      target: assets
+    - source: static
+      target: static
 markup:
   # allow raw html
   goldmark:
