@@ -1,12 +1,13 @@
-<meta property="og:title" content="📢 Wiki Has Moved to amblelabs.dev" />
-<meta property="og:description" content="This old documentation site is deprecated. Click here to visit our brand new, updated wiki platform." />
-<meta property="og:url" content="https://amblelabs.dev/wiki" />
 <meta property="og:type" content="website" />
+<meta property="og:title" content="📢 Wiki Has Moved to amblelabs.dev" />
+<meta property="og:description" content="This old documentation site is deprecated. Click here to visit our brand new wiki platform." />
+<meta property="og:url" content="https://amblelabs.dev/wiki" />
+
+<meta name="theme-color" content="#fd852c" />
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="📢 Wiki Has Moved to amblelabs.dev" />
-<meta name="twitter:description" content="This old documentation site is deprecated. Click here to visit our brand new, updated wiki platform." />
-
+<meta name="twitter:description" content="This old documentation site is deprecated. Click here to visit our brand new wiki platform." />
 <link rel="canonical" href="https://amblelabs.dev/wiki" />
 
 <script>
@@ -56,3 +57,35 @@
         });
     });
 </script>
+
+<script>
+    (function() {
+        // 1. YOUR MANUAL LINK MAP
+        // "Old Page Path": "Full New URL Location"
+        const redirectMap = {
+            "/ait-wiki/advancements/": "https://amblelabs.dev/wiki/advancement/",
+            // 💡 You can easily add more lines right here as you find them!
+        };
+
+        // 2. Get the current page path
+        let currentPath = window.location.pathname;
+
+        // Normalization: Ensure it ends with a trailing slash to match the map keys perfectly
+        if (!currentPath.endsWith('/')) {
+            currentPath += '/';
+        }
+
+        // 3. Routing Logic
+        if (redirectMap[currentPath]) {
+            // MATCH: Send them to the exact new page you defined above
+            window.location.replace(redirectMap[currentPath]);
+        } else {
+            // NO MATCH / DELETED PAGE: Safely drop them on the new homepage
+            window.location.replace("https://amblelabs.dev/wiki/");
+        }
+    })();
+</script>
+
+<noscript>
+    <meta http-equiv="refresh" content="0;url=https://amblelabs.dev/wiki/" />
+</noscript>
