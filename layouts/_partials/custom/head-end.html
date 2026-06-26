@@ -57,3 +57,56 @@
         });
     });
 </script>
+
+<script>
+    (function() {
+        const currentPath = window.location.pathname;
+
+        // 1. SECTION REPLACEMENTS (Wildcards)
+        // If the path contains the text on the left, it swaps it with the text on the right
+        // and keeps the rest of the URL exactly intact.
+        const folderReplacements = {
+            "/advancements/": "/advancement/",
+            "/items/": "/item/",
+            "/blocks/": "/block/",
+            "/machanics/": "/tardis/",
+        };
+
+        // 2. INDIVIDUAL PAGE EXCEPTIONS / DELETIONS
+        // If a page completely disappeared, you can still manually map it here to kill it
+        const explicitMap = {
+            "/ait-wiki/some-deleted-page/": "https://amblelabs.dev/wiki/en/ait",
+        };
+
+        // --- ROUTING ENGINE ---
+
+        // Check individual explicit rules first
+        if (explicitMap[currentPath]) {
+            window.location.replace(explicitMap[currentPath]);
+            return;
+        }
+
+        // Check bulk section/folder rules
+        for (const [oldFolder, newFolder] of Object.entries(folderReplacements)) {
+            if (currentPath.includes(oldFolder)) {
+                // Swap out just the folder name, leaving the rest of the path untouched
+                const cleanPath = currentPath.replace("/ait-wiki", "").replace(oldFolder, newFolder);
+                window.location.replace("https://amblelabs.dev/wiki/en/ait" + cleanPath + window.location.search + window.location.hash);
+                return;
+            }
+        }
+
+        // 3. SAFE FALLBACK
+        // If they land on the old homepage, send them to the new homepage.
+        // If they land on an unknown page that didn't match any rules, send them to the new homepage.
+        if (currentPath === "/ait-wiki/" || currentPath === "/ait-wiki") {
+            window.location.replace("https://amblelabs.dev/wiki/en/ait");
+        } else {
+            window.location.replace("https://amblelabs.dev/wiki/en/ait");
+        }
+    })();
+</script>
+
+<noscript>
+    <meta http-equiv="refresh" content="0;url=https://amblelabs.dev/wiki/" />
+</noscript>
